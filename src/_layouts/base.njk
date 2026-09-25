@@ -1,0 +1,84 @@
+{% from "icons.njk" import icon %}<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.name }}{% if not title %} | {{ site.tagline }}{% endif %}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta name="theme-color" content="#0d0c0a">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:image" content="{{ ogImage or '/assets/brand/vexa-logo-1000.jpg' }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/brand/icon-32.png">
+  <link rel="apple-touch-icon" href="/assets/brand/icon-180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/vexa.css">
+</head>
+<body>
+  <a class="sr-only" href="#main">Skip to content</a>
+  {% include "header.njk" %}
+
+  <main id="main">
+    {{ content | safe }}
+  </main>
+
+  {% include "footer.njk" %}
+
+  {# Mini cart #}
+  <div class="drawer-backdrop" data-backdrop></div>
+  <aside class="drawer drawer-right" id="mini-cart" aria-label="Shopping cart" aria-hidden="true">
+    <div class="drawer-head">
+      <h2>Your cart <span class="note" data-cart-items-label></span></h2>
+      <button type="button" class="icon-btn" data-close-drawer aria-label="Close cart">{{ icon("close") }}</button>
+    </div>
+    <div class="drawer-body" data-mini-lines></div>
+    <div class="drawer-foot" data-mini-foot>
+      <div class="sum-row"><span>Subtotal</span><strong data-cart-subtotal>RWF 0</strong></div>
+      <p class="note" data-quote-note hidden>Items marked "Price on request" are quoted by our team before you pay.</p>
+      <a href="/checkout/" class="btn btn-gold btn-block btn-lg">{{ icon("lock", "icon-sm") }} Checkout</a>
+      <a href="/cart/" class="btn btn-line btn-block">View cart</a>
+    </div>
+  </aside>
+
+  {# Mobile navigation #}
+  <aside class="drawer drawer-left" id="mobile-nav" aria-label="Menu" aria-hidden="true">
+    <div class="drawer-head">
+      <img src="/assets/brand/vexa-wordmark.jpg" alt="{{ site.name }}" style="height:36px;border-radius:5px">
+      <button type="button" class="icon-btn" data-close-drawer aria-label="Close menu">{{ icon("close") }}</button>
+    </div>
+    <div class="drawer-body">
+      <p class="mnav-label">Shop</p>
+      <nav class="mnav">
+        <a href="/shop/">All products <small>{{ catalog.products.length }}</small></a>
+        {% for c in catalog.categories %}
+        <a href="/shop/{{ c.slug }}/">{{ c.name }} <small>{{ c.count }}</small></a>
+        {% endfor %}
+      </nav>
+      <p class="mnav-label">VEXA</p>
+      <nav class="mnav">
+        <a href="/services/">Installation &amp; services</a>
+        <a href="/about/">About us</a>
+        <a href="/contact/">Contact &amp; help</a>
+        <a href="/cart/">Cart</a>
+      </nav>
+      <p class="mnav-label">Talk to us</p>
+      <nav class="mnav">
+        <a href="tel:{{ site.phoneHref }}">{{ site.phone }} {{ icon("phone", "icon-sm") }}</a>
+        <a href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">WhatsApp {{ icon("whatsapp", "icon-sm") }}</a>
+      </nav>
+    </div>
+  </aside>
+
+  <div class="toast" role="status" aria-live="polite" data-toast>{{ icon("check") }}<span data-toast-text></span></div>
+
+  <a class="wa-float" href="https://wa.me/{{ site.whatsapp }}?text={{ ('Hello ' + site.name + ', I have a question about a product.') | urlencode }}" target="_blank" rel="noopener" aria-label="Chat with {{ site.name }} on WhatsApp">{{ icon("whatsapp") }}</a>
+
+  <script>window.VEXA = { whatsapp: "{{ site.whatsapp }}", name: "{{ site.name }}" };</script>
+  <script src="/assets/js/vexa.js" defer></script>
+  {% for s in scripts %}<script src="{{ s }}" defer></script>
+  {% endfor %}
+</body>
+</html>

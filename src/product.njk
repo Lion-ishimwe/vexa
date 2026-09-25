@@ -1,0 +1,113 @@
+---
+layout: base.njk
+pagination:
+  data: catalog.products
+  size: 1
+  alias: product
+permalink: "/product/{{ product.slug }}/"
+eleventyComputed:
+  title: "{{ product.title | safe }}"
+  description: "{{ product.desc | safe }}"
+scripts:
+  - /assets/js/product.js
+---
+{% from "icons.njk" import icon %}
+{% set dept = catalog.categories | findBy("slug", product.category) %}
+{% set photo = product.img or ('/assets/img/cat/' + product.category + '.svg') %}
+{% set sku = catalog.products | sku(product) %}
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/">Home</a><span class="sl">/</span>
+    <a href="/shop/">Shop</a><span class="sl">/</span>
+    <a href="/shop/{{ dept.slug }}/">{{ dept.name }}</a><span class="sl">/</span>
+    <span>{{ product.title }}</span>
+  </nav>
+
+  <div class="pdp">
+    <div class="pdp-media{% if not product.img %} is-placeholder{% endif %}">
+      <img src="{{ photo }}" alt="{{ product.title }}" referrerpolicy="no-referrer" data-fallback="/assets/img/cat/{{ product.category }}.svg">
+    </div>
+
+    <div class="pdp-info">
+      <div>
+        {% if product.brand %}<p class="pdp-brand">{{ product.brand }}</p>{% endif %}
+        <h1>{{ product.title }}</h1>
+      </div>
+      <div class="pdp-meta">
+        <span>SKU: <b>{{ sku }}</b></span>
+        {% if product.model %}<span>Model: <b>{{ product.model }}</b></span>{% endif %}
+        <span>Section: <b><a href="/shop/{{ dept.slug }}/">{{ product.aisle }}</a></b></span>
+      </div>
+
+      <div>
+        <p class="pdp-price{% if not product.price %} is-quote{% endif %}">{{ product.price | rwf }}</p>
+        {% if product.price %}
+        <p class="pdp-price-note">Price in Rwandan francs. Delivery and installation are priced separately.</p>
+        {% else %}
+        <p class="pdp-price-note">Add it to your cart or ask us on WhatsApp. We'll send you a price before you pay anything.</p>
+        {% endif %}
+      </div>
+
+      <p class="pdp-desc">{{ product.desc }}</p>
+      <p class="avail">Available to order</p>
+
+      <div class="pdp-buy" data-buy
+        data-slug="{{ product.slug }}" data-title="{{ product.title }}" data-price="{{ product.price or 0 }}"
+        data-img="{{ photo }}" data-brand="{{ product.brand }}">
+        <div class="qty qty-lg" data-qty>
+          <button type="button" data-step="-1" aria-label="Decrease quantity">&minus;</button>
+          <input type="number" min="1" max="99" value="1" aria-label="Quantity" data-qty-input>
+          <button type="button" data-step="1" aria-label="Increase quantity">+</button>
+        </div>
+        <button type="button" class="btn btn-dark btn-lg" data-buy-add>{{ icon("cart-plus", "icon-sm") }} Add to cart</button>
+        <button type="button" class="btn btn-gold btn-lg" data-buy-now>Buy now</button>
+      </div>
+
+      <a class="btn btn-line" href="https://wa.me/{{ site.whatsapp }}?text={{ ('Hello ' + site.name + ', I am interested in ' + product.title + ' (' + sku + '). Is it available?') | urlencode }}" target="_blank" rel="noopener">{{ icon("whatsapp", "icon-sm") }} Ask about this product on WhatsApp</a>
+
+      <div class="perks">
+        <div class="perk">{{ icon("truck") }}<div><b>Delivery across Rwanda</b><span>In Kigali and upcountry. We tell you the fee and the time when we call.</span></div></div>
+        <div class="perk">{{ icon("card") }}<div><b>Pay on delivery</b><span>For items in stock, you pay once they reach you. MoMo, Airtel Money, bank or cash.</span></div></div>
+        <div class="perk">{{ icon("tool") }}<div><b>We can install it</b><span>Our technicians will fit it and set it up for you. <a class="link-gold" href="/services/">See services</a></span></div></div>
+      </div>
+
+      <div class="tabs" data-tabs>
+        <div class="tab-list" role="tablist">
+          <button type="button" role="tab" aria-selected="true" aria-controls="tab-details" id="t-details">Details</button>
+          <button type="button" role="tab" aria-selected="false" aria-controls="tab-delivery" id="t-delivery">Delivery &amp; payment</button>
+        </div>
+        <div class="tab-panel" role="tabpanel" id="tab-details" aria-labelledby="t-details">
+          <table class="spec">
+            {% if product.brand %}<tr><th>Brand</th><td>{{ product.brand }}</td></tr>{% endif %}
+            {% if product.model %}<tr><th>Model</th><td>{{ product.model }}</td></tr>{% endif %}
+            <tr><th>Department</th><td>{{ dept.name }}</td></tr>
+            <tr><th>Section</th><td>{{ product.aisle }}</td></tr>
+            <tr><th>SKU</th><td>{{ sku }}</td></tr>
+            <tr><th>Description</th><td>{{ product.desc }}</td></tr>
+          </table>
+        </div>
+        <div class="tab-panel" role="tabpanel" id="tab-delivery" aria-labelledby="t-delivery" hidden>
+          <ul class="bullets">
+            <li>{{ icon("check", "icon-sm") }}<span>Order online, and we call or WhatsApp you to confirm stock, the delivery fee and a time.</span></li>
+            <li>{{ icon("check", "icon-sm") }}<span>Standard products: pay after you receive them.</span></li>
+            <li>{{ icon("check", "icon-sm") }}<span>Delivery with installation: 50% before dispatch, the remaining 50% once installation is complete.</span></li>
+            <li>{{ icon("check", "icon-sm") }}<span>Installations outside Kigali are quoted case by case.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% set related = catalog.products | related(product, 4) %}
+  {% if related.length %}
+  <section class="section-sm" style="padding-bottom:64px">
+    <div class="section-head">
+      <div><p class="eyebrow">You may also need</p><h2>More in {{ dept.name }}</h2></div>
+      <a class="link-gold" href="/shop/{{ dept.slug }}/">View all {{ dept.count }} {{ icon("arrow", "icon-sm") }}</a>
+    </div>
+    <div class="grid-products">
+      {% for p in related %}{% include "product-card.njk" %}{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</div>

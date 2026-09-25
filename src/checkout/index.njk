@@ -1,0 +1,115 @@
+---
+layout: base.njk
+title: Checkout
+scripts:
+  - /assets/js/checkout.js
+---
+{% from "icons.njk" import icon %}
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><a href="/cart/">Cart</a><span class="sl">/</span><span>Checkout</span></nav>
+    <h1>Checkout</h1>
+    <p class="steps" data-steps><span>Cart</span> {{ icon("chevron", "icon-sm") }} <span class="on">Delivery &amp; payment</span> {{ icon("chevron", "icon-sm") }} <span>Confirmation</span></p>
+  </div>
+</section>
+
+<div class="wrap" data-checkout-page>
+  <form class="cart-layout" data-checkout-form novalidate hidden>
+    <div class="panel panel-pad">
+      <fieldset class="fieldset">
+        <legend><span class="num">1</span> Your details</legend>
+        <div class="form-grid">
+          <div class="field">
+            <label for="co-name">Full name</label>
+            <input class="input" id="co-name" name="name" autocomplete="name" required>
+            <p class="err">Please enter your name.</p>
+          </div>
+          <div class="field">
+            <label for="co-phone">Phone number</label>
+            <input class="input" id="co-phone" name="phone" type="tel" autocomplete="tel" placeholder="07X XXX XXXX" required>
+            <p class="err">Please enter a phone number we can call.</p>
+          </div>
+          <div class="field full">
+            <label for="co-email">Email <span class="opt">(optional)</span></label>
+            <input class="input" id="co-email" name="email" type="email" autocomplete="email">
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset class="fieldset">
+        <legend><span class="num">2</span> Delivery</legend>
+        <div class="options" style="margin-bottom:14px">
+          <label class="option"><input type="radio" name="delivery" value="Delivery in Kigali" checked><div><b>Delivery in Kigali</b><span>Fee and time confirmed when we call you.</span></div></label>
+          <label class="option"><input type="radio" name="delivery" value="Delivery outside Kigali"><div><b>Delivery outside Kigali</b><span>We arrange transport to your district and confirm the cost first.</span></div></label>
+          <label class="option"><input type="radio" name="delivery" value="Pick up"><div><b>Pick up</b><span>Collect in Kigali. We tell you where and when it's ready.</span></div></label>
+        </div>
+        <div class="form-grid" data-address>
+          <div class="field">
+            <label for="co-district">District / city</label>
+            <input class="input" id="co-district" name="district" placeholder="e.g. Gasabo, Musanze" required>
+            <p class="err">Please enter your district or city.</p>
+          </div>
+          <div class="field">
+            <label for="co-area">Sector / area <span class="opt">(optional)</span></label>
+            <input class="input" id="co-area" name="area" placeholder="e.g. Kimihurura">
+          </div>
+          <div class="field full">
+            <label for="co-address">Street address or directions</label>
+            <input class="input" id="co-address" name="address" placeholder="House number, street, landmark" required>
+            <p class="err">Please tell us where to deliver.</p>
+          </div>
+        </div>
+        <label class="check" style="margin-top:16px"><input type="checkbox" name="installation" value="yes"> <span><b>I need installation.</b> Our technicians quote installation with your order (50% before dispatch, 50% after installation).</span></label>
+      </fieldset>
+
+      <fieldset class="fieldset">
+        <legend><span class="num">3</span> Payment</legend>
+        <div class="options">
+          <label class="option"><input type="radio" name="payment" value="Pay on delivery" checked><div><b>Pay on delivery</b><span>Pay by MoMo, Airtel Money or cash once you have received your items.</span></div></label>
+          <label class="option"><input type="radio" name="payment" value="MTN Mobile Money"><div><b>MTN Mobile Money</b><span>We send payment details after confirming your order.</span></div></label>
+          <label class="option"><input type="radio" name="payment" value="Airtel Money"><div><b>Airtel Money</b><span>We send payment details after confirming your order.</span></div></label>
+          <label class="option"><input type="radio" name="payment" value="Bank transfer"><div><b>Bank transfer</b><span>For companies and larger orders. We send a proforma invoice.</span></div></label>
+        </div>
+      </fieldset>
+
+      <div class="field">
+        <label for="co-notes">Order notes <span class="opt">(optional)</span></label>
+        <textarea class="textarea" id="co-notes" name="notes" placeholder="Preferred delivery time, TIN for the invoice, site details…"></textarea>
+      </div>
+    </div>
+
+    <aside class="panel panel-pad summary">
+      <h2>Your order</h2>
+      <div class="os-lines" data-os-lines></div>
+      <div class="rows">
+        <div class="sum-row"><span class="muted">Subtotal</span><span data-cart-subtotal>RWF 0</span></div>
+        <div class="sum-row"><span class="muted">Delivery</span><span class="muted">Confirmed by phone</span></div>
+      </div>
+      <div class="total"><span>Total</span><b data-cart-subtotal>RWF 0</b></div>
+      <p class="note" data-quote-note hidden style="margin-bottom:14px">Items marked "Price on request" are added to your total once quoted.</p>
+      <button type="submit" class="btn btn-gold btn-block btn-lg">{{ icon("lock", "icon-sm") }} Place order</button>
+      <p class="note" style="margin-top:12px">Your order goes to our sales team on WhatsApp. Nothing is charged online: we confirm availability and the final total with you first.</p>
+    </aside>
+  </form>
+
+  <div class="empty-state" data-cart-empty hidden>
+    {{ icon("bag") }}
+    <h2>Your cart is empty</h2>
+    <p>Add products to your cart before checking out.</p>
+    <a class="btn btn-gold btn-lg" href="/shop/">Start shopping</a>
+  </div>
+
+  <div class="confirm" data-confirm hidden>
+    <div class="panel confirm-card">
+      <div class="tick">{{ icon("check") }}</div>
+      <h1>Thank you, <span data-confirm-name></span>!</h1>
+      <span class="ref" data-confirm-ref></span>
+      <p>One last step: send the order to our team on WhatsApp. We then confirm stock, delivery and the final total with you.</p>
+      <div class="confirm-actions">
+        <a class="btn btn-wa btn-lg" data-confirm-wa target="_blank" rel="noopener">{{ icon("whatsapp", "icon-sm") }} Send order on WhatsApp</a>
+        <a class="btn btn-line btn-lg" href="tel:{{ site.phoneHref }}">{{ icon("phone", "icon-sm") }} Call {{ site.phone }}</a>
+      </div>
+      <p class="note" style="margin-top:18px">Keep your order reference. <a class="link-gold" href="/shop/">Continue shopping</a></p>
+    </div>
+  </div>
+</div>

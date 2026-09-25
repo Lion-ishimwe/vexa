@@ -1,0 +1,145 @@
+---
+layout: base.njk
+---
+{% from "icons.njk" import icon %}
+<section class="hero hero-full">
+  <div class="hero-media">
+    {# Rendered by scripts/hero-video/render_door.py: an illustrated doorstep delivery in Kigali #}
+    <video autoplay muted loop playsinline preload="metadata" poster="/assets/video/vexa-hero-door-poster.jpg"
+      aria-label="Illustration: a VEXA courier walks from his moto to a client's door in Kigali, knocks and hands over a VEXA box, paid on delivery" data-hero-video>
+      <source src="/assets/video/vexa-hero-door-mobile.mp4" type="video/mp4" media="(max-width: 1100px)">
+      <source src="/assets/video/vexa-hero-door-720.mp4" type="video/mp4" media="(max-width: 1500px)">
+      <source src="/assets/video/vexa-hero-door-1080.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="wrap">
+    <div class="hero-copy">
+      <p class="eyebrow">Kigali's technology store</p>
+      <h1>The tech you need, <span class="gold-text">at your door.</span></h1>
+      <p class="lead">Order online. Pay when it arrives.</p>
+      <div class="hero-cta">
+        <a href="/shop/" class="btn btn-gold">Shop now {{ icon("arrow", "icon-sm") }}</a>
+        <a href="/services/" class="btn btn-ghost-light">Installation</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head">
+      <div><p class="eyebrow">Departments</p><h2>Shop by category</h2></div>
+      <a class="link-gold" href="/shop/">Browse everything {{ icon("arrow", "icon-sm") }}</a>
+    </div>
+    <div class="cat-grid">
+      {% for c in catalog.categories %}
+      <a class="cat-tile{% if loop.first %} feature{% endif %}" href="/shop/{{ c.slug }}/">
+        {% if loop.first %}
+        <div class="bd">
+          <p class="eyebrow">Most popular</p>
+          <h3>{{ c.name }}</h3>
+          <p>{{ c.tagline }}</p>
+          <span class="ct">Shop {{ c.count }} products {{ icon("arrow", "icon-sm") }}</span>
+        </div>
+        <div class="ph"><img src="{{ c.img }}" alt="" loading="lazy"></div>
+        {% else %}
+        <div class="ph"><img src="{{ c.img }}" alt="" loading="lazy"></div>
+        <div class="bd">
+          <h3>{{ c.name }}</h3>
+          <p>{{ c.tagline }}</p>
+          <span class="ct">{{ c.count }} products {{ icon("arrow", "icon-sm") }}</span>
+        </div>
+        {% endif %}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head">
+      <div><p class="eyebrow">Popular right now</p><h2>What people are buying</h2></div>
+      <a class="link-gold" href="/shop/">See all products {{ icon("arrow", "icon-sm") }}</a>
+    </div>
+    <div class="grid-products">
+      {% for p in catalog.products | featured %}{% include "product-card.njk" %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+{% set kit = catalog.products | findBy("slug", "kit-of-4-cameras-colorvu") %}
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="promo">
+      <div class="promo-copy">
+        <p class="eyebrow">Camera kits</p>
+        <h2>Keep an eye on home or the shop, right from your phone.</h2>
+        <p>Everything comes in one box: cameras, recorder, cables and power. We fit it, connect it to your phone, and show you how it works before we leave.</p>
+        <ul class="promo-list">
+          <li>{{ icon("check", "icon-sm") }} Kits of 4 or 8 cameras</li>
+          <li>{{ icon("check", "icon-sm") }} Colour at night with ColorVu</li>
+          <li>{{ icon("check", "icon-sm") }} We install it and set up your phone</li>
+        </ul>
+        <div class="hero-cta">
+          <a class="btn btn-gold" href="/product/{{ kit.slug }}/">4-camera ColorVu kit · {{ kit.price | rwf }}</a>
+          <a class="btn btn-ghost-light" href="/shop/cctv/">All CCTV</a>
+        </div>
+      </div>
+      <div class="promo-art"><img src="{{ kit.img }}" alt="{{ kit.title }}" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head">
+      <div><p class="eyebrow">For work and school</p><h2>Laptops</h2></div>
+      <a class="link-gold" href="/shop/computers/">All computing {{ icon("arrow", "icon-sm") }}</a>
+    </div>
+    <div class="grid-products">
+      {% for p in (catalog.products | where("aisle", "Laptops") | withPhoto | take(4)) %}{% include "product-card.njk" %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head">
+      <div><p class="eyebrow">Better internet</p><h2>Wi-Fi and networking</h2></div>
+      <a class="link-gold" href="/shop/networking/">All networking {{ icon("arrow", "icon-sm") }}</a>
+    </div>
+    <div class="grid-products">
+      {% for p in (catalog.products | where("category", "networking") | withPhoto | take(4)) %}{% include "product-card.njk" %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section dark">
+  <div class="wrap">
+    <div class="section-head">
+      <div><p class="eyebrow">How it works</p><h2>We install what we sell</h2></div>
+      <a class="btn btn-gold" href="/services/">Our installation work</a>
+    </div>
+    <div class="svc-grid">
+      <div class="svc"><p class="n">01</p><h3>You order</h3><p>Pick what you need and check out. If you want it installed, just tick the box.</p></div>
+      <div class="svc"><p class="n">02</p><h3>We call you</h3><p>Someone from our team calls or sends a WhatsApp to agree on the price, the delivery fee and a time that suits you.</p></div>
+      <div class="svc"><p class="n">03</p><h3>We bring it and set it up</h3><p>We deliver, install and show you how everything works. Your cameras will be on your phone before we leave.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="help-band">
+      <div>
+        <h2>Not sure what to buy?</h2>
+        <p>Tell us about the place and what you need it to do. We'll suggest what fits and give you a fair price.</p>
+      </div>
+      <div class="actions">
+        <a class="btn btn-wa" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{{ icon("whatsapp", "icon-sm") }} Chat on WhatsApp</a>
+        <a class="btn btn-line" href="tel:{{ site.phoneHref }}">{{ icon("phone", "icon-sm") }} {{ site.phone }}</a>
+      </div>
+    </div>
+  </div>
+</section>

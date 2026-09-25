@@ -1,0 +1,23 @@
+---
+layout: base.njk
+pagination:
+  data: catalog.categories
+  size: 1
+  alias: dept
+permalink: "/shop/{{ dept.slug }}/"
+eleventyComputed:
+  title: "{{ dept.name | safe }}"
+  description: "{{ dept.tagline | safe }}"
+scripts:
+  - /assets/js/shop.js
+---
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><a href="/shop/">Shop</a><span class="sl">/</span><span>{{ dept.name }}</span></nav>
+    <h1>{{ dept.name }}</h1>
+    <p>{{ dept.tagline }}</p>
+  </div>
+</section>
+{% set items = catalog.products | where("category", dept.slug) %}
+{% set lockCat = dept.slug %}
+{% include "catalog-browser.njk" %}

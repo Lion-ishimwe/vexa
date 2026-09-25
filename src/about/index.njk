@@ -1,0 +1,84 @@
+---
+layout: base.njk
+title: About us
+description: VEXA is a technology shop in Kigali started by Lionnel Ishimwe. We sell cameras, laptops, Wi-Fi, air conditioners and fire safety gear, and we install what we sell.
+---
+{% from "icons.njk" import icon %}
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><span>About</span></nav>
+    <h1>About {{ site.name }}</h1>
+    <p>A small Kigali shop that sells technology and stays to set it up.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap split">
+    <div class="prose">
+      <p class="eyebrow">Our story</p>
+      <h2>Why we started</h2>
+      <p>Buying a camera system or a good laptop in Kigali used to mean going from shop to shop, asking for prices nobody would write down, and then hunting for someone to install it.</p>
+      <p>So we put it all in one place. Our prices are on the website in Rwandan francs. You pay when your order arrives. And the people who bring it are the same people who set it up.</p>
+      <p>Today we work with families, small shops, offices, schools and clinics all over Rwanda.</p>
+      <div class="hero-cta" style="margin-top:22px">
+        <a class="btn btn-gold" href="/shop/">Shop the store</a>
+        <a class="btn btn-line" href="/services/">Our services</a>
+      </div>
+    </div>
+    <div class="hero-art" style="justify-self:center">
+      <img src="/assets/brand/vexa-logo-1000.jpg" alt="{{ site.name }} logo" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow">Leadership</p><h2>Meet the founder</h2></div></div>
+    <div class="founder">
+      <img class="founder-photo" src="{{ site.founder.photo }}" alt="{{ site.founder.name }}, {{ site.founder.role }} of {{ site.name }}" width="718" height="900" loading="lazy">
+      <div>
+        <p class="eyebrow">{{ site.name }}</p>
+        <h3>{{ site.founder.name }}</h3>
+        <p class="role">{{ site.founder.role }}</p>
+        <p>{{ site.founder.name }} started {{ site.name }} after seeing too many people pay for cameras and Wi-Fi that were never set up properly.</p>
+        <p>{{ site.founder.name.split(' ')[0] }} runs the team and deals with our suppliers, and cares most about one thing: what you buy should work the day it arrives.</p>
+        <div class="hero-cta" style="margin-top:18px">
+          <a class="btn btn-wa" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{{ icon("whatsapp", "icon-sm") }} Talk to our team</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow">What we care about</p><h2>How we work</h2></div></div>
+    <div class="values">
+      <div class="value">{{ icon("shield") }}<h3>Brands you know</h3><p>Hikvision, Bosch, HP and others, with the model number on every product page.</p></div>
+      <div class="value">{{ icon("card") }}<h3>Prices you can see</h3><p>Every price is written in Rwandan francs. You pay when the order reaches you.</p></div>
+      <div class="value">{{ icon("tool") }}<h3>Tidy work</h3><p>Neat cables, the right settings, and a quick walkthrough before we leave.</p></div>
+      <div class="value">{{ icon("chat") }}<h3>Easy to reach</h3><p>Call or WhatsApp us any day, before or after you buy.</p></div>
+    </div>
+  </div>
+</section>
+
+{% set certificates = [
+  { title: "Fundamental Specialist", img: "/assets/Product/Certificate/fundamental.JPG" },
+  { title: "Associate in Cybersecurity", img: "/assets/Product/Certificate/Associate.JPG" },
+  { title: "Ruckus ICX Implementer", img: "/assets/Product/Certificate/BADGE RUCKUS ICX IMPLEMENTER.jpg" },
+  { title: "Cloud Sales & Routing and Switching Protocols", img: "/assets/Product/Certificate/ruckus.JPG" },
+  { title: "Dell Marketing Credential", img: "/assets/Product/Certificate/Dell.JPG" },
+  { title: "Dell Data Center & Edge Networking", img: "/assets/Product/Certificate/Dell.JPG" },
+  { title: "Dell Server Credential", img: "/assets/Product/Certificate/Dell.JPG" },
+  { title: "Dell Software Defined Storage", img: "/assets/Product/Certificate/Dell.JPG" }
+] %}
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow">Training</p><h2>Our certifications</h2></div></div>
+    <div class="certs">
+      {% for c in certificates %}
+      <div class="cert"><img src="{{ c.img }}" alt="" loading="lazy"><b>{{ c.title }}</b></div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

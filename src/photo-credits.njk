@@ -1,0 +1,30 @@
+---
+layout: base.njk
+title: Photo credits
+permalink: /photo-credits/
+description: Credits for the openly licensed product photos used on the VEXA website.
+---
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><span>Photo credits</span></nav>
+    <h1>Photo credits</h1>
+    <p>Most photos on this site are our own. A few product photos come from Wikimedia Commons under open licences. Thank you to the people who shared them.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap" style="max-width:900px">
+    <div class="credits">
+      {% for c in photoCredits %}
+      <div class="credit">
+        <img src="{{ c.image }}" alt="" loading="lazy">
+        <div>
+          <p class="credit-title"><a href="{{ c.source }}" target="_blank" rel="noopener">{{ c.title }}</a></p>
+          <p>By {{ c.author }}. {% if c.licenseUrl %}<a href="{{ c.licenseUrl }}" target="_blank" rel="noopener">{{ c.license }}</a>{% else %}{{ c.license }}{% endif %}.{% if c.creditRequired %} Resized for this site.{% endif %}</p>
+          <p class="note">Used for: {{ c.usedFor | join(", ") }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

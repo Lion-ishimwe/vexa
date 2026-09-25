@@ -1,0 +1,55 @@
+{% from "icons.njk" import icon %}
+<div class="announce">
+  <div class="wrap">
+    <div class="announce-items">
+      <span>{{ icon("truck", "icon-sm") }} Delivery across Rwanda</span>
+      <span>{{ icon("card", "icon-sm") }} Pay on delivery for in-stock items</span>
+      <span>{{ icon("tool", "icon-sm") }} Professional installation available</span>
+    </div>
+    <a href="tel:{{ site.phoneHref }}">{{ site.phone }}</a>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="wrap header-main">
+    <div class="brand">
+      <button type="button" class="icon-btn menu-btn" data-open-drawer="mobile-nav" aria-label="Open menu">{{ icon("menu") }}</button>
+      <a href="/" aria-label="{{ site.name }} home"><img src="/assets/brand/vexa-wordmark.jpg" alt="{{ site.name }}" width="143" height="48"></a>
+    </div>
+
+    <div class="search" data-search>
+      <form action="/shop/" method="get" role="search">
+        <label for="site-search" class="sr-only">Search products</label>
+        <input id="site-search" type="search" name="q" placeholder="Search cameras, laptops, routers, AC units…" autocomplete="off" data-search-input>
+        <button type="submit">{{ icon("search", "icon-sm") }}<span class="lbl">Search</span></button>
+      </form>
+      <div class="suggest" data-suggest hidden></div>
+    </div>
+
+    <div class="header-actions">
+      <a class="h-action help" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">
+        {{ icon("chat") }}
+        <span class="lbl"><small>Need help?</small><strong>Chat with us</strong></span>
+      </a>
+      <button type="button" class="h-action cart-btn" data-open-drawer="mini-cart" aria-label="Open cart">
+        {{ icon("cart") }}
+        <span class="cart-count" data-cart-count data-empty="true">0</span>
+        <span class="lbl"><small>Cart</small><strong data-cart-total-short>RWF 0</strong></span>
+      </button>
+    </div>
+  </div>
+
+  <nav class="cat-nav" aria-label="Departments">
+    <div class="wrap">
+      <a href="/shop/" class="all{% if page.url == '/shop/' %} is-current{% endif %}">{{ icon("grid", "icon-sm") }} All products</a>
+      <span class="sep"></span>
+      {% for c in catalog.categories %}
+      <a href="/shop/{{ c.slug }}/"{% if page.url == '/shop/' + c.slug + '/' %} class="is-current"{% endif %}>{{ c.name }}</a>
+      {% endfor %}
+      <span class="sep"></span>
+      <a href="/services/"{% if page.url == '/services/' %} class="is-current"{% endif %}>Installation</a>
+      <a href="/about/"{% if page.url == '/about/' %} class="is-current"{% endif %}>About</a>
+      <a href="/contact/"{% if page.url == '/contact/' %} class="is-current"{% endif %}>Help</a>
+    </div>
+  </nav>
+</header>

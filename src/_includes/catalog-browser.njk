@@ -1,0 +1,82 @@
+{% from "icons.njk" import icon %}
+{#- expects: items (products), lockCat (department slug or false) -#}
+<div class="wrap shop" data-catalog{% if lockCat %} data-lock-cat="{{ lockCat }}"{% endif %}>
+  <aside class="filters" data-filters aria-label="Filters">
+    <div class="filters-head">
+      <h2>Filters</h2>
+      <button type="button" class="icon-btn" data-close-filters aria-label="Close filters">{{ icon("close") }}</button>
+    </div>
+
+    <div class="f-group">
+      <h3>Department</h3>
+      <label class="f-opt"><a href="/shop/"{% if not lockCat %} class="is-current"{% endif %}>All products</a><span class="c">{{ catalog.products.length }}</span></label>
+      {% for c in catalog.categories %}
+      <label class="f-opt"><a href="/shop/{{ c.slug }}/"{% if lockCat == c.slug %} class="is-current"{% endif %}>{{ c.name }}</a><span class="c">{{ c.count }}</span></label>
+      {% endfor %}
+    </div>
+
+    {% set brands = items | uniq("brand") %}
+    {% if brands.length %}
+    <div class="f-group">
+      <h3>Brand</h3>
+      {% for b in brands %}
+      <label class="f-opt"><input type="checkbox" name="brand" value="{{ b }}" data-f-brand> {{ b }}<span class="c">{{ (items | where("brand", b)).length }}</span></label>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="f-group">
+      <h3>Price (RWF)</h3>
+      <div class="f-price">
+        <input class="field-sm" type="number" inputmode="numeric" min="0" step="1000" placeholder="Min" aria-label="Minimum price" data-f-min>
+        <input class="field-sm" type="number" inputmode="numeric" min="0" step="1000" placeholder="Max" aria-label="Maximum price" data-f-max>
+      </div>
+      <label class="f-opt" style="margin-top:10px"><input type="checkbox" data-f-priced> Hide "price on request"</label>
+    </div>
+
+    <div class="f-group">
+      <button type="button" class="btn btn-line btn-block" data-f-reset>Clear all filters</button>
+    </div>
+  </aside>
+
+  <div>
+    {% if lockCat %}
+    {% set dept = catalog.categories | findBy("slug", lockCat) %}
+    {% if dept.aisles.length > 1 %}
+    <div class="aisle-tabs" role="group" aria-label="{{ dept.name }} sections">
+      <button type="button" class="is-on" data-aisle-tab="">All {{ dept.name }}</button>
+      {% for a in dept.aisles %}<button type="button" data-aisle-tab="{{ a }}">{{ a }}</button>{% endfor %}
+    </div>
+    {% endif %}
+    {% endif %}
+
+    <div class="toolbar">
+      <p class="count"><b data-result-count>{{ items.length }}</b> products<span data-query-label></span></p>
+      <div class="toolbar-r">
+        <button type="button" class="btn btn-line filter-toggle" data-open-filters>{{ icon("filter", "icon-sm") }} Filters</button>
+        <label class="sr-only" for="sort">Sort by</label>
+        <select id="sort" class="select" data-sort>
+          <option value="featured">Sort: Featured</option>
+          <option value="price-asc">Price: low to high</option>
+          <option value="price-desc">Price: high to low</option>
+          <option value="name">Name: A to Z</option>
+        </select>
+      </div>
+    </div>
+    <div class="chips" data-chips hidden></div>
+
+    <div class="grid-products" data-grid>
+      {% for p in items %}{% include "product-card.njk" %}{% endfor %}
+    </div>
+
+    <div class="no-results" data-empty hidden>
+      <h3>No products match those filters</h3>
+      <p>Try a different search word or clear the filters. You can also <a class="link-gold" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">ask us on WhatsApp</a> for something not listed.</p>
+    </div>
+
+    <div class="more" data-more hidden>
+      <button type="button" class="btn btn-dark" data-more-btn>Show more products</button>
+      <small data-more-label></small>
+    </div>
+  </div>
+</div>

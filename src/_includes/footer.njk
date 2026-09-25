@@ -1,0 +1,44 @@
+{% from "icons.njk" import icon %}
+<footer class="site-footer">
+  <div class="wrap footer-top">
+    <div class="footer-brand">
+      <img src="/assets/brand/vexa-wordmark.jpg" alt="{{ site.name }}" width="167" height="56">
+      <p>{{ site.description }}</p>
+    </div>
+    <div>
+      <h3>Shop</h3>
+      <ul>
+        {% for c in catalog.categories %}
+        <li><a href="/shop/{{ c.slug }}/">{{ c.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div>
+      <h3>Company</h3>
+      <ul>
+        <li><a href="/about/">About {{ site.name }}</a></li>
+        <li><a href="/services/">Installation &amp; services</a></li>
+        <li><a href="/contact/">Contact us</a></li>
+        <li><a href="/contact/#faq">Ordering &amp; payment FAQ</a></li>
+        <li><a href="/cart/">Your cart</a></li>
+        <li><a href="/photo-credits/">Photo credits</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Get in touch</h3>
+      <ul class="footer-contact">
+        <li>{{ icon("phone", "icon-sm") }}<a href="tel:{{ site.phoneHref }}">{{ site.phone }}</a></li>
+        <li>{{ icon("whatsapp", "icon-sm") }}<a href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">WhatsApp</a></li>
+        {% if site.email %}<li>{{ icon("mail", "icon-sm") }}<a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
+        <li>{{ icon("pin", "icon-sm") }}{{ site.location }}</li>
+        <li>{{ icon("clock", "icon-sm") }}{{ site.hours }}</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="wrap">
+      <span>&copy; {{ site.year }} {{ site.name }}. All rights reserved.</span>
+      <div class="footer-pay"><span>MTN MoMo</span><span>Airtel Money</span><span>Bank transfer</span><span>Cash on delivery</span></div>
+    </div>
+  </div>
+</footer>

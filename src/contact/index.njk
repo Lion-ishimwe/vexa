@@ -1,0 +1,96 @@
+---
+layout: base.njk
+title: Contact & help
+description: Call or WhatsApp VEXA any day for product advice, orders, delivery and installation in Rwanda.
+---
+{% from "icons.njk" import icon %}
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><span>Contact</span></nav>
+    <h1>Contact &amp; help</h1>
+    <p>Questions about a product, an order or an installation? We answer every day.</p>
+  </div>
+</section>
+
+<div class="wrap contact-grid">
+  <div class="contact-cards">
+    <a class="contact-card" href="tel:{{ site.phoneHref }}"><span class="ci">{{ icon("phone") }}</span><div><small>Call us</small><b>{{ site.phone }}</b></div></a>
+    <a class="contact-card" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener"><span class="ci">{{ icon("whatsapp") }}</span><div><small>WhatsApp</small><b>Chat with sales &amp; support</b></div></a>
+    {% if site.email %}<a class="contact-card" href="mailto:{{ site.email }}"><span class="ci">{{ icon("mail") }}</span><div><small>Email</small><b>{{ site.email }}</b></div></a>{% endif %}
+    <div class="contact-card"><span class="ci">{{ icon("pin") }}</span><div><small>Location</small><b>{{ site.location }}</b></div></div>
+    <div class="contact-card"><span class="ci">{{ icon("clock") }}</span><div><small>Opening hours</small><b>{{ site.hours }}</b></div></div>
+  </div>
+
+  <form class="panel panel-pad" data-contact-form novalidate>
+    <h2 style="margin-bottom:6px">Send us a message</h2>
+    <p class="note" style="margin-bottom:18px">Your message opens in WhatsApp, ready to send to our team.</p>
+    <div class="form-grid">
+      <div class="field">
+        <label for="c-name">Your name</label>
+        <input class="input" id="c-name" name="name" autocomplete="name" required>
+        <p class="err">Please enter your name.</p>
+      </div>
+      <div class="field">
+        <label for="c-phone">Phone <span class="opt">(optional)</span></label>
+        <input class="input" id="c-phone" name="phone" type="tel" autocomplete="tel">
+      </div>
+      <div class="field full">
+        <label for="c-topic">Topic</label>
+        <select id="c-topic" name="topic">
+          <option>Product question</option>
+          <option>Existing order</option>
+          <option>Installation quote</option>
+          <option>Business / bulk order</option>
+          <option>Something else</option>
+        </select>
+      </div>
+      <div class="field full">
+        <label for="c-message">Message</label>
+        <textarea class="textarea" id="c-message" name="message" required></textarea>
+        <p class="err">Please write your message.</p>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-wa btn-lg" style="margin-top:16px">{{ icon("whatsapp", "icon-sm") }} Send on WhatsApp</button>
+  </form>
+</div>
+
+<section class="section" id="faq" style="padding-top:32px">
+  <div class="wrap" style="max-width:860px">
+    <div class="section-head"><div><p class="eyebrow">Good to know</p><h2>Ordering &amp; payment FAQ</h2></div></div>
+    <div class="faq">
+      <details open><summary>How do I place an order?</summary><p>Add products to your cart and go to checkout. Enter your details and delivery address, then send the order to our team on WhatsApp. We call or message you to confirm stock, the delivery fee and the final total.</p></details>
+      <details><summary>When do I pay?</summary><p>For standard products you pay after you receive them. For orders with installation, 50% is paid before dispatch and the remaining 50% once installation is complete.</p></details>
+      <details><summary>Which payment methods do you accept?</summary><p>MTN Mobile Money, Airtel Money, bank transfer and cash on delivery. Companies can request a proforma invoice.</p></details>
+      <details><summary>Do you deliver outside Kigali?</summary><p>Yes, we deliver across Rwanda. The delivery fee depends on the district and is confirmed with you before dispatch. Installations outside Kigali are quoted case by case.</p></details>
+      <details><summary>Some products say "Price on request". What does that mean?</summary><p>Prices for those items depend on configuration or current supply. Add them to your cart or ask on WhatsApp and we reply with a quote before you pay anything.</p></details>
+      <details><summary>Can you install equipment I already own?</summary><p>Yes. Our technicians install and configure equipment bought elsewhere at a negotiated rate. <a class="link-gold" href="/services/">See our services</a>.</p></details>
+    </div>
+  </div>
+</section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const form = document.querySelector('[data-contact-form]');
+    if (!form) return;
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      let ok = true;
+      form.querySelectorAll('[required]').forEach((input) => {
+        const bad = !input.value.trim();
+        input.closest('.field').classList.toggle('has-error', bad);
+        if (bad) ok = false;
+      });
+      if (!ok) return;
+      const data = new FormData(form);
+      const lines = [
+        `Hello ${window.VEXA.name}, ${data.get('topic')}:`,
+        '',
+        data.get('message').trim(),
+        '',
+        `Name: ${data.get('name').trim()}`
+      ];
+      if (data.get('phone').trim()) lines.push(`Phone: ${data.get('phone').trim()}`);
+      window.open(`https://wa.me/${window.VEXA.whatsapp}?text=${encodeURIComponent(lines.join('\n'))}`, '_blank', 'noopener');
+    });
+  });
+</script>

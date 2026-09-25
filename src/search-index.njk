@@ -1,0 +1,5 @@
+---
+permalink: /search-index.json
+eleventyExcludeFromCollections: true
+---
+[{% for p in catalog.products %}{"s":{{ p.slug | dump | safe }},"t":{{ p.title | dump | safe }},"b":{{ p.brand | dump | safe }},"a":{{ p.aisle | dump | safe }},"k":{{ (p.model + " " + p.desc) | dump | safe }},"p":{{ p.price or 0 }},"i":{{ (p.img or ("/assets/img/cat/" + p.category + ".svg")) | dump | safe }}}{% if not loop.last %},{% endif %}{% endfor %}]

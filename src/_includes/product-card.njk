@@ -1,0 +1,24 @@
+{% from "icons.njk" import icon %}
+{%- set photo = p.img or ('/assets/img/cat/' + p.category + '.svg') -%}
+<article class="card" data-product
+  data-cat="{{ p.category }}" data-aisle="{{ p.aisle }}" data-brand="{{ p.brand }}"
+  data-price="{{ p.price or 0 }}" data-order="{{ loop.index0 if loop else 0 }}"
+  data-text="{{ (p.title + ' ' + p.brand + ' ' + p.model + ' ' + p.aisle + ' ' + p.desc) | lower }}">
+  {% if p.featured %}<span class="card-badge">Best seller</span>{% endif %}
+  <a class="card-media{% if not p.img %} is-placeholder{% endif %}" href="/product/{{ p.slug }}/" tabindex="-1" aria-hidden="true">
+    <img src="{{ photo }}" alt="" loading="lazy" referrerpolicy="no-referrer" data-fallback="/assets/img/cat/{{ p.category }}.svg">
+  </a>
+  <div class="card-body">
+    <p class="card-brand">{{ p.brand }}</p>
+    <a class="card-title" href="/product/{{ p.slug }}/">{{ p.title }}</a>
+    <p class="card-aisle">{{ p.aisle }}</p>
+    <div class="card-foot">
+      <span class="price{% if not p.price %} is-quote{% endif %}">{{ p.price | rwf }}</span>
+      <button type="button" class="add-btn" aria-label="Add {{ p.title }} to cart"
+        data-add-to-cart data-slug="{{ p.slug }}" data-title="{{ p.title }}" data-price="{{ p.price or 0 }}"
+        data-img="{{ photo }}" data-brand="{{ p.brand }}">
+        {{ icon("cart-plus") }}
+      </button>
+    </div>
+  </div>
+</article>

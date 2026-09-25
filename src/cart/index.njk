@@ -1,0 +1,38 @@
+---
+layout: base.njk
+title: Your cart
+scripts:
+  - /assets/js/checkout.js
+---
+{% from "icons.njk" import icon %}
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><span>Cart</span></nav>
+    <h1>Your cart</h1>
+  </div>
+</section>
+
+<div class="wrap" data-cart-page>
+  <div class="cart-layout" data-cart-full hidden>
+    <div class="panel" data-cart-lines></div>
+    <aside class="panel panel-pad summary">
+      <h2>Order summary</h2>
+      <div class="rows">
+        <div class="sum-row"><span class="muted">Items (<span data-cart-qty>0</span>)</span><span data-cart-subtotal>RWF 0</span></div>
+        <div class="sum-row"><span class="muted">Delivery</span><span class="muted">Confirmed by phone</span></div>
+      </div>
+      <div class="total"><span>Subtotal</span><b data-cart-subtotal>RWF 0</b></div>
+      <p class="note" data-quote-note hidden style="margin-bottom:14px">Items marked "Price on request" are quoted by our team before you pay.</p>
+      <a href="/checkout/" class="btn btn-gold btn-block btn-lg">{{ icon("lock", "icon-sm") }} Proceed to checkout</a>
+      <a href="/shop/" class="btn btn-line btn-block" style="margin-top:10px">Continue shopping</a>
+      <div class="pay-logos"><span>MTN MoMo</span><span>Airtel Money</span><span>Bank transfer</span><span>Cash on delivery</span></div>
+    </aside>
+  </div>
+
+  <div class="empty-state" data-cart-empty hidden>
+    {{ icon("bag") }}
+    <h2>Your cart is empty</h2>
+    <p>Browse the store and add the products you need.</p>
+    <a class="btn btn-gold btn-lg" href="/shop/">Start shopping</a>
+  </div>
+</div>

@@ -1,0 +1,64 @@
+---
+layout: base.njk
+title: Installation & services
+description: VEXA technicians install CCTV, networks, access control, air conditioning, fire alarms and power systems across Rwanda.
+---
+{% from "icons.njk" import icon %}
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><span>Installation &amp; services</span></nav>
+    <h1>Installation &amp; services</h1>
+    <p>We install what we sell, and we can install things you bought somewhere else too. We work in Kigali and all over Rwanda.</p>
+  </div>
+</section>
+
+{% set services = [
+  { id: "cctv", title: "CCTV & surveillance", body: "We pick where each camera goes, run the cables, set up the recorder and put the cameras on your phone.", points: ["Analog, IP and Wi-Fi cameras", "Recorder and hard drive set-up", "Remote viewing on your smartphone"], img: "/assets/Product/Service/cctv.JPG", shop: "cctv" },
+  { id: "network", title: "Networking & Wi-Fi", body: "Wi-Fi that reaches every room, plus neat cabling and racks.", points: ["Access points and routers", "Cat6 cabling and racks", "Starlink and 4G back-up links"], img: "/assets/Product/Service/Network.JPG", shop: "networking" },
+  { id: "security", title: "Access control & alarms", body: "Fingerprint doors, magnetic locks, alarms and outdoor beams.", points: ["Fingerprint and card readers", "Alarm panels and detectors", "Outdoor beams"], img: "/assets/Product/Service/fingerprint.jpg", shop: "security" },
+  { id: "hvac", title: "Air conditioning", body: "We supply, install and service wall splits, cassettes, ducted and VRF systems.", points: ["Bosch and LG units", "Copper, insulation and drainage", "Maintenance and gas refills"], img: "/assets/Product/Service/air.jpg", shop: "air-conditioning" },
+  { id: "fire", title: "Fire detection & safety", body: "Fire alarm systems for small and large buildings, with exit signs and backup batteries.", points: ["Smoke detectors and call points", "Sounders and strobes", "Emergency exit lighting"], img: "/assets/Product/Service/alarm.png", shop: "fire-safety" },
+  { id: "generator", title: "Power & generators", body: "We size the generator, install it and wire the changeover so the power stays on.", points: ["Generator installation", "UPS for networks and cameras", "Changeover switches"], img: "/assets/Product/Service/generator.png", shop: "" },
+  { id: "webdev", title: "Websites & IT support", body: "Websites for small businesses, email set-up and help with office computers.", points: ["Company websites", "Laptop and printer set-up", "Office network support"], img: "/assets/Product/Service/web.JPG", shop: "computers" }
+] %}
+
+<section class="section">
+  <div class="wrap">
+    <div class="services-list">
+      {% for s in services %}
+      <article class="service" id="{{ s.id }}">
+        <img src="{{ s.img }}" alt="" loading="lazy">
+        <div class="bd">
+          <h3>{{ s.title }}</h3>
+          <p>{{ s.body }}</p>
+          <ul>{% for pt in s.points %}<li>{{ icon("check", "icon-sm") }} {{ pt }}</li>{% endfor %}</ul>
+          <div class="hero-cta">
+            <a class="btn btn-dark" href="https://wa.me/{{ site.whatsapp }}?text={{ ('Hello ' + site.name + ', I would like a quote for ' + s.title + '.') | urlencode }}" target="_blank" rel="noopener">Request a quote</a>
+            {% if s.shop %}<a class="link-gold" href="/shop/{{ s.shop }}/">Shop equipment {{ icon("arrow", "icon-sm") }}</a>{% endif %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section dark">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow">How a job goes</p><h2>From the first call to the last cable</h2></div></div>
+    <div class="svc-grid">
+      <div class="svc"><p class="n">01</p><h3>We look at the place</h3><p>We come over, or you send photos on WhatsApp, and we agree on what you need.</p></div>
+      <div class="svc"><p class="n">02</p><h3>You get a clear price</h3><p>Equipment and labour are listed line by line, before any work starts.</p></div>
+      <div class="svc"><p class="n">03</p><h3>We install and hand over</h3><p>We test everything, show you how it works, and we're only a call away after that.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="policy">
+      <p><strong>How payment works.</strong> For standard products, you pay after you receive them. When we install, we ask for 50% before we set off and the rest when the job is done. Jobs outside Kigali are priced case by case.</p>
+      <p><strong>Already have the equipment?</strong> We'll install it for a price we agree on together.</p>
+    </div>
+  </div>
+</section>

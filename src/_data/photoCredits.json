@@ -1,0 +1,78 @@
+[
+  {
+    "image": "/assets/img/products/bnc-connector.jpg",
+    "title": "BNC connector 20050720 001.jpg",
+    "author": "Jonas Bergsten",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:BNC_connector_20050720_001.jpg",
+    "creditRequired": false,
+    "usedFor": [
+      "BNC Connector"
+    ]
+  },
+  {
+    "image": "/assets/img/products/ram-modules.jpg",
+    "title": "Memory modules.jpg",
+    "author": "Peter Fiskerstrand",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Memory_modules.jpg",
+    "creditRequired": true,
+    "usedFor": [
+      "RAM DDR4 8GB",
+      "RAM DDR4 16GB",
+      "RAM DDR4 4GB",
+      "RAM DDR3 8GB",
+      "RAM DDR3 4GB"
+    ]
+  },
+  {
+    "image": "/assets/img/products/ethernet-patch-cable.jpg",
+    "title": "EthernetCableGreen2.jpg",
+    "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:EthernetCableGreen2.jpg",
+    "creditRequired": false,
+    "usedFor": [
+      "Cat6 Patch Cord Bundle (30 pcs)"
+    ]
+  },
+  {
+    "image": "/assets/img/products/inline-duct-fan.jpg",
+    "title": "Inline Centrifugal Fan.jpg",
+    "author": "Saud",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Inline_Centrifugal_Fan.jpg",
+    "creditRequired": true,
+    "usedFor": [
+      "Small Fan Assembly"
+    ]
+  },
+  {
+    "image": "/assets/img/products/magnetic-door-lock.jpg",
+    "title": "Magnetic Lock.jpg",
+    "author": "Mooinglemur",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnetic_Lock.jpg",
+    "creditRequired": false,
+    "usedFor": [
+      "600lbs Magnetic Lock Kit"
+    ]
+  },
+  {
+    "image": "/assets/img/products/fiber-lc-connector.jpg",
+    "title": "LC-optical-fiber-connector-hdr-0a.jpg",
+    "author": "Adamantios",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:LC-optical-fiber-connector-hdr-0a.jpg",
+    "creditRequired": true,
+    "usedFor": [
+      "Fiber Termination Kit"
+    ]
+  }
+]

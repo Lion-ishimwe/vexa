@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Shop all products
+description: Every VEXA product in one place. CCTV, laptops, networking, air conditioning, fire safety, access control and accessories, priced in Rwandan francs.
+scripts:
+  - /assets/js/shop.js
+---
+<section class="page-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><span>Shop</span></nav>
+    <h1 data-shop-title>All products</h1>
+    <p>Hikvision, Bosch, LG, HP, Ubiquiti, D-Link and more. Prices in Rwandan francs, delivered and installed anywhere in Rwanda.</p>
+  </div>
+</section>
+{% set items = catalog.products %}
+{% set lockCat = false %}
+{% include "catalog-browser.njk" %}
