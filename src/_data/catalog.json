@@ -1402,7 +1402,8 @@
       "aisle": "Installation Parts",
       "price": null,
       "desc": "Large axial fan for plant rooms and heat exhaust.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/416423/pexels-photo-416423.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/red-and-blue-industrial-exhaust-fans-416423/"
     },
     {
       "slug": "black-rubber-insulation-1-1-8",
@@ -1523,7 +1524,8 @@
       "aisle": "Installation Parts",
       "price": 250000,
       "desc": "Fire damper/dump assembly for duct safety shutoff.",
-      "img": ""
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fire_damper_KPU_%2803%29.jpg/960px-Fire_damper_KPU_%2803%29.jpg",
+      "imgSource": "https://commons.wikimedia.org/wiki/File:Fire_damper_KPU_(03).jpg"
     },
     {
       "slug": "galvanized-sheet-0-6-mm",
@@ -1567,7 +1569,8 @@
       "aisle": "Installation Parts",
       "price": 11000,
       "desc": "High-pressure condensate/header drain pipe.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/29301874/pexels-photo-29301874.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/stack-of-pvc-pipes-at-a-construction-site-29301874/"
     },
     {
       "slug": "pvc-pipe-63-mm",
@@ -1578,7 +1581,8 @@
       "aisle": "Installation Parts",
       "price": 16000,
       "desc": "Rigid PVC for gravity drains and pump discharge.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/29301874/pexels-photo-29301874.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/stack-of-pvc-pipes-at-a-construction-site-29301874/"
     },
     {
       "slug": "pvc-pipe-90-mm",
@@ -1589,7 +1593,8 @@
       "aisle": "Installation Parts",
       "price": 26000,
       "desc": "90 mm drain/duct sleeve pipe.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/29301874/pexels-photo-29301874.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/stack-of-pvc-pipes-at-a-construction-site-29301874/"
     },
     {
       "slug": "pvc-pipe-110-mm",
@@ -1600,7 +1605,8 @@
       "aisle": "Installation Parts",
       "price": null,
       "desc": "Wide PVC pipe for several drain lines.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/29301874/pexels-photo-29301874.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/stack-of-pvc-pipes-at-a-construction-site-29301874/"
     },
     {
       "slug": "refrigerant-gas-r410a",
@@ -1622,7 +1628,8 @@
       "aisle": "Installation Parts",
       "price": 60000,
       "desc": "IR remote kit for wall splits and consoles.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/25525671/pexels-photo-25525671.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/remote-control-of-air-conditioner-25525671/"
     },
     {
       "slug": "remote-controller-wired",
@@ -1633,7 +1640,8 @@
       "aisle": "Installation Parts",
       "price": 260000,
       "desc": "Wall-mounted wired controller for VRF/ducted units.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/7616651/pexels-photo-7616651.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/white-thermostat-hanging-on-the-wall-7616651/"
     },
     {
       "slug": "small-fan-assembly",
@@ -1655,7 +1663,8 @@
       "aisle": "Installation Parts",
       "price": 6500000,
       "desc": "Main distribution board for HVAC plant control.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/28950842/pexels-photo-28950842.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/electrical-circuit-breaker-panel-with-color-coded-wiring-28950842/"
     },
     {
       "slug": "mdb2-distribution-board",
@@ -1666,7 +1675,8 @@
       "aisle": "Installation Parts",
       "price": 6500000,
       "desc": "Second distribution board for sites with several compressors.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/28950842/pexels-photo-28950842.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/electrical-circuit-breaker-panel-with-color-coded-wiring-28950842/"
     },
     {
       "slug": "grill-150-x-600-mm",
@@ -1677,7 +1687,8 @@
       "aisle": "Installation Parts",
       "price": null,
       "desc": "Aluminium grill for supply or return air, powder coated.",
-      "img": ""
+      "img": "https://images.pexels.com/photos/11973741/pexels-photo-11973741.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "imgSource": "https://www.pexels.com/photo/door-air-vent-in-close-up-shot-11973741/"
     },
     {
       "slug": "addressable-manual-call-point",
@@ -1842,7 +1853,8 @@
       "aisle": "Access Control & Alarms",
       "price": 455000,
       "desc": "Wireless & wired zones, GSM dialer, battery, and tamper switches.",
-      "img": ""
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alarm_control_panel_VERS_PK4_TRIO-M.jpg/960px-Alarm_control_panel_VERS_PK4_TRIO-M.jpg",
+      "imgSource": "https://commons.wikimedia.org/wiki/File:Alarm_control_panel_VERS_PK4_TRIO-M.jpg"
     },
     {
       "slug": "dual-tech-motion-detectors-4",
@@ -1875,7 +1887,8 @@
       "aisle": "Access Control & Alarms",
       "price": 985000,
       "desc": "Dual-monitor desk, alarm annunciator, and operator intercom handset.",
-      "img": ""
+      "img": "https://images.unsplash.com/photo-1708807472445-d33589e6b090?w=800&q=80",
+      "imgSource": "https://unsplash.com/photos/TtMKq3lJm-U"
     },
     {
       "slug": "logitech-wireless-mouse",
@@ -2336,7 +2349,8 @@
       "aisle": "Routers & Switches",
       "price": 1386615,
       "desc": "48-port managed PoE network switch.",
-      "img": ""
+      "img": "https://www.cisco.com/content/dam/cisco-cdc/site/images/legacy/assets/swa/img/anchor-info/ky09426-628x353.png",
+      "imgSource": "https://www.cisco.com/site/us/en/products/networking/switches/catalyst-1300-series-switches/index.html"
     },
     {
       "slug": "epson-ecotank-ink-cyan",

@@ -74,5 +74,117 @@
     "usedFor": [
       "Fiber Termination Kit"
     ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/416423/pexels-photo-416423.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Photo on Pexels",
+    "author": "a Pexels contributor",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "source": "https://www.pexels.com/photo/red-and-blue-industrial-exhaust-fans-416423/",
+    "creditRequired": false,
+    "usedFor": [
+      "Axial Ventilation Fan"
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fire_damper_KPU_%2803%29.jpg/960px-Fire_damper_KPU_%2803%29.jpg",
+    "title": "Fire damper KPU (03).jpg",
+    "author": "Wikimedia Commons contributor",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Fire_damper_KPU_(03).jpg",
+    "creditRequired": false,
+    "usedFor": [
+      "Fire Dump"
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/29301874/pexels-photo-29301874.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Photo on Pexels",
+    "author": "a Pexels contributor",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "source": "https://www.pexels.com/photo/stack-of-pvc-pipes-at-a-construction-site-29301874/",
+    "creditRequired": false,
+    "usedFor": [
+      "PVC Pipe PN16 50 mm",
+      "PVC Pipe 63 mm",
+      "PVC Pipe 90 mm",
+      "PVC Pipe 110 mm"
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/25525671/pexels-photo-25525671.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Photo on Pexels",
+    "author": "a Pexels contributor",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "source": "https://www.pexels.com/photo/remote-control-of-air-conditioner-25525671/",
+    "creditRequired": false,
+    "usedFor": [
+      "Remote Controller (Not Wired)"
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/7616651/pexels-photo-7616651.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Photo on Pexels",
+    "author": "a Pexels contributor",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "source": "https://www.pexels.com/photo/white-thermostat-hanging-on-the-wall-7616651/",
+    "creditRequired": false,
+    "usedFor": [
+      "Remote Controller (Wired)"
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/28950842/pexels-photo-28950842.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Photo on Pexels",
+    "author": "a Pexels contributor",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "source": "https://www.pexels.com/photo/electrical-circuit-breaker-panel-with-color-coded-wiring-28950842/",
+    "creditRequired": false,
+    "usedFor": [
+      "MDB1 Distribution Board",
+      "MDB2 Distribution Board"
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/11973741/pexels-photo-11973741.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Photo on Pexels",
+    "author": "a Pexels contributor",
+    "license": "Pexels License",
+    "licenseUrl": "https://www.pexels.com/license/",
+    "source": "https://www.pexels.com/photo/door-air-vent-in-close-up-shot-11973741/",
+    "creditRequired": false,
+    "usedFor": [
+      "Grill 150 x 600 mm"
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alarm_control_panel_VERS_PK4_TRIO-M.jpg/960px-Alarm_control_panel_VERS_PK4_TRIO-M.jpg",
+    "title": "Alarm control panel VERS PK4 TRIO M.jpg",
+    "author": "Wikimedia Commons contributor",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Alarm_control_panel_VERS_PK4_TRIO-M.jpg",
+    "creditRequired": false,
+    "usedFor": [
+      "Hybrid Alarm Control Panel"
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1708807472445-d33589e6b090?w=800&q=80",
+    "title": "Photo on Unsplash",
+    "author": "a Unsplash contributor",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/photos/TtMKq3lJm-U",
+    "creditRequired": false,
+    "usedFor": [
+      "Security Workstation Console"
+    ]
   }
 ]
