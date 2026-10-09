@@ -1,0 +1,33 @@
+# Netlify builds the site on Linux, so call Eleventy directly
+# (the npm "build" script points at a Windows-only .cmd wrapper).
+[build]
+  command = "npx @11ty/eleventy"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Photos and video rarely change: let browsers keep them for a week.
+# CSS and JS keep Netlify's default (always revalidated) so design changes show at once.
+[[headers]]
+  for = "/assets/Product/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/assets/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/assets/video/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/assets/brand/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
