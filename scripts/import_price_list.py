@@ -36,6 +36,9 @@ EXISTING_MATCHES = {
     "hik:DS-3E1318P-EI/M": "hikvision-16-port-smart-managed-switch",
 }
 
+# Workbook rows the owner took off the website; re-runs must not add them back
+REMOVED = {"hik:DS-3E1326P-EI/M", "hik:DS-3E1318P-EI/M"}
+
 # Rows not published until the owner confirms what they are (sheet, row): reason
 HOLD = {
     ("Schneider Price", 23): "name unreadable ('HonJaya $oJar RPP TW')",
@@ -416,6 +419,8 @@ def main():
     for row in rows:
         if row["held"]:
             held.append(row)
+            continue
+        if row["key"] in REMOVED:
             continue
         existing = by_key.get(row["key"]) or by_slug.get(EXISTING_MATCHES.get(row["key"], ""))
         if existing:

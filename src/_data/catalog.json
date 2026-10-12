@@ -31,7 +31,7 @@
       "name": "Networking",
       "tagline": "Routers, access points, managed switches, racks and adapters.",
       "img": "/assets/Product/landing/unifi1.jpeg",
-      "count": 97,
+      "count": 95,
       "aisles": [
         "Routers & Switches",
         "Infrastructure",
@@ -816,33 +816,6 @@
       "desc": "5-port 10/100 Mbps switch for a desk or small office.",
       "img": "/assets/Product/D-link3.JPG",
       "sku": "VX-1081"
-    },
-    {
-      "slug": "hikvision-24-port-smart-managed-switch",
-      "title": "Hikvision 24-Port Smart Managed Switch",
-      "brand": "Hikvision",
-      "model": "DS-3E1326P-EI/M",
-      "category": "networking",
-      "aisle": "Routers & Switches",
-      "price": 327750,
-      "desc": "24-port 10/100 Mbps switch with smart features, made for camera networks.",
-      "img": "/assets/Product/SWITCH 24 PORTS.JPG",
-      "supplierKey": "hik:DS-3E1326P-EI/M",
-      "sku": "VX-1082"
-    },
-    {
-      "slug": "hikvision-16-port-smart-managed-switch",
-      "title": "Hikvision 16-Port Smart Managed Switch",
-      "brand": "Hikvision",
-      "model": "DS-3E1318P-EI/M",
-      "category": "networking",
-      "aisle": "Routers & Switches",
-      "price": 207000,
-      "desc": "16-port managed switch that works well with Hikvision cameras.",
-      "img": "/assets/Product/switch 16 ports.jpg",
-      "featured": true,
-      "supplierKey": "hik:DS-3E1318P-EI/M",
-      "sku": "VX-1083"
     },
     {
       "slug": "24-port-gigabit-switch",
