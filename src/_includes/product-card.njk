@@ -6,7 +6,7 @@
   data-text="{{ (p.title + ' ' + p.brand + ' ' + p.model + ' ' + p.aisle + ' ' + p.desc) | lower }}">
   {% if p.featured %}<span class="card-badge">Best seller</span>{% endif %}
   <a class="card-media{% if not p.img %} is-placeholder{% endif %}" href="/product/{{ p.slug }}/" tabindex="-1" aria-hidden="true">
-    <img src="{{ photo }}" alt="" loading="lazy" referrerpolicy="no-referrer" data-fallback="/assets/img/cat/{{ p.category }}.svg">
+    <img src="{{ photo | imgsrc(400) }}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-original="{{ photo }}" data-fallback="/assets/img/cat/{{ p.category }}.svg">
   </a>
   <div class="card-body">
     <p class="card-brand">{{ p.brand }}</p>
@@ -16,8 +16,8 @@
       <span class="price{% if not p.price %} is-quote{% endif %}">{{ p.price | rwf }}</span>
       <button type="button" class="add-btn" aria-label="Add {{ p.title }} to cart"
         data-add-to-cart data-slug="{{ p.slug }}" data-title="{{ p.title }}" data-price="{{ p.price or 0 }}"
-        data-img="{{ photo }}" data-brand="{{ p.brand }}">
-        {{ icon("cart-plus") }}
+        data-img="{{ photo | imgsrc(160) }}" data-brand="{{ p.brand }}">
+        <svg class="icon" aria-hidden="true"><use href="#i-cart-plus"/></svg>
       </button>
     </div>
   </div>

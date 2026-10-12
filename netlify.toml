@@ -31,3 +31,24 @@
   [headers.values]
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
+
+[images]
+  remote_images = [
+    'https://assets\.hikvision\.com/.*',
+    'https://assets\.legrand\.com/.*',
+    'https://assets2\.jabra\.com/.*',
+    'https://dlcdnwebimgs\.asus\.com/.*',
+    'https://download\.se\.com/.*',
+    'https://hp\.widen\.net/.*',
+    'https://i8\.amplience\.net/.*',
+    'https://images\.pexels\.com/.*',
+    'https://images\.unsplash\.com/.*',
+    'https://lightwaveglobal\.com/.*',
+    'https://p4\-ofp\.static\.pub/.*',
+    'https://resource\.logitech\.com/.*',
+    'https://storage\-asset\.msi\.com/.*',
+    'https://upload\.wikimedia\.org/.*',
+    'https://www\.cisco\.com/.*',
+    'https://www\.kstar\.com\.cn/.*',
+    'https://www\.kstarnewenergy\.com/.*'
+  ]

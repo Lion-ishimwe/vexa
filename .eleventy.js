@@ -2,6 +2,17 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addWatchTarget("src/");
 
+  // Linked product photos (manufacturer sites) go through Netlify's Image CDN on the live site:
+  // fetched once, resized to the width the page needs, converted to WebP/AVIF and cached.
+  // Local builds keep the original link. Allowed hosts are listed in netlify.toml [images].
+  // Hikvision refuses non-browser fetches and its photos are already small, so they stay direct links.
+  const onNetlify = Boolean(process.env.NETLIFY);
+  const directHosts = /^https?:\/\/assets\.hikvision\.com\//;
+  eleventyConfig.addFilter("imgsrc", (url, width) => {
+    if (!url || !/^https?:\/\//.test(url) || !onNetlify || directHosts.test(url)) return url;
+    return `/.netlify/images?url=${encodeURIComponent(url)}&w=${width || 600}&q=78`;
+  });
+
   // 1250000 -> "RWF 1,250,000"; missing prices read as a quote request
   eleventyConfig.addFilter("rwf", (amount) => {
     if (typeof amount !== "number" || !Number.isFinite(amount) || amount <= 0) {

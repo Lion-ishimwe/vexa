@@ -300,6 +300,12 @@
   const PLACEHOLDER = '/assets/img/placeholder.svg';
   const useFallback = (img) => {
     if (img.dataset.fellBack) return;
+    // resized copy failed: try the original link once, then the placeholder
+    if (img.dataset.original && !img.dataset.triedOriginal && img.getAttribute('src') !== img.dataset.original) {
+      img.dataset.triedOriginal = '1';
+      img.src = img.dataset.original;
+      return;
+    }
     img.dataset.fellBack = '1';
     img.src = img.dataset.fallback || PLACEHOLDER;
     const box = img.closest('.card-media, .pdp-media');

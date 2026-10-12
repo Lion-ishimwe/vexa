@@ -25,7 +25,7 @@ scripts:
 
   <div class="pdp">
     <div class="pdp-media{% if not product.img %} is-placeholder{% endif %}">
-      <img src="{{ photo }}" alt="{{ product.title }}" referrerpolicy="no-referrer" data-fallback="/assets/img/cat/{{ product.category }}.svg">
+      <img src="{{ photo | imgsrc(900) }}" alt="{{ product.title }}" decoding="async" referrerpolicy="no-referrer" data-original="{{ photo }}" data-fallback="/assets/img/cat/{{ product.category }}.svg">
     </div>
 
     <div class="pdp-info">
@@ -53,7 +53,7 @@ scripts:
 
       <div class="pdp-buy" data-buy
         data-slug="{{ product.slug }}" data-title="{{ product.title }}" data-price="{{ product.price or 0 }}"
-        data-img="{{ photo }}" data-brand="{{ product.brand }}">
+        data-img="{{ photo | imgsrc(160) }}" data-brand="{{ product.brand }}">
         <div class="qty qty-lg" data-qty>
           <button type="button" data-step="-1" aria-label="Decrease quantity">&minus;</button>
           <input type="number" min="1" max="99" value="1" aria-label="Quantity" data-qty-input>
