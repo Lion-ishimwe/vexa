@@ -36,8 +36,14 @@ module.exports = function(eleventyConfig) {
     return [...sameAisle, ...rest].slice(0, n);
   });
 
-  // Stable store reference shown on product pages and orders
-  eleventyConfig.addFilter("sku", (items, product) => "VX-" + String((items || []).indexOf(product) + 1001));
+  // Stable store reference shown on product pages and orders. Products carry their own sku so
+  // removing one never renumbers the rest; anything added without one continues after the highest.
+  eleventyConfig.addFilter("sku", (items, product) => {
+    if (product.sku) return product.sku;
+    const list = items || [];
+    const top = Math.max(1000, ...list.map(item => parseInt(String(item.sku || "").slice(3), 10) || 0));
+    return "VX-" + String(top + 1 + list.filter(item => !item.sku).indexOf(product));
+  });
 
   return {
     dir: {

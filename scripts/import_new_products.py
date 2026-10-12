@@ -45,6 +45,11 @@ def clean_text(s):
     return s
 
 
+def next_sku(cat):
+    """Store references never get reused, so new products continue after the highest one."""
+    return "VX-" + str(max([1000] + [int(p["sku"][3:]) for p in cat["products"] if p.get("sku")]) + 1)
+
+
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
@@ -100,10 +105,11 @@ def main():
             "category": dept_c["slug"], "aisle": clean_text(aisle or "Other"),
             "price": amount, "desc": clean_text(desc or ""), "img": "",
         }
+        product["sku"] = next_sku(cat)
         cat["products"].append(product)
         have_titles.add(title.lower())
         have_slugs.add(slug)
-        added.append((r, product, "VX-" + str(len(cat["products"]) + 1000)))
+        added.append((r, product, product["sku"]))
 
     # department counts and sections follow the products
     for c in cat["categories"]:

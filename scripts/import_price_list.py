@@ -432,7 +432,8 @@ def main():
         slugs.add(slug)
         product = {"slug": slug, "title": row["title"], "brand": row["brand"], "model": row["model"],
                    "category": row["dept"], "aisle": row["aisle"], "price": row["price"], "desc": describe(row),
-                   "img": "", "supplierKey": row["key"]}
+                   "img": "", "supplierKey": row["key"],
+                   "sku": "VX-" + str(max([1000] + [int(p["sku"][3:]) for p in cat["products"] if p.get("sku")]) + 1)}
         cat["products"].append(product)
         by_key[row["key"]] = product
         added.append(product)
