@@ -928,8 +928,9 @@
       "aisle": "Cabling & Connectors",
       "price": 75000,
       "desc": "A full 305m box of Cat6 cable for bigger camera and network jobs.",
-      "img": "",
-      "sku": "VX-1050"
+      "img": "https://images.pexels.com/photos/97975/pexels-photo-97975.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "sku": "VX-1050",
+      "imgSource": "https://www.pexels.com/photo/cable-lan-rj-45-ethernet-97975/"
     },
     {
       "slug": "video-baluns-pair",
@@ -1897,8 +1898,9 @@
       "aisle": "Installation Parts",
       "price": 36000,
       "desc": "Gauge 0.6 mm sheet for duct fabrication.",
-      "img": "",
-      "sku": "VX-1131"
+      "img": "https://images.pexels.com/photos/7790106/pexels-photo-7790106.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "sku": "VX-1131",
+      "imgSource": "https://www.pexels.com/photo/close-up-of-a-metal-sheet-texture-7790106/"
     },
     {
       "slug": "galvanized-sheet-0-8-mm",
@@ -1909,8 +1911,9 @@
       "aisle": "Installation Parts",
       "price": 48000,
       "desc": "Stiffer GI sheet for plenums and transitions.",
-      "img": "",
-      "sku": "VX-1132"
+      "img": "https://images.pexels.com/photos/7790106/pexels-photo-7790106.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "sku": "VX-1132",
+      "imgSource": "https://www.pexels.com/photo/close-up-of-a-metal-sheet-texture-7790106/"
     },
     {
       "slug": "galvanized-sheet-1-0-mm",
@@ -1921,8 +1924,9 @@
       "aisle": "Installation Parts",
       "price": 65000,
       "desc": "Heavy gauge duct sheet for outdoor sections.",
-      "img": "",
-      "sku": "VX-1133"
+      "img": "https://images.pexels.com/photos/7790106/pexels-photo-7790106.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "sku": "VX-1133",
+      "imgSource": "https://www.pexels.com/photo/close-up-of-a-metal-sheet-texture-7790106/"
     },
     {
       "slug": "pvc-pipe-pn16-50-mm",
@@ -3172,8 +3176,9 @@
       "aisle": "Storage & Memory",
       "price": 25269,
       "desc": "External enclosure for SATA SSD, M/B+M key socket.",
-      "img": "",
-      "sku": "VX-1233"
+      "img": "https://images.pexels.com/photos/4675007/pexels-photo-4675007.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "sku": "VX-1233",
+      "imgSource": "https://www.pexels.com/photo/close-up-of-a-usb-hard-drive-4675007/"
     },
     {
       "slug": "light-wave-ssd-case-02-m-2-nvme-ssd-m-key-socket",
@@ -3184,8 +3189,9 @@
       "aisle": "Storage & Memory",
       "price": 20183,
       "desc": "External enclosure for M.2 NVMe SSD, M key socket.",
-      "img": "",
-      "sku": "VX-1234"
+      "img": "https://images.pexels.com/photos/4675007/pexels-photo-4675007.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "sku": "VX-1234",
+      "imgSource": "https://www.pexels.com/photo/close-up-of-a-usb-hard-drive-4675007/"
     },
     {
       "slug": "light-wave-super-fast-charger-2p-3p-3usb-65w-2m",
@@ -6147,9 +6153,10 @@
       "aisle": "Faceplates & Data Sockets",
       "price": 1500,
       "desc": "Face Plate, Single. Supplied by VEXA in Kigali, with installation available.",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ethernet_Jack_on_Wall_-_CAT6.jpg/1280px-Ethernet_Jack_on_Wall_-_CAT6.jpg",
       "supplierKey": "aico:face plate single",
-      "sku": "VX-1447"
+      "sku": "VX-1447",
+      "imgSource": "https://commons.wikimedia.org/wiki/File:Ethernet_Jack_on_Wall_-_CAT6.jpg"
     },
     {
       "slug": "aico-rj45-data-socket-single",
@@ -6160,9 +6167,10 @@
       "aisle": "Faceplates & Data Sockets",
       "price": 2200,
       "desc": "RJ45 Data Socket, Single. Supplied by VEXA in Kigali, with installation available.",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Keystone_module_CAT5_orange.jpg/1280px-Keystone_module_CAT5_orange.jpg",
       "supplierKey": "aico:data socket rj45 single data",
-      "sku": "VX-1448"
+      "sku": "VX-1448",
+      "imgSource": "https://commons.wikimedia.org/wiki/File:Keystone_module_CAT5_orange.jpg"
     },
     {
       "slug": "aico-face-plate-double",
@@ -6186,9 +6194,10 @@
       "aisle": "Faceplates & Data Sockets",
       "price": 3400,
       "desc": "RJ45 Data Socket, Double. Supplied by VEXA in Kigali, with installation available.",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Network_socket_with_two_RJ45_sockets_%28CAT6%29.jpg/1280px-Network_socket_with_two_RJ45_sockets_%28CAT6%29.jpg",
       "supplierKey": "aico:data socket rj45 doublee data",
-      "sku": "VX-1450"
+      "sku": "VX-1450",
+      "imgSource": "https://commons.wikimedia.org/wiki/File:Network_socket_with_two_RJ45_sockets_(CAT6).jpg"
     },
     {
       "slug": "aico-rj45-to-rj45-utp-through-module",
@@ -6239,9 +6248,10 @@
       "aisle": "Batteries",
       "price": 1815000,
       "desc": "Lithium Battery Pack for HH6KS. Supplied by VEXA in Kigali, with installation available.",
-      "img": "",
+      "img": "https://images.pexels.com/photos/37929911/pexels-photo-37929911.jpeg?auto=compress&cs=tinysrgb&w=1200",
       "supplierKey": "solar:r6::lthium battery pack",
-      "sku": "VX-1454"
+      "sku": "VX-1454",
+      "imgSource": "https://www.pexels.com/photo/high-efficiency-residential-power-inverter-setup-37929911/"
     },
     {
       "slug": "battery-to-inverter-cables-for-hh6ks",
@@ -6669,9 +6679,10 @@
       "aisle": "Access Control & Alarms",
       "price": 41400,
       "desc": "Automatic Door Closer.",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Door_closer_20170214.jpg/1280px-Door_closer_20170214.jpg",
       "supplierKey": "hik:DS-K4DC103",
-      "sku": "VX-1520"
+      "sku": "VX-1520",
+      "imgSource": "https://commons.wikimedia.org/wiki/File:Door_closer_20170214.jpg"
     },
     {
       "slug": "hikvision-ds-k4dc104-automatic-door-closer",
@@ -6682,9 +6693,10 @@
       "aisle": "Access Control & Alarms",
       "price": 50025,
       "desc": "Automatic Door Closer.",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Door_closer_20170214.jpg/1280px-Door_closer_20170214.jpg",
       "supplierKey": "hik:DS-K4DC104",
-      "sku": "VX-1521"
+      "sku": "VX-1521",
+      "imgSource": "https://commons.wikimedia.org/wiki/File:Door_closer_20170214.jpg"
     },
     {
       "slug": "hikvision-ds-k4h255-lz-value-magnetic-locks",

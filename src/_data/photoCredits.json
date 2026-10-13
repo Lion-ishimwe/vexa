@@ -186,5 +186,54 @@
     "usedFor": [
       "Security Workstation Console"
     ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ethernet_Jack_on_Wall_-_CAT6.jpg/1280px-Ethernet_Jack_on_Wall_-_CAT6.jpg",
+    "title": "Ethernet Jack on Wall - CAT6.jpg",
+    "author": "Tony Webster",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Ethernet_Jack_on_Wall_-_CAT6.jpg",
+    "creditRequired": true,
+    "usedFor": [
+      "AICO Face Plate, Single"
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Keystone_module_CAT5_orange.jpg/1280px-Keystone_module_CAT5_orange.jpg",
+    "title": "Keystone module CAT5 orange.jpg",
+    "author": "Dmeranda",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Keystone_module_CAT5_orange.jpg",
+    "creditRequired": false,
+    "usedFor": [
+      "AICO RJ45 Data Socket, Single"
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Network_socket_with_two_RJ45_sockets_%28CAT6%29.jpg/1280px-Network_socket_with_two_RJ45_sockets_%28CAT6%29.jpg",
+    "title": "Network socket with two RJ45 sockets (CAT6).jpg",
+    "author": "www.heimnetzwerke.net",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Network_socket_with_two_RJ45_sockets_(CAT6).jpg",
+    "creditRequired": true,
+    "usedFor": [
+      "AICO RJ45 Data Socket, Double"
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Door_closer_20170214.jpg/1280px-Door_closer_20170214.jpg",
+    "title": "Door closer 20170214.jpg",
+    "author": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Door_closer_20170214.jpg",
+    "creditRequired": true,
+    "usedFor": [
+      "Hikvision DS-K4DC103 Automatic Door Closer",
+      "Hikvision DS-K4DC104 Automatic Door Closer"
+    ]
   }
 ]
