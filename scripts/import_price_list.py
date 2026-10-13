@@ -239,12 +239,12 @@ def aico_title(name):
 
 HIK_GROUPS = {
     "CABLE": ("networking", "Network Cable"),
-    "CAMERA": ("cctv", "Cameras & Kits"),
-    "SOLAR CAMERA": ("cctv", "Cameras & Kits"),
-    "CAMERA&DVR KIT": ("cctv", "Cameras & Kits"),
+    "CAMERA": ("cctv", "Cameras"),
+    "SOLAR CAMERA": ("cctv", "Cameras"),
+    "CAMERA&DVR KIT": ("cctv", "Camera Kits"),
     "SWITCH": ("networking", "Routers & Switches"),
     "WIFI ROUTER": ("networking", "Routers & Switches"),
-    "NVR": ("cctv", "Recorders & Storage"),
+    "NVR": ("cctv", "NVR & DVR"),
     "SCREEN MONITORS": ("computers", "Monitors"),
     "POWER ADAPTER": ("networking", "Adapters"),
 }
