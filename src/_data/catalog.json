@@ -1053,7 +1053,7 @@
       "model": "ATUQ22GPLA2",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 2100000,
+      "price": 2200000,
       "desc": "Four-way cassette with drain pump and round diffuser fascia.",
       "img": "/assets/Product/landing/casette 18k LG.jpg",
       "sku": "VX-1103"
@@ -1065,7 +1065,7 @@
       "model": "ATUQ30GPLA2",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 2400000,
+      "price": 2500000,
       "desc": "Ceiling cassette for meeting rooms and shops.",
       "img": "/assets/Product/landing/LG Cassette 24k.jpg",
       "featured": true,
@@ -1078,7 +1078,7 @@
       "model": "",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 3400000,
+      "price": 3500000,
       "desc": "Large LG cassette that blows air in every direction, with a wired controller.",
       "img": "/assets/Product/landing/LG Cassette 36k.jpg",
       "sku": "VX-1105"
@@ -1090,7 +1090,7 @@
       "model": "",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 4500000,
+      "price": 4600000,
       "desc": "Our largest LG cassette, for big halls.",
       "img": "/assets/Product/landing/LG Cassette 48k.JPG",
       "sku": "VX-1106"
