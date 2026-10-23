@@ -37,7 +37,8 @@ EXISTING_MATCHES = {
 }
 
 # Workbook rows the owner took off the website; re-runs must not add them back
-REMOVED = {"hik:DS-3E1326P-EI/M", "hik:DS-3E1318P-EI/M"}
+REMOVED = {"hik:DS-3E1326P-EI/M", "hik:DS-3E1318P-EI/M",
+           "hik:DS-1LN6U-SC0", "hik:DS-1LN6UTC0", "hik:DS-1LN6UU/CCA"}
 
 # Rows not published until the owner confirms what they are (sheet, row): reason
 HOLD = {

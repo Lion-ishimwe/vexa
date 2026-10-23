@@ -34,7 +34,7 @@
       "name": "Networking",
       "tagline": "Routers, access points, managed switches, racks and adapters.",
       "img": "/assets/Product/landing/unifi1.jpeg",
-      "count": 94,
+      "count": 91,
       "aisles": [
         "Routers & Switches",
         "Infrastructure",
@@ -6333,48 +6333,6 @@
       "img": "",
       "supplierKey": "solar:r13:battery to inverter cables:1 h pack 5.1battery",
       "sku": "VX-1461"
-    },
-    {
-      "slug": "hikvision-ds-1ln6u-sc0-305-m-cat6-utp-network-cable-solid-copper-0-55-mm-orange",
-      "title": "Hikvision DS-1LN6U-SC0 305 m CAT6 UTP Network Cable (Solid Copper, 0.55 mm, Orange)",
-      "brand": "Hikvision",
-      "model": "DS-1LN6U-SC0",
-      "category": "networking",
-      "aisle": "Network Cable",
-      "price": 230000,
-      "desc": "305 m CAT6 UTP Network Cable (Solid Copper, 0.55 mm, Orange).",
-      "img": "https://assets.hikvision.com/prd/normal/all/image/m000039797/%E5%85%AD%E7%B1%BB.png.thumb.1280.1280.png",
-      "supplierKey": "hik:DS-1LN6U-SC0",
-      "imgSource": "https://www.hikvision.com/en/products/premises-distribution-system/cable/copper-cables/ds-1ln6u-sc0/",
-      "sku": "VX-1463"
-    },
-    {
-      "slug": "hikvision-ds-1ln6utc0-cat6-u-utp-network-cable-solid-copper-0-515mm",
-      "title": "Hikvision DS-1LN6UTC0 CAT6 U/UTP Network Cable (Solid Copper, 0.515mm)",
-      "brand": "Hikvision",
-      "model": "DS-1LN6UTC0",
-      "category": "networking",
-      "aisle": "Network Cable",
-      "price": 230000,
-      "desc": "CAT6 U/UTP Network Cable (Solid Copper, 0.515mm).",
-      "img": "https://assets.hikvision.com/prd/normal/all/image/m000073643/%E5%85%AD%E7%B1%BB3.png.thumb.1280.1280.png",
-      "supplierKey": "hik:DS-1LN6UTC0",
-      "imgSource": "https://www.hikvision.com/en/products/premises-distribution-system/cable/copper-cables/ds-1ln6utc0/",
-      "sku": "VX-1464"
-    },
-    {
-      "slug": "hikvision-ds-1ln6uu-cca-cat6-u-utp-network-cable-cca-0-57mm",
-      "title": "Hikvision DS-1LN6UU/CCA CAT6 U/UTP Network Cable (CCA, 0.57mm)",
-      "brand": "Hikvision",
-      "model": "DS-1LN6UU/CCA",
-      "category": "networking",
-      "aisle": "Network Cable",
-      "price": 160425,
-      "desc": "CAT6 U/UTP Network Cable (CCA, 0.57mm).",
-      "img": "https://assets.hikvision.com/prd/normal/all/image/m000112376/CCA1.png.thumb.1280.1280.png",
-      "supplierKey": "hik:DS-1LN6UU/CCA",
-      "imgSource": "https://www.hikvision.com/mena-en/products/premises-distribution-system/copper/network-cables/ds-1ln6uu-cca/",
-      "sku": "VX-1465"
     },
     {
       "slug": "hikvision-305-m-cat6-utp-network-cable-full-copper",
