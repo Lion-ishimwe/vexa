@@ -29,5 +29,6 @@
   { "from": "/gallery/hvac/", "to": "/services/#hvac" },
   { "from": "/gallery/fire/", "to": "/services/#fire" },
   { "from": "/gallery/generator/", "to": "/services/#generator" },
-  { "from": "/gallery/webdev/", "to": "/services/#webdev" }
+  { "from": "/gallery/webdev/", "to": "/services/#webdev" },
+  { "from": "/product/hikvision-ds-1ln6u-w-cca-305-m-cat6-utp-network-cable-cca-0-565-mm/", "to": "/product/hikvision-305-m-cat6-utp-network-cable-full-copper/" }
 ]

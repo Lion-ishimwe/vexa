@@ -61,7 +61,8 @@ def main():
     ws = load_workbook(xlsx, data_only=True)["New products"]
     cat = json.load(open(CATALOG, encoding="utf8"))
     dept_by_name = {c["name"].lower(): c for c in cat["categories"]}
-    have_titles = {p["title"].lower() for p in cat["products"]}
+    # titles the owner took off the website count as present, so a re-run does not add them back
+    have_titles = {p["title"].lower() for p in cat["products"]} | {t.lower() for t in cat.get("removedTitles", [])}
     by_title = {p["title"].lower(): p for p in cat["products"]}
     repriced = []
     have_slugs = {p["slug"] for p in cat["products"]}

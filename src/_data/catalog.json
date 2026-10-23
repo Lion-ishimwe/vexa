@@ -34,12 +34,11 @@
       "name": "Networking",
       "tagline": "Routers, access points, managed switches, racks and adapters.",
       "img": "/assets/Product/landing/unifi1.jpeg",
-      "count": 95,
+      "count": 94,
       "aisles": [
         "Routers & Switches",
         "Infrastructure",
         "Adapters",
-        "Cabling & Connectors",
         "Network Cable",
         "Patch Cords",
         "Racks & Cabinets",
@@ -3101,19 +3100,6 @@
       "img": "https://lightwaveglobal.com/media/catalog/product/l/w/lw-dch-140w-501.webp",
       "imgSource": "https://lightwaveglobal.com/lightwave-140w-super-fast-universal-wireless-charger-lw-dch-140w-501",
       "sku": "VX-1227"
-    },
-    {
-      "slug": "light-wave-cat-6-utp-cable-roll",
-      "title": "Light Wave Cat 6 UTP Cable Roll",
-      "brand": "Light Wave",
-      "model": "",
-      "category": "networking",
-      "aisle": "Cabling & Connectors",
-      "price": 68323,
-      "desc": "Cat 6 UTP network cable, full roll.",
-      "img": "https://lightwaveglobal.com/media/catalog/product/l/w/lw_cat6_utp1_e4c7.png",
-      "imgSource": "https://lightwaveglobal.com/lightwave-lw-cat6-utp-ethernet-cable",
-      "sku": "VX-1228"
     },
     {
       "slug": "light-wave-docking-station-6-in-1-3xusb-hdmi-rj45",
@@ -6391,18 +6377,19 @@
       "sku": "VX-1465"
     },
     {
-      "slug": "hikvision-ds-1ln6u-w-cca-305-m-cat6-utp-network-cable-cca-0-565-mm",
-      "title": "Hikvision DS-1LN6U-W/CCA 305 m CAT6 UTP Network Cable (CCA,0.565 mm)",
+      "slug": "hikvision-305-m-cat6-utp-network-cable-full-copper",
+      "title": "Hikvision 305 m CAT6 UTP Network Cable (Full Copper, 0.565 mm)",
       "brand": "Hikvision",
-      "model": "DS-1LN6U-W/CCA",
+      "model": "",
       "category": "networking",
       "aisle": "Network Cable",
-      "price": 172500,
-      "desc": "305 m CAT6 UTP Network Cable (CCA,0.565 mm).",
-      "img": "https://assets.hikvision.com/prd/normal/all/image/m000001454/CCA.png.thumb.1280.1280.png",
+      "price": 220000,
+      "desc": "305 m box of CAT6 UTP network cable with full copper conductors (0.565 mm), not copper clad aluminium.",
+      "img": "https://assets.hikvision.com/prd/normal/all/image/m000001455/%E5%85%AD%E7%B1%BB1.png.thumb.1280.1280.png",
       "supplierKey": "hik:DS-1LN6U-W/CCA",
-      "imgSource": "https://www.hikvision.com/mena-en/products/premises-distribution-system/copper/network-cables/ds-1ln6u-w-cca/",
-      "sku": "VX-1466"
+      "imgSource": "https://www.hikvision.com/mena-en/products/premises-distribution-system/copper/network-cables/ds-1ln6-ue-w/",
+      "sku": "VX-1466",
+      "priceLocked": true
     },
     {
       "slug": "hikvision-ds-3e0520hp-e-16-port-gigabit-unmanaged-poe-switch",
@@ -7122,5 +7109,8 @@
       "imgSource": "https://www.kstar.com.cn/index.php/product/info/152.html",
       "sku": "VX-1553"
     }
+  ],
+  "removedTitles": [
+    "Light Wave Cat 6 UTP Cable Roll"
   ]
 }

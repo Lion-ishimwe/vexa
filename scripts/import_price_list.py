@@ -427,7 +427,8 @@ def main():
             existing.setdefault("supplierKey", row["key"])
             if row["model"] and not existing.get("model"):
                 existing["model"] = row["model"]
-            if row["price"] and row["price"] != existing.get("price"):
+            # priceLocked: the owner set this price on the website, the workbook figure is out of date
+            if row["price"] and row["price"] != existing.get("price") and not existing.get("priceLocked"):
                 repriced.append((row, existing.get("price")))
                 existing["price"] = row["price"]
             continue
