@@ -51,7 +51,7 @@
       "name": "Air Conditioning",
       "tagline": "Bosch and LG splits, cassettes, VRF systems and installation parts.",
       "img": "/assets/Product/Service/air.jpg",
-      "count": 51,
+      "count": 52,
       "aisles": [
         "AC Units",
         "Installation Parts"
@@ -138,7 +138,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Cameras",
-      "price": null,
+      "price": 430000,
       "desc": "8MP varifocal camera with AcuSense for false alarm reduction.",
       "img": "/assets/Product/8mp dome.JPG",
       "sku": "VX-1019"
@@ -430,7 +430,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Cameras",
-      "price": 50000,
+      "price": 45000,
       "desc": "360° Wi-Fi camera for small shops and apartments.",
       "img": "/assets/Product/panaroma.JPG",
       "sku": "VX-1017"
@@ -631,7 +631,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Hard Drives",
-      "price": 80000,
+      "price": 90000,
       "desc": "1TB drive made for recording 24 hours a day. Comes with a 3-year warranty.",
       "img": "/assets/Product/landing/1TB.JPG",
       "sku": "VX-1024"
@@ -643,7 +643,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Hard Drives",
-      "price": 120000,
+      "price": 150000,
       "desc": "2TB drive for round-the-clock recording.",
       "img": "/assets/Product/landing/2TB.JPG",
       "sku": "VX-1025"
@@ -655,7 +655,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Hard Drives",
-      "price": 170000,
+      "price": 220000,
       "desc": "4TB drive, a good size for most recorders.",
       "img": "/assets/Product/landing/4TB.JPG",
       "sku": "VX-1026"
@@ -667,7 +667,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Hard Drives",
-      "price": 210000,
+      "price": 270000,
       "desc": "6TB drive for keeping footage longer.",
       "img": "/assets/Product/landing/6TB.JPG",
       "sku": "VX-1027"
@@ -679,7 +679,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Hard Drives",
-      "price": 270000,
+      "price": 400000,
       "desc": "8TB drive built for recorders that run all day.",
       "img": "/assets/Product/landing/8TB.JPG",
       "sku": "VX-1028"
@@ -691,7 +691,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Hard Drives",
-      "price": 300000,
+      "price": 660000,
       "desc": "10TB drive for keeping weeks of footage from many cameras.",
       "img": "/assets/Product/landing/10TB.JPG",
       "sku": "VX-1029"
@@ -775,7 +775,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Memory Cards",
-      "price": 35000,
+      "price": 20000,
       "desc": "32GB microSD card for Wi-Fi cameras.",
       "img": "/assets/Product/landing/32 GB memory card.png",
       "sku": "VX-1036"
@@ -787,7 +787,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Memory Cards",
-      "price": 55000,
+      "price": 25000,
       "desc": "64GB microSD card so your camera keeps longer recordings.",
       "img": "/assets/Product/landing/64 GB Memory card.JPG",
       "sku": "VX-1037"
@@ -799,7 +799,7 @@
       "model": "",
       "category": "cctv",
       "aisle": "Memory Cards",
-      "price": 85000,
+      "price": 32000,
       "desc": "128GB microSD card for cameras that record a lot.",
       "img": "/assets/Product/landing/128 GB Memory card.jpg",
       "sku": "VX-1038"
@@ -811,14 +811,14 @@
       "model": "",
       "category": "cctv",
       "aisle": "Memory Cards",
-      "price": 120000,
+      "price": 80000,
       "desc": "256GB microSD card, the biggest camera card we carry.",
       "img": "/assets/Product/landing/256 GB Memory card.JPG",
       "sku": "VX-1039"
     },
     {
       "slug": "hikvision-ds-j142i-7204hghi-m1-plus-2-plus-2cam-colorvu-4-ch-h-264-1-mp-bullet-and-turret",
-      "title": "Hikvision DS-J142I/7204HGHI-M1+2+2CAM/COLORVU 4-ch H.264 1 MP Bullet&Turret Kit",
+      "title": "Hikvision Kit of 4 Cameras, ColorVu (2 bullet + 2 dome cameras, 4 cables of 20 m each, DVR)",
       "brand": "Hikvision",
       "model": "DS-J142I/7204HGHI-M1+2+2CAM/COLORVU",
       "category": "cctv",
@@ -831,7 +831,7 @@
     },
     {
       "slug": "hikvision-ds-j142i-7204hghi-m1-plus-2-plus-2cam-hybrid-4-ch-h-264-1-mp-bullet-and-turret-k",
-      "title": "Hikvision DS-J142I/7204HGHI-M1+2+2CAM/HYBRID 4-ch H.264 1 MP Bullet&Turret Kit",
+      "title": "Hikvision Kit of 4 Cameras, Hybrid (2 bullet + 2 dome cameras, 4 cables of 20 m each, DVR)",
       "brand": "Hikvision",
       "model": "DS-J142I/7204HGHI-M1+2+2CAM/HYBRID",
       "category": "cctv",
@@ -844,7 +844,7 @@
     },
     {
       "slug": "hikvision-ds-j142i-7208hghi-m1-plus-4-plus-4cam-colorvu-8-ch-h-264-1-mp-bullet-and-turret",
-      "title": "Hikvision DS-J142I/7208HGHI-M1+4+4CAM/COLORVU 8-ch H.264 1 MP Bullet&Turret Kit",
+      "title": "Hikvision Kit of 8 Cameras, ColorVu (4 bullet + 4 dome cameras, 8 cables of 20 m each, DVR)",
       "brand": "Hikvision",
       "model": "DS-J142I/7208HGHI-M1+4+4CAM/COLORVU",
       "category": "cctv",
@@ -857,16 +857,17 @@
     },
     {
       "slug": "hikvision-ds-j142i-7208hghi-m1-plus-4-plus-4cam-hybrid-8-ch-h-264-1-mp-bullet-and-turret-k",
-      "title": "Hikvision DS-J142I/7208HGHI-M1+4+4CAM/HYBRID 8-ch H.264 1 MP Bullet&Turret Kit",
+      "title": "Hikvision Kit of 8 Cameras, Hybrid (4 bullet + 4 dome cameras, 8 cables of 20 m each, DVR)",
       "brand": "Hikvision",
       "model": "DS-J142I/7208HGHI-M1+4+4CAM/HYBRID",
       "category": "cctv",
       "aisle": "Camera Kits",
-      "price": 402500,
+      "price": 420000,
       "desc": "8-ch H.264 1 MP Bullet&Turret Kit.",
       "img": "",
       "supplierKey": "hik:DS-J142I/7208HGHI-M1+4+4CAM/HYBRID",
-      "sku": "VX-1519"
+      "sku": "VX-1519",
+      "priceLocked": true
     },
     {
       "slug": "hikvision-nks424w03h-4mp-h-265-one-bullet-plus-one-ptdome-wifi-nvs-kit",
@@ -976,7 +977,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Laptops",
-      "price": 200000,
+      "price": 220000,
       "desc": "Intel Core i5, 500GB hard drive, 4GB RAM. A solid office laptop.",
       "img": "/assets/Product/landing/G2.jpeg",
       "sku": "VX-1053"
@@ -988,7 +989,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Laptops",
-      "price": 260000,
+      "price": 280000,
       "desc": "Intel Core i5, 500GB hard drive, 4GB RAM.",
       "img": "/assets/Product/landing/G3.jpeg",
       "sku": "VX-1054"
@@ -1000,7 +1001,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Laptops",
-      "price": 330000,
+      "price": 360000,
       "desc": "Intel Core i5, 256GB SSD, 8GB RAM.",
       "img": "/assets/Product/hp G5.jfif",
       "featured": true,
@@ -1013,7 +1014,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Laptops",
-      "price": 1300000,
+      "price": 1500000,
       "desc": "Intel i5, 512GB SSD, 8GB RAM, touch 14-inch display with dedicated graphics.",
       "img": "/assets/Product/landing/laptop.jpeg",
       "featured": true,
@@ -1026,7 +1027,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Laptops",
-      "price": 1400000,
+      "price": 1700000,
       "desc": "Intel i5, 512GB SSD, 8GB RAM, touch 14-inch display with dedicated graphics.",
       "img": "/assets/Product/landing/pavilion.JPG",
       "sku": "VX-1057"
@@ -1038,7 +1039,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Laptops",
-      "price": 1400000,
+      "price": 1680000,
       "desc": "Intel i5, 512GB SSD, 8GB RAM, touch 14-inch display with dedicated graphics.",
       "img": "/assets/Product/landing/envy.JPG",
       "sku": "VX-1058"
@@ -1050,7 +1051,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Laptops",
-      "price": 1800000,
+      "price": 1900000,
       "desc": "Intel i5, 512GB SSD, 8GB RAM, touch 14-inch display with dedicated graphics.",
       "img": "/assets/Product/landing/omni7.JPG",
       "sku": "VX-1059"
@@ -1086,7 +1087,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 45000,
+      "price": 80000,
       "desc": "1TB USB 3.0 drive for documents and media.",
       "img": "/assets/Product/landing/ex disk.JPG",
       "sku": "VX-1062"
@@ -1098,7 +1099,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 65000,
+      "price": 100000,
       "desc": "2TB portable drive that can take a few knocks.",
       "img": "/assets/Product/landing/ex disk.JPG",
       "sku": "VX-1063"
@@ -1110,7 +1111,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 90000,
+      "price": 180000,
       "desc": "4TB portable drive for photos, videos and big files.",
       "img": "/assets/Product/landing/ex disk.JPG",
       "sku": "VX-1064"
@@ -1122,7 +1123,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 37000,
+      "price": 32000,
       "desc": "128GB microSD card for cameras.",
       "img": "/assets/Product/Memory card 128GB.JPG",
       "sku": "VX-1065"
@@ -1134,7 +1135,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 35000,
+      "price": 70000,
       "desc": "8GB DDR4 memory to speed up a newer computer.",
       "img": "/assets/img/products/ram-modules.jpg",
       "sku": "VX-1066"
@@ -1146,7 +1147,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 45000,
+      "price": 130000,
       "desc": "16GB DDR4 memory for running many programs at once.",
       "img": "/assets/img/products/ram-modules.jpg",
       "sku": "VX-1067"
@@ -1170,7 +1171,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 24000,
+      "price": 26000,
       "desc": "4GB DDR3 memory at a low price.",
       "img": "/assets/img/products/ram-modules.jpg",
       "sku": "VX-1069"
@@ -1182,7 +1183,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 25000,
+      "price": 45000,
       "desc": "4GB DDR4 memory for light use.",
       "img": "/assets/img/products/ram-modules.jpg",
       "sku": "VX-1070"
@@ -1206,7 +1207,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 7500,
+      "price": 8000,
       "desc": "Everyday 8GB flash drive for small transfers.",
       "img": "/assets/img/products/flash-disk-8gb.jpg",
       "sku": "VX-1072"
@@ -1218,7 +1219,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 8000,
+      "price": 10000,
       "desc": "16GB flash disk for documents.",
       "img": "/assets/img/products/flash-disk-range.jpg",
       "sku": "VX-1073"
@@ -1230,7 +1231,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 10000,
+      "price": 13000,
       "desc": "32GB flash disk for presentations and photos.",
       "img": "/assets/img/products/flash-disk-32gb.jpg",
       "sku": "VX-1074"
@@ -1242,7 +1243,7 @@
       "model": "",
       "category": "computers",
       "aisle": "Storage & Memory",
-      "price": 15000,
+      "price": 19000,
       "desc": "64GB flash disk for bigger files.",
       "img": "/assets/img/products/flash-disk-range.jpg",
       "sku": "VX-1075"
@@ -1266,7 +1267,7 @@
       "model": "",
       "category": "networking",
       "aisle": "Routers & Switches",
-      "price": 320000,
+      "price": 340000,
       "desc": "Ceiling access point with strong 2.4 and 5GHz Wi-Fi, managed from the UniFi app.",
       "img": "/assets/Product/landing/unifi.jpeg",
       "featured": true,
@@ -1447,7 +1448,7 @@
       "model": "CLIMATE Line 5000i CLL5000i W35",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 800000,
+      "price": 900000,
       "desc": "Inverter split that saves power. Good for bedrooms, clinics and small offices.",
       "img": "/assets/Product/landing/inverter.jpg",
       "featured": true,
@@ -1460,7 +1461,7 @@
       "model": "CLIMATE Line 2000 CLL2000 W35",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 700000,
+      "price": 800000,
       "desc": "Fixed-speed wall mount supplied with remote control and copper kit.",
       "img": "/assets/Product/landing/non-inverter.JPG",
       "sku": "VX-1095"
@@ -1472,7 +1473,7 @@
       "model": "CLIMATE Line 5000i CLL5000i W53",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 1100000,
+      "price": 1200000,
       "desc": "Bigger 18,000 BTU inverter split. Quiet, and cools a room quickly.",
       "img": "/assets/Product/landing/18k inverter.png",
       "sku": "VX-1096"
@@ -1484,7 +1485,7 @@
       "model": "CLIMATE Line 2000 CLL2000 W53",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 1000000,
+      "price": 1100000,
       "desc": "Fixed-speed split for living rooms and large offices.",
       "img": "/assets/Product/landing/18k non-inverter.jpg",
       "sku": "VX-1097"
@@ -1496,7 +1497,7 @@
       "model": "CLIMATE Line 2000 CLL2000 W70",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 1400000,
+      "price": 1500000,
       "desc": "Large wall unit for open offices and reception areas.",
       "img": "/assets/Product/landing/24k non-inverter.jpg",
       "sku": "VX-1098"
@@ -1508,10 +1509,22 @@
       "model": "CLIMATE Line 5000i CLL5000i W65",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 1450000,
+      "price": 1550000,
       "desc": "22,000 BTU inverter split for big rooms at home or at work.",
       "img": "/assets/Product/landing/22k inverter.png",
       "sku": "VX-1099"
+    },
+    {
+      "slug": "bosch-wall-mount-split-24-000-btu-inverter",
+      "title": "Bosch Wall Mount Split 24,000 BTU (Inverter)",
+      "brand": "Bosch",
+      "model": "CLIMATE Line 2000 CLL2000 W70",
+      "category": "air-conditioning",
+      "aisle": "AC Units",
+      "price": 1523000,
+      "desc": "24,000 BTU inverter split for open offices, halls and large living rooms. Uses less power than a fixed speed unit.",
+      "img": "/assets/Product/landing/22k inverter.png",
+      "sku": "VX-1554"
     },
     {
       "slug": "bosch-vrf-outdoor-18-kw",
@@ -1520,7 +1533,7 @@
       "model": "CLIMATE 5000 VRF MDCI18-3 60btu",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 4500000,
+      "price": 4650000,
       "desc": "VRF outdoor module supporting multiple indoor units on a single loop.",
       "img": "/assets/Product/landing/vrf 18k.jpg",
       "sku": "VX-1100"
@@ -1532,7 +1545,7 @@
       "model": "AIR FLUX 5300 A AF5300A 56-3",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 9550000,
+      "price": 9650000,
       "desc": "Large VRF outdoor unit for malls, hospitals and campuses.",
       "img": "/assets/Product/landing/vrf 56kw.png",
       "sku": "VX-1101"
@@ -1544,7 +1557,7 @@
       "model": "CLIMATE 5000 SCI 18-1 OU",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 3500000,
+      "price": 3620000,
       "desc": "Ducted split that hides the indoor unit in the ceiling.",
       "img": "/assets/Product/landing/18k Ductable Split.jpg",
       "sku": "VX-1102"
@@ -1556,7 +1569,7 @@
       "model": "ATUQ22GPLA2",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 2200000,
+      "price": 2350000,
       "desc": "Four-way cassette with drain pump and round diffuser fascia.",
       "img": "/assets/Product/landing/casette 18k LG.jpg",
       "sku": "VX-1103"
@@ -1568,7 +1581,7 @@
       "model": "ATUQ30GPLA2",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 2500000,
+      "price": 2640000,
       "desc": "Ceiling cassette for meeting rooms and shops.",
       "img": "/assets/Product/landing/LG Cassette 24k.jpg",
       "featured": true,
@@ -1581,7 +1594,7 @@
       "model": "",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 3500000,
+      "price": 3630000,
       "desc": "Large LG cassette that blows air in every direction, with a wired controller.",
       "img": "/assets/Product/landing/LG Cassette 36k.jpg",
       "sku": "VX-1105"
@@ -1593,7 +1606,7 @@
       "model": "",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 4600000,
+      "price": 4700000,
       "desc": "Our largest LG cassette, for big halls.",
       "img": "/assets/Product/landing/LG Cassette 48k.JPG",
       "sku": "VX-1106"
@@ -1605,7 +1618,7 @@
       "model": "",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 2600000,
+      "price": 2660000,
       "desc": "Standing unit for showrooms and churches.",
       "img": "/assets/Product/landing/Floor Standing 60k.png",
       "sku": "VX-1107"
@@ -1617,7 +1630,7 @@
       "model": "AF-4CR 90-1 P (36000 BTU)",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 2000000,
+      "price": 2100000,
       "desc": "Bosch VRF cassette with Y-branch-ready headers.",
       "img": "/assets/Product/landing/VRF Cassette Bosch 90-1P.jpg",
       "sku": "VX-1108"
@@ -1629,7 +1642,7 @@
       "model": "AF-4CR 71-2 P (24000 BTU)",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 1000000,
+      "price": 1100000,
       "desc": "Compact VRF cassette, a good fit for hotel rooms.",
       "img": "/assets/Product/landing/VRF Cassette Bosch 71-2P.png",
       "sku": "VX-1109"
@@ -1641,7 +1654,7 @@
       "model": "",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 680000,
+      "price": 750000,
       "desc": "Bosch fascia panel for 90-1P cassette bodies.",
       "img": "/assets/Product/landing/VRF Panel Bosch 90-1P.jpg",
       "sku": "VX-1110"
@@ -1653,7 +1666,7 @@
       "model": "AF-P 4CR8733500457",
       "category": "air-conditioning",
       "aisle": "AC Units",
-      "price": 580000,
+      "price": 700000,
       "desc": "Decor panel matched to Bosch 71-2P cassettes.",
       "img": "/assets/Product/landing/VRF Panel Bosch 71-2P.JPG",
       "sku": "VX-1111"
