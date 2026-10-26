@@ -6871,11 +6871,12 @@
       "model": "MP 1K S",
       "category": "solar-power",
       "aisle": "UPS",
-      "price": 350000,
+      "price": 400000,
       "desc": "Online UPS 1:1 Phase, Tower type, 1kVA/0.9kW, PF0.9, 230V/50Hz, With USB/RS232/Intelligent Slot, 24Vdc, Standard unit with 2pcs 12V/9Ah battery.",
       "img": "",
       "supplierKey": "ups:mp 1k s",
-      "sku": "VX-1538"
+      "sku": "VX-1538",
+      "priceLocked": true
     },
     {
       "slug": "online-ups-2kva-single-phase-mp-2k-s",
