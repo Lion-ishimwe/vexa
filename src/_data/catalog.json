@@ -6231,12 +6231,13 @@
       "model": "HH6KS",
       "category": "solar-power",
       "aisle": "Inverters",
-      "price": 1155000,
+      "price": 1300000,
       "desc": "Hybrid Inverter HH6KS (All in One, Residential). Supplied by VEXA in Kigali, with installation available.",
       "img": "https://www.kstarnewenergy.com/images/PRODUCTS/B/kstar1234.png",
       "supplierKey": "solar:r5:all in one-hh6ks residential es:hybrid inverter hh6ks",
       "imgSource": "https://www.kstarnewenergy.com/products/energy-storage-systems/residential-energy-storage-systems/home-series-residential-ess.html",
-      "sku": "VX-1453"
+      "sku": "VX-1453",
+      "priceLocked": true
     },
     {
       "slug": "lithium-battery-pack-for-hh6ks",
@@ -6259,11 +6260,12 @@
       "model": "HH6KS",
       "category": "solar-power",
       "aisle": "Batteries",
-      "price": 121000,
+      "price": 150000,
       "desc": "Battery to Inverter Cables for HH6KS. Supplied by VEXA in Kigali, with installation available.",
       "img": "",
       "supplierKey": "solar:r7::battery to inverter cables",
-      "sku": "VX-1455"
+      "sku": "VX-1455",
+      "priceLocked": true
     },
     {
       "slug": "hybrid-inverter-hh10ks-all-in-one-residential",
