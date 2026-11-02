@@ -6790,12 +6790,13 @@
       "model": "DS-UPS1000",
       "category": "solar-power",
       "aisle": "UPS",
-      "price": 97750,
+      "price": 120000,
       "desc": "DS-UPS1000(AU).",
       "img": "https://assets.hikvision.com/prd/public/all/image/m000069061/DS-UPS600%E9%AB%98%E6%B8%85%E5%9B%BE.jpg.thumb.1280.1280.png",
       "supplierKey": "hik:DS-UPS1000",
       "imgSource": "https://www.hikvision.com/en/products/premises-distribution-system/ups/back-up-type-ups/ds-ups1000/",
-      "sku": "VX-1531"
+      "sku": "VX-1531",
+      "priceLocked": true
     },
     {
       "slug": "hikvision-ds-ups2000-ups",
