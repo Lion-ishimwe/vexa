@@ -304,12 +304,13 @@
       "model": "DS-2CV1043G2-LIDWF",
       "category": "cctv",
       "aisle": "Cameras",
-      "price": 69000,
+      "price": 80000,
       "desc": "4 MP Outdoor Wi-Fi Fixed Bullet Network Camera.",
       "img": "https://assets.hikvision.com/prd/normal/all/image/m000121866/%E7%AD%92%E6%9C%BA120-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png",
       "supplierKey": "hik:DS-2CV1043G2-LIDWF",
       "imgSource": "https://www.hikvision.com/en/products/IP-Products/wireless-cameras/wi-fi-series/ds-2cv1043g2-lidw-f--b-/",
-      "sku": "VX-1478"
+      "sku": "VX-1478",
+      "priceLocked": true
     },
     {
       "slug": "hikvision-ds-2cv1f43g2-lidwf-4-mp-indoor-wi-fi-fixed-pt-turret-network-camera-2-8mm",
