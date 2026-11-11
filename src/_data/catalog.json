@@ -34,7 +34,7 @@
       "name": "Networking",
       "tagline": "Routers, access points, managed switches, racks and adapters.",
       "img": "/assets/Product/landing/unifi1.jpeg",
-      "count": 91,
+      "count": 92,
       "aisles": [
         "Routers & Switches",
         "Infrastructure",
@@ -7234,6 +7234,19 @@
       "supplierKey": "hik:DS-3WR30X",
       "imgSource": "https://www.hikvision.com/en/products/transmission/soho-networking/wi-fi-router/ds-3wr30x/",
       "sku": "VX-1499"
+    },
+    {
+      "slug": "starlink-standard-kit",
+      "title": "Starlink Standard Kit",
+      "brand": "Starlink",
+      "model": "Standard (V4) with Router 3",
+      "category": "networking",
+      "aisle": "Routers & Switches",
+      "price": 700000,
+      "desc": "Satellite internet for homes and offices, including places fibre does not reach. The kit has the Starlink dish with kickstand, Router 3, a 15 m Starlink cable and the power supply. The Starlink subscription is paid separately.",
+      "img": "https://starlink.com/assets-new/images/specifications/Starlink_Standard4x_1000px.webp",
+      "imgSource": "https://starlink.com/specifications/4",
+      "sku": "VX-1608"
     },
     {
       "slug": "hikvision-ds-d5019s0-1p0-18-5-inch-hd-borderless-monitor",

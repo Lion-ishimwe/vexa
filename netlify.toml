@@ -51,6 +51,7 @@
     'https://psref\.lenovo\.com/.*',
     'https://resource\.logitech\.com/.*',
     'https://ssl\-product\-images\.www8\-hp\.com/.*',
+    'https://starlink\.com/.*',
     'https://storage\-asset\.msi\.com/.*',
     'https://upload\.wikimedia\.org/.*',
     'https://www\.cisco\.com/.*',
