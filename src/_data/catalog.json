@@ -3098,8 +3098,9 @@
       "aisle": "Laptops",
       "price": 930000,
       "desc": "Laptop with 15.6 inch display, 13th Gen Core i3, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1555"
+      "img": "https://hp.widen.net/content/ktid9fubht/jpeg/ktid9fubht.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1555",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103380712"
     },
     {
       "slug": "asus-expertbook-b1503-cva-core-i3-8gb-ram-256gb-ssd-15-6-inch",
@@ -3162,8 +3163,9 @@
       "aisle": "Laptops",
       "price": 1250000,
       "desc": "Laptop with 15.6 inch display, 14th Gen Core Ultra 5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1560"
+      "img": "https://hp.widen.net/content/cspvxaaadq/jpeg/cspvxaaadq.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1560",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103641942"
     },
     {
       "slug": "hp-15-core-i5-8gb-ram-512gb-ssd-15-6-inch",
@@ -3174,8 +3176,9 @@
       "aisle": "Laptops",
       "price": 1140000,
       "desc": "Laptop with 15.6 inch display, 13th Gen Core i5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1561"
+      "img": "https://hp.widen.net/content/ktid9fubht/jpeg/ktid9fubht.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1561",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103380712"
     },
     {
       "slug": "msi-modern-14f13-mxg-core-i5-8gb-ram-512gb-ssd-14-inch",
@@ -3199,8 +3202,9 @@
       "aisle": "Laptops",
       "price": 1240000,
       "desc": "Laptop with 14 inch display, 13th Gen Core i5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1563"
+      "img": "https://hp.widen.net/content/r8eqgqnaqh/jpeg/r8eqgqnaqh.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1563",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2104369557"
     },
     {
       "slug": "hp-15-ryzen-5-8gb-ram-512gb-ssd-15-6-inch",
@@ -3211,8 +3215,9 @@
       "aisle": "Laptops",
       "price": 1070000,
       "desc": "Laptop with 15.6 inch display, Ryzen 5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1564"
+      "img": "https://hp.widen.net/content/fq8sy9lk0g/jpeg/fq8sy9lk0g.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1564",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103985413"
     },
     {
       "slug": "lenovo-v14-core-i5-8gb-ram-512gb-ssd-14-inch",
@@ -3236,8 +3241,9 @@
       "aisle": "Laptops",
       "price": 1660000,
       "desc": "Laptop with 15.6 inch display, 14th Gen Core Ultra 5, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1566"
+      "img": "https://hp.widen.net/content/tkdiwucgpq/jpeg/tkdiwucgpq.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1566",
+      "imgSource": "https://www.hp.com/us-en/shop/pdp/hp-probook-460-16-inch-g11-notebook-pc-p-a3rf4ua-aba-1"
     },
     {
       "slug": "hp-probook-460-g11-core-ultra-5-8gb-ram-512gb-ssd-15-6-inch",
@@ -3248,8 +3254,9 @@
       "aisle": "Laptops",
       "price": 1450000,
       "desc": "Laptop with 15.6 inch display, 14th Gen Core Ultra 5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1567"
+      "img": "https://hp.widen.net/content/tkdiwucgpq/jpeg/tkdiwucgpq.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1567",
+      "imgSource": "https://www.hp.com/us-en/shop/pdp/hp-probook-460-16-inch-g11-notebook-pc-p-a3rf4ua-aba-1"
     },
     {
       "slug": "lenovo-thinkpad-e14-gen-7-core-ultra-5-16gb-ram-512gb-ssd-14-inch",
@@ -3273,8 +3280,9 @@
       "aisle": "Laptops",
       "price": 1720000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 5, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1569"
+      "img": "https://hp.widen.net/content/feubbswtcw/jpeg/feubbswtcw.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1569",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103517940"
     },
     {
       "slug": "hp-probook-4-g1i-core-ultra-5-8gb-ram-512gb-ssd-14-inch",
@@ -3285,8 +3293,9 @@
       "aisle": "Laptops",
       "price": 1410000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1570"
+      "img": "https://hp.widen.net/content/feubbswtcw/jpeg/feubbswtcw.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1570",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103517940"
     },
     {
       "slug": "hp-omnibook-core-ultra-5-8gb-ram-512gb-ssd-16-inch",
@@ -3297,8 +3306,9 @@
       "aisle": "Laptops",
       "price": 1360000,
       "desc": "Laptop with 16 inch display, 14th Gen Core Ultra 5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1571"
+      "img": "https://hp.widen.net/content/xpa0gzad5k/jpeg/xpa0gzad5k.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1571",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2104285812"
     },
     {
       "slug": "infinix-inbook-y3-plus-core-i5-8gb-ram-512gb-ssd-14-inch",
@@ -3321,8 +3331,9 @@
       "aisle": "Laptops",
       "price": 1900000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 5, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1573"
+      "img": "https://hp.widen.net/content/pwf1gx2a25/jpeg/pwf1gx2a25.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1573",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103807241"
     },
     {
       "slug": "acer-travelmate-p2-15-core-ultra-5-8gb-ram-512gb-ssd-15-6-inch",
@@ -3372,8 +3383,9 @@
       "aisle": "Laptops",
       "price": 1750000,
       "desc": "Laptop with 16 inch display, 14th Gen Core Ultra 7, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1577"
+      "img": "https://hp.widen.net/content/8hyhsji564/jpeg/8hyhsji564.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1577",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103593709"
     },
     {
       "slug": "asus-tuf-gaming-f16-fx608j-core-i7-16gb-ram-512gb-ssd-16-inch-rtx-5050",
@@ -3410,8 +3422,9 @@
       "aisle": "Laptops",
       "price": 1600000,
       "desc": "Laptop with 16 inch display, 14th Gen Core Ultra 7, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1580"
+      "img": "https://hp.widen.net/content/7c5o49dqs9/jpeg/7c5o49dqs9.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1580",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2104286115"
     },
     {
       "slug": "hp-elitebook-840-g11-core-ultra-7-16gb-ram-512gb-ssd-14-inch",
@@ -3422,8 +3435,9 @@
       "aisle": "Laptops",
       "price": 1800000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 7, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1581"
+      "img": "https://hp.widen.net/content/fnpnlm4zf1/jpeg/fnpnlm4zf1.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1581",
+      "imgSource": "https://www.hp.com/us-en/shop/pdp/hp-elitebook-840-14-inch-g11-notebook-pc"
     },
     {
       "slug": "hp-victus-15-core-i7-16gb-ram-512gb-ssd-15-6-inch",
@@ -3434,8 +3448,9 @@
       "aisle": "Laptops",
       "price": 2450000,
       "desc": "Laptop with 15.6 inch display, 13th Gen Core i7, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1582"
+      "img": "https://hp.widen.net/content/ymjnnhmzbd/jpeg/ymjnnhmzbd.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1582",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103007046"
     },
     {
       "slug": "lenovo-loq-15irx10-core-i7-16gb-ram-512gb-ssd-15-6-inch",
@@ -3459,8 +3474,9 @@
       "aisle": "Laptops",
       "price": 2050000,
       "desc": "Laptop with 15.6 inch display, 14th Gen Core Ultra 7, 32GB RAM and 1TB SSD.",
-      "img": "",
-      "sku": "VX-1584"
+      "img": "https://hp.widen.net/content/bwi8tkxlhe/jpeg/bwi8tkxlhe.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1584",
+      "imgSource": "https://support.hp.com/us-en/drivers/hp-elitebook-860-16-inch-g11-notebook-pc/2102058006"
     },
     {
       "slug": "infinix-inbook-air-xl-442-core-i7-16gb-ram-512gb-ssd-14-inch",
@@ -3510,8 +3526,9 @@
       "aisle": "Laptops",
       "price": 1650000,
       "desc": "Laptop with 15.6 inch display, 14th Gen Core Ultra 7, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1588"
+      "img": "https://hp.widen.net/content/tkdiwucgpq/jpeg/tkdiwucgpq.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1588",
+      "imgSource": "https://www.hp.com/us-en/shop/pdp/hp-probook-460-16-inch-g11-notebook-pc-p-a3rf4ua-aba-1"
     },
     {
       "slug": "hp-spectre-x360-2-in-1-core-ultra-7-16gb-ram-512gb-ssd-14-inch",
@@ -3522,8 +3539,9 @@
       "aisle": "Laptops",
       "price": 2900000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 7, 16GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1589"
+      "img": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08744379.png",
+      "sku": "VX-1589",
+      "imgSource": "https://www.hp.com/id-en/shop/hp-spectre-x360-2-in-1-laptop-14-eu0071tu-a9bq2pa.html"
     },
     {
       "slug": "dell-latitude-5450-core-i7-8gb-ram-512gb-ssd-14-inch",
@@ -3547,8 +3565,9 @@
       "aisle": "Laptops",
       "price": 1620000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 7, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1591"
+      "img": "https://hp.widen.net/content/jwj0cveagl/jpeg/jwj0cveagl.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1591",
+      "imgSource": "https://www.hp.com/us-en/shop/pdp/hp-probook-440-14-inch-g11-notebook-pc-p-a3rn3ua-aba-1"
     },
     {
       "slug": "hp-15-core-ultra-7-8gb-ram-512gb-ssd-15-6-inch",
@@ -3559,8 +3578,9 @@
       "aisle": "Laptops",
       "price": 1425000,
       "desc": "Laptop with 15.6 inch display, 14th Gen Core Ultra 7, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1592"
+      "img": "https://hp.widen.net/content/iqimsvtlrl/jpeg/iqimsvtlrl.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1592",
+      "imgSource": "https://www.hp.com/us-en/shop/pdp/hp-laptop-15-fd1073nr"
     },
     {
       "slug": "hp-15-ai-core-ultra-7-8gb-ram-512gb-ssd-15-6-inch",
@@ -3571,8 +3591,9 @@
       "aisle": "Laptops",
       "price": 1470000,
       "desc": "Laptop with 15.6 inch display, 14th Gen Core Ultra 7, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1593"
+      "img": "https://hp.widen.net/content/cspvxaaadq/jpeg/cspvxaaadq.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1593",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103641942"
     },
     {
       "slug": "dell-pro-essential-15-pv15250-core-i7-8gb-ram-512gb-ssd-15-6-inch",
@@ -3596,8 +3617,9 @@
       "aisle": "Laptops",
       "price": 2720000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 7, 32GB RAM and 2TB SSD.",
-      "img": "",
-      "sku": "VX-1595"
+      "img": "https://hp.widen.net/content/pwf1gx2a25/jpeg/pwf1gx2a25.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1595",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103807241"
     },
     {
       "slug": "hp-omnibook-ultra-flip-core-ultra-7-32gb-ram-2tb-ssd-14-inch",
@@ -3608,8 +3630,9 @@
       "aisle": "Laptops",
       "price": 3200000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 7, 32GB RAM and 2TB SSD.",
-      "img": "",
-      "sku": "VX-1596"
+      "img": "https://hp.widen.net/content/kc34yqpc9l/jpeg/kc34yqpc9l.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1596",
+      "imgSource": "https://www.hp.com/us-en/shop/pdp/HP-OmniBook-Ultra-Flip-14-fh0047nr"
     },
     {
       "slug": "lenovo-thinkpad-x13-gen-6-core-ultra-7-16gb-ram-512gb-ssd-13-3-inch",
@@ -3646,8 +3669,9 @@
       "aisle": "Laptops",
       "price": 2950000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 7, 32GB RAM and 1TB SSD.",
-      "img": "",
-      "sku": "VX-1599"
+      "img": "https://hp.widen.net/content/6vscddlfj1/jpeg/6vscddlfj1.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1599",
+      "imgSource": "https://support.hp.com/us-en/drivers/hp-elitebook-1040-14-inch-g11-notebook-pc/2102163816"
     },
     {
       "slug": "msi-modern-14f1mxg-core-i7-16gb-ram-512gb-ssd-14-inch",
@@ -3671,8 +3695,9 @@
       "aisle": "Laptops",
       "price": 1570000,
       "desc": "Laptop with 16 inch display, 14th Gen Core Ultra 7, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1601"
+      "img": "https://hp.widen.net/content/8hyhsji564/jpeg/8hyhsji564.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1601",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103593709"
     },
     {
       "slug": "hp-omnibook-x-flip-core-ultra-7-16gb-ram-1tb-ssd-14-inch",
@@ -3683,8 +3708,9 @@
       "aisle": "Laptops",
       "price": 2300000,
       "desc": "Laptop with 14 inch display, 14th Gen Core Ultra 7, 16GB RAM and 1TB SSD.",
-      "img": "",
-      "sku": "VX-1602"
+      "img": "https://hp.widen.net/content/pwf1gx2a25/jpeg/pwf1gx2a25.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1602",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103807241"
     },
     {
       "slug": "lenovo-thinkpad-t14s-2-in-1-gen-1-core-ultra-7-32gb-ram-1tb-ssd-14-inch",
@@ -3708,8 +3734,9 @@
       "aisle": "Laptops",
       "price": 1200000,
       "desc": "Laptop with 16 inch display, Ryzen 7, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1604"
+      "img": "https://hp.widen.net/content/fq8sy9lk0g/jpeg/fq8sy9lk0g.jpg?w=1200&h=900&dpi=72&color=ffffff",
+      "sku": "VX-1604",
+      "imgSource": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/2103985413"
     },
     {
       "slug": "lenovo-thinkpad-x9-gen-1-core-ultra-7-32gb-ram-1tb-ssd-14-inch",
