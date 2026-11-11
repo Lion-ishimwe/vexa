@@ -824,11 +824,12 @@
       "model": "DS-J142I/7204HGHI-M1+2+2CAM/COLORVU",
       "category": "cctv",
       "aisle": "Camera Kits",
-      "price": 253000,
-      "desc": "4-ch H.264 1 MP Bullet&Turret Kit.",
-      "img": "",
+      "price": 260000,
+      "desc": "ColorVu camera kit: 2 bullet and 2 dome cameras that show colour at night, a 4-channel DVR, 4 cables of 20 m and the power supply.",
+      "img": "/assets/Product/hikvision-kit-4-colorvu.jpg",
       "supplierKey": "hik:DS-J142I/7204HGHI-M1+2+2CAM/COLORVU",
-      "sku": "VX-1516"
+      "sku": "VX-1516",
+      "priceLocked": true
     },
     {
       "slug": "hikvision-ds-j142i-7204hghi-m1-plus-2-plus-2cam-hybrid-4-ch-h-264-1-mp-bullet-and-turret-k",
