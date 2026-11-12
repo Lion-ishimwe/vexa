@@ -85,7 +85,9 @@ def main():
     src = sys.argv[1]
     cat = json.load(open(CATALOG, encoding="utf8"))
     prods = cat["products"]
-    by_title = {p["title"].lower(): p for p in prods}
+    # the website adds ", Touch Screen" / ", Non-Touch Screen" to laptop titles; match without it
+    plain = lambda t: re.sub(r", (non-)?touch screen$", "", t.lower())
+    by_title = {plain(p["title"]): p for p in prods}
     slugs = {p["slug"] for p in prods}
     top = max(int(p["sku"][3:]) for p in prods if p.get("sku"))
     last_laptop = max(i for i, p in enumerate(prods) if p["category"] == "computers" and p["aisle"] == "Laptops")
@@ -94,7 +96,7 @@ def main():
         if not line.strip():
             continue
         row = parse(line)
-        hit = by_title.get(row["title"].lower())
+        hit = by_title.get(plain(re.sub(r", Touch$", "", row["title"])))
         if hit:
             if hit.get("price") != row["price"]:
                 repriced.append((hit["sku"], hit["title"], hit.get("price"), row["price"]))
@@ -110,7 +112,7 @@ def main():
              "img": "", "sku": f"VX-{top}"}
         last_laptop += 1
         prods.insert(last_laptop, p)
-        by_title[p["title"].lower()] = p
+        by_title[plain(p["title"])] = p
         added.append(p)
     for c in cat["categories"]:
         items = [p for p in prods if p["category"] == c["slug"]]
