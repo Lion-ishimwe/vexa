@@ -839,8 +839,8 @@
       "category": "cctv",
       "aisle": "Camera Kits",
       "price": 230000,
-      "desc": "4-ch H.264 1 MP Bullet&Turret Kit.",
-      "img": "",
+      "desc": "Camera kit: 2 bullet and 2 dome cameras with infrared night vision, a 4-channel DVR, 4 cables of 20 m and the power supply.",
+      "img": "/assets/Product/hikvision-kit-4-hybrid.jpg",
       "supplierKey": "hik:DS-J142I/7204HGHI-M1+2+2CAM/HYBRID",
       "sku": "VX-1517"
     },
@@ -852,8 +852,8 @@
       "category": "cctv",
       "aisle": "Camera Kits",
       "price": 448500,
-      "desc": "8-ch H.264 1 MP Bullet&Turret Kit.",
-      "img": "",
+      "desc": "ColorVu camera kit: 4 bullet and 4 dome cameras that show colour at night, an 8-channel DVR, 8 cables of 20 m and the power supply.",
+      "img": "/assets/Product/hikvision-kit-8-colorvu.jpg",
       "supplierKey": "hik:DS-J142I/7208HGHI-M1+4+4CAM/COLORVU",
       "sku": "VX-1518"
     },
@@ -865,8 +865,8 @@
       "category": "cctv",
       "aisle": "Camera Kits",
       "price": 420000,
-      "desc": "8-ch H.264 1 MP Bullet&Turret Kit.",
-      "img": "",
+      "desc": "Camera kit: 4 bullet and 4 dome cameras with infrared night vision, an 8-channel DVR, 8 cables of 20 m and the power supply.",
+      "img": "/assets/Product/hikvision-kit-8-hybrid.jpg",
       "supplierKey": "hik:DS-J142I/7208HGHI-M1+4+4CAM/HYBRID",
       "sku": "VX-1519",
       "priceLocked": true
