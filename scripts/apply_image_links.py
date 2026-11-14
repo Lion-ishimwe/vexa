@@ -44,7 +44,11 @@ def main():
     with open(CATALOG, "w", encoding="utf8") as fh:
         fh.write(json.dumps(cat, indent=2, ensure_ascii=False) + "\n")
 
-    hosts = sorted({urlparse(p["img"]).netloc for p in cat["products"] if p.get("img", "").startswith("http")})
+    urls = [p["img"] for p in cat["products"] if p.get("img", "").startswith("http")]
+    info_path = os.path.join(ROOT, "src", "_data", "productInfo.json")
+    if os.path.exists(info_path):   # extra photo angles on product pages
+        urls += [u for v in json.load(open(info_path, encoding="utf8")).values() for u in v.get("images", []) + v.get("spin", [])]
+    hosts = sorted({urlparse(u).netloc for u in urls})
     block = "[images]\n  remote_images = [\n" + ",\n".join(
         f"    'https://{re.escape(h)}/.*'" for h in hosts) + "\n  ]\n"   # TOML literal strings keep the regex backslashes
     toml = open(NETLIFY, encoding="utf8").read()
