@@ -1017,7 +1017,7 @@
       "category": "computers",
       "aisle": "Laptops",
       "price": 1500000,
-      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display with dedicated graphics. Touch screen.",
+      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display. Touch screen.",
       "img": "/assets/Product/landing/laptop.jpeg",
       "featured": true,
       "sku": "VX-1056"
@@ -1030,7 +1030,7 @@
       "category": "computers",
       "aisle": "Laptops",
       "price": 1700000,
-      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display with dedicated graphics. Touch screen.",
+      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display. Touch screen.",
       "img": "/assets/Product/landing/pavilion.JPG",
       "sku": "VX-1057"
     },
@@ -1042,7 +1042,7 @@
       "category": "computers",
       "aisle": "Laptops",
       "price": 1680000,
-      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display with dedicated graphics. Touch screen.",
+      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display. Touch screen.",
       "img": "/assets/Product/landing/envy.JPG",
       "sku": "VX-1058"
     },
@@ -1054,7 +1054,7 @@
       "category": "computers",
       "aisle": "Laptops",
       "price": 1900000,
-      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display with dedicated graphics. Touch screen.",
+      "desc": "Intel i5, 512GB SSD, 8GB RAM, 14-inch display. Touch screen.",
       "img": "/assets/Product/landing/omni7.JPG",
       "sku": "VX-1059"
     },

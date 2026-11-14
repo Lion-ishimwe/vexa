@@ -24573,5 +24573,5571 @@
   "spin": [],
   "source": "https://www.hp.com/emea_africa-en/products/accessories/product-details/product-specifications/2101953859",
   "confidence": "high"
+ },
+ "bosch-wall-mount-split-12-000-btu-inverter": {
+  "summary": "A Bosch Climate Line 5000i inverter wall split rated at 12,000 Btu/h. It suits bedrooms, small offices and clinic rooms of roughly 16 to 23 m². The inverter compressor adjusts its speed to the room, so it runs quietly and uses less power than a fixed speed unit, and it also heats when needed.",
+  "highlights": [
+   "Rated 12,000 Btu/h with seasonal efficiency 7.0 (class A++)",
+   "Inverter rotary compressor with Eco mode and a three step Gear function to cut power use",
+   "i-Clean heats the indoor coil to 56 °C to kill up to 99% of bacteria, plus a built-in ionizer",
+   "Bio, cold catalyst and high density filters for cleaner air",
+   "3D airflow and Wind avoid me, so cool air reaches every corner without blowing on you",
+   "Follow Me sensing in the remote, error code display and auto restart after a power cut"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate Line 5000i, inverter wall split"
+   ],
+   [
+    "Indoor / outdoor unit",
+    "CLL5000i W 35 (7733701775) / CLL5000i 35 (7733701776)"
+   ],
+   [
+    "Cooling capacity",
+    "3.52 kW (12,000 Btu/h), range 4,700 to 14,700 Btu/h"
+   ],
+   [
+    "Heating capacity",
+    "3.52 kW (12,000 Btu/h)"
+   ],
+   [
+    "Rated cooling input",
+    "1,030 W"
+   ],
+   [
+    "EER / SEER",
+    "3.41 / 7.0 (class A++)"
+   ],
+   [
+    "Compressor",
+    "Inverter rotary"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 0.75 kg"
+   ],
+   [
+    "Power supply",
+    "220 V, single phase, 50 Hz"
+   ],
+   [
+    "Pipe sizes",
+    "1/4 inch (6.35 mm) liquid, 1/2 inch (12.7 mm) gas"
+   ],
+   [
+    "Max pipe run",
+    "Up to 25 m, 10 m height difference"
+   ],
+   [
+    "Indoor unit (W x H x D, weight)",
+    "835 x 295 x 208 mm, 8.9 kg"
+   ],
+   [
+    "Outdoor unit size (W x H x D)",
+    "790 x 495 x 270 mm"
+   ],
+   [
+    "Indoor sound pressure (high / mid / low)",
+    "39.5 / 33 / 26.5 dB(A)"
+   ],
+   [
+    "Outdoor operating range",
+    "Cooling from -15 to 50 °C, heating from -15 to 24 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o522796v389_Climate_Line_5000i_v1.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/mea/en/ocs/residential/climate-line-5000i-20586288-p/",
+  "confidence": "high"
+ },
+ "bosch-wall-mount-split-12-000-btu-non-inverter": {
+  "summary": "A Bosch Climate Line 2000 wall split rated at about 12,000 Btu/h (3.5 kW). It is a simple, good value air conditioner for bedrooms, clinic rooms and small offices, and it can heat as well as cool.",
+  "highlights": [
+   "Rated about 12,000 Btu/h",
+   "Cooling and heating in one unit",
+   "High density and cold catalyst filters help keep indoor air clean",
+   "Front panel display shows the set temperature and error codes",
+   "8 °C function keeps an empty room from freezing",
+   "Works in outdoor temperatures up to 43 °C when cooling"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate Line 2000 wall split"
+   ],
+   [
+    "Set",
+    "CLL2000-Set 35 W (7733701781)"
+   ],
+   [
+    "Indoor unit",
+    "CLL2000 W 35 (7733701763)"
+   ],
+   [
+    "Outdoor unit",
+    "CLL2000 35 (7733701764)"
+   ],
+   [
+    "Cooling capacity",
+    "3.5 kW (about 12,000 Btu/h)"
+   ],
+   [
+    "Heating capacity",
+    "3.6 kW"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 0.65 kg"
+   ],
+   [
+    "Indoor unit size (W x H x D)",
+    "800 x 295 x 200 mm"
+   ],
+   [
+    "Outdoor unit size (W x H x D)",
+    "720 x 495 x 270 mm"
+   ],
+   [
+    "Room temperature setting",
+    "16 to 32 °C cooling, 0 to 30 °C heating"
+   ],
+   [
+    "Outdoor operating range",
+    "Cooling from 18 to 43 °C, heating from -7 to 24 °C"
+   ],
+   [
+    "Filters",
+    "High density and cold catalyst"
+   ],
+   [
+    "Special functions",
+    "8 °C anti freeze, error code display"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o523327v389_Climate_Line_2000_v1.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/mea/en/ocs/residential/climate-line-2000-20586295-p/",
+  "confidence": "high"
+ },
+ "bosch-wall-mount-split-18-000-btu-inverter": {
+  "summary": "A Bosch Climate Line 5000i inverter wall split rated at 18,000 Btu/h, sized for living rooms, larger bedrooms and offices of roughly 24 to 35 m². It cools quickly, then slows its compressor down to hold the temperature quietly and save power. It can also heat on cool nights.",
+  "highlights": [
+   "Rated 18,000 Btu/h with seasonal efficiency 6.7 (class A++)",
+   "Inverter rotary compressor with Eco mode and a three step Gear function to cut power use",
+   "i-Clean heats the indoor coil to 56 °C to kill up to 99% of bacteria, plus a built-in ionizer",
+   "Bio, cold catalyst and high density filters for cleaner air",
+   "3D airflow and Wind avoid me, so cool air reaches every corner without blowing on you",
+   "Follow Me sensing in the remote, error code display and auto restart after a power cut"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate Line 5000i, inverter wall split"
+   ],
+   [
+    "Indoor / outdoor unit",
+    "CLL5000i W 53 (7733701777) / CLL5000i 53 (7733701778)"
+   ],
+   [
+    "Cooling capacity",
+    "5.28 kW (18,000 Btu/h), range 7,200 to 20,130 Btu/h"
+   ],
+   [
+    "Heating capacity",
+    "5.28 kW (18,000 Btu/h)"
+   ],
+   [
+    "Rated cooling input",
+    "1,547 W"
+   ],
+   [
+    "EER / SEER",
+    "3.41 / 6.7 (class A++)"
+   ],
+   [
+    "Compressor",
+    "Inverter rotary"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 1.40 kg"
+   ],
+   [
+    "Power supply",
+    "220 V, single phase, 50 Hz"
+   ],
+   [
+    "Pipe sizes",
+    "1/4 inch (6.35 mm) liquid, 1/2 inch (12.7 mm) gas"
+   ],
+   [
+    "Max pipe run",
+    "Up to 30 m, 20 m height difference"
+   ],
+   [
+    "Indoor unit (W x H x D, weight)",
+    "969 x 320 x 241 mm, 11.5 kg"
+   ],
+   [
+    "Outdoor unit size (W x H x D)",
+    "874 x 554 x 330 mm"
+   ],
+   [
+    "Indoor sound pressure (high / mid / low)",
+    "43.5 / 36.5 / 29.5 dB(A)"
+   ],
+   [
+    "Outdoor operating range",
+    "Cooling from -15 to 50 °C, heating from -15 to 24 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o522796v389_Climate_Line_5000i_v1.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/mea/en/ocs/residential/climate-line-5000i-20586288-p/",
+  "confidence": "high"
+ },
+ "bosch-wall-mount-split-18-000-btu-non-inverter": {
+  "summary": "A Bosch Climate Line 2000 wall split rated at about 18,000 Btu/h (5.3 kW). It is a straightforward choice for living rooms and larger offices, with a clear front display and filters that keep the air fresh. It heats as well as cools.",
+  "highlights": [
+   "Rated about 18,000 Btu/h",
+   "Cooling and heating in one unit",
+   "High density and cold catalyst filters help keep indoor air clean",
+   "Front panel display shows the set temperature and error codes",
+   "8 °C function keeps an empty room from freezing",
+   "Works in outdoor temperatures up to 43 °C when cooling"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate Line 2000 wall split"
+   ],
+   [
+    "Set",
+    "CLL2000-Set 53 W (7733701782)"
+   ],
+   [
+    "Indoor unit",
+    "CLL2000 W 53 (7733701765)"
+   ],
+   [
+    "Outdoor unit",
+    "CLL2000 53 (7733701766)"
+   ],
+   [
+    "Cooling capacity",
+    "5.3 kW (about 18,000 Btu/h)"
+   ],
+   [
+    "Heating capacity",
+    "5.3 kW"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 1.14 kg"
+   ],
+   [
+    "Indoor unit size (W x H x D)",
+    "971 x 321 x 228 mm"
+   ],
+   [
+    "Outdoor unit size (W x H x D)",
+    "765 x 555 x 303 mm"
+   ],
+   [
+    "Room temperature setting",
+    "16 to 32 °C cooling, 0 to 30 °C heating"
+   ],
+   [
+    "Outdoor operating range",
+    "Cooling from 18 to 43 °C, heating from -7 to 24 °C"
+   ],
+   [
+    "Filters",
+    "High density and cold catalyst"
+   ],
+   [
+    "Special functions",
+    "8 °C anti freeze, error code display"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o523327v389_Climate_Line_2000_v1.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/mea/en/ocs/residential/climate-line-2000-20586295-p/",
+  "confidence": "high"
+ },
+ "bosch-wall-mount-split-24-000-btu-non-inverter": {
+  "summary": "The largest Bosch Climate Line 2000 wall split, rated at about 24,000 Btu/h (7.0 kW). It is built for open offices, reception areas and big living rooms, and it can also heat. A front display and easy remote make daily use simple.",
+  "highlights": [
+   "Rated about 24,000 Btu/h",
+   "Cooling and heating in one unit",
+   "High density and cold catalyst filters help keep indoor air clean",
+   "Front panel display shows the set temperature and error codes",
+   "8 °C function keeps an empty room from freezing",
+   "Works in outdoor temperatures up to 43 °C when cooling"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate Line 2000 wall split"
+   ],
+   [
+    "Set",
+    "CLL2000-Set 70 W (7733701783)"
+   ],
+   [
+    "Indoor unit",
+    "CLL2000 W 70 (7733701767)"
+   ],
+   [
+    "Outdoor unit",
+    "CLL2000 70 (7733701768)"
+   ],
+   [
+    "Cooling capacity",
+    "7.0 kW (about 24,000 Btu/h)"
+   ],
+   [
+    "Heating capacity",
+    "7.3 kW"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 1.65 kg"
+   ],
+   [
+    "Indoor unit size (W x H x D)",
+    "1,082 x 337 x 234 mm"
+   ],
+   [
+    "Outdoor unit size (W x H x D)",
+    "890 x 673 x 342 mm"
+   ],
+   [
+    "Room temperature setting",
+    "16 to 32 °C cooling, 0 to 30 °C heating"
+   ],
+   [
+    "Outdoor operating range",
+    "Cooling from 18 to 43 °C, heating from -7 to 24 °C"
+   ],
+   [
+    "Filters",
+    "High density and cold catalyst"
+   ],
+   [
+    "Special functions",
+    "8 °C anti freeze, error code display"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o523327v389_Climate_Line_2000_v1.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/mea/en/ocs/residential/climate-line-2000-20586295-p/",
+  "confidence": "high"
+ },
+ "bosch-wall-mount-split-22-000-btu-inverter": {
+  "summary": "The largest Bosch Climate Line 5000i wall split, rated at 22,000 Btu/h. It is meant for big living rooms, open offices and meeting rooms of roughly 29 to 43 m². The inverter compressor keeps the temperature steady with less noise and lower power bills, and the unit can heat as well as cool.",
+  "highlights": [
+   "Rated 22,000 Btu/h with seasonal efficiency 5.7 (class A+)",
+   "Inverter rotary compressor with Eco mode and a three step Gear function to cut power use",
+   "i-Clean heats the indoor coil to 56 °C to kill up to 99% of bacteria, plus a built-in ionizer",
+   "Bio, cold catalyst and high density filters for cleaner air",
+   "3D airflow and Wind avoid me, so cool air reaches every corner without blowing on you",
+   "Follow Me sensing in the remote, error code display and auto restart after a power cut"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate Line 5000i, inverter wall split"
+   ],
+   [
+    "Indoor / outdoor unit",
+    "CLL5000i W 65 (7733701793) / CLL5000i 65 (7733701794)"
+   ],
+   [
+    "Cooling capacity",
+    "6.45 kW (22,000 Btu/h), range 11,570 to 26,500 Btu/h"
+   ],
+   [
+    "Heating capacity",
+    "6.45 kW (22,000 Btu/h)"
+   ],
+   [
+    "Rated cooling input",
+    "2,010 W"
+   ],
+   [
+    "EER / SEER",
+    "3.21 / 5.7 (class A+)"
+   ],
+   [
+    "Compressor",
+    "Inverter rotary"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 1.48 kg"
+   ],
+   [
+    "Power supply",
+    "220 V, single phase, 50 Hz"
+   ],
+   [
+    "Pipe sizes",
+    "3/8 inch (9.53 mm) liquid, 5/8 inch (15.9 mm) gas"
+   ],
+   [
+    "Max pipe run",
+    "Up to 30 m, 20 m height difference"
+   ],
+   [
+    "Indoor unit (W x H x D, weight)",
+    "1,082 x 337 x 234 mm, 14.2 kg"
+   ],
+   [
+    "Indoor sound pressure (high / mid / low)",
+    "48.5 / 41 / 34 dB(A)"
+   ],
+   [
+    "Outdoor operating range",
+    "Cooling from 0 to 50 °C, heating from -15 to 24 °C"
+   ],
+   [
+    "Suggested room size",
+    "About 29 to 43 m²"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o522796v389_Climate_Line_5000i_v1.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/mea/en/ocs/residential/climate-line-5000i-20586288-p/",
+  "confidence": "high"
+ },
+ "bosch-wall-mount-split-24-000-btu-inverter": {
+  "summary": "A Bosch wall split rated at about 24,000 Btu/h (7.0 kW) for open offices, halls and large living rooms. The model listed for it is the Climate Line 2000 W 70, which cools and heats and has a front display showing the set temperature and any error code.",
+  "highlights": [
+   "Rated about 24,000 Btu/h",
+   "Cooling and heating in one unit",
+   "High density and cold catalyst filters help keep indoor air clean",
+   "Front panel display shows the set temperature and error codes",
+   "8 °C function keeps an empty room from freezing",
+   "Works in outdoor temperatures up to 43 °C when cooling"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate Line 2000 wall split"
+   ],
+   [
+    "Set",
+    "CLL2000-Set 70 W (7733701783)"
+   ],
+   [
+    "Indoor unit",
+    "CLL2000 W 70 (7733701767)"
+   ],
+   [
+    "Outdoor unit",
+    "CLL2000 70 (7733701768)"
+   ],
+   [
+    "Cooling capacity",
+    "7.0 kW (about 24,000 Btu/h)"
+   ],
+   [
+    "Heating capacity",
+    "7.3 kW"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 1.65 kg"
+   ],
+   [
+    "Indoor unit size (W x H x D)",
+    "1,082 x 337 x 234 mm"
+   ],
+   [
+    "Outdoor unit size (W x H x D)",
+    "890 x 673 x 342 mm"
+   ],
+   [
+    "Room temperature setting",
+    "16 to 32 °C cooling, 0 to 30 °C heating"
+   ],
+   [
+    "Outdoor operating range",
+    "Cooling from 18 to 43 °C, heating from -7 to 24 °C"
+   ],
+   [
+    "Filters",
+    "High density and cold catalyst"
+   ],
+   [
+    "Special functions",
+    "8 °C anti freeze, error code display"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o523327v389_Climate_Line_2000_v1.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/mea/en/ocs/residential/climate-line-2000-20586295-p/",
+  "confidence": "low"
+ },
+ "bosch-vrf-outdoor-18-kw": {
+  "summary": "A Bosch Climate 5000 VRF mini outdoor unit (MDCI18-3) of about 60,000 Btu/h. One outdoor unit can run up to nine indoor units, each with its own control, which makes it a neat solution for villas, small offices, clinics and shops. It uses DC inverter technology and can heat as well as cool.",
+  "highlights": [
+   "One outdoor unit for up to 9 indoor units",
+   "Full DC inverter compressor and DC fan motors",
+   "Rated 17.5 kW cooling and 19.0 kW heating",
+   "Works from -15 to 43 °C outdoors when cooling",
+   "Connect indoor units totalling 45 to 130% of the outdoor capacity",
+   "Three phase supply"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate 5000 VRF, MDCI mini VRF heat pump"
+   ],
+   [
+    "Model",
+    "MDCI18-3"
+   ],
+   [
+    "Cooling capacity",
+    "17.5 kW (about 60,000 Btu/h)"
+   ],
+   [
+    "Heating capacity",
+    "19.0 kW"
+   ],
+   [
+    "Power input",
+    "5.30 kW cooling, 5.00 kW heating"
+   ],
+   [
+    "EER / COP",
+    "3.30 / 3.80"
+   ],
+   [
+    "Power supply",
+    "380 to 415 V, 3 phase, 50 Hz"
+   ],
+   [
+    "Max indoor units",
+    "9 (45 to 130% capacity ratio)"
+   ],
+   [
+    "Compressor",
+    "1 x DC inverter"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 4.5 kg factory charge"
+   ],
+   [
+    "Pipe connections",
+    "Liquid 9.53 mm, gas 19.1 mm"
+   ],
+   [
+    "Sound pressure",
+    "59 dB(A)"
+   ],
+   [
+    "Size (W x H x D)",
+    "900 x 1,327 x 400 mm"
+   ],
+   [
+    "Net weight",
+    "107 kg"
+   ],
+   [
+    "Operating range",
+    "Cooling -15 to 43 °C, heating -15 to 27 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/gb/media/country_pool/knowledge/news/bosch_vrf_planning_guide_web_uk.pdf",
+  "confidence": "medium"
+ },
+ "bosch-vrf-outdoor-56-kw": {
+  "summary": "A Bosch Air Flux 5300 VRF outdoor unit (AF5300A 56-3) rated at 56 kW, about 20 HP. It can serve up to 33 indoor units from one refrigerant system, which suits malls, hospitals, hotels and campuses. It uses DC inverter scroll compressors with vapour injection and can be combined with other units for bigger buildings.",
+  "highlights": [
+   "56 kW cooling and 56 kW heating",
+   "Up to 33 indoor units on one system",
+   "Two DC inverter scroll compressors",
+   "Works up to 48 °C outdoor temperature when cooling",
+   "Long piping: up to 1,000 m total and 110 m height difference in the system",
+   "Several silent modes for night time operation"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Air Flux 5300 VRF outdoor unit"
+   ],
+   [
+    "Model",
+    "AF5300A 56-3 (about 20 HP)"
+   ],
+   [
+    "Cooling capacity",
+    "56 kW"
+   ],
+   [
+    "Heating capacity",
+    "56 kW"
+   ],
+   [
+    "Power input",
+    "16 kW cooling, 13.8 kW heating"
+   ],
+   [
+    "EER / COP",
+    "3.5 / 4.05"
+   ],
+   [
+    "Power supply",
+    "380 to 415 V, 3 phase, 50 Hz"
+   ],
+   [
+    "Indoor units",
+    "Up to 33, at 50 to 130% capacity ratio"
+   ],
+   [
+    "Compressors",
+    "2 x DC inverter scroll"
+   ],
+   [
+    "Refrigerant",
+    "R410A, 17 kg factory charge"
+   ],
+   [
+    "Pipe connections",
+    "Liquid 19.1 mm (3/4 inch), gas 31.8 mm (1 1/4 inch)"
+   ],
+   [
+    "Sound pressure",
+    "66 dB(A)"
+   ],
+   [
+    "Size (W x H x D)",
+    "1,340 x 1,635 x 825 mm"
+   ],
+   [
+    "Net weight",
+    "344 kg"
+   ],
+   [
+    "Operating range",
+    "Cooling -5 to 48 °C, heating -23 to 24 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.bosch-homecomfort.com/ocsmedia/optimized/770x99999/o522322v389_Air_Flux_5300_v3.png"
+  ],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/ocsmedia/optimized/full/o432858v272_folleto_bosch_air_flux.pdf",
+  "confidence": "high"
+ },
+ "bosch-18-000-btu-ductable-split": {
+  "summary": "A Bosch Climate 5000 SCI ducted split rated at 18,000 Btu/h. The indoor unit sits above the ceiling and feeds conditioned air through ducts and grilles, so only the grilles are visible in the room. It suits offices, shops, hotel rooms and homes where a clean ceiling look matters.",
+  "highlights": [
+   "Concealed indoor unit, only the grilles show",
+   "Medium static pressure duct type for short duct runs",
+   "One indoor unit can serve a room through several grilles",
+   "Paired with a matching Bosch outdoor unit (OU)"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Climate 5000 SCI, medium static pressure duct type"
+   ],
+   [
+    "Model",
+    "SCI 18-1 OU (outdoor unit), as listed"
+   ],
+   [
+    "Nominal capacity",
+    "18,000 Btu/h class"
+   ],
+   [
+    "External static pressure",
+    "0 to 100 Pa for the 18K size (adjustable)"
+   ],
+   [
+    "Max pipe run",
+    "30 m, 20 m height difference (15K to 24K inverter class)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.worcester-bosch.co.uk/img/rac_assets/manuals/scac_ducted/Installation_Manual_SCI_Duct.pdf",
+  "confidence": "low"
+ },
+ "lg-cassette-18-000-btu-4-way": {
+  "summary": "An LG 4-way ceiling cassette air conditioner with a nominal capacity of 18,000 Btu/h. The indoor unit is set into a suspended ceiling and blows air out in four directions, so a large room cools evenly without a bulky unit on the wall. It is a common choice for shops, meeting rooms, restaurants and open offices.",
+  "highlights": [
+   "Nominal 18,000 Btu/h",
+   "Four-way airflow spreads cool air evenly across the room",
+   "Sits flush in a suspended ceiling, with only the panel visible",
+   "Good for shops, meeting rooms, restaurants and offices"
+  ],
+  "specs": [
+   [
+    "Type",
+    "LG single split, 4-way ceiling cassette"
+   ],
+   [
+    "Nominal cooling capacity",
+    "18,000 Btu/h (about 5.3 kW)"
+   ],
+   [
+    "Model code (as listed)",
+    "ATUQ22GPLA2"
+   ],
+   [
+    "Installation",
+    "Recessed in a suspended ceiling with a square decoration panel"
+   ],
+   [
+    "Airflow",
+    "Four directions"
+   ],
+   [
+    "Units",
+    "Indoor cassette with a separate outdoor unit"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.lg.com/global/business/hvac/commercial-solutions/single-split/ceiling-mounted-cassette/4-way-cassette/",
+  "confidence": "low"
+ },
+ "lg-cassette-24-000-btu-4-way": {
+  "summary": "An LG 4-way ceiling cassette air conditioner with a nominal capacity of 24,000 Btu/h. The indoor unit is set into a suspended ceiling and blows air out in four directions, so a large room cools evenly without a bulky unit on the wall. It is a common choice for shops, meeting rooms, restaurants and open offices.",
+  "highlights": [
+   "Nominal 24,000 Btu/h",
+   "Four-way airflow spreads cool air evenly across the room",
+   "Sits flush in a suspended ceiling, with only the panel visible",
+   "Good for shops, meeting rooms, restaurants and offices"
+  ],
+  "specs": [
+   [
+    "Type",
+    "LG single split, 4-way ceiling cassette"
+   ],
+   [
+    "Nominal cooling capacity",
+    "24,000 Btu/h (about 7.0 kW)"
+   ],
+   [
+    "Model code (as listed)",
+    "ATUQ30GPLA2"
+   ],
+   [
+    "Installation",
+    "Recessed in a suspended ceiling with a square decoration panel"
+   ],
+   [
+    "Airflow",
+    "Four directions"
+   ],
+   [
+    "Units",
+    "Indoor cassette with a separate outdoor unit"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.lg.com/global/business/hvac/commercial-solutions/single-split/ceiling-mounted-cassette/4-way-cassette/",
+  "confidence": "low"
+ },
+ "lg-cassette-36-000-btu-4-way": {
+  "summary": "An LG 4-way ceiling cassette air conditioner with a nominal capacity of 36,000 Btu/h. The indoor unit is set into a suspended ceiling and blows air out in four directions, so a large room cools evenly without a bulky unit on the wall. It is a common choice for shops, meeting rooms, restaurants and open offices.",
+  "highlights": [
+   "Nominal 36,000 Btu/h",
+   "Four-way airflow spreads cool air evenly across the room",
+   "Sits flush in a suspended ceiling, with only the panel visible",
+   "Good for shops, meeting rooms, restaurants and offices"
+  ],
+  "specs": [
+   [
+    "Type",
+    "LG single split, 4-way ceiling cassette"
+   ],
+   [
+    "Nominal cooling capacity",
+    "36,000 Btu/h (about 10.6 kW)"
+   ],
+   [
+    "Installation",
+    "Recessed in a suspended ceiling with a square decoration panel"
+   ],
+   [
+    "Airflow",
+    "Four directions"
+   ],
+   [
+    "Units",
+    "Indoor cassette with a separate outdoor unit"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.lg.com/global/business/hvac/commercial-solutions/single-split/ceiling-mounted-cassette/4-way-cassette/",
+  "confidence": "low"
+ },
+ "lg-cassette-48-000-btu-4-way": {
+  "summary": "An LG 4-way ceiling cassette air conditioner with a nominal capacity of 48,000 Btu/h. The indoor unit is set into a suspended ceiling and blows air out in four directions, so a large room cools evenly without a bulky unit on the wall. It is a common choice for shops, meeting rooms, restaurants and open offices.",
+  "highlights": [
+   "Nominal 48,000 Btu/h",
+   "Four-way airflow spreads cool air evenly across the room",
+   "Sits flush in a suspended ceiling, with only the panel visible",
+   "Good for shops, meeting rooms, restaurants and offices"
+  ],
+  "specs": [
+   [
+    "Type",
+    "LG single split, 4-way ceiling cassette"
+   ],
+   [
+    "Nominal cooling capacity",
+    "48,000 Btu/h (about 14.1 kW)"
+   ],
+   [
+    "Installation",
+    "Recessed in a suspended ceiling with a square decoration panel"
+   ],
+   [
+    "Airflow",
+    "Four directions"
+   ],
+   [
+    "Units",
+    "Indoor cassette with a separate outdoor unit"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.lg.com/global/business/hvac/commercial-solutions/single-split/ceiling-mounted-cassette/4-way-cassette/",
+  "confidence": "low"
+ },
+ "floor-standing-60-000-btu": {
+  "summary": "A floor standing air conditioner rated at 60,000 Btu/h (about 17.6 kW). The tall indoor unit stands against a wall and throws a strong stream of air across large open spaces such as showrooms, churches, halls and restaurants, with no ceiling work needed.",
+  "highlights": [
+   "60,000 Btu/h (5 ton) cooling",
+   "Stands on the floor, no ceiling or wall mounting needed",
+   "Long air throw for big open spaces",
+   "Split system with a separate outdoor unit"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Floor standing split air conditioner"
+   ],
+   [
+    "Cooling capacity",
+    "60,000 Btu/h (about 17.6 kW, 5 ton)"
+   ],
+   [
+    "Installation",
+    "Indoor unit on the floor, outdoor unit outside"
+   ],
+   [
+    "Typical use",
+    "Showrooms, halls, churches, restaurants"
+   ],
+   [
+    "Power supply",
+    "Units of this size usually need a three phase supply; check the unit nameplate"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "vrf-cassette-bosch-90-1p": {
+  "summary": "A Bosch Air Flux AF-4CR four-way round flow cassette for VRF systems, size 90 (9.0 kW cooling). It sits in the ceiling and sends air out all around, which suits open offices, restaurants and large meeting rooms. It connects to Bosch Air Flux VRF outdoor units and needs the AF-P 4CR panel.",
+  "highlights": [
+   "Round 360° airflow for even temperature in every corner",
+   "Built-in condensate pump lifts water up to 750 mm",
+   "DC fan motor with 7 fan speeds",
+   "Electronic expansion valve included",
+   "Fresh air intake connection",
+   "Needs the AF-P 4CR decoration panel (sold separately)"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Air Flux AF-4CR, 4-way round flow cassette (VRF indoor unit)"
+   ],
+   [
+    "Model",
+    "AF-4CR 90-1 P"
+   ],
+   [
+    "Cooling capacity",
+    "9.0 kW (30,700 Btu/h)"
+   ],
+   [
+    "Heating capacity",
+    "10.0 kW (34,100 Btu/h)"
+   ],
+   [
+    "Power input",
+    "75 W"
+   ],
+   [
+    "Power supply",
+    "220 to 240 V, single phase, 50 Hz"
+   ],
+   [
+    "Airflow",
+    "1,034 to 1,596 m³/h over 7 speeds"
+   ],
+   [
+    "Sound pressure",
+    "36 to 47 dB(A)"
+   ],
+   [
+    "Refrigerant",
+    "R410A, electronic expansion valve"
+   ],
+   [
+    "Pipe connections",
+    "Liquid 9.53 mm (3/8 inch), gas 15.9 mm (5/8 inch), drain OD 32 mm"
+   ],
+   [
+    "Body size (W x H x D)",
+    "840 x 300 x 840 mm"
+   ],
+   [
+    "Body weight",
+    "28.4 kg net"
+   ],
+   [
+    "Panel",
+    "AF-P 4CR, 950 x 50 x 950 mm, 5.8 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/ocsmedia/optimized/full/o432858v272_folleto_bosch_air_flux.pdf",
+  "confidence": "medium"
+ },
+ "vrf-cassette-bosch-71-2p": {
+  "summary": "A Bosch Air Flux AF-4CR four-way round flow cassette for VRF systems, size 71 (7.1 kW cooling, about 24,000 Btu/h). Its slim 230 mm body fits shallow ceiling voids, which makes it a good fit for hotel rooms, offices and shops. It connects to Bosch Air Flux VRF outdoor units and needs the AF-P 4CR panel.",
+  "highlights": [
+   "Slim body only 230 mm high",
+   "Round 360° airflow for even temperature in every corner",
+   "Built-in condensate pump lifts water up to 750 mm",
+   "DC fan motor with 7 fan speeds",
+   "Electronic expansion valve included",
+   "Fresh air intake connection"
+  ],
+  "specs": [
+   [
+    "Series",
+    "Bosch Air Flux AF-4CR, 4-way round flow cassette (VRF indoor unit)"
+   ],
+   [
+    "Model",
+    "AF-4CR 71-2 P"
+   ],
+   [
+    "Cooling capacity",
+    "7.1 kW (24,200 Btu/h)"
+   ],
+   [
+    "Heating capacity",
+    "8.0 kW (27,300 Btu/h)"
+   ],
+   [
+    "Power input",
+    "46 W"
+   ],
+   [
+    "Power supply",
+    "220 to 240 V, single phase, 50 Hz"
+   ],
+   [
+    "Airflow",
+    "748 to 1,200 m³/h over 7 speeds"
+   ],
+   [
+    "Sound pressure",
+    "34 to 45 dB(A)"
+   ],
+   [
+    "Refrigerant",
+    "R410A, electronic expansion valve"
+   ],
+   [
+    "Pipe connections",
+    "Liquid 9.53 mm (3/8 inch), gas 15.9 mm (5/8 inch), drain OD 32 mm"
+   ],
+   [
+    "Body size (W x H x D)",
+    "840 x 230 x 840 mm"
+   ],
+   [
+    "Body weight",
+    "23.2 kg net"
+   ],
+   [
+    "Panel",
+    "AF-P 4CR, 950 x 50 x 950 mm, 5.8 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/ocsmedia/optimized/full/o432858v272_folleto_bosch_air_flux.pdf",
+  "confidence": "medium"
+ },
+ "vrf-panel-bosch-90-1p": {
+  "summary": "The Bosch AF-P 4CR decoration panel, the visible front of an Air Flux AF-4CR round flow cassette. It closes the ceiling opening, holds the return air grille and filter, and directs air out on all sides. One panel is needed for each cassette body, including the 90 size.",
+  "highlights": [
+   "Matches every AF-4CR cassette size from 28 to 140",
+   "Gives the round 360° air outlet",
+   "950 x 950 mm, covers the ceiling opening neatly",
+   "Light at 5.8 kg"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Bosch AF-P 4CR decoration panel"
+   ],
+   [
+    "Order code",
+    "8733500457"
+   ],
+   [
+    "Fits",
+    "Bosch Air Flux AF-4CR cassettes, sizes 28 to 140"
+   ],
+   [
+    "Size (W x H x D)",
+    "950 x 50 x 950 mm"
+   ],
+   [
+    "Net weight",
+    "5.8 kg"
+   ],
+   [
+    "Packed size",
+    "1,035 x 89 x 1,035 mm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/ro/ro/ocs/rezidential/unitati-interioare-air-flux-vrf-tip-caseta-1141553-p/",
+  "confidence": "medium"
+ },
+ "vrf-panel-bosch-71-2p": {
+  "summary": "The Bosch AF-P 4CR decoration panel for Air Flux AF-4CR round flow cassettes, here matched to the 71 size. It closes the ceiling opening, holds the return grille and filter, and spreads air evenly in all directions. One panel is needed for each cassette body.",
+  "highlights": [
+   "Matches every AF-4CR cassette size from 28 to 140",
+   "Gives the round 360° air outlet",
+   "950 x 950 mm, covers the ceiling opening neatly",
+   "Light at 5.8 kg"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Bosch AF-P 4CR decoration panel"
+   ],
+   [
+    "Order code",
+    "8733500457"
+   ],
+   [
+    "Fits",
+    "Bosch Air Flux AF-4CR cassettes, sizes 28 to 140"
+   ],
+   [
+    "Size (W x H x D)",
+    "950 x 50 x 950 mm"
+   ],
+   [
+    "Net weight",
+    "5.8 kg"
+   ],
+   [
+    "Packed size",
+    "1,035 x 89 x 1,035 mm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-homecomfort.com/ro/ro/ocs/rezidential/unitati-interioare-air-flux-vrf-tip-caseta-1141553-p/",
+  "confidence": "high"
+ },
+ "insulation-kit-1-4-3-8": {
+  "summary": "A pair of flexible insulation tubes for air conditioner copper lines, one for the 1/4 inch (6.35 mm) liquid pipe and one for the 3/8 inch (9.52 mm) gas pipe. Insulation stops the cold pipes from sweating and dripping, and keeps cooling energy from being lost on the way to the indoor unit. This pipe pair suits small wall splits, typically up to about 9,000 to 12,000 Btu/h.",
+  "highlights": [
+   "Sized for a 1/4 inch (6.35 mm) + 3/8 inch (9.52 mm) line set",
+   "Stops condensation and dripping on cold pipes",
+   "Reduces energy loss along the pipe run",
+   "Flexible closed cell foam slides over the pipe"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Twin pipe insulation kit for AC line sets"
+   ],
+   [
+    "Liquid pipe size",
+    "1/4 inch (6.35 mm)"
+   ],
+   [
+    "Gas pipe size",
+    "3/8 inch (9.52 mm)"
+   ],
+   [
+    "Material",
+    "Flexible closed cell elastomeric foam"
+   ],
+   [
+    "Typical use",
+    "small wall splits, typically up to about 9,000 to 12,000 Btu/h"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "insulation-kit-1-4-1-2": {
+  "summary": "A pair of flexible insulation tubes for air conditioner copper lines, one for the 1/4 inch (6.35 mm) liquid pipe and one for the 1/2 inch (12.7 mm) gas pipe. Insulation stops the cold pipes from sweating and dripping, and keeps cooling energy from being lost on the way to the indoor unit. This pipe pair suits mid size wall splits, typically about 12,000 to 18,000 Btu/h.",
+  "highlights": [
+   "Sized for a 1/4 inch (6.35 mm) + 1/2 inch (12.7 mm) line set",
+   "Stops condensation and dripping on cold pipes",
+   "Reduces energy loss along the pipe run",
+   "Flexible closed cell foam slides over the pipe"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Twin pipe insulation kit for AC line sets"
+   ],
+   [
+    "Liquid pipe size",
+    "1/4 inch (6.35 mm)"
+   ],
+   [
+    "Gas pipe size",
+    "1/2 inch (12.7 mm)"
+   ],
+   [
+    "Material",
+    "Flexible closed cell elastomeric foam"
+   ],
+   [
+    "Typical use",
+    "mid size wall splits, typically about 12,000 to 18,000 Btu/h"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "insulation-kit-3-8-5-8": {
+  "summary": "A pair of flexible insulation tubes for air conditioner copper lines, one for the 3/8 inch (9.52 mm) liquid pipe and one for the 5/8 inch (15.88 mm) gas pipe. Insulation stops the cold pipes from sweating and dripping, and keeps cooling energy from being lost on the way to the indoor unit. This pipe pair suits larger splits of about 22,000 to 24,000 Btu/h and VRF branch lines.",
+  "highlights": [
+   "Sized for a 3/8 inch (9.52 mm) + 5/8 inch (15.88 mm) line set",
+   "Stops condensation and dripping on cold pipes",
+   "Reduces energy loss along the pipe run",
+   "Flexible closed cell foam slides over the pipe"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Twin pipe insulation kit for AC line sets"
+   ],
+   [
+    "Liquid pipe size",
+    "3/8 inch (9.52 mm)"
+   ],
+   [
+    "Gas pipe size",
+    "5/8 inch (15.88 mm)"
+   ],
+   [
+    "Material",
+    "Flexible closed cell elastomeric foam"
+   ],
+   [
+    "Typical use",
+    "larger splits of about 22,000 to 24,000 Btu/h and VRF branch lines"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "air-condition-af-bj03-y-branch": {
+  "summary": "The AF-BJ03 is a Bosch Air Flux refrigerant branch joint (Y-branch). It splits the liquid and gas lines of a VRF system so one outdoor unit can feed several indoor units. This size is chosen when the indoor units fed after the joint add up to 33 kW up to under 66 kW.",
+  "highlights": [
+   "Splits VRF liquid and gas lines to more indoor units",
+   "Made for Bosch Air Flux two pipe heat pump VRF",
+   "For 33 kW up to under 66 kW of indoor units after the joint"
+  ],
+  "specs": [
+   [
+    "Model",
+    "AF-BJ03 (Bosch Air Flux branch joint)"
+   ],
+   [
+    "Type",
+    "Y-branch for indoor units, two pipe heat pump VRF"
+   ],
+   [
+    "Bosch order code",
+    "8 733 500 633"
+   ],
+   [
+    "Selection",
+    "Total indoor capacity downstream of the joint: 33 kW up to under 66 kW"
+   ],
+   [
+    "Packed size",
+    "310 x 130 x 125 mm"
+   ],
+   [
+    "Gross weight",
+    "0.9 kg"
+   ],
+   [
+    "System",
+    "Bosch Air Flux VRF (R410A)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/ocsmedia/optimized/full/o432858v272_folleto_bosch_air_flux.pdf",
+  "confidence": "high"
+ },
+ "air-condition-af-bj05-y-branch": {
+  "summary": "The AF-BJ05 is a Bosch Air Flux refrigerant branch joint (Y-branch). It splits the liquid and gas lines of a VRF system so one outdoor unit can feed several indoor units. This size is chosen when the indoor units fed after the joint add up to 92 kW and above.",
+  "highlights": [
+   "Splits VRF liquid and gas lines to more indoor units",
+   "Made for Bosch Air Flux two pipe heat pump VRF",
+   "For 92 kW and above of indoor units after the joint"
+  ],
+  "specs": [
+   [
+    "Model",
+    "AF-BJ05 (Bosch Air Flux branch joint)"
+   ],
+   [
+    "Type",
+    "Y-branch for indoor units, two pipe heat pump VRF"
+   ],
+   [
+    "Bosch order code",
+    "8 733 500 635"
+   ],
+   [
+    "Selection",
+    "Total indoor capacity downstream of the joint: 92 kW and above"
+   ],
+   [
+    "Packed size",
+    "365 x 195 x 215 mm"
+   ],
+   [
+    "Gross weight",
+    "1.9 kg"
+   ],
+   [
+    "System",
+    "Bosch Air Flux VRF (R410A)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/ocsmedia/optimized/full/o432858v272_folleto_bosch_air_flux.pdf",
+  "confidence": "high"
+ },
+ "air-condition-af-bj06-y-branch": {
+  "summary": "The AF-BJ06 is a Bosch Air Flux refrigerant branch joint (Y-branch). It splits the liquid and gas lines of a VRF system so one outdoor unit can feed several indoor units. Pick the joint size from the total capacity of the indoor units after it, using the Bosch selection table.",
+  "highlights": [
+   "Splits VRF liquid and gas lines to more indoor units",
+   "Made for Bosch Air Flux two pipe heat pump VRF",
+   "Listed with its Bosch order code for easy matching"
+  ],
+  "specs": [
+   [
+    "Model",
+    "AF-BJ06 (Bosch Air Flux branch joint)"
+   ],
+   [
+    "Type",
+    "Y-branch for indoor units, two pipe heat pump VRF"
+   ],
+   [
+    "Bosch order code",
+    "8 733 500 636"
+   ],
+   [
+    "System",
+    "Bosch Air Flux VRF (R410A)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/ocsmedia/optimized/full/o432858v272_folleto_bosch_air_flux.pdf",
+  "confidence": "medium"
+ },
+ "air-condition-af-bj07-y-branch": {
+  "summary": "The AF-BJ07 is a Bosch Air Flux refrigerant branch joint (Y-branch). It splits the liquid and gas lines of a VRF system so one outdoor unit can feed several indoor units. Pick the joint size from the total capacity of the indoor units after it, using the Bosch selection table.",
+  "highlights": [
+   "Splits VRF liquid and gas lines to more indoor units",
+   "Made for Bosch Air Flux two pipe heat pump VRF",
+   "Listed with its Bosch order code for easy matching"
+  ],
+  "specs": [
+   [
+    "Model",
+    "AF-BJ07 (Bosch Air Flux branch joint)"
+   ],
+   [
+    "Type",
+    "Y-branch for indoor units, two pipe heat pump VRF"
+   ],
+   [
+    "Bosch order code",
+    "8 733 500 637"
+   ],
+   [
+    "Packed size",
+    "390 x 230 x 255 mm"
+   ],
+   [
+    "Gross weight",
+    "2.8 kg"
+   ],
+   [
+    "System",
+    "Bosch Air Flux VRF (R410A)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.bosch-industrial.com/ocsmedia/optimized/full/o432858v272_folleto_bosch_air_flux.pdf",
+  "confidence": "medium"
+ },
+ "axial-ventilation-fan": {
+  "summary": "A large axial ventilation fan, model AXC900-10/13-4(B), for moving big volumes of air out of plant rooms, generator rooms, kitchens and warehouses. Axial fans push air straight through along the shaft, which makes them a simple and efficient way to exhaust heat.",
+  "highlights": [
+   "Moves large air volumes at low pressure",
+   "For plant rooms, generator rooms and warehouses",
+   "Can be wall or duct mounted",
+   "Simple, robust design"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Axial ventilation fan"
+   ],
+   [
+    "Model",
+    "AXC900-10/13-4(B)"
+   ],
+   [
+    "Use",
+    "Exhaust or supply of large air volumes at low pressure"
+   ],
+   [
+    "Mounting",
+    "Wall opening or duct"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "black-rubber-insulation-1-1-8": {
+  "summary": "Black flexible rubber insulation tube with a bore for 1 1/8 inch (28.58 mm) pipe. It is used on large refrigerant suction lines and VRF trunk pipes to stop condensation and keep the cold in. The closed cell rubber resists moisture and stays flexible around bends.",
+  "highlights": [
+   "Fits 1 1/8 inch (28.58 mm) outer diameter pipe",
+   "Closed cell rubber resists moisture",
+   "Stops sweating on cold suction and VRF lines",
+   "Flexible, easy to slide on and seal at joints"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Flexible elastomeric (rubber) pipe insulation tube"
+   ],
+   [
+    "Pipe size",
+    "1 1/8 inch (28.58 mm OD)"
+   ],
+   [
+    "Colour",
+    "Black"
+   ],
+   [
+    "Structure",
+    "Closed cell"
+   ],
+   [
+    "Use",
+    "Refrigerant suction lines, VRF mains and risers"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "black-rubber-insulation-1-3-8": {
+  "summary": "Black flexible rubber insulation tube with a bore for 1 3/8 inch (34.92 mm) pipe. It is used on large refrigerant suction lines and VRF trunk pipes to stop condensation and keep the cold in. The closed cell rubber resists moisture and stays flexible around bends.",
+  "highlights": [
+   "Fits 1 3/8 inch (34.92 mm) outer diameter pipe",
+   "Closed cell rubber resists moisture",
+   "Stops sweating on cold suction and VRF lines",
+   "Flexible, easy to slide on and seal at joints"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Flexible elastomeric (rubber) pipe insulation tube"
+   ],
+   [
+    "Pipe size",
+    "1 3/8 inch (34.92 mm OD)"
+   ],
+   [
+    "Colour",
+    "Black"
+   ],
+   [
+    "Structure",
+    "Closed cell"
+   ],
+   [
+    "Use",
+    "Refrigerant suction lines, VRF mains and risers"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "black-rubber-insulation-1-5-8": {
+  "summary": "Black flexible rubber insulation tube with a bore for 1 5/8 inch (41.28 mm) pipe. It is used on large refrigerant suction lines and VRF trunk pipes to stop condensation and keep the cold in. The closed cell rubber resists moisture and stays flexible around bends.",
+  "highlights": [
+   "Fits 1 5/8 inch (41.28 mm) outer diameter pipe",
+   "Closed cell rubber resists moisture",
+   "Stops sweating on cold suction and VRF lines",
+   "Flexible, easy to slide on and seal at joints"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Flexible elastomeric (rubber) pipe insulation tube"
+   ],
+   [
+    "Pipe size",
+    "1 5/8 inch (41.28 mm OD)"
+   ],
+   [
+    "Colour",
+    "Black"
+   ],
+   [
+    "Structure",
+    "Closed cell"
+   ],
+   [
+    "Use",
+    "Refrigerant suction lines, VRF mains and risers"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "black-rubber-insulation-1-3-4": {
+  "summary": "Black flexible rubber insulation tube with a bore for 1 3/4 inch (44.45 mm) pipe. It is used on large refrigerant suction lines and VRF trunk pipes to stop condensation and keep the cold in. The closed cell rubber resists moisture and stays flexible around bends.",
+  "highlights": [
+   "Fits 1 3/4 inch (44.45 mm) outer diameter pipe",
+   "Closed cell rubber resists moisture",
+   "Stops sweating on cold suction and VRF lines",
+   "Flexible, easy to slide on and seal at joints"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Flexible elastomeric (rubber) pipe insulation tube"
+   ],
+   [
+    "Pipe size",
+    "1 3/4 inch (44.45 mm OD)"
+   ],
+   [
+    "Colour",
+    "Black"
+   ],
+   [
+    "Structure",
+    "Closed cell"
+   ],
+   [
+    "Use",
+    "Refrigerant suction lines, VRF mains and risers"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "copper-coil-1-4": {
+  "summary": "Soft drawn refrigeration copper tube in a coil, 1/4 inch (6.35 mm) outer diameter. It bends by hand or with a bender, flares cleanly and is used to connect indoor and outdoor air conditioner units. This size is typical for liquid lines of most small and mid size splits.",
+  "highlights": [
+   "1/4 inch (6.35 mm) outer diameter",
+   "Soft annealed copper, easy to bend and flare",
+   "Clean, dry refrigeration grade tube",
+   "Typical for liquid lines of most small and mid size splits"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Soft drawn (annealed) refrigeration copper tube, coil"
+   ],
+   [
+    "Outer diameter",
+    "1/4 inch (6.35 mm)"
+   ],
+   [
+    "Material",
+    "Copper"
+   ],
+   [
+    "Joining",
+    "Flare or brazed joints"
+   ],
+   [
+    "Typical use",
+    "liquid lines of most small and mid size splits"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "copper-coil-3-8": {
+  "summary": "Soft drawn refrigeration copper tube in a coil, 3/8 inch (9.52 mm) outer diameter. It bends by hand or with a bender, flares cleanly and is used to connect indoor and outdoor air conditioner units. This size is typical for gas lines of small splits, liquid lines of larger splits and VRF branches.",
+  "highlights": [
+   "3/8 inch (9.52 mm) outer diameter",
+   "Soft annealed copper, easy to bend and flare",
+   "Clean, dry refrigeration grade tube",
+   "Typical for gas lines of small splits, liquid lines of larger splits and VRF branches"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Soft drawn (annealed) refrigeration copper tube, coil"
+   ],
+   [
+    "Outer diameter",
+    "3/8 inch (9.52 mm)"
+   ],
+   [
+    "Material",
+    "Copper"
+   ],
+   [
+    "Joining",
+    "Flare or brazed joints"
+   ],
+   [
+    "Typical use",
+    "gas lines of small splits, liquid lines of larger splits and VRF branches"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "copper-coil-1-2": {
+  "summary": "Soft drawn refrigeration copper tube in a coil, 1/2 inch (12.7 mm) outer diameter. It bends by hand or with a bender, flares cleanly and is used to connect indoor and outdoor air conditioner units. This size is typical for gas lines of 12,000 to 18,000 Btu/h splits.",
+  "highlights": [
+   "1/2 inch (12.7 mm) outer diameter",
+   "Soft annealed copper, easy to bend and flare",
+   "Clean, dry refrigeration grade tube",
+   "Typical for gas lines of 12,000 to 18,000 Btu/h splits"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Soft drawn (annealed) refrigeration copper tube, coil"
+   ],
+   [
+    "Outer diameter",
+    "1/2 inch (12.7 mm)"
+   ],
+   [
+    "Material",
+    "Copper"
+   ],
+   [
+    "Joining",
+    "Flare or brazed joints"
+   ],
+   [
+    "Typical use",
+    "gas lines of 12,000 to 18,000 Btu/h splits"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "copper-coil-5-8": {
+  "summary": "Soft drawn refrigeration copper tube in a coil, 5/8 inch (15.88 mm) outer diameter. It bends by hand or with a bender, flares cleanly and is used to connect indoor and outdoor air conditioner units. This size is typical for gas lines of 22,000 Btu/h and larger units.",
+  "highlights": [
+   "5/8 inch (15.88 mm) outer diameter",
+   "Soft annealed copper, easy to bend and flare",
+   "Clean, dry refrigeration grade tube",
+   "Typical for gas lines of 22,000 Btu/h and larger units"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Soft drawn (annealed) refrigeration copper tube, coil"
+   ],
+   [
+    "Outer diameter",
+    "5/8 inch (15.88 mm)"
+   ],
+   [
+    "Material",
+    "Copper"
+   ],
+   [
+    "Joining",
+    "Flare or brazed joints"
+   ],
+   [
+    "Typical use",
+    "gas lines of 22,000 Btu/h and larger units"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "copper-coil-3-4": {
+  "summary": "Soft drawn refrigeration copper tube in a coil, 3/4 inch (19.05 mm) outer diameter. It bends by hand or with a bender, flares cleanly and is used to connect indoor and outdoor air conditioner units. This size is typical for gas lines of large ducted units and VRF runs.",
+  "highlights": [
+   "3/4 inch (19.05 mm) outer diameter",
+   "Soft annealed copper, easy to bend and flare",
+   "Clean, dry refrigeration grade tube",
+   "Typical for gas lines of large ducted units and VRF runs"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Soft drawn (annealed) refrigeration copper tube, coil"
+   ],
+   [
+    "Outer diameter",
+    "3/4 inch (19.05 mm)"
+   ],
+   [
+    "Material",
+    "Copper"
+   ],
+   [
+    "Joining",
+    "Flare or brazed joints"
+   ],
+   [
+    "Typical use",
+    "gas lines of large ducted units and VRF runs"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "copper-coil-7-8": {
+  "summary": "Soft drawn refrigeration copper tube in a coil, 7/8 inch (22.22 mm) outer diameter. It bends by hand or with a bender, flares cleanly and is used to connect indoor and outdoor air conditioner units. This size is typical for VRF trunk lines and large commercial units.",
+  "highlights": [
+   "7/8 inch (22.22 mm) outer diameter",
+   "Soft annealed copper, easy to bend and flare",
+   "Clean, dry refrigeration grade tube",
+   "Typical for VRF trunk lines and large commercial units"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Soft drawn (annealed) refrigeration copper tube, coil"
+   ],
+   [
+    "Outer diameter",
+    "7/8 inch (22.22 mm)"
+   ],
+   [
+    "Material",
+    "Copper"
+   ],
+   [
+    "Joining",
+    "Flare or brazed joints"
+   ],
+   [
+    "Typical use",
+    "VRF trunk lines and large commercial units"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "fire-dump": {
+  "summary": "A fire damper for air ducts. It sits where a duct passes through a fire rated wall or floor and closes automatically when it gets hot, stopping fire and smoke from spreading through the ductwork.",
+  "highlights": [
+   "Closes automatically in a fire",
+   "Keeps fire and smoke from travelling along ducts",
+   "Fitted where ducts cross fire rated walls and floors"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Fire damper for ventilation and AC ducts"
+   ],
+   [
+    "Operation",
+    "Spring loaded blades close when a heat sensitive link releases"
+   ],
+   [
+    "Installation",
+    "In the duct at fire rated walls or floors"
+   ],
+   [
+    "Use",
+    "HVAC duct systems"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "galvanized-sheet-0-6-mm": {
+  "summary": "Galvanized steel sheet, 0.6 mm thick, for making air conditioning and ventilation ducts. The zinc coating protects the steel from rust, and the sheet can be cut, folded and joined into ducts, plenums and fittings. This thickness suits small and medium rectangular ducts.",
+  "highlights": [
+   "0.6 mm thickness",
+   "Zinc coated steel resists rust",
+   "Easy to cut, fold and seam",
+   "Suits small and medium rectangular ducts"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Hot dip galvanized steel"
+   ],
+   [
+    "Thickness",
+    "0.6 mm"
+   ],
+   [
+    "Use",
+    "HVAC duct fabrication: small and medium rectangular ducts"
+   ],
+   [
+    "Finish",
+    "Zinc coated, plain"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "galvanized-sheet-0-8-mm": {
+  "summary": "Galvanized steel sheet, 0.8 mm thick, for making air conditioning and ventilation ducts. The zinc coating protects the steel from rust, and the sheet can be cut, folded and joined into ducts, plenums and fittings. This thickness suits larger ducts, plenums and transitions.",
+  "highlights": [
+   "0.8 mm thickness",
+   "Zinc coated steel resists rust",
+   "Easy to cut, fold and seam",
+   "Suits larger ducts, plenums and transitions"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Hot dip galvanized steel"
+   ],
+   [
+    "Thickness",
+    "0.8 mm"
+   ],
+   [
+    "Use",
+    "HVAC duct fabrication: larger ducts, plenums and transitions"
+   ],
+   [
+    "Finish",
+    "Zinc coated, plain"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "galvanized-sheet-1-0-mm": {
+  "summary": "Galvanized steel sheet, 1.0 mm thick, for making air conditioning and ventilation ducts. The zinc coating protects the steel from rust, and the sheet can be cut, folded and joined into ducts, plenums and fittings. This thickness suits large ducts, outdoor sections and supports.",
+  "highlights": [
+   "1.0 mm thickness",
+   "Zinc coated steel resists rust",
+   "Easy to cut, fold and seam",
+   "Suits large ducts, outdoor sections and supports"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Hot dip galvanized steel"
+   ],
+   [
+    "Thickness",
+    "1.0 mm"
+   ],
+   [
+    "Use",
+    "HVAC duct fabrication: large ducts, outdoor sections and supports"
+   ],
+   [
+    "Finish",
+    "Zinc coated, plain"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "pvc-pipe-pn16-50-mm": {
+  "summary": "Rigid PVC pipe with 50 mm outer diameter, pressure class PN16 (16 bar). On air conditioning jobs it is used for condensate headers and pressure drain lines. PVC does not rust, is light to handle and joins easily with solvent cement.",
+  "highlights": [
+   "50 mm outer diameter",
+   "PN16 (16 bar) pressure class",
+   "Does not rust or corrode",
+   "Light and easy to cut and join"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Rigid PVC (uPVC)"
+   ],
+   [
+    "Outer diameter",
+    "50 mm"
+   ],
+   [
+    "Pressure rating",
+    "PN16 (16 bar)"
+   ],
+   [
+    "Joining",
+    "Solvent cement or fittings"
+   ],
+   [
+    "Use",
+    "condensate headers and pressure drain lines"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "pvc-pipe-63-mm": {
+  "summary": "Rigid PVC pipe with 63 mm outer diameter. On air conditioning jobs it is used for gravity drains and condensate pump discharge. PVC does not rust, is light to handle and joins easily with solvent cement.",
+  "highlights": [
+   "63 mm outer diameter",
+   "Does not rust or corrode",
+   "Light and easy to cut and join"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Rigid PVC (uPVC)"
+   ],
+   [
+    "Outer diameter",
+    "63 mm"
+   ],
+   [
+    "Joining",
+    "Solvent cement or fittings"
+   ],
+   [
+    "Use",
+    "gravity drains and condensate pump discharge"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "pvc-pipe-90-mm": {
+  "summary": "Rigid PVC pipe with 90 mm outer diameter. On air conditioning jobs it is used for main drain lines and pipe sleeves. PVC does not rust, is light to handle and joins easily with solvent cement.",
+  "highlights": [
+   "90 mm outer diameter",
+   "Does not rust or corrode",
+   "Light and easy to cut and join"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Rigid PVC (uPVC)"
+   ],
+   [
+    "Outer diameter",
+    "90 mm"
+   ],
+   [
+    "Joining",
+    "Solvent cement or fittings"
+   ],
+   [
+    "Use",
+    "main drain lines and pipe sleeves"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "pvc-pipe-110-mm": {
+  "summary": "Rigid PVC pipe with 110 mm outer diameter. On air conditioning jobs it is used for main drain headers that collect several lines. PVC does not rust, is light to handle and joins easily with solvent cement.",
+  "highlights": [
+   "110 mm outer diameter",
+   "Does not rust or corrode",
+   "Light and easy to cut and join"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Rigid PVC (uPVC)"
+   ],
+   [
+    "Outer diameter",
+    "110 mm"
+   ],
+   [
+    "Joining",
+    "Solvent cement or fittings"
+   ],
+   [
+    "Use",
+    "main drain headers that collect several lines"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "refrigerant-gas-r410a": {
+  "summary": "R410A refrigerant in a new cylinder, the gas used in many inverter splits and VRF systems, including the Bosch Climate Line and Air Flux units we list. It is a blend of R32 and R125 and works at higher pressure than older R22, so it needs R410A rated tools and gauges.",
+  "highlights": [
+   "For systems designed for R410A",
+   "Blend of R32 and R125, 50% each by weight",
+   "Charge as liquid to keep the blend right",
+   "Zero ozone depletion"
+  ],
+  "specs": [
+   [
+    "Refrigerant",
+    "R410A"
+   ],
+   [
+    "Composition",
+    "R32 / R125, 50 / 50% by weight"
+   ],
+   [
+    "Global warming potential",
+    "2088"
+   ],
+   [
+    "Ozone depletion potential",
+    "0"
+   ],
+   [
+    "Charging",
+    "As liquid"
+   ],
+   [
+    "Compatible oil",
+    "POE (polyolester)"
+   ],
+   [
+    "Note",
+    "Higher working pressure than R22; use R410A rated hoses and gauges"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "remote-controller-not-wired": {
+  "summary": "A handheld infrared remote control for wall split and console air conditioners. It lets you switch the unit on and off, choose the mode, set the temperature and change fan speed from across the room.",
+  "highlights": [
+   "Wireless infrared, no cabling",
+   "Mode, temperature, fan speed and swing control",
+   "Runs on standard AAA batteries"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Infrared (IR) handheld remote"
+   ],
+   [
+    "Functions",
+    "On/off, mode, temperature, fan speed, swing, timer"
+   ],
+   [
+    "Power",
+    "Usually 2 x AAA batteries"
+   ],
+   [
+    "Use",
+    "Wall splits and consoles"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "remote-controller-wired": {
+  "summary": "A wall mounted wired controller for ducted, cassette and VRF indoor units. It is fixed on the wall and connected to the indoor unit by a cable, so it never gets lost and can show the room status and error codes.",
+  "highlights": [
+   "Fixed to the wall, cannot get lost",
+   "Cable link to the indoor unit",
+   "Suited to ducted, cassette and VRF units",
+   "Shows settings and fault codes"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Wired wall controller"
+   ],
+   [
+    "Connection",
+    "Control cable to the indoor unit"
+   ],
+   [
+    "Functions",
+    "On/off, mode, temperature, fan speed, timer"
+   ],
+   [
+    "Use",
+    "Ducted, cassette and VRF indoor units"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "small-fan-assembly": {
+  "summary": "A compact fan unit for bringing fresh air into, or taking stale air out of, small spaces such as utility rooms, toilets, stores and pantries.",
+  "highlights": [
+   "Compact size for small rooms",
+   "Fresh air or exhaust duty",
+   "Simple wall or duct mounting"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Small ventilation fan assembly"
+   ],
+   [
+    "Use",
+    "Fresh air or exhaust for utility rooms and small spaces"
+   ],
+   [
+    "Mounting",
+    "Wall or duct"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "mdb1-distribution-board": {
+  "summary": "A main distribution board (MDB1) that feeds and protects the electrical supply to HVAC plant such as outdoor units, VRF condensers and fans. It houses the incoming isolator and outgoing breakers in one lockable enclosure.",
+  "highlights": [
+   "Central point for HVAC plant power",
+   "Holds incoming isolator and outgoing breakers",
+   "Lockable metal enclosure"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Main distribution board"
+   ],
+   [
+    "Use",
+    "Power distribution to HVAC equipment"
+   ],
+   [
+    "Contents",
+    "Incoming isolator and outgoing circuit breakers"
+   ],
+   [
+    "Enclosure",
+    "Metal, lockable"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "mdb2-distribution-board": {
+  "summary": "A second distribution board (MDB2) for sites with several compressors or outdoor units. It splits the load so each group of equipment has its own protection and isolation.",
+  "highlights": [
+   "Shares the load on larger HVAC sites",
+   "Separate protection for each group of units",
+   "Lockable metal enclosure"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Distribution board"
+   ],
+   [
+    "Use",
+    "Power distribution to HVAC equipment"
+   ],
+   [
+    "Contents",
+    "Incoming isolator and outgoing circuit breakers"
+   ],
+   [
+    "Enclosure",
+    "Metal, lockable"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "grill-150-x-600-mm": {
+  "summary": "An aluminium air grille, 150 x 600 mm, for supply or return air on ducted systems. The powder coated finish looks neat on walls and ceilings and resists corrosion.",
+  "highlights": [
+   "150 x 600 mm size",
+   "Aluminium, light and rust free",
+   "Powder coated finish",
+   "For supply or return air"
+  ],
+  "specs": [
+   [
+    "Size",
+    "150 x 600 mm"
+   ],
+   [
+    "Material",
+    "Aluminium"
+   ],
+   [
+    "Finish",
+    "Powder coated"
+   ],
+   [
+    "Use",
+    "Supply or return air on ducted AC"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "addressable-manual-call-point": {
+  "summary": "An Asenware addressable manual call point for addressable fire alarm loops. In a fire, someone presses the front element and the panel shows exactly which call point raised the alarm. The element is resettable with a key, so it can be used again after testing.",
+  "highlights": [
+   "Shows its own address on the fire panel",
+   "Resettable front element, no glass to replace",
+   "LED indicator for status and alarm",
+   "Surface or semi-flush mounting"
+  ],
+  "specs": [
+   [
+    "Model (likely)",
+    "Asenware AW-D305"
+   ],
+   [
+    "Operating voltage",
+    "Loop 24 V (18 to 28 V)"
+   ],
+   [
+    "Standby current",
+    "Loop under 0.8 mA"
+   ],
+   [
+    "Addressing",
+    "Electronic, one address from 1 to 324"
+   ],
+   [
+    "Operating element",
+    "Resettable lever, not break glass"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ],
+   [
+    "Housing",
+    "ABS"
+   ],
+   [
+    "Size",
+    "86 x 86 x 41 mm with base"
+   ],
+   [
+    "Weight",
+    "About 148 g"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.asenware.com/products/detail-LPCB-Addressable-Manual-Call-Point-AW-D305-413.html",
+  "confidence": "low"
+ },
+ "photo-thermo-addressable-smoke-detector": {
+  "summary": "An Asenware addressable detector that senses both smoke (photoelectric) and heat. Combining the two helps it react to smoky and fast flaming fires, and the panel shows the exact detector that triggered.",
+  "highlights": [
+   "Photoelectric smoke plus heat sensing",
+   "Individual address on the fire panel",
+   "Self diagnosis and drift compensation for dust",
+   "Ceiling mounted, up to 8 m high"
+  ],
+  "specs": [
+   [
+    "Model (likely)",
+    "Asenware AW-ASH2188"
+   ],
+   [
+    "Sensing",
+    "Photoelectric smoke and heat (class A2)"
+   ],
+   [
+    "Operating voltage",
+    "24 V pulse on the loop"
+   ],
+   [
+    "Current",
+    "0.5 mA or less standby, under 1.5 mA in alarm"
+   ],
+   [
+    "Addressing",
+    "Electronic, 1 to 324"
+   ],
+   [
+    "Mounting height",
+    "Up to 8 m"
+   ],
+   [
+    "Coverage",
+    "About 60 m² (per local design rules)"
+   ],
+   [
+    "Size",
+    "100 mm diameter, 55 mm high with base"
+   ],
+   [
+    "Weight",
+    "About 100 g"
+   ],
+   [
+    "Housing",
+    "ABS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.asenware.com/products/detail-Addressable-smoke-and-heat-combined-detector-AW-ASH2188-100.html",
+  "confidence": "low"
+ },
+ "addressable-sounder-and-strobe": {
+  "summary": "An Asenware addressable sounder with a red flashing light. When the fire panel sends the alarm it sounds loudly and flashes, so people notice even in noisy or smoky areas.",
+  "highlights": [
+   "Sound and flashing light in one unit",
+   "Controlled and addressed from the fire panel",
+   "Bright red LEDs, low power use",
+   "Sound and flash can run together or separately"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Asenware AW-ASS2188"
+   ],
+   [
+    "Operating voltage",
+    "24 V"
+   ],
+   [
+    "Current",
+    "1 mA or less standby, 120 mA or less in alarm at 24 V DC"
+   ],
+   [
+    "Sound level",
+    "Over 85 dB at 3 m"
+   ],
+   [
+    "Flash rate",
+    "Once per second"
+   ],
+   [
+    "Addressing",
+    "Electronic"
+   ],
+   [
+    "Wiring",
+    "Four wire: two signal bus lines plus 24 V power"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C, indoor"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.asenware.com/u_file/product/16_04_21/5b3fcc7825.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.asenware.com/products/detail-AW-ASS2188-Addressable-Hooter/Horn-103.html",
+  "confidence": "medium"
+ },
+ "3-loop-addressable-fire-alarm-control-panel": {
+  "summary": "An Asenware AW-FP200 addressable fire alarm control panel, set up here with three loops. It has a 7 inch colour touch screen, records events and shows exactly which device is in alarm. It is a good fit for schools, hotels, offices and hospitals.",
+  "highlights": [
+   "7 inch colour touch screen with buttons",
+   "Up to 250 devices per loop, expandable to 8 loop cards",
+   "Wireless device groups can be added to each loop",
+   "Network up to 8 panels",
+   "Rechargeable backup battery"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Asenware AW-FP200 (Multi-8)"
+   ],
+   [
+    "Loops",
+    "3 as supplied, up to 8 loop cards"
+   ],
+   [
+    "Devices per loop",
+    "Up to 250 addressable devices"
+   ],
+   [
+    "Wireless",
+    "10 wireless groups per loop, 20 devices each"
+   ],
+   [
+    "Display",
+    "7 inch colour LCD touch screen"
+   ],
+   [
+    "Event log",
+    "Up to 999 records, kept after power off"
+   ],
+   [
+    "Networking",
+    "Up to 8 panels"
+   ],
+   [
+    "Backup",
+    "Rechargeable battery"
+   ],
+   [
+    "PC link",
+    "USB software for setup and history"
+   ],
+   [
+    "Alerts by phone",
+    "Up to 10 numbers with the optional GSM module"
+   ],
+   [
+    "Standards",
+    "EN 54-2 and EN 54-4 (marked on panel)"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.asenware.com/u_file/product/24_06_03/fa8e7856a3.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.asenware.com/products/detail-AW-FP200-(Mutil-8)-Addressable-Fire-Alarm-Control-Panel-576.html",
+  "confidence": "medium"
+ },
+ "addressable-panel-loop-card": {
+  "summary": "An extra loop card for an Asenware addressable fire panel. Each card adds one more addressable loop, so the system can grow with the building.",
+  "highlights": [
+   "Adds one addressable loop",
+   "Fits the Asenware AW-FP200 multi loop panel",
+   "Up to 8 loop cards per AW-FP200"
+  ],
+  "specs": [
+   [
+    "Fits",
+    "Asenware AW-FP200 (Multi-8) panel"
+   ],
+   [
+    "Adds",
+    "One loop of up to 250 addressable devices"
+   ],
+   [
+    "Max per panel",
+    "8 loop cards"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.asenware.com/products/detail-AW-FP200-(Mutil-8)-Addressable-Fire-Alarm-Control-Panel-576.html",
+  "confidence": "low"
+ },
+ "detector-and-sounder-wiring-30m": {
+  "summary": "A 30 m length of two core 1.5 mm² fire resistant cable for wiring detectors, call points and sounders. Fire resistant cable keeps the alarm circuits working for longer during a fire, and low smoke zero halogen (LSOH) sheathing gives off less toxic smoke.",
+  "highlights": [
+   "30 m length",
+   "Two cores, 1.5 mm²",
+   "Fire resistant, keeps circuits alive in a fire",
+   "Low smoke zero halogen sheath"
+  ],
+  "specs": [
+   [
+    "Length",
+    "30 m"
+   ],
+   [
+    "Cores",
+    "2"
+   ],
+   [
+    "Conductor size",
+    "1.5 mm²"
+   ],
+   [
+    "Type",
+    "Fire resistant"
+   ],
+   [
+    "Sheath",
+    "LSOH (low smoke zero halogen)"
+   ],
+   [
+    "Use",
+    "Fire detection and alarm circuits"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "conventional-manual-call-point": {
+  "summary": "A conventional break glass style manual call point with a surface back box. Pressing it triggers the alarm zone on a conventional fire panel. It suits small buildings and upgrades of existing conventional systems.",
+  "highlights": [
+   "Works with conventional zone panels",
+   "Supplied with surface back box",
+   "Red housing, clear marking"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Conventional manual call point"
+   ],
+   [
+    "Operation",
+    "Press the front element to raise the alarm"
+   ],
+   [
+    "Mounting",
+    "Surface back box"
+   ],
+   [
+    "Panel",
+    "Conventional fire alarm zone"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "conventional-smoke-detector": {
+  "summary": "A conventional photoelectric smoke detector with an LED indicator. It sees smoke particles with an optical chamber and puts its zone into alarm on a conventional fire panel. Ideal for rooms, corridors and offices.",
+  "highlights": [
+   "Photoelectric (optical) smoke sensing",
+   "LED shows status and alarm",
+   "Two wire conventional zone",
+   "Ceiling mounted on a base"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Conventional photoelectric smoke detector"
+   ],
+   [
+    "Wiring",
+    "Two wire conventional zone"
+   ],
+   [
+    "Indicator",
+    "LED"
+   ],
+   [
+    "Mounting",
+    "Ceiling, on detector base"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "conventional-sounder-90-db": {
+  "summary": "A conventional fire alarm sounder rated at 90 dB at 1 m. It is connected to the sounder circuit of a fire panel and gives a loud warning tone in an alarm.",
+  "highlights": [
+   "90 dB at 1 m",
+   "For conventional sounder circuits",
+   "Red housing for easy recognition"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Conventional fire alarm sounder"
+   ],
+   [
+    "Sound level",
+    "90 dB at 1 m"
+   ],
+   [
+    "Connection",
+    "Fire panel sounder circuit"
+   ],
+   [
+    "Mounting",
+    "Wall"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "4-loop-conventional-control-panel": {
+  "summary": "A conventional fire alarm control panel in a metal enclosure with four supervised zones. Detectors and call points are wired into zones, and the panel shows which zone is in alarm or in fault. It suits small to medium buildings.",
+  "highlights": [
+   "Four supervised detection zones",
+   "Shows alarm and fault for each zone",
+   "Metal enclosure",
+   "Battery backup during power cuts"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Conventional fire alarm control panel"
+   ],
+   [
+    "Zones",
+    "4 supervised zones"
+   ],
+   [
+    "Enclosure",
+    "Metal"
+   ],
+   [
+    "Backup",
+    "Standby battery (12 V type)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "fire-system-battery-pack": {
+  "summary": "A 12 V sealed lead acid battery that keeps a fire alarm panel running when the mains power fails. Panels usually use two in series for 24 V.",
+  "highlights": [
+   "12 V sealed, maintenance free",
+   "Keeps the fire panel alive in power cuts",
+   "Recharged by the panel"
+  ],
+  "specs": [
+   [
+    "Voltage",
+    "12 V"
+   ],
+   [
+    "Type",
+    "Sealed lead acid (VRLA), maintenance free"
+   ],
+   [
+    "Use",
+    "Standby power for fire alarm panels"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "emergency-exit-sign-with-light": {
+  "summary": "A lit emergency exit sign with a built-in backup battery. It stays lit when the power fails, guiding people to the exit.",
+  "highlights": [
+   "Lit exit sign",
+   "Built-in backup battery",
+   "Stays on in a power cut"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Illuminated emergency exit sign"
+   ],
+   [
+    "Backup",
+    "Built-in rechargeable battery"
+   ],
+   [
+    "Mounting",
+    "Wall or ceiling"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hp-probook-g2": {
+  "summary": "An HP ProBook business laptop from the G2 generation with an Intel Core i5 processor, 4GB of RAM and a 500GB hard drive. It is a practical, sturdy machine for everyday office work such as email, documents and web browsing. The screen is a standard non-touch display.",
+  "highlights": [
+   "Intel Core i5 processor",
+   "4GB RAM for light everyday tasks",
+   "500GB hard drive with plenty of room for files",
+   "Business-class HP ProBook build",
+   "Non-touch display"
+  ],
+  "specs": [
+   [
+    "Series",
+    "HP ProBook (G2 generation)"
+   ],
+   [
+    "Processor",
+    "Intel Core i5"
+   ],
+   [
+    "Memory",
+    "4GB RAM"
+   ],
+   [
+    "Storage",
+    "500GB hard disk drive (HDD)"
+   ],
+   [
+    "Display",
+    "Non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel graphics"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hp-probook-g3": {
+  "summary": "An HP ProBook business laptop from the G3 generation with an Intel Core i5 processor, 4GB of RAM and a 500GB hard drive. It suits everyday office and school work. The screen is a standard non-touch display.",
+  "highlights": [
+   "Intel Core i5 processor",
+   "4GB RAM for light everyday tasks",
+   "500GB hard drive",
+   "Business-class HP ProBook build",
+   "Non-touch display"
+  ],
+  "specs": [
+   [
+    "Series",
+    "HP ProBook (G3 generation)"
+   ],
+   [
+    "Processor",
+    "Intel Core i5"
+   ],
+   [
+    "Memory",
+    "4GB RAM"
+   ],
+   [
+    "Storage",
+    "500GB hard disk drive (HDD)"
+   ],
+   [
+    "Display",
+    "Non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel graphics"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hp-elitebook-g5": {
+  "summary": "An HP EliteBook business laptop from the G5 generation with an Intel Core i5 processor, 8GB of RAM and a fast 256GB SSD. EliteBooks are HP's premium business line, so it is a good choice for office work, study and travel. The screen is non-touch.",
+  "highlights": [
+   "Intel Core i5 processor",
+   "8GB RAM for smooth multitasking",
+   "256GB SSD for quick start-up",
+   "Premium HP EliteBook business build",
+   "Non-touch display"
+  ],
+  "specs": [
+   [
+    "Series",
+    "HP EliteBook (G5 generation)"
+   ],
+   [
+    "Processor",
+    "Intel Core i5"
+   ],
+   [
+    "Memory",
+    "8GB RAM"
+   ],
+   [
+    "Storage",
+    "256GB SSD"
+   ],
+   [
+    "Display",
+    "Non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel graphics"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hp-omnibook-ultra-5-new": {
+  "summary": "A new HP OmniBook laptop with a 14 inch touch screen, Intel processor, 8GB of RAM and a 512GB SSD. It is a slim everyday laptop for work, study and entertainment.",
+  "highlights": [
+   "14 inch touch screen",
+   "Intel processor",
+   "8GB RAM",
+   "512GB SSD",
+   "Slim, modern OmniBook design"
+  ],
+  "specs": [
+   [
+    "Series",
+    "HP OmniBook"
+   ],
+   [
+    "Processor",
+    "Intel Core (listed as i5)"
+   ],
+   [
+    "Memory",
+    "8GB RAM"
+   ],
+   [
+    "Storage",
+    "512GB SSD"
+   ],
+   [
+    "Display",
+    "14 inch touch screen"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hp-pavilion-x360-14inch-2-in-1-laptop": {
+  "summary": "A 14 inch 2-in-1 laptop whose screen folds all the way round, so you can use it as a laptop, a tent or a tablet. It has a 13th Gen Intel Core i5, 8GB of RAM, a 512GB SSD and a Full HD touch screen. Good for students and home users who like to write, draw or watch shows in different positions.",
+  "highlights": [
+   "360 degree hinge: laptop, tent, stand and tablet modes",
+   "14 inch Full HD IPS touch screen",
+   "13th Gen Intel Core i5-1335U",
+   "512GB SSD and 8GB RAM",
+   "5MP camera with privacy shutter",
+   "Backlit keyboard and Audio by B&O"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i5-1335U (10 cores, 12 threads, up to 4.6 GHz)"
+   ],
+   [
+    "Memory",
+    "8GB DDR4-3200 (onboard)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch Full HD (1920 x 1080) IPS multitouch, 250 nits"
+   ],
+   [
+    "Graphics",
+    "Intel integrated graphics"
+   ],
+   [
+    "Ports",
+    "1 USB-C 10Gbps (Power Delivery, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; headphone/mic combo; microSD reader"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "HP True Vision 5MP with privacy shutter"
+   ],
+   [
+    "Audio",
+    "Audio by B&O, dual speakers"
+   ],
+   [
+    "Battery",
+    "3-cell 43 Wh, fast charge to about 50% in 45 minutes"
+   ],
+   [
+    "Power adapter",
+    "45 W"
+   ],
+   [
+    "Weight",
+    "1.51 kg"
+   ],
+   [
+    "Dimensions",
+    "32.2 x 21 x 1.89 cm"
+   ],
+   [
+    "Keyboard",
+    "Full-size backlit"
+   ],
+   [
+    "Touch",
+    "Yes"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://pcb.inc.hp.com/dc/api/spec-sheet/eu-en/2101845070/pdf/8F1M3EA.pdf",
+  "confidence": "medium"
+ },
+ "hp-envy-x360-14-inch-2-in-1-laptop-pc-14-es0000": {
+  "summary": "The HP ENVY x360 14 is a premium 2-in-1 laptop with a 14 inch Full HD touch screen that flips round into tablet mode. This one has a 13th Gen Intel Core i5, 8GB of RAM and a 512GB SSD, a nice mix of style and everyday speed for work and creative hobbies.",
+  "highlights": [
+   "Convertible 2-in-1 design with 360 degree hinge",
+   "14 inch Full HD IPS touch screen",
+   "13th Gen Intel Core i5-1335U",
+   "512GB SSD and 8GB RAM",
+   "Premium ENVY build"
+  ],
+  "specs": [
+   [
+    "Model family",
+    "HP ENVY x360 2-in-1 Laptop 14-es0000"
+   ],
+   [
+    "Processor",
+    "Intel Core i5-1335U (10 cores, 12 threads, up to 4.6 GHz)"
+   ],
+   [
+    "Memory",
+    "8GB (onboard)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch Full HD (1920 x 1080) IPS multitouch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Iris Xe graphics"
+   ],
+   [
+    "Touch",
+    "Yes"
+   ],
+   [
+    "Form factor",
+    "2-in-1 convertible"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hp.com/us-en/shop/pdp/hp-envy-x360-2-in-1-laptop-14t-es000-14-743t1av-1",
+  "confidence": "medium"
+ },
+ "hp-omnibook-ultra-7": {
+  "summary": "An HP OmniBook laptop with a 14 inch touch screen, Intel processor, 8GB of RAM and a 512GB SSD. A slim, light laptop for everyday work, study and streaming.",
+  "highlights": [
+   "14 inch touch screen",
+   "Intel processor",
+   "8GB RAM",
+   "512GB SSD",
+   "Slim OmniBook design"
+  ],
+  "specs": [
+   [
+    "Series",
+    "HP OmniBook"
+   ],
+   [
+    "Processor",
+    "Intel Core (listed as i5)"
+   ],
+   [
+    "Memory",
+    "8GB RAM"
+   ],
+   [
+    "Storage",
+    "512GB SSD"
+   ],
+   [
+    "Display",
+    "14 inch touch screen"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hp-probook-g13": {
+  "summary": "An HP business laptop with an Intel Core i5 processor, 8GB of RAM, a 512GB SSD and a 15.6 inch non-touch screen. It is a sensible everyday machine for office work and study.",
+  "highlights": [
+   "Intel Core i5 processor",
+   "8GB RAM",
+   "512GB SSD for fast start-up",
+   "Large 15.6 inch screen",
+   "Non-touch display"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i5"
+   ],
+   [
+    "Memory",
+    "8GB RAM"
+   ],
+   [
+    "Storage",
+    "512GB SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel graphics (listed as 128MB)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hp-24-aio-u7-16gb-512gb-155u-fhd-desktop": {
+  "summary": "An HP 24 all-in-one desktop: the computer is built into a 23.8 inch Full HD screen, so you only need one power cable. It runs an Intel Core Ultra 7 155U with 16GB of RAM and a 512GB SSD, plenty for home office work, study and video calls. It comes with a white wireless keyboard and mouse.",
+  "highlights": [
+   "23.8 inch Full HD IPS anti-glare screen with slim bezels",
+   "Intel Core Ultra 7 155U processor",
+   "16GB DDR5 RAM and 512GB SSD",
+   "1080p pop-up style tilt privacy camera with IR",
+   "Wi-Fi 6, Bluetooth 5.4 and Gigabit Ethernet",
+   "Wireless keyboard and mouse"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 155U (12 cores, 14 threads, up to 4.8 GHz)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 (2 SODIMM slots)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "23.8 inch Full HD (1920 x 1080) IPS, anti-glare, 250 nits, 99% sRGB, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel graphics"
+   ],
+   [
+    "Camera",
+    "HP True Vision 1080p FHD IR tilt privacy camera"
+   ],
+   [
+    "Audio",
+    "Dual 2 W speakers"
+   ],
+   [
+    "Ports",
+    "1 USB-C 5Gbps; 2 USB-A 5Gbps; 2 USB-A 2.0; 1 HDMI-out 1.4; 1 RJ-45; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Keyboard and mouse",
+    "HP 510SP white wireless keyboard and mouse combo"
+   ],
+   [
+    "Power",
+    "90 W external adapter"
+   ],
+   [
+    "Colour",
+    "Shell white"
+   ],
+   [
+    "Dimensions",
+    "54.05 x 18.62 x 40.9 cm"
+   ],
+   [
+    "Weight",
+    "5.27 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/lbsf0n0hto/jpeg/lbsf0n0hto.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/duioyux8mu/jpeg/duioyux8mu.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/n6hqakztau/jpeg/n6hqakztau.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_africa-en/products/desktops/product-details/product-specifications/2102702481",
+  "confidence": "medium"
+ },
+ "hp-290-g9-i5-8gb-512gb-12th-gen-cpu-only": {
+  "summary": "The HP Pro Tower 290 G9 is a compact business desktop tower with a 12th Gen Intel Core i5, 8GB of RAM and a 512GB SSD. It is sold as the CPU unit only, so you add your own monitor, keyboard and mouse. A reliable choice for offices, schools and cyber cafes.",
+  "highlights": [
+   "12th Gen Intel Core i5 processor",
+   "8GB DDR4 RAM, expandable to 64GB",
+   "512GB M.2 NVMe SSD",
+   "VGA and HDMI outputs for one or two monitors",
+   "Plenty of USB ports front and rear",
+   "Tower unit only (no monitor, keyboard or mouse)"
+  ],
+  "specs": [
+   [
+    "Form factor",
+    "Tower (CPU unit only)"
+   ],
+   [
+    "Processor",
+    "12th Gen Intel Core i5"
+   ],
+   [
+    "Chipset",
+    "Intel H670"
+   ],
+   [
+    "Memory",
+    "8GB DDR4-3200 UDIMM (2 slots, up to 64GB)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe NVMe SSD"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel UHD Graphics"
+   ],
+   [
+    "Front ports",
+    "4 USB 5Gbps; headphone/mic combo jack"
+   ],
+   [
+    "Rear ports",
+    "4 USB 2.0; HDMI; VGA; RJ-45 Ethernet; audio line in and line out"
+   ],
+   [
+    "Networking",
+    "Gigabit Ethernet; Wi-Fi optional"
+   ],
+   [
+    "Bays",
+    "Slim optical drive bay (optional), 3.5 inch drive bays"
+   ],
+   [
+    "Power supply",
+    "180 W (internal)"
+   ],
+   [
+    "Dimensions",
+    "15.5 x 30.3 x 33.7 cm"
+   ],
+   [
+    "Weight",
+    "4.7 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08174111",
+  "confidence": "medium"
+ },
+ "hp-color-laserjet-4303dw": {
+  "summary": "The HP Color LaserJet Pro MFP 4303dw is a colour laser all-in-one that prints, copies and scans. It prints up to 33 pages per minute on A4, prints on both sides automatically, and connects by Wi-Fi, Ethernet or USB. A strong fit for small offices that print a steady volume in colour.",
+  "highlights": [
+   "Print, copy and scan in colour",
+   "Up to 33 ppm (A4), automatic two-sided printing",
+   "50-sheet automatic document feeder",
+   "Dual-band Wi-Fi, Wi-Fi Direct, Gigabit Ethernet and USB",
+   "4.3 inch colour touchscreen",
+   "Up to 50,000 pages per month duty cycle"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, copy, scan"
+   ],
+   [
+    "Print technology",
+    "Colour laser"
+   ],
+   [
+    "Print speed",
+    "Up to 33 ppm black and colour (A4)"
+   ],
+   [
+    "First page out",
+    "As fast as 9.5 s black, 10.5 s colour (A4)"
+   ],
+   [
+    "Print resolution",
+    "Up to 600 x 600 dpi (38,400 x 600 enhanced)"
+   ],
+   [
+    "Duplex printing",
+    "Automatic"
+   ],
+   [
+    "Scanner",
+    "Flatbed and 50-sheet ADF, up to 1200 dpi"
+   ],
+   [
+    "Paper input",
+    "250-sheet tray plus 50-sheet multipurpose tray (optional 550-sheet tray)"
+   ],
+   [
+    "Paper output",
+    "150-sheet bin"
+   ],
+   [
+    "Connectivity",
+    "Dual-band Wi-Fi 5, Wi-Fi Direct, Gigabit Ethernet, Hi-Speed USB 2.0, walk-up USB"
+   ],
+   [
+    "Mobile printing",
+    "HP app, Apple AirPrint, Mopria"
+   ],
+   [
+    "Display",
+    "4.3 inch colour touchscreen"
+   ],
+   [
+    "Duty cycle",
+    "Up to 50,000 pages per month (recommended 750 to 4,000)"
+   ],
+   [
+    "Toner",
+    "HP 230A / 230X (black, cyan, magenta, yellow)"
+   ],
+   [
+    "Dimensions",
+    "421 x 435 x 384 mm"
+   ],
+   [
+    "Weight",
+    "About 20.4 kg"
+   ]
+  ],
+  "inBox": [
+   "HP Color LaserJet Pro MFP 4303dw printer",
+   "4 preinstalled HP LaserJet toner cartridges (black about 2,000 pages; introductory cyan, magenta and yellow about 1,000 pages)",
+   "Reference guide and setup card",
+   "Warranty card (where required)",
+   "Power cord",
+   "USB cable"
+  ],
+  "images": [
+   "https://hp.widen.net/content/xalj6z5vta/jpeg/xalj6z5vta.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/trco5ly6pt/jpeg/trco5ly6pt.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/nf06lvbpb7/jpeg/nf06lvbpb7.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/yclteqlkt4/jpeg/yclteqlkt4.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/34icxoea0z/jpeg/34icxoea0z.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_africa-en/products/printers/product-details/product-specifications/38348040",
+  "confidence": "high"
+ },
+ "hp-color-laserjet-pro-mfp-4303fdw": {
+  "summary": "The HP Color LaserJet Pro MFP 4303fdw is a colour laser all-in-one that prints, copies, scans and faxes. It prints up to 33 pages per minute on A4, prints and scans both sides automatically, and connects by Wi-Fi, Ethernet or USB. Ideal for busy small offices.",
+  "highlights": [
+   "Print, copy, scan and fax",
+   "Up to 33 ppm (A4), automatic two-sided printing",
+   "50-sheet ADF with two-sided scanning",
+   "Dual-band Wi-Fi, Wi-Fi Direct, Gigabit Ethernet and USB",
+   "4.3 inch colour touchscreen",
+   "Up to 50,000 pages per month duty cycle"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, copy, scan, fax"
+   ],
+   [
+    "Print technology",
+    "Colour laser"
+   ],
+   [
+    "Print speed",
+    "Up to 33 ppm black and colour (A4)"
+   ],
+   [
+    "Print resolution",
+    "Up to 600 x 600 dpi (38,400 x 600 enhanced)"
+   ],
+   [
+    "Duplex printing",
+    "Automatic"
+   ],
+   [
+    "Scanner",
+    "Flatbed and 50-sheet ADF with duplex scanning, up to 1200 dpi"
+   ],
+   [
+    "Duplex scan speed",
+    "Up to 44 ipm black, 35 ipm colour (A4)"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, up to 500 pages memory"
+   ],
+   [
+    "Paper input",
+    "250-sheet tray plus 50-sheet multipurpose tray (optional 550-sheet tray)"
+   ],
+   [
+    "Paper output",
+    "150-sheet bin"
+   ],
+   [
+    "Connectivity",
+    "Dual-band Wi-Fi 5, Wi-Fi Direct, Gigabit Ethernet, Hi-Speed USB 2.0, walk-up USB, RJ-11 fax"
+   ],
+   [
+    "Mobile printing",
+    "HP app, Apple AirPrint, Mopria"
+   ],
+   [
+    "Display",
+    "4.3 inch colour touchscreen"
+   ],
+   [
+    "Duty cycle",
+    "Up to 50,000 pages per month (recommended 750 to 4,000)"
+   ],
+   [
+    "Toner",
+    "HP 230A / 230X (black, cyan, magenta, yellow)"
+   ],
+   [
+    "Dimensions",
+    "421 x 435 x 384 mm"
+   ],
+   [
+    "Weight",
+    "About 20.4 kg"
+   ]
+  ],
+  "inBox": [
+   "HP Color LaserJet Pro MFP 4303fdw printer",
+   "4 preinstalled HP LaserJet toner cartridges (black about 2,000 pages; introductory cyan, magenta and yellow about 1,000 pages)",
+   "Reference guide and setup card",
+   "Warranty card (where required)",
+   "Power cord",
+   "USB cable"
+  ],
+  "images": [
+   "https://hp.widen.net/content/21jro0wx1x/jpeg/21jro0wx1x.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/k0dxehj1bm/jpeg/k0dxehj1bm.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/85dp2c1m8a/jpeg/85dp2c1m8a.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/printers/product-details/product-specifications/38348046",
+  "confidence": "high"
+ },
+ "hp-monitor-s3-pro-322pv-fhd-22": {
+  "summary": "The HP Series 3 Pro 322pv is a 21.45 inch Full HD monitor with a smooth 100 Hz refresh rate and a high-contrast VA panel. HP Eye Ease filters blue light all the time to keep your eyes comfortable. A good everyday screen for offices and home desks, with both HDMI and VGA inputs.",
+  "highlights": [
+   "21.45 inch Full HD (1920 x 1080) VA panel",
+   "Up to 100 Hz refresh rate (HDMI)",
+   "3000:1 contrast, 250 nits",
+   "HP Eye Ease low blue light, flicker-free",
+   "HDMI and VGA inputs",
+   "Tilt stand and 100 x 100 mm VESA mount"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "21.45 inch (54.5 cm)"
+   ],
+   [
+    "Panel",
+    "VA, anti-glare"
+   ],
+   [
+    "Resolution",
+    "Full HD 1920 x 1080"
+   ],
+   [
+    "Refresh rate",
+    "Up to 100 Hz (HDMI)"
+   ],
+   [
+    "Response time",
+    "5 ms GtG (with overdrive)"
+   ],
+   [
+    "Brightness",
+    "250 nits"
+   ],
+   [
+    "Contrast",
+    "3000:1"
+   ],
+   [
+    "Colour gamut",
+    "72% NTSC"
+   ],
+   [
+    "Viewing angles",
+    "178 / 178 degrees"
+   ],
+   [
+    "Inputs",
+    "1 HDMI 1.4 (HDCP), 1 VGA"
+   ],
+   [
+    "Stand",
+    "Tilt -5 to +23 degrees"
+   ],
+   [
+    "VESA mount",
+    "100 x 100 mm"
+   ],
+   [
+    "Power",
+    "Internal power supply, 100 to 240 VAC"
+   ],
+   [
+    "Dimensions with stand",
+    "50.42 x 18.05 x 38.69 cm"
+   ],
+   [
+    "Weight",
+    "2.8 kg"
+   ]
+  ],
+  "inBox": [
+   "Monitor",
+   "HDMI cable",
+   "AC power cord",
+   "Quick setup poster",
+   "Warranty card"
+  ],
+  "images": [
+   "https://hp.widen.net/content/qvmd4pbdgw/jpeg/qvmd4pbdgw.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/b20cr0ynji/jpeg/b20cr0ynji.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/kce9pjkvow/jpeg/kce9pjkvow.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/xu8i28xzir/jpeg/xu8i28xzir.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_africa-en/products/monitors/product-details/product-specifications/2102196945",
+  "confidence": "high"
+ },
+ "hp-15-core-i3-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP 15 is a simple, dependable 15.6 inch laptop for everyday work, school and browsing. This one has a 13th Gen Intel Core i3, 8GB of RAM and a fast 512GB SSD, with a full-size keyboard including a number pad.",
+  "highlights": [
+   "13th Gen Intel Core i3 processor",
+   "8GB RAM and 512GB SSD",
+   "15.6 inch Full HD anti-glare screen",
+   "Full-size keyboard with number pad",
+   "Wi-Fi 6 and Bluetooth 5.4",
+   "Camera privacy shutter and mic mute key"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "13th Gen Intel Core i3"
+   ],
+   [
+    "Memory",
+    "8GB DDR4-3200"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel UHD Graphics"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080), anti-glare, 250 nits, non-touch"
+   ],
+   [
+    "Ports",
+    "1 USB-C 5Gbps (data only); 2 USB-A 5Gbps; 1 HDMI 1.4b; headphone/mic combo; AC power"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "HP True Vision 720p HD with privacy shutter"
+   ],
+   [
+    "Battery",
+    "3-cell 41 Wh, fast charge to about 50% in 45 minutes"
+   ],
+   [
+    "Power adapter",
+    "45 W"
+   ],
+   [
+    "Keyboard",
+    "Full-size with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 1.59 kg"
+   ],
+   [
+    "Dimensions",
+    "35.98 x 23.6 x 1.86 cm"
+   ],
+   [
+    "Colour",
+    "Natural silver"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/bmwdywnltf/jpeg/bmwdywnltf.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/zftxb7qrkg/jpeg/zftxb7qrkg.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/trc7up4xp4/jpeg/trc7up4xp4.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103380712",
+  "confidence": "medium"
+ },
+ "hp-15-ai-core-ultra-5-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP 15 AI laptop pairs an Intel Core Ultra 5 processor, with a built-in AI engine, with 8GB of RAM and a 512GB SSD. The 15.6 inch Full HD screen, backlit keyboard with number pad and USB-C charging make it a practical everyday laptop.",
+  "highlights": [
+   "Intel Core Ultra 5 processor with NPU for AI features",
+   "8GB RAM and 512GB SSD",
+   "15.6 inch Full HD anti-glare screen",
+   "Backlit keyboard with number pad",
+   "USB-C with charging and display output",
+   "Wi-Fi 6 and Bluetooth 5.4"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 5 (for example 225U, 12 cores, up to 4.8 GHz)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5600"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080), anti-glare, 250 nits, non-touch"
+   ],
+   [
+    "Ports",
+    "1 USB-C 10Gbps (Power Delivery, DisplayPort 1.4b); 2 USB-A 5Gbps; 1 HDMI 1.4b; headphone/mic combo; AC power"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "HP True Vision 720p HD with privacy shutter"
+   ],
+   [
+    "Battery",
+    "3-cell 41 Wh, fast charge to about 50% in 45 minutes"
+   ],
+   [
+    "Keyboard",
+    "Backlit, with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 1.65 kg"
+   ],
+   [
+    "Dimensions",
+    "35.98 x 23.6 x 1.86 cm"
+   ],
+   [
+    "Colour",
+    "Natural silver"
+   ],
+   [
+    "Power adapter",
+    "45 W USB-C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/q8ungki6u9/jpeg/q8ungki6u9.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/2y3h6olr3t/jpeg/2y3h6olr3t.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/uln0ugvaqi/jpeg/uln0ugvaqi.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/2iqym3jfpq/jpeg/2iqym3jfpq.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103641942",
+  "confidence": "medium"
+ },
+ "hp-15-core-i5-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP 15 is a reliable 15.6 inch laptop for everyday work, school and browsing. This one has a 13th Gen Intel Core i5, 8GB of RAM and a fast 512GB SSD, with a full-size keyboard including a number pad.",
+  "highlights": [
+   "13th Gen Intel Core i5 processor",
+   "8GB RAM and 512GB SSD",
+   "15.6 inch Full HD anti-glare screen",
+   "Full-size keyboard with number pad",
+   "Wi-Fi 6 and Bluetooth 5.4",
+   "Camera privacy shutter and mic mute key"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "13th Gen Intel Core i5 (for example i5-1334U, 10 cores, up to 4.6 GHz)"
+   ],
+   [
+    "Memory",
+    "8GB DDR4-3200"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel graphics (Iris Xe when memory runs in dual channel)"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080), anti-glare, 250 nits, non-touch"
+   ],
+   [
+    "Ports",
+    "1 USB-C 5Gbps (data only); 2 USB-A 5Gbps; 1 HDMI 1.4b; headphone/mic combo; AC power"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "HP True Vision 720p HD with privacy shutter"
+   ],
+   [
+    "Battery",
+    "3-cell 41 Wh, fast charge to about 50% in 45 minutes"
+   ],
+   [
+    "Power adapter",
+    "45 W"
+   ],
+   [
+    "Keyboard",
+    "Full-size with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 1.59 kg"
+   ],
+   [
+    "Dimensions",
+    "35.98 x 23.6 x 1.86 cm"
+   ],
+   [
+    "Colour",
+    "Natural silver"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/bmwdywnltf/jpeg/bmwdywnltf.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/zftxb7qrkg/jpeg/zftxb7qrkg.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/trc7up4xp4/jpeg/trc7up4xp4.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103380712",
+  "confidence": "medium"
+ },
+ "hp-200-g2i-core-i5-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The HP 200 G2i is a 14 inch business laptop with a metal-look silver finish, a sharp WUXGA screen and a spill-resistant backlit keyboard. With 8GB of RAM and a 512GB SSD it handles office work, video calls and study with ease, and it has a full set of ports including Ethernet.",
+  "highlights": [
+   "14 inch WUXGA (1920 x 1200) IPS anti-glare screen, 300 nits",
+   "8GB DDR5 RAM (2 slots) and 512GB SSD",
+   "1080p IR camera and Poly Studio audio with AI noise reduction",
+   "Two USB-C 10Gbps, two USB-A, HDMI 2.1 and RJ-45 Ethernet",
+   "Spill-resistant backlit keyboard",
+   "Light at about 1.38 kg"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i5 class (as listed)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5200 (2 SODIMM slots)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, anti-glare, 300 nits, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 10Gbps (Power Delivery, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo; nano lock slot"
+   ],
+   [
+    "Wireless",
+    "MediaTek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "1080p FHD IR camera"
+   ],
+   [
+    "Audio",
+    "Poly Studio, dual stereo speakers"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 41 Wh"
+   ],
+   [
+    "Power adapter",
+    "45 W USB-C GaN"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant, backlit, with numeric keypad"
+   ],
+   [
+    "Weight",
+    "From 1.38 kg"
+   ],
+   [
+    "Colour",
+    "Meteor silver"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/6wbsg34c7q/jpeg/6wbsg34c7q.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/jpwurmks7x/jpeg/jpwurmks7x.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/1zzt9ybs6d/jpeg/1zzt9ybs6d.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/xsz8rofzxn/jpeg/xsz8rofzxn.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2104369557",
+  "confidence": "medium"
+ },
+ "hp-15-ryzen-5-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP 15 with an AMD Ryzen 5 processor is a well-priced everyday laptop for school, office work and streaming. It has 8GB of RAM, a fast 512GB SSD and a 15.6 inch Full HD anti-glare screen.",
+  "highlights": [
+   "AMD Ryzen 5 processor with Radeon graphics",
+   "8GB RAM and 512GB SSD",
+   "15.6 inch Full HD anti-glare screen",
+   "Full-size keyboard with number pad",
+   "Wi-Fi 6 and Bluetooth 5.4"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "AMD Ryzen 5 (for example Ryzen 5 5625U, 6 cores, 12 threads, up to 4.3 GHz)"
+   ],
+   [
+    "Memory",
+    "8GB DDR4-3200"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080), anti-glare, 250 nits, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated AMD Radeon Graphics"
+   ],
+   [
+    "Ports",
+    "1 USB-C 5Gbps (data only); 2 USB-A 5Gbps; 1 HDMI 1.4b; headphone/mic combo; AC power"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "HP True Vision 720p HD with privacy shutter"
+   ],
+   [
+    "Battery",
+    "3-cell 41 Wh, fast charge to about 50% in 45 minutes"
+   ],
+   [
+    "Power adapter",
+    "45 W"
+   ],
+   [
+    "Keyboard",
+    "Full-size with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 1.59 kg"
+   ],
+   [
+    "Colour",
+    "Natural silver"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://pcb.inc.hp.com/dc/api/spec-sheet/ww-en/2103134541/pdf/BU7W4EA.pdf",
+  "confidence": "medium"
+ },
+ "hp-probook-460-g11-core-ultra-5-16gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP ProBook 460 G11 is a business laptop with a large WUXGA screen, an Intel Core Ultra 5 processor, 16GB of RAM and a 512GB SSD. It is built for office work and video calls, with plenty of ports and a spill-resistant keyboard with number pad.",
+  "highlights": [
+   "Intel Core Ultra processor with built-in AI engine (NPU)",
+   "Large WUXGA (1920 x 1200) anti-glare screen",
+   "Two 20Gbps USB-C ports, HDMI 2.1 and Ethernet",
+   "Poly Studio audio and 1080p camera for calls",
+   "Spill-resistant keyboard with number pad",
+   "HP business security features"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 5 (Series 1, such as 125U or 135U)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 (2 SODIMM slots, up to 48GB)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch (as listed) WUXGA (1920 x 1200) IPS, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo; lock slot"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD (5MP IR on some versions)"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, 2 stereo speakers"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant HP Durakey with numeric keypad (backlit on some versions)"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 48 or 56 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Power adapter",
+    "USB-C (45 to 65 W)"
+   ],
+   [
+    "Weight",
+    "From 1.75 kg"
+   ],
+   [
+    "Dimensions",
+    "35.94 x 25.1 x 1.09 to 1.70 cm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08915560",
+  "confidence": "medium"
+ },
+ "hp-probook-460-g11-core-ultra-5-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP ProBook 460 G11 is a business laptop with a large WUXGA screen, an Intel Core Ultra 5 processor, 8GB of RAM and a 512GB SSD. It is made for office work and video calls, with plenty of ports and a spill-resistant keyboard with number pad.",
+  "highlights": [
+   "Intel Core Ultra processor with built-in AI engine (NPU)",
+   "Large WUXGA (1920 x 1200) anti-glare screen",
+   "Two 20Gbps USB-C ports, HDMI 2.1 and Ethernet",
+   "Poly Studio audio and 1080p camera for calls",
+   "Spill-resistant keyboard with number pad",
+   "HP business security features"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 5 (Series 1, such as 125U or 135U)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5600 (2 SODIMM slots, up to 48GB)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch (as listed) WUXGA (1920 x 1200) IPS, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo; lock slot"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD (5MP IR on some versions)"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, 2 stereo speakers"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant HP Durakey with numeric keypad (backlit on some versions)"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 48 or 56 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Power adapter",
+    "USB-C (45 to 65 W)"
+   ],
+   [
+    "Weight",
+    "From 1.75 kg"
+   ],
+   [
+    "Dimensions",
+    "35.94 x 25.1 x 1.09 to 1.70 cm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08915560",
+  "confidence": "medium"
+ },
+ "hp-probook-4-g1i-core-ultra-5-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The HP ProBook 4 G1i 14 is a light aluminium business laptop with an Intel Core Ultra 5 processor, 16GB of RAM and a 512GB SSD. It has a bright 14 inch WUXGA screen, a backlit spill-resistant keyboard and a fingerprint reader, ready for hybrid work.",
+  "highlights": [
+   "Intel Core Ultra processor with built-in AI engine (NPU)",
+   "14 inch WUXGA (1920 x 1200) anti-glare screen, 300 nits",
+   "Two 20Gbps USB-C, HDMI 2.1 and Ethernet",
+   "1080p camera and Poly Studio audio",
+   "Fingerprint reader and spill-resistant backlit keyboard",
+   "Aluminium build in pike silver"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 5 (Series 2)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 (2 SODIMM slots)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, anti-glare, 300 nits, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery 3.0, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, dual stereo speakers"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, HP Sure Platform, HP Tamper Lock"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant, backlit"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 56 Wh"
+   ],
+   [
+    "Power adapter",
+    "45 W USB-C"
+   ],
+   [
+    "Weight",
+    "From 1.39 kg"
+   ],
+   [
+    "Dimensions",
+    "31.86 x 22.43 x 1.09 to 1.7 cm"
+   ],
+   [
+    "Colour",
+    "Pike silver aluminium"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/o5z6gjmovh/jpeg/o5z6gjmovh.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/ntg6xdc77z/jpeg/ntg6xdc77z.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/s0zzstqaba/jpeg/s0zzstqaba.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/k6tuj1b7iq/jpeg/k6tuj1b7iq.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103517940",
+  "confidence": "medium"
+ },
+ "hp-probook-4-g1i-core-ultra-5-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The HP ProBook 4 G1i 14 is a light aluminium business laptop with an Intel Core Ultra 5 processor, 8GB of RAM and a 512GB SSD. It has a bright 14 inch WUXGA screen, a backlit spill-resistant keyboard and a fingerprint reader.",
+  "highlights": [
+   "Intel Core Ultra processor with built-in AI engine (NPU)",
+   "14 inch WUXGA (1920 x 1200) anti-glare screen, 300 nits",
+   "Two 20Gbps USB-C, HDMI 2.1 and Ethernet",
+   "1080p camera and Poly Studio audio",
+   "Fingerprint reader and spill-resistant backlit keyboard",
+   "Aluminium build in pike silver"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 5 (Series 2)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5600 (2 SODIMM slots)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, anti-glare, 300 nits, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery 3.0, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, dual stereo speakers"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, HP Sure Platform, HP Tamper Lock"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant, backlit"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 56 Wh"
+   ],
+   [
+    "Power adapter",
+    "45 W USB-C"
+   ],
+   [
+    "Weight",
+    "From 1.39 kg"
+   ],
+   [
+    "Dimensions",
+    "31.86 x 22.43 x 1.09 to 1.7 cm"
+   ],
+   [
+    "Colour",
+    "Pike silver aluminium"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/o5z6gjmovh/jpeg/o5z6gjmovh.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/ntg6xdc77z/jpeg/ntg6xdc77z.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/s0zzstqaba/jpeg/s0zzstqaba.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/k6tuj1b7iq/jpeg/k6tuj1b7iq.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103517940",
+  "confidence": "medium"
+ },
+ "hp-omnibook-core-ultra-5-8gb-ram-512gb-ssd-16-inch": {
+  "summary": "An HP OmniBook 16 inch laptop with an Intel Core Ultra 5 processor, 8GB of RAM and a 512GB SSD. The big, slim aluminium design and long battery life make it a comfortable laptop for work, study and streaming.",
+  "highlights": [
+   "Large 16 inch non-touch screen",
+   "Intel Core Ultra 5 processor with built-in AI engine",
+   "512GB SSD",
+   "Slim glacier silver aluminium design",
+   "Backlit keyboard with number pad"
+  ],
+  "specs": [
+   [
+    "Model family",
+    "HP OmniBook 5 16 inch (16-bm0000 series)"
+   ],
+   [
+    "Processor",
+    "Intel Core Ultra 5"
+   ],
+   [
+    "Memory",
+    "8GB"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "16 inch, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 Thunderbolt 4 USB-C 40Gbps; 1 USB-A 10Gbps; 1 USB-A 5Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 7, Bluetooth 6.0"
+   ],
+   [
+    "Camera",
+    "1080p FHD IR camera with privacy shutter"
+   ],
+   [
+    "Battery",
+    "4-cell 68 Wh"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Keyboard",
+    "Backlit with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 1.68 kg"
+   ],
+   [
+    "Colour",
+    "Glacier silver aluminium"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/u2nketfwue/jpeg/u2nketfwue.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/cllcjvnpbg/jpeg/cllcjvnpbg.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/eik3o35iju/jpeg/eik3o35iju.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/znensm5o5t/jpeg/znensm5o5t.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2104285812",
+  "confidence": "low"
+ },
+ "hp-omnibook-x-flip-core-ultra-5-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The HP OmniBook X Flip is a slim 14 inch 2-in-1 laptop that folds into a tablet, with a sharp 2K touch screen. Its Intel Core Ultra 5 226V, 16GB of RAM and 512GB SSD give long battery life and quick AI features. A versatile choice for students and professionals on the move.",
+  "highlights": [
+   "2-in-1 design: laptop, tent and tablet modes",
+   "14 inch 2K touch screen with Gorilla Glass",
+   "Intel Core Ultra Series 2 processor with NPU (Copilot+ class)",
+   "Thunderbolt 4, HDMI 2.1 and USB-A ports",
+   "5MP IR camera with privacy shutter",
+   "Light aluminium body at about 1.38 kg"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 5 226V (8 cores, up to 4.5 GHz)"
+   ],
+   [
+    "Memory",
+    "16GB LPDDR5x (onboard)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch 2K (1920 x 1200) IPS multitouch, Corning Gorilla Glass 3, 400 nits"
+   ],
+   [
+    "Graphics",
+    "Intel Arc 130V GPU"
+   ],
+   [
+    "Ports",
+    "1 Thunderbolt 4 USB-C 40Gbps; 1 USB-C 10Gbps (both charge and drive displays); 2 USB-A 10Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "5MP IR camera with privacy shutter"
+   ],
+   [
+    "Audio",
+    "Poly Studio, DTS:X Ultra, dual speakers"
+   ],
+   [
+    "Battery",
+    "3-cell 59 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Weight",
+    "About 1.38 kg"
+   ],
+   [
+    "Dimensions",
+    "31.3 x 21.85 x 1.46 cm"
+   ],
+   [
+    "Colour",
+    "Meteor silver aluminium"
+   ],
+   [
+    "Touch",
+    "Yes, 2-in-1 convertible"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/yilhkoyaxl/jpeg/yilhkoyaxl.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/y34le4ighu/jpeg/y34le4ighu.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/ne14xsuewn/jpeg/ne14xsuewn.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/zdxod8awt9/jpeg/zdxod8awt9.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103807241",
+  "confidence": "high"
+ },
+ "hp-probook-4-g1i-core-ultra-7-16gb-ram-512gb-ssd-16-inch": {
+  "summary": "The HP ProBook 4 G1i 16 is an aluminium business laptop with a roomy 16 inch WUXGA screen, a fast Intel Core Ultra 7 processor, 16GB of RAM and a 512GB SSD. It has a number pad, a fingerprint reader and plenty of ports for the office.",
+  "highlights": [
+   "Intel Core Ultra processor with built-in AI engine (NPU)",
+   "16 inch WUXGA (1920 x 1200) anti-glare screen, 300 nits",
+   "Two 20Gbps USB-C, HDMI 2.1 and Ethernet",
+   "1080p camera and Poly Studio audio",
+   "Fingerprint reader and spill-resistant backlit keyboard",
+   "Aluminium build in pike silver"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 255U (12 cores, 14 threads, up to 5.2 GHz)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 (2 SODIMM slots)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "16 inch WUXGA (1920 x 1200) IPS, anti-glare, 300 nits, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery 3.0, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, dual stereo speakers"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, HP Sure Platform, HP Tamper Lock"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant, backlit, with numeric keypad"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 56 Wh"
+   ],
+   [
+    "Power adapter",
+    "45 W USB-C"
+   ],
+   [
+    "Weight",
+    "From 1.74 kg"
+   ],
+   [
+    "Dimensions",
+    "35.94 x 25.1 x 1.09 to 1.7 cm"
+   ],
+   [
+    "Colour",
+    "Pike silver aluminium"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/nbyf3xlpsk/jpeg/nbyf3xlpsk.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/qad4t0skqd/jpeg/qad4t0skqd.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/npnycxfhf9/jpeg/npnycxfhf9.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/4zucenle3o/jpeg/4zucenle3o.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103593709",
+  "confidence": "high"
+ },
+ "hp-omnibook-3-core-ultra-7-16gb-ram-512gb-ssd-16-inch": {
+  "summary": "The HP OmniBook 3 16 is a big-screen everyday laptop with a 16 inch 2K anti-glare display, a backlit keyboard with number pad and long battery life. This one has an Intel Core Ultra 7 processor, 16GB of RAM and a 512GB SSD.",
+  "highlights": [
+   "16 inch 2K (1920 x 1200) IPS anti-glare screen, 300 nits",
+   "Intel Core Ultra 7 processor",
+   "16GB RAM and 512GB SSD",
+   "Up to 14 hours battery (HP figure, 68 Wh)",
+   "1080p camera with privacy shutter",
+   "Backlit keyboard with number pad"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "16 inch 2K (1920 x 1200) IPS, anti-glare, 300 nits, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 10Gbps (Power Delivery, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "1080p FHD with privacy shutter"
+   ],
+   [
+    "Battery",
+    "4-cell 68 Wh, fast charge to about 50% in 45 minutes"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Keyboard",
+    "Backlit with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 1.64 kg"
+   ],
+   [
+    "Dimensions",
+    "35.86 x 25.18 x 1.47 cm"
+   ],
+   [
+    "Colour",
+    "Glacier silver and canvas gray"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/enj6r3t67w/jpeg/enj6r3t67w.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/orwygvdgzr/jpeg/orwygvdgzr.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/tf7i7e00ef/jpeg/tf7i7e00ef.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/uxqptdsp8i/jpeg/uxqptdsp8i.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2104286115",
+  "confidence": "medium"
+ },
+ "hp-elitebook-840-g11-core-ultra-7-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The HP EliteBook 840 G11 is a premium 14 inch business laptop with an Intel Core Ultra 7 processor, 16GB of RAM and a 512GB SSD. It brings a 5MP camera, Poly Studio audio, Thunderbolt 4 and HP's business-grade security in a slim aluminium body.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "14 inch WUXGA (1920 x 1200) anti-glare screen",
+   "Two Thunderbolt 4 ports plus HDMI 2.1 and two USB-A",
+   "5MP camera and Poly Studio audio",
+   "Fingerprint reader and spill-resistant backlit keyboard",
+   "Light at about 1.42 kg"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 1, such as 155U or 165U)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 (2 SODIMM slots, up to 64GB)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 Thunderbolt 4 USB-C 40Gbps (Power Delivery, DisplayPort 2.1); 2 USB-A 5Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "5MP (IR on some versions)"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, 2 stereo speakers"
+   ],
+   [
+    "Keyboard",
+    "HP Premium spill-resistant Durakey (backlit on most versions)"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 56 Wh"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Weight",
+    "From 1.42 kg"
+   ],
+   [
+    "Dimensions",
+    "31.57 x 22.44 x 0.9 to 1.64 cm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08880575",
+  "confidence": "medium"
+ },
+ "hp-victus-15-core-i7-16gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The Victus 15 is HP's gaming laptop for players and creators on a budget. This one has a 13th Gen Intel Core i7, 16GB of RAM and a 512GB SSD, with an NVIDIA GeForce RTX graphics card and a fast 144 Hz Full HD screen for smooth gameplay.",
+  "highlights": [
+   "13th Gen Intel Core i7-13620H (10 cores, up to 4.9 GHz)",
+   "NVIDIA GeForce RTX 3050 Laptop GPU with 6GB GDDR6",
+   "15.6 inch Full HD 144 Hz IPS anti-glare screen",
+   "16GB RAM and 512GB SSD, with a second M.2 slot",
+   "Backlit keyboard with number pad",
+   "Gigabit Ethernet and Wi-Fi 6"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i7-13620H (10 cores, 16 threads, up to 4.9 GHz)"
+   ],
+   [
+    "Memory",
+    "16GB DDR4-3200 (2 x 8GB)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe M.2 SSD (2 M.2 slots)"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 3050 Laptop GPU, 6GB GDDR6"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080) IPS, 144 Hz, anti-glare, 300 nits, non-touch"
+   ],
+   [
+    "Ports",
+    "1 USB-C 5Gbps (DisplayPort 1.4a); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo; AC power"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "HP Wide Vision 720p HD"
+   ],
+   [
+    "Audio",
+    "Dual speakers, DTS:X Ultra"
+   ],
+   [
+    "Battery",
+    "3-cell 52.5 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Power adapter",
+    "120 W"
+   ],
+   [
+    "Keyboard",
+    "Full-size backlit with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 2.29 kg"
+   ],
+   [
+    "Dimensions",
+    "35.79 x 25.5 x 2.35 cm"
+   ],
+   [
+    "Colour",
+    "Mica silver"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/sgqtogy6xp/jpeg/sgqtogy6xp.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/c1f7cxqiqe/jpeg/c1f7cxqiqe.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/jzdaygkrlm/jpeg/jzdaygkrlm.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/wjkujnisgw/jpeg/wjkujnisgw.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103007046",
+  "confidence": "medium"
+ },
+ "hp-elitebook-860-g11-core-ultra-7-32gb-ram-1tb-ssd-15-6-inch": {
+  "summary": "The HP EliteBook 860 G11 is a big-screen premium business laptop with an Intel Core Ultra 7, 32GB of RAM and a 1TB SSD. It is built for heavy multitasking, with Thunderbolt 4, a 5MP camera, Poly Studio audio and a full keyboard with number pad.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "32GB DDR5 RAM and 1TB SSD",
+   "Large WUXGA (1920 x 1200) anti-glare screen",
+   "Two Thunderbolt 4 ports plus HDMI 2.1 and two USB-A",
+   "5MP camera and Poly Studio audio",
+   "Spill-resistant keyboard with number pad"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 1, such as 155U or 165U)"
+   ],
+   [
+    "Memory",
+    "32GB DDR5-5600 (2 SODIMM slots, up to 64GB)"
+   ],
+   [
+    "Storage",
+    "1TB PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch (as listed) WUXGA (1920 x 1200) IPS, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 Thunderbolt 4 USB-C 40Gbps (Power Delivery, DisplayPort 2.1); 2 USB-A 5Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "5MP (IR on some versions)"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, stereo speakers"
+   ],
+   [
+    "Keyboard",
+    "HP Premium spill-resistant Durakey with numeric keypad"
+   ],
+   [
+    "Battery",
+    "HP Long Life 56 Wh (3-cell) or 76 Wh (6-cell)"
+   ],
+   [
+    "Weight",
+    "From 1.73 kg"
+   ],
+   [
+    "Dimensions",
+    "35.88 x 25.13 x 0.9 to 1.64 cm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08880576",
+  "confidence": "medium"
+ },
+ "hp-probook-460-g11-core-ultra-7-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP ProBook 460 G11 is a business laptop with a large WUXGA screen, a fast Intel Core Ultra 7 processor, 8GB of RAM and a 512GB SSD. It suits demanding office work and video calls, with plenty of ports and a spill-resistant keyboard with number pad.",
+  "highlights": [
+   "Intel Core Ultra processor with built-in AI engine (NPU)",
+   "Large WUXGA (1920 x 1200) anti-glare screen",
+   "Two 20Gbps USB-C ports, HDMI 2.1 and Ethernet",
+   "Poly Studio audio and 1080p camera for calls",
+   "Spill-resistant keyboard with number pad",
+   "HP business security features"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 1, such as 155U)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5600 (2 SODIMM slots, up to 48GB)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch (as listed) WUXGA (1920 x 1200) IPS, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo; lock slot"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD (5MP IR on some versions)"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, 2 stereo speakers"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant HP Durakey with numeric keypad (backlit on some versions)"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 48 or 56 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Power adapter",
+    "USB-C (45 to 65 W)"
+   ],
+   [
+    "Weight",
+    "From 1.75 kg"
+   ],
+   [
+    "Dimensions",
+    "35.94 x 25.1 x 1.09 to 1.70 cm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08915560",
+  "confidence": "medium"
+ },
+ "hp-spectre-x360-2-in-1-core-ultra-7-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The HP Spectre x360 14 is HP's premium 2-in-1 laptop, with a stunning 14 inch 3K OLED touch screen that folds into tablet mode. It runs an Intel Core Ultra 7 with 16GB of RAM and a 512GB SSD, and has a 9MP camera, four speakers and Thunderbolt 4.",
+  "highlights": [
+   "14 inch 3K (2880 x 1800) OLED touch screen, 48 to 120 Hz",
+   "Intel Core Ultra 7 H-series processor with NPU",
+   "360 degree hinge for laptop, tent and tablet use",
+   "9MP IR camera and quad speakers with Poly Studio",
+   "Two Thunderbolt 4 ports and USB-A",
+   "Haptic touchpad and aluminium body"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 1, such as 155H)"
+   ],
+   [
+    "Memory",
+    "16GB LPDDR5x-7467 (onboard)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch 3K (2880 x 1800) OLED multitouch, 48 to 120 Hz, 100% DCI-P3, Corning Gorilla Glass"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 Thunderbolt 4 USB-C 40Gbps (Power Delivery, DisplayPort 2.1); 1 USB-A 10Gbps; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E or Wi-Fi 7, Bluetooth"
+   ],
+   [
+    "Camera",
+    "HP Wide Vision 9MP IR with shutter"
+   ],
+   [
+    "Audio",
+    "Quad speakers, Poly Studio, DTS:X Ultra"
+   ],
+   [
+    "Battery",
+    "4-cell 68 Wh"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Weight",
+    "About 1.44 kg"
+   ],
+   [
+    "Dimensions",
+    "31.37 x 22.04 x 1.69 cm"
+   ],
+   [
+    "Touch",
+    "Yes, 2-in-1 convertible"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://pcb.inc.hp.com/dc/api/spec-sheet/ww-en/2102615178/pdf/AP0Y0PA.pdf",
+  "confidence": "medium"
+ },
+ "hp-probook-440-g11-core-ultra-7-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The HP ProBook 440 G11 is a compact 14 inch business laptop with an Intel Core Ultra 7 processor, 8GB of RAM and a 512GB SSD. It offers fast USB-C ports, Ethernet, a 1080p camera and Poly Studio audio in a light body of about 1.4 kg.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "14 inch WUXGA (1920 x 1200) anti-glare screen",
+   "Two 20Gbps USB-C, HDMI 2.1 and Ethernet",
+   "1080p camera and Poly Studio audio",
+   "Spill-resistant Durakey keyboard",
+   "Light at about 1.40 kg"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 1, such as 155U)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5600 (2 SODIMM slots, up to 48GB)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe Gen4 NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD (5MP IR on some versions)"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, 2 stereo speakers"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant HP Durakey (backlit on some versions)"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 48 or 56 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Weight",
+    "From 1.40 kg"
+   ],
+   [
+    "Dimensions",
+    "31.86 x 22.44 x 1.09 to 1.70 cm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08915500",
+  "confidence": "medium"
+ },
+ "hp-15-core-ultra-7-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "An HP 15 laptop with a newer Intel Core Ultra 7 processor, 8GB of RAM and a 512GB SSD on a 15.6 inch Full HD screen. A good step up in speed for everyday work, study and light creative jobs.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "8GB RAM and 512GB SSD",
+   "15.6 inch Full HD non-touch screen",
+   "Full-size keyboard with number pad"
+  ],
+  "specs": [
+   [
+    "Model family",
+    "HP Laptop 15-fd1000 series (15-fd1073nr)"
+   ],
+   [
+    "Processor",
+    "Intel Core Ultra 7"
+   ],
+   [
+    "Memory",
+    "8GB"
+   ],
+   [
+    "Storage",
+    "512GB SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel graphics"
+   ],
+   [
+    "Keyboard",
+    "Full-size with numeric keypad"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hp.com/us-en/shop/pdp/hp-laptop-15-fd1073nr",
+  "confidence": "low"
+ },
+ "hp-15-ai-core-ultra-7-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The HP 15 AI laptop with an Intel Core Ultra 7 processor, built-in AI engine, 8GB of RAM and a 512GB SSD. A quick everyday laptop with a 15.6 inch Full HD screen, backlit keyboard with number pad and USB-C charging.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with NPU for AI features",
+   "8GB RAM and 512GB SSD",
+   "15.6 inch Full HD anti-glare screen",
+   "Backlit keyboard with number pad",
+   "USB-C with charging and display output",
+   "Wi-Fi 6 and Bluetooth 5.4"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7"
+   ],
+   [
+    "Memory",
+    "8GB DDR5"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080), anti-glare, 250 nits, non-touch"
+   ],
+   [
+    "Ports",
+    "1 USB-C 10Gbps (Power Delivery, DisplayPort 1.4b); 2 USB-A 5Gbps; 1 HDMI 1.4b; headphone/mic combo; AC power"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 (2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "HP True Vision 720p HD with privacy shutter"
+   ],
+   [
+    "Battery",
+    "3-cell 41 Wh, fast charge to about 50% in 45 minutes"
+   ],
+   [
+    "Keyboard",
+    "Backlit, with numeric keypad"
+   ],
+   [
+    "Weight",
+    "About 1.65 kg"
+   ],
+   [
+    "Dimensions",
+    "35.98 x 23.6 x 1.86 cm"
+   ],
+   [
+    "Colour",
+    "Natural silver"
+   ],
+   [
+    "Power adapter",
+    "45 W USB-C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/q8ungki6u9/jpeg/q8ungki6u9.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/2y3h6olr3t/jpeg/2y3h6olr3t.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/uln0ugvaqi/jpeg/uln0ugvaqi.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/2iqym3jfpq/jpeg/2iqym3jfpq.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103641942",
+  "confidence": "medium"
+ },
+ "hp-omnibook-x-flip-core-ultra-7-32gb-ram-2tb-ssd-14-inch": {
+  "summary": "The HP OmniBook X Flip is a slim 14 inch 2-in-1 laptop that folds into a tablet. This top configuration has an Intel Core Ultra 7, a generous 32GB of RAM and a huge 2TB SSD, ideal for heavy multitasking, creative work and large files.",
+  "highlights": [
+   "2-in-1 design: laptop, tent and tablet modes",
+   "14 inch 2K touch screen with Gorilla Glass",
+   "Intel Core Ultra Series 2 processor with NPU (Copilot+ class)",
+   "Thunderbolt 4, HDMI 2.1 and USB-A ports",
+   "5MP IR camera with privacy shutter",
+   "Light aluminium body at about 1.38 kg"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 2)"
+   ],
+   [
+    "Memory",
+    "32GB LPDDR5x (onboard)"
+   ],
+   [
+    "Storage",
+    "2TB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch 2K (1920 x 1200) IPS multitouch, Corning Gorilla Glass 3, 400 nits"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Arc graphics"
+   ],
+   [
+    "Ports",
+    "1 Thunderbolt 4 USB-C 40Gbps; 1 USB-C 10Gbps (both charge and drive displays); 2 USB-A 10Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "5MP IR camera with privacy shutter"
+   ],
+   [
+    "Audio",
+    "Poly Studio, DTS:X Ultra, dual speakers"
+   ],
+   [
+    "Battery",
+    "3-cell 59 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Weight",
+    "About 1.38 kg"
+   ],
+   [
+    "Dimensions",
+    "31.3 x 21.85 x 1.46 cm"
+   ],
+   [
+    "Colour",
+    "Meteor silver aluminium"
+   ],
+   [
+    "Touch",
+    "Yes, 2-in-1 convertible"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/yilhkoyaxl/jpeg/yilhkoyaxl.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/y34le4ighu/jpeg/y34le4ighu.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/ne14xsuewn/jpeg/ne14xsuewn.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/zdxod8awt9/jpeg/zdxod8awt9.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103807241",
+  "confidence": "medium"
+ },
+ "hp-omnibook-ultra-flip-core-ultra-7-32gb-ram-2tb-ssd-14-inch": {
+  "summary": "The HP OmniBook Ultra Flip 14 is a premium 2-in-1 laptop with a gorgeous 3K OLED touch screen that folds into a tablet. This top model packs an Intel Core Ultra 7, 32GB of RAM and a 2TB SSD, plus a 9MP AI camera, quad speakers and Wi-Fi 7. Built for professionals and creators who want power in a light body.",
+  "highlights": [
+   "14 inch 3K (2880 x 1800) OLED touch screen, 48 to 120 Hz",
+   "Intel Core Ultra 7 Series 2 processor with NPU (Copilot+ PC)",
+   "32GB LPDDR5x RAM and 2TB SSD",
+   "9MP IR AI camera and quad Poly Studio speakers",
+   "Two Thunderbolt 4 ports and Wi-Fi 7",
+   "About 1.34 kg with haptic touchpad"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 2)"
+   ],
+   [
+    "Memory",
+    "32GB LPDDR5x (onboard)"
+   ],
+   [
+    "Storage",
+    "2TB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch 3K (2880 x 1800) OLED multitouch, 48 to 120 Hz, 0.2 ms, 100% DCI-P3, Corning Gorilla Glass 5"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Arc graphics"
+   ],
+   [
+    "Ports",
+    "2 Thunderbolt 4 USB-C 40Gbps (Power Delivery, DisplayPort 2.1); 1 USB-C 10Gbps; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 7 BE201, Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "9MP IR AI camera with privacy shutter"
+   ],
+   [
+    "Audio",
+    "Quad speakers, Poly Studio, DTS:X Ultra"
+   ],
+   [
+    "Battery",
+    "6-cell 64 Wh"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Weight",
+    "About 1.34 kg"
+   ],
+   [
+    "Dimensions",
+    "31.37 x 21.62 x 1.49 cm"
+   ],
+   [
+    "Touch",
+    "Yes, 2-in-1 convertible"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://pcb.inc.hp.com/dc/api/spec-sheet/ww-en/2102641315/pdf/AU3F4EA.pdf",
+  "confidence": "medium"
+ },
+ "hp-elitebook-1040-g11-core-ultra-7-32gb-ram-1tb-ssd-14-inch": {
+  "summary": "The HP EliteBook 1040 G11 is HP's thin and light flagship business laptop. With an Intel Core Ultra 7, 32GB of fast LPDDR5x memory and a 1TB SSD, it handles demanding work while weighing from about 1.18 kg. It adds a 5MP IR camera, four speakers and Wi-Fi 7 or 6E.",
+  "highlights": [
+   "Intel Core Ultra 7 H-series processor with NPU",
+   "32GB LPDDR5x-7467 RAM and 1TB SSD",
+   "14 inch WUXGA (1920 x 1200) anti-glare screen",
+   "Two Thunderbolt 4, USB-C 10Gbps, USB-A and HDMI 2.1",
+   "5MP IR camera and four Poly Studio speakers",
+   "From about 1.18 kg"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 1 H-series, such as 155H or 165H)"
+   ],
+   [
+    "Memory",
+    "32GB LPDDR5x-7467 (soldered)"
+   ],
+   [
+    "Storage",
+    "1TB PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 Thunderbolt 4 / USB4 USB-C 40Gbps; 1 USB-C 10Gbps; 1 USB-A 5Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 7 BE200 with Bluetooth 5.4, or Wi-Fi 6E AX211 with Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "5MP IR camera"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, 4 speakers"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, HP Sure Platform, HP Tamper Lock"
+   ],
+   [
+    "Keyboard",
+    "HP Premium spill-resistant, backlit"
+   ],
+   [
+    "Battery",
+    "56 Wh or 68 Wh"
+   ],
+   [
+    "Weight",
+    "From 1.18 kg"
+   ],
+   [
+    "Dimensions",
+    "31.39 x 21.99 x 1.05 to 1.49 cm"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://h20195.www2.hp.com/v2/GetDocument.aspx?docname=c08908273",
+  "confidence": "medium"
+ },
+ "hp-probook-4-g1i-core-ultra-7-8gb-ram-512gb-ssd-16-inch": {
+  "summary": "The HP ProBook 4 G1i 16 is an aluminium business laptop with a roomy 16 inch WUXGA screen, a fast Intel Core Ultra 7 processor, 8GB of RAM and a 512GB SSD. It has a number pad, a fingerprint reader and plenty of ports.",
+  "highlights": [
+   "Intel Core Ultra processor with built-in AI engine (NPU)",
+   "16 inch WUXGA (1920 x 1200) anti-glare screen, 300 nits",
+   "Two 20Gbps USB-C, HDMI 2.1 and Ethernet",
+   "1080p camera and Poly Studio audio",
+   "Fingerprint reader and spill-resistant backlit keyboard",
+   "Aluminium build in pike silver"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 2, such as 255U)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5600 (2 SODIMM slots)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "16 inch WUXGA (1920 x 1200) IPS, anti-glare, 300 nits, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Graphics"
+   ],
+   [
+    "Ports",
+    "2 USB-C 20Gbps (Power Delivery 3.0, DisplayPort 1.4); 2 USB-A 5Gbps; 1 HDMI 2.1; 1 RJ-45; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211 (2x2), Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "1080p FHD"
+   ],
+   [
+    "Audio",
+    "Audio by Poly Studio, dual stereo speakers"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, HP Sure Platform, HP Tamper Lock"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant, backlit, with numeric keypad"
+   ],
+   [
+    "Battery",
+    "HP Long Life 3-cell 56 Wh"
+   ],
+   [
+    "Power adapter",
+    "45 W USB-C"
+   ],
+   [
+    "Weight",
+    "From 1.74 kg"
+   ],
+   [
+    "Dimensions",
+    "35.94 x 25.1 x 1.09 to 1.7 cm"
+   ],
+   [
+    "Colour",
+    "Pike silver aluminium"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/nbyf3xlpsk/jpeg/nbyf3xlpsk.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/qad4t0skqd/jpeg/qad4t0skqd.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/npnycxfhf9/jpeg/npnycxfhf9.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/4zucenle3o/jpeg/4zucenle3o.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103593709",
+  "confidence": "medium"
+ },
+ "hp-omnibook-x-flip-core-ultra-7-16gb-ram-1tb-ssd-14-inch": {
+  "summary": "The HP OmniBook X Flip is a slim 14 inch 2-in-1 laptop that folds into a tablet. This one has an Intel Core Ultra 7, 16GB of RAM and a roomy 1TB SSD, fast and efficient for work, study and creative projects.",
+  "highlights": [
+   "2-in-1 design: laptop, tent and tablet modes",
+   "14 inch 2K touch screen with Gorilla Glass",
+   "Intel Core Ultra Series 2 processor with NPU (Copilot+ class)",
+   "Thunderbolt 4, HDMI 2.1 and USB-A ports",
+   "5MP IR camera with privacy shutter",
+   "Light aluminium body at about 1.38 kg"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 2)"
+   ],
+   [
+    "Memory",
+    "16GB LPDDR5x (onboard)"
+   ],
+   [
+    "Storage",
+    "1TB PCIe Gen4 NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "14 inch 2K (1920 x 1200) IPS multitouch, Corning Gorilla Glass 3, 400 nits"
+   ],
+   [
+    "Graphics",
+    "Integrated Intel Arc graphics"
+   ],
+   [
+    "Ports",
+    "1 Thunderbolt 4 USB-C 40Gbps; 1 USB-C 10Gbps (both charge and drive displays); 2 USB-A 10Gbps; 1 HDMI 2.1; headphone/mic combo"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E AX211, Bluetooth 5.3"
+   ],
+   [
+    "Camera",
+    "5MP IR camera with privacy shutter"
+   ],
+   [
+    "Audio",
+    "Poly Studio, DTS:X Ultra, dual speakers"
+   ],
+   [
+    "Battery",
+    "3-cell 59 Wh, fast charge to about 50% in 30 minutes"
+   ],
+   [
+    "Power adapter",
+    "65 W USB-C"
+   ],
+   [
+    "Weight",
+    "About 1.38 kg"
+   ],
+   [
+    "Dimensions",
+    "31.3 x 21.85 x 1.46 cm"
+   ],
+   [
+    "Colour",
+    "Meteor silver aluminium"
+   ],
+   [
+    "Touch",
+    "Yes, 2-in-1 convertible"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://hp.widen.net/content/yilhkoyaxl/jpeg/yilhkoyaxl.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/y34le4ighu/jpeg/y34le4ighu.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/ne14xsuewn/jpeg/ne14xsuewn.jpg?w=1200&h=900&dpi=72&color=ffffff",
+   "https://hp.widen.net/content/zdxod8awt9/jpeg/zdxod8awt9.jpg?w=1200&h=900&dpi=72&color=ffffff"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_middle_east-en/products/laptops/product-details/product-specifications/2103807241",
+  "confidence": "medium"
+ },
+ "hp-15-ryzen-7-8gb-ram-512gb-ssd-16-inch": {
+  "summary": "An HP 15 series laptop with an AMD Ryzen 7 processor, 8GB of RAM and a 512GB SSD. A fast everyday laptop for work, study and entertainment, with a Full HD non-touch screen and a full-size keyboard with number pad.",
+  "highlights": [
+   "AMD Ryzen 7 processor with Radeon graphics",
+   "8GB RAM and 512GB SSD",
+   "Full HD non-touch screen",
+   "Full-size keyboard with number pad",
+   "Wi-Fi 6 and Bluetooth 5.4"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "AMD Ryzen 7"
+   ],
+   [
+    "Memory",
+    "8GB"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe M.2 SSD"
+   ],
+   [
+    "Display",
+    "16 inch (as listed), Full HD, non-touch"
+   ],
+   [
+    "Graphics",
+    "Integrated AMD Radeon Graphics"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://pcb.inc.hp.com/dc/api/spec-sheet/ww-en/2103134541/pdf/BU7W4EA.pdf",
+  "confidence": "low"
  }
 }

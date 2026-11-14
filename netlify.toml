@@ -55,6 +55,8 @@
     'https://static\.tp\-link\.com/.*',
     'https://storage\-asset\.msi\.com/.*',
     'https://upload\.wikimedia\.org/.*',
+    'https://www\.asenware\.com/.*',
+    'https://www\.bosch\-homecomfort\.com/.*',
     'https://www\.cisco\.com/.*',
     'https://www\.dlink\.com/.*',
     'https://www\.kstar\.com\.cn/.*',
