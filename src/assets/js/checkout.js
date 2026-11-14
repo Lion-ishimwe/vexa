@@ -148,6 +148,7 @@
       if (val('notes')) msg.push(`Notes: ${val('notes')}`);
 
       const order = { ref, firstName: val('name').split(/\s+/)[0], message: msg.join('\n') };
+      if (window.VEXA.track) window.VEXA.track('order-sent', { items: cart.count(), value: cart.subtotal(), payment: val('payment') });
       try { localStorage.setItem(ORDER_KEY, JSON.stringify(order)); } catch (error) { /* ignore */ }
       history.replaceState(null, '', '#order-' + ref);
       showConfirm(order);

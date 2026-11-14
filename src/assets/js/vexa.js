@@ -338,7 +338,26 @@
     }
   };
 
+  // Visitor statistics: count the actions that lead to a sale (no-op until Umami is switched on)
+  const track = (name, data) => { try { if (window.umami) window.umami.track(name, data); } catch (e) { /* ignore */ } };
+  window.VEXA.track = track;
+  const setupTracking = () => {
+    document.addEventListener('click', (event) => {
+      const el = event.target.closest('a, button');
+      if (!el) return;
+      const href = el.getAttribute('href') || '';
+      const product = el.dataset.title || document.querySelector('[data-buy]')?.dataset.title || undefined;
+      if (href.includes('wa.me/')) track('whatsapp-click', { page: location.pathname });
+      else if (href.startsWith('tel:')) track('call-click', { number: href.slice(4), page: location.pathname });
+      else if (el.matches('[data-add-to-cart], [data-buy-add]')) track('add-to-cart', { product });
+      else if (el.matches('[data-buy-now]')) track('buy-now', { product });
+    });
+    const q = new URLSearchParams(location.search).get('q');
+    if (q) setTimeout(() => track('search', { q: q.trim().toLowerCase().slice(0, 60) }), 1500);
+  };
+
   document.addEventListener('DOMContentLoaded', () => {
+    setupTracking();
     render();
     setupSearch();
     sweepBroken();
