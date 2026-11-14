@@ -11165,5 +11165,4721 @@
   "spin": [],
   "source": "https://www.legrand.com/ecatalogue/en/catalog/products/6-modules-support-for-dlp-s-trunking-638073",
   "confidence": "high"
+ },
+ "schneider-easy9-switch-disconnector-2p-100a-400v": {
+  "summary": "A Schneider Electric Easy9 two-pole switch disconnector rated 100 A at 400 V. It is the main on/off isolating switch for a distribution board, letting you safely cut power to everything downstream for maintenance. It switches under load but does not trip on faults, so it is used together with breakers.",
+  "highlights": [
+   "2 poles, 100 A at 400 V AC",
+   "Load-break switch, AC-22A, suitable for isolation",
+   "Clear ON/OFF indication on the toggle",
+   "Takes cables up to 50 mm² rigid",
+   "4 modules wide on DIN rail"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9S16291"
+   ],
+   [
+    "Range",
+    "Easy9 switch disconnector"
+   ],
+   [
+    "Poles",
+    "2P"
+   ],
+   [
+    "Rated current",
+    "100 A at 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Rated voltage",
+    "400 V AC"
+   ],
+   [
+    "Utilisation category",
+    "AC-22A"
+   ],
+   [
+    "Short-circuit making capacity (Icm)",
+    "1.5 kA"
+   ],
+   [
+    "Short-time withstand (Icw)",
+    "1.2 kA for 1 s"
+   ],
+   [
+    "Insulation / impulse voltage",
+    "500 V AC / 4 kV"
+   ],
+   [
+    "Terminals",
+    "1 to 50 mm² rigid, 1 to 35 mm² flexible"
+   ],
+   [
+    "Tightening torque",
+    "3.5 N.m"
+   ],
+   [
+    "Width",
+    "36 mm (4 modules of 9 mm)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Durability",
+    "8500 mechanical, 1500 electrical cycles"
+   ],
+   [
+    "Standard",
+    "IEC 60947-3"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9S16291/",
+  "confidence": "high"
+ },
+ "schneider-altivar-atv630-variable-speed-drive-22kw-400-480v-ip21": {
+  "summary": "A Schneider Electric Altivar Process ATV630 variable speed drive for three-phase motors of 22 kW (normal duty) on a 380 to 480 V supply. It is built for pumps, fans and other process and utility applications, with an integrated EMC filter, Ethernet and Modbus communication and a graphic keypad. Running motors at the speed you actually need can save a lot of energy.",
+  "highlights": [
+   "22 kW / 30 hp normal duty, 18.5 kW heavy duty",
+   "380 to 480 V three-phase supply, 46.3 A output",
+   "Built-in Modbus TCP Ethernet and Modbus serial",
+   "Integrated EMC filter (category C2/C3) and STO safety SIL 3",
+   "Wall mount, IP21 / UL Type 1"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "ATV630D22N4"
+   ],
+   [
+    "Range",
+    "Altivar Process ATV600"
+   ],
+   [
+    "Motor power",
+    "22 kW normal duty, 18.5 kW heavy duty"
+   ],
+   [
+    "Supply voltage",
+    "380 to 480 V three-phase, 50/60 Hz"
+   ],
+   [
+    "Output current",
+    "46.3 A normal duty, 39.2 A heavy duty"
+   ],
+   [
+    "Line current",
+    "39.6 A at 380 V (normal duty)"
+   ],
+   [
+    "Output frequency",
+    "0.1 to 500 Hz"
+   ],
+   [
+    "Communication",
+    "Modbus TCP (Ethernet), Modbus serial; option slots for others"
+   ],
+   [
+    "I/O",
+    "8 digital inputs, 3 analogue inputs, 2 analogue outputs, 3 relay outputs"
+   ],
+   [
+    "Safety function",
+    "STO (safe torque off) SIL 3"
+   ],
+   [
+    "EMC filter",
+    "Integrated, category C2 (50 m) or C3 (150 m)"
+   ],
+   [
+    "Protection rating",
+    "IP21, UL Type 1"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "211 x 546 x 232 mm"
+   ],
+   [
+    "Weight",
+    "14.3 kg"
+   ],
+   [
+    "Operating temperature",
+    "-15 to 50 °C without derating"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://download.se.com/files?p_Doc_Ref=ATV630_FCD20220620B_Front&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=ATV630_FCD20220620B_Left&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=ATV630_FCD20220620B_Right&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=ATV630_FCD20220620B_Rear&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=ATV630_FCD20220620B_Top&p_File_Type=rendition_1500_jpg"
+  ],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/ATV630D22N4/",
+  "confidence": "high"
+ },
+ "schneider-homaya-solar-hybrid-inverter-6kw": {
+  "summary": "A Schneider Electric Homaya Pro 6 kVA single-phase solar inverter with a built-in MPPT solar charger, running on a 48 V battery bank. It powers a home or small business from solar, battery and grid, with selectable battery priority or grid priority modes. It supports lithium (LFP) batteries as well as tubular, flat plate, gel and VRLA lead acid types.",
+  "highlights": [
+   "6000 VA single-phase output, 230 to 240 V",
+   "48 V battery system, LFP lithium supported",
+   "Up to 3000 W of solar input via one MPPT",
+   "Battery or grid priority modes",
+   "LCD display, RS485 for lithium battery BMS"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "AEH-SP01-S6000"
+   ],
+   [
+    "Range",
+    "Homaya Pro"
+   ],
+   [
+    "Rated power",
+    "6000 VA"
+   ],
+   [
+    "Output",
+    "230 to 240 V single phase, 50/60 Hz"
+   ],
+   [
+    "Battery voltage",
+    "48 V"
+   ],
+   [
+    "Battery types",
+    "Tubular, flat plate, gel, VRLA, LFP lithium"
+   ],
+   [
+    "Solar (PV) power",
+    "3000 W, 1 MPPT"
+   ],
+   [
+    "Efficiency",
+    "91.5%"
+   ],
+   [
+    "Communication",
+    "RS485 (for LFP battery BMS)"
+   ],
+   [
+    "Mounting",
+    "Wall or table"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "264 x 608.5 x 183 mm"
+   ],
+   [
+    "Weight",
+    "31 kg"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-15 to 40 °C"
+   ],
+   [
+    "Standards",
+    "IEC 62109-1, IEC 62109-2, IEC 62040-2"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/AEH-SP01-S6000/",
+  "confidence": "medium"
+ },
+ "schneider-easy9-mcb-1p-6a-c-6000a-230v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 1 pole, rated 6 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for a single-phase final circuit such as lighting, sockets or a small appliance. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "1P breaker rated 6 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 18 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56106"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "1P"
+   ],
+   [
+    "Rated current",
+    "6 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 230 V AC, 10000 A at 127 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC (also 127 V AC)"
+   ],
+   [
+    "Width",
+    "18 mm (1 module)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56106/",
+  "confidence": "high"
+ },
+ "schneider-homaya-solar-hybrid-inverter-3kw": {
+  "summary": "A Schneider Electric Homaya Pro 3 kVA single-phase solar inverter with a built-in MPPT solar charger, running on a 24 V battery bank. It keeps lights, fans, TVs and other home loads running from solar, battery and grid, with selectable battery priority or grid priority modes. It works with tubular, flat plate, gel and VRLA batteries.",
+  "highlights": [
+   "3000 VA single-phase output, 230 to 240 V",
+   "24 V battery system",
+   "Up to 1000 W of solar input via one MPPT",
+   "Battery or grid priority modes",
+   "Wall or table mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "AEH-SP01-S3000"
+   ],
+   [
+    "Range",
+    "Homaya Pro"
+   ],
+   [
+    "Rated power",
+    "3000 VA"
+   ],
+   [
+    "Output",
+    "230 to 240 V single phase, 50/60 Hz"
+   ],
+   [
+    "Battery voltage",
+    "24 V"
+   ],
+   [
+    "Battery types",
+    "Tubular, flat plate, gel, VRLA"
+   ],
+   [
+    "Solar (PV) power",
+    "1000 W, 1 MPPT"
+   ],
+   [
+    "Efficiency",
+    "90%"
+   ],
+   [
+    "Display",
+    "LED"
+   ],
+   [
+    "Communication",
+    "RS485 (for Wi-Fi dongle)"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "264 x 476.5 x 183 mm"
+   ],
+   [
+    "Weight",
+    "25 kg"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-15 to 40 °C"
+   ],
+   [
+    "Standards",
+    "IEC 62109-1, IEC 62109-2, IEC 62040-2"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/AEH-SP01-S3000/",
+  "confidence": "medium"
+ },
+ "schneider-easy9-mcb-1p-16a-c-6000a-230v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 1 pole, rated 16 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for a single-phase final circuit such as lighting, sockets or a small appliance. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "1P breaker rated 16 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 18 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56116"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "1P"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 230 V AC, 10000 A at 127 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC (also 127 V AC)"
+   ],
+   [
+    "Width",
+    "18 mm (1 module)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56116/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-3p-40a-c-6000a-400v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 3 poles, rated 40 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for three-phase circuits such as motors, pumps, three-phase sub-boards and workshop machines. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "3P breaker rated 40 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 54 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56340"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "3P"
+   ],
+   [
+    "Rated current",
+    "40 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "54 mm (3 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 35 mm² rigid, 1 to 25 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "3.5 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56340/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-3p-16a-c-6000a-400v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 3 poles, rated 16 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for three-phase circuits such as motors, pumps, three-phase sub-boards and workshop machines. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "3P breaker rated 16 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 54 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56316"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "3P"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "54 mm (3 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56316/",
+  "confidence": "high"
+ },
+ "schneider-homaya-hybrid-850": {
+  "summary": "A Schneider Electric Homaya solar hybrid inverter rated 850 VA on a single 12 V battery. It is an entry-level backup and solar system for a small home, keeping lights, a fan, TV and phone charging going when the grid is off. A built-in solar charge controller lets you add panels, and you can choose solar, solar and grid, or grid and solar priority.",
+  "highlights": [
+   "850 VA single-phase output",
+   "12 V battery, works with tubular, flat plate, gel and VRLA",
+   "Built-in solar charge controller",
+   "Solar or grid priority modes",
+   "Robust transformer-based design"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "AEH-SHY02-0850"
+   ],
+   [
+    "Range",
+    "Homaya"
+   ],
+   [
+    "Rated power",
+    "850 VA"
+   ],
+   [
+    "Output",
+    "Single phase, 50 Hz"
+   ],
+   [
+    "Battery voltage",
+    "12 V"
+   ],
+   [
+    "Battery types",
+    "Tubular, flat plate, gel, VRLA"
+   ],
+   [
+    "Operating modes",
+    "Solar, solar and grid, grid and solar"
+   ],
+   [
+    "Display",
+    "LED"
+   ],
+   [
+    "Dimensions",
+    "320 x 302 x 130 mm"
+   ],
+   [
+    "Weight",
+    "13 kg"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "0 to 45 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/za/en/product/AEH-SHY02-0850/",
+  "confidence": "high"
+ },
+ "schneider-altivar-atv320-compact-drive-7-5kw-3ph-380-500v": {
+  "summary": "A Schneider Electric Altivar Machine ATV320 compact variable speed drive for 7.5 kW three-phase motors on a 380 to 500 V supply. It is made for machine builders: conveyors, packaging, hoisting, pumps and fans, with a built-in braking chopper, EMC filter and Modbus and CANopen communication.",
+  "highlights": [
+   "7.5 kW / 10 hp heavy duty",
+   "380 to 500 V three-phase supply, 17 A output",
+   "Built-in Modbus serial and CANopen",
+   "Integrated EMC filter and braking chopper",
+   "STO safety input, compact book-size housing"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "ATV320U75N4C"
+   ],
+   [
+    "Range",
+    "Altivar Machine ATV320, compact format"
+   ],
+   [
+    "Motor power",
+    "7.5 kW (10 hp) heavy duty"
+   ],
+   [
+    "Supply voltage",
+    "380 to 500 V three-phase, 50/60 Hz"
+   ],
+   [
+    "Output current",
+    "17 A"
+   ],
+   [
+    "Line current",
+    "26.5 A at 380 V"
+   ],
+   [
+    "Maximum output frequency",
+    "599 Hz"
+   ],
+   [
+    "Switching frequency",
+    "2 to 16 kHz adjustable (4 kHz nominal)"
+   ],
+   [
+    "Communication",
+    "Modbus serial, CANopen; optional modules for EtherNet/IP, PROFINET, Profibus and more"
+   ],
+   [
+    "I/O",
+    "7 digital inputs (incl. STO), 3 analogue inputs, 1 analogue output, 2 relay outputs"
+   ],
+   [
+    "EMC filter",
+    "Integrated"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "150 x 232 x 178 mm"
+   ],
+   [
+    "Weight",
+    "3.6 kg"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 50 °C without derating"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/ATV320U75N4C/",
+  "confidence": "high"
+ },
+ "schneider-easypact-cvs160f-pm160d-3p3d-circuit-breaker": {
+  "summary": "A Schneider Electric EasyPact CVS160F moulded case circuit breaker, three poles, 160 A, with a TM160D thermal-magnetic trip unit. It protects main feeders and large sub-circuits in commercial and industrial boards, with an adjustable overload setting from 112 to 160 A and 36 kA breaking capacity at 415 V.",
+  "highlights": [
+   "160 A, 3 poles, 3 protected",
+   "36 kA at 380/415 V, 70 kA at 220/240 V",
+   "Adjustable thermal setting 112 to 160 A",
+   "Fixed magnetic trip at 1250 A",
+   "Front connection, backplate mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LV516333"
+   ],
+   [
+    "Range",
+    "EasyPact CVS"
+   ],
+   [
+    "Frame",
+    "CVS160F"
+   ],
+   [
+    "Poles",
+    "3P 3D"
+   ],
+   [
+    "Rated current",
+    "160 A at 40 °C"
+   ],
+   [
+    "Trip unit",
+    "TM160D thermal-magnetic"
+   ],
+   [
+    "Thermal setting (Ir)",
+    "112 to 160 A (0.7 to 1 x In)"
+   ],
+   [
+    "Magnetic setting (Ii)",
+    "1250 A fixed"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    "36 kA at 380/415 V, 36 kA at 440 V, 70 kA at 220/240 V"
+   ],
+   [
+    "Service breaking capacity (Ics)",
+    "36 kA at 380/415 V"
+   ],
+   [
+    "Impulse withstand voltage",
+    "8 kV"
+   ],
+   [
+    "Durability",
+    "25000 mechanical, 12000 electrical cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "105 x 161 x 86 mm"
+   ],
+   [
+    "Weight",
+    "1.5 kg"
+   ],
+   [
+    "Standard",
+    "IEC 60947-2"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LV516333/",
+  "confidence": "medium"
+ },
+ "schneider-tesys-giga-contactor-185a-4p-100-250v-ac-dc": {
+  "summary": "A Schneider Electric TeSys Giga four-pole high power contactor rated 185 A in AC-3 and 305 A in AC-1, with a wide band 100 to 250 V AC/DC coil. It switches large loads such as main feeders, capacitor banks, heaters, lighting and generator or changeover circuits. The electronic coil accepts both AC and DC control voltages and draws very little holding power.",
+  "highlights": [
+   "4 poles (4 NO), 185 A AC-3, 305 A AC-1",
+   "Wide band coil 100 to 250 V AC or DC",
+   "Built-in 1 NO + 1 NC auxiliary contacts",
+   "Rated up to 1000 V AC",
+   "Bar or lug power connections"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1G1854KUEN"
+   ],
+   [
+    "Range",
+    "TeSys Giga, LC1G"
+   ],
+   [
+    "Poles",
+    "4P (4 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "185 A (up to 440 V, <60 °C)"
+   ],
+   [
+    "Rated current AC-1",
+    "305 A (<40 °C)"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 1000 V AC, up to 460 V DC"
+   ],
+   [
+    "Coil voltage",
+    "100 to 250 V AC 50/60 Hz or DC"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated breaking capacity",
+    "1610 A at 440 V"
+   ],
+   [
+    "Impulse withstand voltage",
+    "8 kV"
+   ],
+   [
+    "Mechanical durability",
+    "8 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "143 x 193 x 193 mm"
+   ],
+   [
+    "Weight",
+    "4.2 kg"
+   ],
+   [
+    "Standard",
+    "IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1G1854KUEN/",
+  "confidence": "high"
+ },
+ "schneider-varplus-logic-power-factor-controller-6-step-outputs": {
+  "summary": "A Schneider Electric VarPlus Logic VPL6 power factor controller with six step outputs. It measures the network and switches capacitor steps in and out automatically to keep the power factor on target, cutting reactive energy penalties on electricity bills. A backlit display shows power factor, harmonics, currents and alarms.",
+  "highlights": [
+   "6 capacitor step outputs",
+   "Automatic or manual operation with automatic set-up",
+   "Measures power factor, THD, current, voltage and power",
+   "Alarm contact and Modbus RS485",
+   "Panel mount 144 x 144 mm"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "VPL06N"
+   ],
+   [
+    "Range",
+    "VarPlus Logic (PowerLogic PFC controller)"
+   ],
+   [
+    "Step outputs",
+    "6"
+   ],
+   [
+    "Supply / measuring voltage",
+    "90 to 550 V AC, 50/60 Hz"
+   ],
+   [
+    "Current input",
+    "0 to 5 A (CT x/5 A or x/1 A)"
+   ],
+   [
+    "Communication",
+    "Modbus RS485"
+   ],
+   [
+    "Display",
+    "Backlit LCD, 56 x 25 mm"
+   ],
+   [
+    "Operating mode",
+    "Automatic or manual"
+   ],
+   [
+    "Step relay rating",
+    "5 A at 250 V AC, 2 A at 400 V AC"
+   ],
+   [
+    "Mounting",
+    "Flush panel, cut-out 138 x 138 mm"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "144 x 144 x 58 mm"
+   ],
+   [
+    "Weight",
+    "0.6 kg"
+   ],
+   [
+    "Protection rating",
+    "IP41 front, IP20 rear"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/VPL06N/",
+  "confidence": "high"
+ },
+ "schneider-easy9-switch-disconnector-2p-63a-400v": {
+  "summary": "A Schneider Electric Easy9 two-pole switch disconnector rated 63 A at 400 V. It works as the main isolating switch of a home or small commercial distribution board, so power can be cut safely for maintenance. It switches under load but gives no overload or short-circuit protection on its own.",
+  "highlights": [
+   "2 poles, 63 A at 400 V AC",
+   "Load-break switch, AC-22A, suitable for isolation",
+   "Clear ON/OFF indication on the toggle",
+   "Takes cables up to 35 mm² rigid",
+   "4 modules wide on DIN rail"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9S16263"
+   ],
+   [
+    "Range",
+    "Easy9 switch disconnector"
+   ],
+   [
+    "Poles",
+    "2P"
+   ],
+   [
+    "Rated current",
+    "63 A at 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Rated voltage",
+    "400 V AC"
+   ],
+   [
+    "Utilisation category",
+    "AC-22A"
+   ],
+   [
+    "Short-circuit making capacity (Icm)",
+    "0.945 kA"
+   ],
+   [
+    "Short-time withstand (Icw)",
+    "0.756 kA for 1 s"
+   ],
+   [
+    "Insulation / impulse voltage",
+    "500 V AC / 4 kV"
+   ],
+   [
+    "Terminals",
+    "1 to 35 mm² rigid, 1 to 25 mm² flexible"
+   ],
+   [
+    "Tightening torque",
+    "3.5 N.m"
+   ],
+   [
+    "Width",
+    "36 mm (4 modules of 9 mm)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Durability",
+    "8500 mechanical, 1500 electrical cycles"
+   ],
+   [
+    "Standard",
+    "IEC 60947-3"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9S16263/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-1p-63a-c-6000a-230v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 1 pole, rated 63 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for a single-phase final circuit such as lighting, sockets or a small appliance. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "1P breaker rated 63 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 18 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56163"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "1P"
+   ],
+   [
+    "Rated current",
+    "63 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 230 V AC, 10000 A at 127 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC (also 127 V AC)"
+   ],
+   [
+    "Width",
+    "18 mm (1 module)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 35 mm² rigid, 1 to 25 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "3.5 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56163/",
+  "confidence": "high"
+ },
+ "schneider-homaya-solar-mppt-charge-controller-3kw": {
+  "summary": "A Schneider Electric Homaya Pro M3000 MPPT solar charge controller rated 3 kW and 60 A. It sits between your solar panels and battery bank and squeezes the most energy out of the panels while charging the batteries safely. It is designed to add solar charging to a Homaya inverter system.",
+  "highlights": [
+   "3000 W solar charge controller",
+   "60 A output current",
+   "MPPT tracking, 99% efficiency",
+   "Compact wall-mount unit, 2.7 kg"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "AEH-SP01-M3000"
+   ],
+   [
+    "Range",
+    "Homaya Pro"
+   ],
+   [
+    "Type",
+    "MPPT solar charge controller"
+   ],
+   [
+    "Output power",
+    "3000 W"
+   ],
+   [
+    "Output current",
+    "60 A"
+   ],
+   [
+    "Efficiency",
+    "99%"
+   ],
+   [
+    "Dimensions",
+    "235 x 325 x 165 mm"
+   ],
+   [
+    "Weight",
+    "2.7 kg"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-15 to 40 °C"
+   ],
+   [
+    "Standards",
+    "IEC 62109-1, IEC 62109-2, EN 61000-6-4"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/AEH-SP01-M3000/",
+  "confidence": "medium"
+ },
+ "schneider-easy9-mcb-3p-50a-c-6000a-400v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 3 poles, rated 50 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for three-phase circuits such as motors, pumps, three-phase sub-boards and workshop machines. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "3P breaker rated 50 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 54 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56350"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "3P"
+   ],
+   [
+    "Rated current",
+    "50 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "54 mm (3 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 35 mm² rigid, 1 to 25 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "3.5 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56350/",
+  "confidence": "high"
+ },
+ "schneider-easy9-rccb-2p-63a-30ma-ac-type-230v": {
+  "summary": "A Schneider Electric Easy9 residual current circuit breaker (RCCB), two poles, 63 A, 30 mA sensitivity, type AC. It cuts the supply within milliseconds if current leaks to earth, protecting people against electric shock and reducing fire risk. It has no overload protection of its own, so it is installed with MCBs downstream.",
+  "highlights": [
+   "30 mA sensitivity for protection of people",
+   "2 poles, 63 A, 230 V AC",
+   "Type AC, instantaneous tripping",
+   "Voltage independent tripping",
+   "Works with Easy9 MCBs (6 kA conditional short-circuit current)"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9R36263"
+   ],
+   [
+    "Range",
+    "Easy9 RCCB"
+   ],
+   [
+    "Poles",
+    "2P (neutral on the left)"
+   ],
+   [
+    "Rated current",
+    "63 A"
+   ],
+   [
+    "Sensitivity",
+    "30 mA"
+   ],
+   [
+    "Type",
+    "AC, instantaneous"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC, 50/60 Hz"
+   ],
+   [
+    "Making and breaking capacity",
+    "500 A"
+   ],
+   [
+    "Conditional short-circuit current",
+    "6000 A with Easy9 MCB 63 A"
+   ],
+   [
+    "Terminals",
+    "1 to 35 mm² rigid, 1 to 25 mm² flexible"
+   ],
+   [
+    "Width",
+    "36 mm (4 modules of 9 mm)"
+   ],
+   [
+    "Height x depth",
+    "82 x 72 mm"
+   ],
+   [
+    "Durability",
+    "5000 mechanical, 2000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standard",
+    "IEC 61008-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9R36263/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-2p-6a-c-6000a-230v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 2 poles, rated 6 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for circuits where both conductors must be switched together, such as a single-phase supply with neutral or a two-phase load. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "2P breaker rated 6 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 36 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56206"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "2P"
+   ],
+   [
+    "Rated current",
+    "6 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "36 mm (2 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56206/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-4-to-6-3a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 4 to 6.3 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 4 to 6.3 A",
+   "Magnetic short-circuit trip at 78 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E10"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "4 to 6.3 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "78 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "1.1 kW at 230 V, 2.2 kW at 400 V, 3 kW at 440 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 230/240 and 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E10/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-2p-10a-c-6000a-230v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 2 poles, rated 10 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for circuits where both conductors must be switched together, such as a single-phase supply with neutral or a two-phase load. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "2P breaker rated 10 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 36 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56210"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "2P"
+   ],
+   [
+    "Rated current",
+    "10 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "36 mm (2 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56210/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-2p-16a-c-6000a-230v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 2 poles, rated 16 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for circuits where both conductors must be switched together, such as a single-phase supply with neutral or a two-phase load. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "2P breaker rated 16 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 36 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56216"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "2P"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "36 mm (2 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56216/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-2p-20a-c-6000a-230v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 2 poles, rated 20 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for circuits where both conductors must be switched together, such as a single-phase supply with neutral or a two-phase load. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "2P breaker rated 20 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 36 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56220"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "2P"
+   ],
+   [
+    "Rated current",
+    "20 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "36 mm (2 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56220/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-contactor-3p-32a-1no": {
+  "summary": "A Schneider Electric Easy TeSys LC1E three-pole contactor rated 32 A in AC-3 motor duty, with a 220 V AC 50 Hz coil and 1 NO auxiliary contact. It switches three-phase motors up to 15 kW at 400 V, as well as heaters and other resistive loads up to 50 A. It is the cost-effective Easy TeSys contactor for pumps, compressors, fans and general motor starters, and pairs with Easy TeSys LRE overload relays.",
+  "highlights": [
+   "32 A AC-3, 50 A AC-1 rating",
+   "Switches motors up to 15 kW at 400 V",
+   "220 V AC 50 Hz coil",
+   "3 NO power poles plus 1 NO auxiliary",
+   "DIN rail or plate mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1E3210M5"
+   ],
+   [
+    "Range",
+    "Easy TeSys Control, LC1E"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "32 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "50 A"
+   ],
+   [
+    "Motor power AC-3",
+    "7.5 kW at 230 V, 15 kW at 400 V"
+   ],
+   [
+    "Coil voltage",
+    "220 V AC, 50 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "8 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "56 x 84 x 86 mm"
+   ],
+   [
+    "Weight",
+    "0.45 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail or plate"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1E3210M5/",
+  "confidence": "high"
+ },
+ "schneider-13a-250v-2-gang-switched-socket": {
+  "summary": "A Schneider Electric Vivace twin switched socket outlet, 13 A at 250 V, for UK style three-pin plugs (BS 1363 type). Each socket has its own on/off switch, and the white polycarbonate plate mounts flush on a standard twin wall box.",
+  "highlights": [
+   "Two 13 A switched outlets",
+   "For three rectangular pin plugs",
+   "White polycarbonate plate",
+   "Flush mounting, 8 mm projection",
+   "Brass and phosphor bronze contacts"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "KB25"
+   ],
+   [
+    "Range",
+    "Vivace"
+   ],
+   [
+    "Type",
+    "Switched socket, 2 gang"
+   ],
+   [
+    "Rated current",
+    "13 A at 250 V AC"
+   ],
+   [
+    "Poles",
+    "2P + E"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Material",
+    "Polycarbonate"
+   ],
+   [
+    "Mounting",
+    "Flush, M3.5 screws, 120.6 mm fixing centres"
+   ],
+   [
+    "Embedding depth",
+    "22 mm"
+   ],
+   [
+    "Terminals",
+    "Pillar terminals, 3 x 2.5 mm² or 2 x 4 mm²"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "147 x 87 x 35 mm"
+   ],
+   [
+    "Standards",
+    "SS 145, MS 589"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/KB25/",
+  "confidence": "high"
+ },
+ "schneider-easy9-rcbo-1p-plus-n-10a-b-6ka-30ma-a-type-230v": {
+  "summary": "A Schneider Electric Easy9 RCBO, combining a 10 A B curve circuit breaker and a 30 mA earth leakage device in one 18 mm wide unit. It protects a single circuit against overload, short circuit and electric shock, so a fault on one circuit does not switch off the whole house. Type A detection also catches pulsating DC leakage from modern electronics.",
+  "highlights": [
+   "10 A, B curve, 6 kA breaking capacity",
+   "30 mA type A earth leakage protection",
+   "Overload, short-circuit and shock protection in one device",
+   "Only 18 mm (1 module) wide",
+   "Tested to BS EN 61009-1"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9D16810"
+   ],
+   [
+    "Range",
+    "Easy9 RCBO"
+   ],
+   [
+    "Poles",
+    "1P + N (switched neutral)"
+   ],
+   [
+    "Rated current",
+    "10 A"
+   ],
+   [
+    "Curve",
+    "B (magnetic trip at 3 to 5 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A at 230 V AC"
+   ],
+   [
+    "Sensitivity",
+    "30 mA"
+   ],
+   [
+    "Earth leakage class",
+    "Type A, instantaneous"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC, 50 Hz"
+   ],
+   [
+    "Width",
+    "18 mm (2 modules of 9 mm)"
+   ],
+   [
+    "Height x depth",
+    "110 x 72 mm"
+   ],
+   [
+    "Weight",
+    "180 g"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Operating temperature",
+    "-15 to 60 °C"
+   ],
+   [
+    "Standard",
+    "BS EN 61009-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/uk/en/product/EZ9D16810/",
+  "confidence": "high"
+ },
+ "schneider-easy9-rcbo-1p-plus-n-20a-b-6ka-30ma-a-type-230v": {
+  "summary": "A Schneider Electric Easy9 RCBO, combining a 20 A B curve circuit breaker and a 30 mA earth leakage device in one 18 mm wide unit. It protects a single circuit against overload, short circuit and electric shock, so a fault on one circuit does not switch off the whole house. Type A detection also catches pulsating DC leakage from modern electronics.",
+  "highlights": [
+   "20 A, B curve, 6 kA breaking capacity",
+   "30 mA type A earth leakage protection",
+   "Overload, short-circuit and shock protection in one device",
+   "Only 18 mm (1 module) wide",
+   "Tested to BS EN 61009-1"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9D16820"
+   ],
+   [
+    "Range",
+    "Easy9 RCBO"
+   ],
+   [
+    "Poles",
+    "1P + N (switched neutral)"
+   ],
+   [
+    "Rated current",
+    "20 A"
+   ],
+   [
+    "Curve",
+    "B (magnetic trip at 3 to 5 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A at 230 V AC"
+   ],
+   [
+    "Sensitivity",
+    "30 mA"
+   ],
+   [
+    "Earth leakage class",
+    "Type A, instantaneous"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC, 50 Hz"
+   ],
+   [
+    "Width",
+    "18 mm (2 modules of 9 mm)"
+   ],
+   [
+    "Height x depth",
+    "110 x 72 mm"
+   ],
+   [
+    "Weight",
+    "180 g"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Operating temperature",
+    "-15 to 60 °C"
+   ],
+   [
+    "Standard",
+    "BS EN 61009-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/uk/en/product/EZ9D16820/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-6-to-10a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 6 to 10 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 6 to 10 A",
+   "Magnetic short-circuit trip at 138 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E14"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "6 to 10 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "138 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "2.2 kW at 230 V, 4 kW at 400 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 230/240 and 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E14/",
+  "confidence": "high"
+ },
+ "schneider-easy9-mcb-3p-6a-c-6000a-400v": {
+  "summary": "A Schneider Electric Easy9 miniature circuit breaker with 3 poles, rated 6 A with a C tripping curve. It protects cables and equipment against overloads and short circuits and is a good fit for three-phase circuits such as motors, pumps, three-phase sub-boards and workshop machines. The C curve tolerates the moderate start-up currents of motors and lighting, and the breaker clips onto a standard DIN rail in any distribution board.",
+  "highlights": [
+   "3P breaker rated 6 A, C curve",
+   "6 kA breaking capacity to IEC 60898-1",
+   "Thermal-magnetic protection against overload and short circuit",
+   "Suitable for isolation, with contact position indicator on the toggle",
+   "Clips onto 35 mm DIN rail, 54 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "EZ9F56306"
+   ],
+   [
+    "Range",
+    "Easy9 MCB"
+   ],
+   [
+    "Poles",
+    "3P"
+   ],
+   [
+    "Rated current",
+    "6 A"
+   ],
+   [
+    "Curve",
+    "C (magnetic trip at 5 to 10 x In)"
+   ],
+   [
+    "Breaking capacity",
+    "6000 A (6 kA) at 400 V AC, 10000 A at 220 V AC, to IEC 60898-1"
+   ],
+   [
+    "Rated voltage",
+    "220 V AC and 400 V AC, 50/60 Hz"
+   ],
+   [
+    "Width",
+    "54 mm (3 modules)"
+   ],
+   [
+    "Height x depth",
+    "81 x 66.5 mm"
+   ],
+   [
+    "Terminals",
+    "1 to 25 mm² rigid, 1 to 16 mm² flexible (tunnel terminals top and bottom)"
+   ],
+   [
+    "Tightening torque",
+    "2 N.m"
+   ],
+   [
+    "Durability",
+    "10000 mechanical, 4000 electrical cycles"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/EZ9F56306/",
+  "confidence": "high"
+ },
+ "schneider-harmony-xa2-pilot-light-220v-ac-red": {
+  "summary": "A Schneider Electric Harmony XA2 red pilot light for 220 to 230 V AC, with a built-in long life LED. It fits a standard 22 mm panel hole and shows that a machine, motor or circuit is running or in fault. The one-piece plastic body is quick to fit and sealed to IP65 at the front.",
+  "highlights": [
+   "Red LED indicator, 220 to 230 V AC",
+   "Fits a 22 mm panel cut-out",
+   "Integral LED rated 40000 hours",
+   "IP65 front sealing",
+   "Anti-interference design, draws 20 mA or less"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "XA2EVM4LC"
+   ],
+   [
+    "Range",
+    "Harmony XA2"
+   ],
+   [
+    "Type",
+    "Monolithic pilot light, plastic bezel"
+   ],
+   [
+    "Colour",
+    "Red"
+   ],
+   [
+    "Light source",
+    "Integral LED"
+   ],
+   [
+    "Rated voltage",
+    "220 to 230 V AC, 50/60 Hz"
+   ],
+   [
+    "Current consumption",
+    "20 mA or less"
+   ],
+   [
+    "Service life",
+    "40000 h at rated voltage and 25 °C"
+   ],
+   [
+    "Mounting hole",
+    "22.5 mm"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, up to 2 x 1.5 mm²"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "29 x 29 x 53 mm"
+   ],
+   [
+    "Protection rating",
+    "IP65, IK05"
+   ],
+   [
+    "Operating temperature",
+    "-25 to 70 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/XA2EVM4LC/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-contactor-3p-40a-1no-plus-1nc": {
+  "summary": "A Schneider Electric Easy TeSys LC1E three-pole contactor rated 40 A in AC-3 motor duty, with a 220 V AC 50 Hz coil and 1 NO + 1 NC auxiliary contacts. It switches three-phase motors up to 18.5 kW at 400 V, as well as heaters and other resistive loads up to 60 A. It is the cost-effective Easy TeSys contactor for pumps, compressors, fans and general motor starters, and pairs with Easy TeSys LRE overload relays.",
+  "highlights": [
+   "40 A AC-3, 60 A AC-1 rating",
+   "Switches motors up to 18.5 kW at 400 V",
+   "220 V AC 50 Hz coil",
+   "3 NO power poles plus 1 NO + 1 NC auxiliary",
+   "DIN rail or plate mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1E40M5"
+   ],
+   [
+    "Range",
+    "Easy TeSys Control, LC1E"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "40 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "60 A"
+   ],
+   [
+    "Motor power AC-3",
+    "11 kW at 230 V, 18.5 kW at 400 V"
+   ],
+   [
+    "Coil voltage",
+    "220 V AC, 50 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "5 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "75 x 127 x 114 mm"
+   ],
+   [
+    "Weight",
+    "0.98 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail or plate"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1E40M5/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-20-to-25a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 20 to 25 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 20 to 25 A",
+   "Magnetic short-circuit trip at 327 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E22"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "20 to 25 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "327 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "5.5 kW at 230 V, 11 kW at 400 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    "10 kA at 400/415 V AC, 30 kA at 230/240 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E22/",
+  "confidence": "high"
+ },
+ "schneider-3p-contactor-40a-18-5kw-ac3-24v-ac-coil": {
+  "summary": "A Schneider Electric TeSys Deca LC1D40A three-pole contactor rated 40 A in AC-3 (18.5 kW at 400 V), with a 24 V AC coil. It switches medium sized three-phase motors such as pumps, compressors and fans, and has 1 NO + 1 NC auxiliary contacts built in. It accepts TeSys LRD overload relays for a complete starter.",
+  "highlights": [
+   "40 A AC-3, 60 A AC-1",
+   "18.5 kW at 400 V, 22 kW at 440 V",
+   "24 V AC coil, 50/60 Hz",
+   "Built-in 1 NO + 1 NC auxiliary contacts",
+   "DIN rail or plate mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1D40AB7"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LC1D"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "40 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "60 A"
+   ],
+   [
+    "Motor power AC-3",
+    "18.5 kW at 400 V, 22 kW at 440 V"
+   ],
+   [
+    "Coil voltage",
+    "24 V AC, 50/60 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "6 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "55 x 122 x 120 mm"
+   ],
+   [
+    "Weight",
+    "0.85 kg"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, IEC 60947-5-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1D40AB7/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-contactor-3p-18a-1no": {
+  "summary": "A Schneider Electric Easy TeSys LC1E three-pole contactor rated 18 A in AC-3 motor duty, with a 220 V AC 50 Hz coil and 1 NO auxiliary contact. It switches three-phase motors up to 7.5 kW at 400 V, as well as heaters and other resistive loads up to 32 A. It is the cost-effective Easy TeSys contactor for pumps, compressors, fans and general motor starters, and pairs with Easy TeSys LRE overload relays.",
+  "highlights": [
+   "18 A AC-3, 32 A AC-1 rating",
+   "Switches motors up to 7.5 kW at 400 V",
+   "220 V AC 50 Hz coil",
+   "3 NO power poles plus 1 NO auxiliary",
+   "DIN rail or plate mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1E1810M5"
+   ],
+   [
+    "Range",
+    "Easy TeSys Control, LC1E"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "18 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "32 A"
+   ],
+   [
+    "Motor power AC-3",
+    "4 kW at 230 V, 7.5 kW at 400 V"
+   ],
+   [
+    "Coil voltage",
+    "220 V AC, 50 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "10 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 74 x 80 mm"
+   ],
+   [
+    "Weight",
+    "0.3 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail or plate"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1E1810M5/",
+  "confidence": "high"
+ },
+ "schneider-20a-250v-3-gang-2-way-switch": {
+  "summary": "A Schneider Electric Vivace 3 gang 2 way light switch rated 16AX at 250 V, in white polycarbonate. Each rocker can control a light from two places, for example at both ends of a corridor or staircase, and also works as a simple on/off switch. It mounts flush on a standard wall box and has a slim 8 mm projection.",
+  "highlights": [
+   "3 rockers, each 2 way",
+   "Rated 16AX at 250 V AC, suitable for fluorescent and inductive loads",
+   "White glossy polycarbonate plate",
+   "Flush mounting with M3.5 screws",
+   "Brass and phosphor bronze contacts"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "KB33"
+   ],
+   [
+    "Range",
+    "Vivace"
+   ],
+   [
+    "Gangs",
+    "3, each 2 way"
+   ],
+   [
+    "Rated current",
+    "16 AX at 250 V AC (16 A resistive)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50/60 Hz"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Material",
+    "Polycarbonate"
+   ],
+   [
+    "Terminals",
+    "9 screw terminals, up to 2.5 mm²"
+   ],
+   [
+    "Mounting",
+    "Flush, M3.5 screws, 60.3 mm fixing centres"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "86 x 86 x 37 mm"
+   ],
+   [
+    "Standard",
+    "IEC 60669-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/KB33/",
+  "confidence": "medium"
+ },
+ "schneider-tesys-d-thermal-overload-relay-2-5-to-4-0a-class-10a": {
+  "summary": "A Schneider Electric TeSys Deca LRD thermal overload relay, adjustable from 2.5 to 4 A, trip class 10A. It mounts directly under a TeSys D contactor (LC1D09 to LC1D38) to protect a motor against overload and phase loss. A built-in normally open and normally closed contact pair lets the relay drop out the contactor coil or signal a fault.",
+  "highlights": [
+   "Adjustable current setting 2.5 to 4 A",
+   "Class 10A tripping to IEC 60947-4-1",
+   "Phase failure sensitivity and temperature compensation from -20 to 60 °C",
+   "1 NO + 1 NC auxiliary contacts for control and signalling",
+   "Plugs directly under LC1D09 to LC1D38 contactors",
+   "Red stop and blue reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRD08"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LRD"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "2.5 to 4 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1D09 to LC1D38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "690 V AC"
+   ],
+   [
+    "Tripping threshold",
+    "1.14 x Ir (+/- 0.06)"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, up to 10 mm² flexible, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 66 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.124 kg"
+   ],
+   [
+    "Mounting",
+    "Under contactor, or rail/plate with accessory"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, IEC 60947-5-1, UL, CSA"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRD08/",
+  "confidence": "high"
+ },
+ "schneider-tesys-thermal-overload-relay-4-0-to-6-0a-class-10a": {
+  "summary": "A Schneider Electric TeSys Deca LRD thermal overload relay, adjustable from 4 to 6 A, trip class 10A. It mounts directly under a TeSys D contactor (LC1D09 to LC1D38) to protect a motor against overload and phase loss. A built-in normally open and normally closed contact pair lets the relay drop out the contactor coil or signal a fault.",
+  "highlights": [
+   "Adjustable current setting 4 to 6 A",
+   "Class 10A tripping to IEC 60947-4-1",
+   "Phase failure sensitivity and temperature compensation from -20 to 60 °C",
+   "1 NO + 1 NC auxiliary contacts for control and signalling",
+   "Plugs directly under LC1D09 to LC1D38 contactors",
+   "Red stop and blue reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRD10"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LRD"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "4 to 6 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1D09 to LC1D38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "690 V AC"
+   ],
+   [
+    "Tripping threshold",
+    "1.14 x Ir (+/- 0.06)"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, up to 10 mm² flexible, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 66 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.124 kg"
+   ],
+   [
+    "Mounting",
+    "Under contactor, or rail/plate with accessory"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, IEC 60947-5-1, UL, CSA"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRD10/",
+  "confidence": "high"
+ },
+ "schneider-tesys-thermal-overload-relay-9-to-13a-class-10a": {
+  "summary": "A Schneider Electric TeSys Deca LRD thermal overload relay, adjustable from 9 to 13 A, trip class 10A. It mounts directly under a TeSys D contactor (LC1D12 to LC1D38) to protect a motor against overload and phase loss. A built-in normally open and normally closed contact pair lets the relay drop out the contactor coil or signal a fault.",
+  "highlights": [
+   "Adjustable current setting 9 to 13 A",
+   "Class 10A tripping to IEC 60947-4-1",
+   "Phase failure sensitivity and temperature compensation from -20 to 60 °C",
+   "1 NO + 1 NC auxiliary contacts for control and signalling",
+   "Plugs directly under LC1D12 to LC1D38 contactors",
+   "Red stop and blue reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRD16"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LRD"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "9 to 13 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1D12 to LC1D38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "690 V AC"
+   ],
+   [
+    "Tripping threshold",
+    "1.14 x Ir (+/- 0.06)"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, up to 10 mm² flexible, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 66 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.124 kg"
+   ],
+   [
+    "Mounting",
+    "Under contactor, or rail/plate with accessory"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, IEC 60947-5-1, UL, CSA"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRD16/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-9-to-14a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 9 to 14 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 9 to 14 A",
+   "Magnetic short-circuit trip at 170 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E16"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "9 to 14 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "170 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "5.5 kW at 400 V and 440 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 230/240 and 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E16/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-13-to-18a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 13 to 18 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 13 to 18 A",
+   "Magnetic short-circuit trip at 223 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E20"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "13 to 18 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "223 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "4 kW at 230 V, 7.5 kW at 400 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    "10 kA at 400/415 V AC, >= 100 kA at 230/240 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E20/",
+  "confidence": "high"
+ },
+ "schneider-tesys-d-thermal-overload-relay-23-to-32a-class-10a": {
+  "summary": "A Schneider Electric TeSys Deca LRD thermal overload relay, adjustable from 23 to 32 A, trip class 10A. It mounts directly under a TeSys D contactor (LC1D25, LC1D32, LC1D38) to protect a motor against overload and phase loss. A built-in normally open and normally closed contact pair lets the relay drop out the contactor coil or signal a fault.",
+  "highlights": [
+   "Adjustable current setting 23 to 32 A",
+   "Class 10A tripping to IEC 60947-4-1",
+   "Phase failure sensitivity and temperature compensation from -20 to 60 °C",
+   "1 NO + 1 NC auxiliary contacts for control and signalling",
+   "Plugs directly under LC1D25, LC1D32, LC1D38 contactors",
+   "Red stop and blue reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRD32"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LRD"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "23 to 32 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1D25, LC1D32, LC1D38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "690 V AC"
+   ],
+   [
+    "Tripping threshold",
+    "1.14 x Ir (+/- 0.06)"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, 1.5 to 10 mm² flexible"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 66 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.124 kg"
+   ],
+   [
+    "Mounting",
+    "Under contactor, or rail/plate with accessory"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, IEC 60947-5-1, UL, CSA"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRD32/",
+  "confidence": "high"
+ },
+ "schneider-16ax-250v-4-gang-2-way-switch": {
+  "summary": "A Schneider Electric Vivace 4 gang 2 way light switch rated 16AX at 250 V, in white polycarbonate. Each rocker can control a light from two places, for example at both ends of a corridor or staircase, and also works as a simple on/off switch. It mounts flush on a standard twin wall box and has a slim 8 mm projection.",
+  "highlights": [
+   "4 rockers, each 2 way",
+   "Rated 16AX at 250 V AC, suitable for fluorescent and inductive loads",
+   "White glossy polycarbonate plate",
+   "Flush mounting with M3.5 screws",
+   "Brass and phosphor bronze contacts"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "KB34_WE_G2"
+   ],
+   [
+    "Range",
+    "Vivace"
+   ],
+   [
+    "Gangs",
+    "4, each 2 way"
+   ],
+   [
+    "Rated current",
+    "16 AX at 250 V AC"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 Hz"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Material",
+    "Polycarbonate plate, nylon base"
+   ],
+   [
+    "Terminals",
+    "Pillar terminals, up to 2.5 mm²"
+   ],
+   [
+    "Mounting",
+    "Flush, M3.5 screws, 120.6 mm fixing centres"
+   ],
+   [
+    "Embedding depth",
+    "35 mm"
+   ],
+   [
+    "Dimensions (W x H)",
+    "146 x 86 mm"
+   ],
+   [
+    "Standard",
+    "IEC 60669-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/sg/en/product/KB34_WE_G2/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-contactor-3p-65a-1no-plus-1nc": {
+  "summary": "A Schneider Electric Easy TeSys LC1E three-pole contactor rated 65 A in AC-3 motor duty, with a 220 V AC 50 Hz coil and 1 NO + 1 NC auxiliary contacts. It switches three-phase motors up to 30 kW at 400 V, as well as heaters and other resistive loads up to 80 A. It is the cost-effective Easy TeSys contactor for pumps, compressors, fans and general motor starters, and pairs with Easy TeSys LRE overload relays.",
+  "highlights": [
+   "65 A AC-3, 80 A AC-1 rating",
+   "Switches motors up to 30 kW at 400 V",
+   "220 V AC 50 Hz coil",
+   "3 NO power poles plus 1 NO + 1 NC auxiliary",
+   "DIN rail or plate mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1E65M5"
+   ],
+   [
+    "Range",
+    "Easy TeSys Control, LC1E"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "65 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "80 A"
+   ],
+   [
+    "Motor power AC-3",
+    "18.5 kW at 230 V, 30 kW at 400 V"
+   ],
+   [
+    "Coil voltage",
+    "220 V AC, 50 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "5 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "75 x 127 x 114 mm"
+   ],
+   [
+    "Weight",
+    "0.98 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail or plate"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1E65M5/",
+  "confidence": "high"
+ },
+ "schneider-16ax-250v-2-gang-2-way-switch": {
+  "summary": "A Schneider Electric Vivace 2 gang 2 way light switch rated 16AX at 250 V, in white polycarbonate. Each rocker can control a light from two places, for example at both ends of a corridor or staircase, and also works as a simple on/off switch. It mounts flush on a standard wall box and has a slim 8 mm projection.",
+  "highlights": [
+   "2 rockers, each 2 way",
+   "Rated 16AX at 250 V AC, suitable for fluorescent and inductive loads",
+   "White glossy polycarbonate plate",
+   "Flush mounting with M3.5 screws",
+   "Brass and phosphor bronze contacts"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "KB32"
+   ],
+   [
+    "Range",
+    "Vivace"
+   ],
+   [
+    "Gangs",
+    "2, each 2 way"
+   ],
+   [
+    "Rated current",
+    "16 AX at 250 V AC (16 A resistive)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50/60 Hz"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Material",
+    "Polycarbonate"
+   ],
+   [
+    "Terminals",
+    "6 screw terminals, up to 2.5 mm²"
+   ],
+   [
+    "Mounting",
+    "Flush, M3.5 screws, 60.3 mm fixing centres"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "86 x 86 x 37 mm"
+   ],
+   [
+    "Standard",
+    "IEC 60669-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/KB32/",
+  "confidence": "high"
+ },
+ "schneider-easypact-tvs-thermal-overload-relay": {
+  "summary": "A Schneider Electric Easy TeSys Protect LRE thermal overload relay, adjustable from 2.5 to 4 A, trip class 10A. It fits under Easy TeSys LC1E contactors (LC1E06 to LC1E38) and switches off the motor when it draws too much current for too long or loses a phase. A good value choice for pumps, fans and general motor starters.",
+  "highlights": [
+   "Adjustable current setting 2.5 to 4 A",
+   "Class 10A tripping with phase failure sensitivity",
+   "1 NO + 1 NC auxiliary contacts and a trip indicator",
+   "Mounts directly under LC1E06 to LC1E38 contactors",
+   "Red stop and green reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRE08"
+   ],
+   [
+    "Range",
+    "Easy TeSys Protect, LRE"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "2.5 to 4 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1E06 to LC1E38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Associated fuse (power circuit)",
+    "10 A gG or 6 A aM"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, 1.5 to 6 mm² flexible"
+   ],
+   [
+    "Temperature compensation",
+    "-20 to 60 °C"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 44.5 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.13 kg"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1, IEC 60947-5-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRE08/",
+  "confidence": "high"
+ },
+ "schneider-tesys-d-thermal-overload-relay-16-to-24a-class-10a": {
+  "summary": "A Schneider Electric TeSys Deca LRD thermal overload relay, adjustable from 16 to 24 A, trip class 10A. It mounts directly under a TeSys D contactor (LC1D25, LC1D32, LC1D38) to protect a motor against overload and phase loss. A built-in normally open and normally closed contact pair lets the relay drop out the contactor coil or signal a fault.",
+  "highlights": [
+   "Adjustable current setting 16 to 24 A",
+   "Class 10A tripping to IEC 60947-4-1",
+   "Phase failure sensitivity and temperature compensation from -20 to 60 °C",
+   "1 NO + 1 NC auxiliary contacts for control and signalling",
+   "Plugs directly under LC1D25, LC1D32, LC1D38 contactors",
+   "Red stop and blue reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRD22"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LRD"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "16 to 24 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1D25, LC1D32, LC1D38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "690 V AC"
+   ],
+   [
+    "Tripping threshold",
+    "1.14 x Ir (+/- 0.06)"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, 1.5 to 10 mm² flexible"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 66 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.124 kg"
+   ],
+   [
+    "Mounting",
+    "Under contactor, or rail/plate with accessory"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, IEC 60947-5-1, UL, CSA"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRD22/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-power-motor-circuit-breaker-4-to-6-3a": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 4 to 6.3 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 4 to 6.3 A",
+   "Magnetic short-circuit trip at 78 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E10"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "4 to 6.3 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "78 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "1.1 kW at 230 V, 2.2 kW at 400 V, 3 kW at 440 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 230/240 and 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E10/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-power-motor-circuit-breaker-2-5-to-4a": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 2.5 to 4 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 2.5 to 4 A",
+   "Magnetic short-circuit trip at 51 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E08"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "2.5 to 4 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "51 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "0.75 kW at 230 V, 1.5 kW at 400 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 230/240 and 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E08/",
+  "confidence": "high"
+ },
+ "schneider-16ax-250v-3-gang-2-way-switch": {
+  "summary": "A Schneider Electric Vivace 3 gang 2 way light switch rated 16AX at 250 V, in white polycarbonate. Each rocker can control a light from two places, for example at both ends of a corridor or staircase, and also works as a simple on/off switch. It mounts flush on a standard wall box and has a slim 8 mm projection.",
+  "highlights": [
+   "3 rockers, each 2 way",
+   "Rated 16AX at 250 V AC, suitable for fluorescent and inductive loads",
+   "White glossy polycarbonate plate",
+   "Flush mounting with M3.5 screws",
+   "Brass and phosphor bronze contacts"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "KB33"
+   ],
+   [
+    "Range",
+    "Vivace"
+   ],
+   [
+    "Gangs",
+    "3, each 2 way"
+   ],
+   [
+    "Rated current",
+    "16 AX at 250 V AC (16 A resistive)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50/60 Hz"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Material",
+    "Polycarbonate"
+   ],
+   [
+    "Terminals",
+    "9 screw terminals, up to 2.5 mm²"
+   ],
+   [
+    "Mounting",
+    "Flush, M3.5 screws, 60.3 mm fixing centres"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "86 x 86 x 37 mm"
+   ],
+   [
+    "Standard",
+    "IEC 60669-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/KB33/",
+  "confidence": "high"
+ },
+ "schneider-tvs-thermal-overload-relay-23-to-32a": {
+  "summary": "A Schneider Electric Easy TeSys Protect LRE thermal overload relay, adjustable from 23 to 32 A, trip class 10A. It fits under Easy TeSys LC1E contactors (LC1E25 to LC1E38) and switches off the motor when it draws too much current for too long or loses a phase. A good value choice for pumps, fans and general motor starters.",
+  "highlights": [
+   "Adjustable current setting 23 to 32 A",
+   "Class 10A tripping with phase failure sensitivity",
+   "1 NO + 1 NC auxiliary contacts and a trip indicator",
+   "Mounts directly under LC1E25 to LC1E38 contactors",
+   "Red stop and green reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRE32"
+   ],
+   [
+    "Range",
+    "Easy TeSys Protect, LRE"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "23 to 32 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1E25 to LC1E38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Associated fuse (power circuit)",
+    "63 A gG or 40 A aM"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, 2.5 to 10 mm² flexible"
+   ],
+   [
+    "Temperature compensation",
+    "-20 to 60 °C"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 44.5 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.13 kg"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1, IEC 60947-5-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRE32/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-1-to-1-6a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 1 to 1.6 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 1 to 1.6 A",
+   "Magnetic short-circuit trip at 22.5 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E06"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "1 to 1.6 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "22.5 A"
+   ],
+   [
+    "Typical motor power (AC-3)",
+    "0.37 kW at 400 V, 0.55 kW at 440 V"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 230/240 and 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E06/",
+  "confidence": "high"
+ },
+ "schneider-32a-250v-1-gang-dp-switch-with-led-white": {
+  "summary": "A Schneider Electric AvatarOn C double pole switch with LED indicator, rated 32 A at 250 V, in white. It is the right switch for a water heater, air conditioner or cooker, cutting both live and neutral, and the LED shows at a glance when the appliance is powered.",
+  "highlights": [
+   "Double pole, 32 A at 250 V AC",
+   "LED indicator shows when it is on",
+   "For water heaters, AC units and cookers",
+   "Flush or surface mounting",
+   "White AvatarOn C design"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "E8731D32N_WE"
+   ],
+   [
+    "Range",
+    "AvatarOn C"
+   ],
+   [
+    "Function",
+    "Double pole switch, 1 gang"
+   ],
+   [
+    "Rated current",
+    "32 A at 250 V AC, 50/60 Hz"
+   ],
+   [
+    "Indicator",
+    "LED"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Mounting",
+    "Flush or surface"
+   ],
+   [
+    "Terminals",
+    "Screw terminals"
+   ],
+   [
+    "Embedding depth",
+    "21.2 mm"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "86 x 86 x 35 mm"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/E8731D32N_WE/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-0-1-to-0-16a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 0.1 to 0.16 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 0.1 to 0.16 A",
+   "Magnetic short-circuit trip at 1.5 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E01"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "0.1 to 0.16 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "1.5 A"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E01/",
+  "confidence": "high"
+ },
+ "schneider-tesys-motor-circuit-breaker-thermal-magnetic-0-25-to-0-4a-rocker": {
+  "summary": "A Schneider Electric Easy TeSys Power GZ1E motor circuit breaker with an adjustable thermal setting of 0.25 to 0.4 A. It combines overload and short-circuit protection for a three-phase motor in one compact unit, so you can often do without separate fuses. Set the dial to the motor's full-load current, and use the start and stop push-buttons to switch the motor on and off locally.",
+  "highlights": [
+   "Adjustable thermal overload setting 0.25 to 0.4 A",
+   "Magnetic short-circuit trip at 5 A",
+   "Three poles, AC-3 motor duty, rated up to 690 V AC",
+   "Start and stop push-buttons on the front, suitable for isolation",
+   "Clips onto DIN rail or screws to a plate, 44.5 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "GZ1E03"
+   ],
+   [
+    "Range",
+    "Easy TeSys Power, GZ1E"
+   ],
+   [
+    "Poles",
+    "3P (3 protected)"
+   ],
+   [
+    "Thermal adjustment range",
+    "0.25 to 0.4 A"
+   ],
+   [
+    "Magnetic tripping current",
+    "5 A"
+   ],
+   [
+    "Breaking capacity (Icu)",
+    ">= 100 kA at 230/240 and 400/415 V AC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Control",
+    "Push-buttons (start and stop)"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 6 mm² solid"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "44.5 x 89 x 78 mm"
+   ],
+   [
+    "Weight",
+    "0.26 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail (clip) or plate (screws), any position"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standards",
+    "IEC 60947-2, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/GZ1E03/",
+  "confidence": "high"
+ },
+ "schneider-tvs-thermal-overload-relay-12-to-18a": {
+  "summary": "A Schneider Electric Easy TeSys Protect LRE thermal overload relay, adjustable from 12 to 18 A, trip class 10A. It fits under Easy TeSys LC1E contactors (LC1E18 to LC1E38) and switches off the motor when it draws too much current for too long or loses a phase. A good value choice for pumps, fans and general motor starters.",
+  "highlights": [
+   "Adjustable current setting 12 to 18 A",
+   "Class 10A tripping with phase failure sensitivity",
+   "1 NO + 1 NC auxiliary contacts and a trip indicator",
+   "Mounts directly under LC1E18 to LC1E38 contactors",
+   "Red stop and green reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRE21"
+   ],
+   [
+    "Range",
+    "Easy TeSys Protect, LRE"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "12 to 18 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1E18 to LC1E38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Associated fuse (power circuit)",
+    "35 A gG or 20 A aM"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, 1.5 to 6 mm² flexible"
+   ],
+   [
+    "Temperature compensation",
+    "-20 to 60 °C"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 44.5 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.13 kg"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1, IEC 60947-5-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRE21/",
+  "confidence": "high"
+ },
+ "schneider-10ax-250v-intermediate-switch": {
+  "summary": "A Schneider Electric Vivace intermediate switch, one gang, 10 AX at 250 V, in white. It goes between two 2 way switches so that one light can be controlled from three or more places, such as a long corridor or a stairwell with several landings.",
+  "highlights": [
+   "Intermediate switching for control from 3 or more places",
+   "Rated 10 AX at 250 V AC",
+   "White glossy polycarbonate plate",
+   "Flush mounting, 8 mm projection",
+   "Brass and phosphor bronze contacts"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "KB31IA_WE"
+   ],
+   [
+    "Range",
+    "Vivace"
+   ],
+   [
+    "Function",
+    "Intermediate, 1 gang"
+   ],
+   [
+    "Rated current",
+    "10 AX at 250 V AC (10 A resistive)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50/60 Hz"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Material",
+    "Polycarbonate plate, nylon base"
+   ],
+   [
+    "Terminals",
+    "4 screw terminals, up to 2.5 mm²"
+   ],
+   [
+    "Mounting",
+    "Flush, M3.5 screws, 60.3 mm fixing centres"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "86 x 86 x 37 mm"
+   ],
+   [
+    "Standard",
+    "IEC 60669-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/KB31IA_WE/",
+  "confidence": "high"
+ },
+ "schneider-tesys-3p-contactor-9a-ac3-4kw-1no-plus-1nc-24v-ac-coil": {
+  "summary": "A Schneider Electric TeSys Deca LC1D09 three-pole contactor rated 9 A in AC-3 duty (4 kW at 400 V), with a 24 V AC coil. It has one normally open and one normally closed auxiliary contact built in, and accepts TeSys LRD overload relays and add-on contact blocks. A proven workhorse for small motor starters, pumps and control panels.",
+  "highlights": [
+   "9 A AC-3 (4 kW at 400 V), 25 A AC-1",
+   "24 V AC coil, 50/60 Hz",
+   "Built-in 1 NO + 1 NC auxiliary contacts",
+   "Takes LRD overload relays and LADN contact blocks",
+   "DIN rail or plate mounting, 45 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1D09B7"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LC1D"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "9 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "25 A"
+   ],
+   [
+    "Motor power AC-3",
+    "2.2 kW at 230 V, 4 kW at 400 V, 5.5 kW at 500 to 690 V"
+   ],
+   [
+    "Coil voltage",
+    "24 V AC, 50/60 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "15 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 77 x 86 mm"
+   ],
+   [
+    "Weight",
+    "0.32 kg"
+   ],
+   [
+    "Protection rating",
+    "IP20 front face"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, UL, CSA"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_FRONT&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_LEFT&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_RIGHT&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_BACK&p_File_Type=rendition_1500_jpg"
+  ],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1D09B7/",
+  "confidence": "high"
+ },
+ "schneider-tesys-3p-contactor-9a-ac3-4kw-1no-plus-1nc-415v-ac-coil": {
+  "summary": "A Schneider Electric TeSys Deca LC1D09 three-pole contactor rated 9 A in AC-3 duty (4 kW at 400 V), with a 415 V AC coil. It has one normally open and one normally closed auxiliary contact built in, and accepts TeSys LRD overload relays and add-on contact blocks. A proven workhorse for small motor starters, pumps and control panels.",
+  "highlights": [
+   "9 A AC-3 (4 kW at 400 V), 25 A AC-1",
+   "415 V AC coil, 50/60 Hz",
+   "Built-in 1 NO + 1 NC auxiliary contacts",
+   "Takes LRD overload relays and LADN contact blocks",
+   "DIN rail or plate mounting, 45 mm wide"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1D09N7"
+   ],
+   [
+    "Range",
+    "TeSys Deca, LC1D"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "9 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "25 A"
+   ],
+   [
+    "Motor power AC-3",
+    "2.2 kW at 230 V, 4 kW at 400 V, 5.5 kW at 500 to 690 V"
+   ],
+   [
+    "Coil voltage",
+    "415 V AC, 50/60 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "15 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 77 x 86 mm"
+   ],
+   [
+    "Weight",
+    "0.32 kg"
+   ],
+   [
+    "Protection rating",
+    "IP20 front face"
+   ],
+   [
+    "Standards",
+    "IEC 60947-4-1, UL, CSA"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_FRONT&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_LEFT&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_RIGHT&p_File_Type=rendition_1500_jpg",
+   "https://download.se.com/files?p_Doc_Ref=LC1D09_BACK&p_File_Type=rendition_1500_jpg"
+  ],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1D09N7/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-protect-motor-circuit-breaker-0-63-to-1a": {
+  "summary": "A Schneider Electric Easy TeSys Protect LRE thermal overload relay, adjustable from 0.63 to 1 A, trip class 10A. It fits under Easy TeSys LC1E contactors (LC1E06 to LC1E38) and switches off the motor when it draws too much current for too long or loses a phase. A good value choice for pumps, fans and general motor starters.",
+  "highlights": [
+   "Adjustable current setting 0.63 to 1 A",
+   "Class 10A tripping with phase failure sensitivity",
+   "1 NO + 1 NC auxiliary contacts and a trip indicator",
+   "Mounts directly under LC1E06 to LC1E38 contactors",
+   "Red stop and green reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRE05"
+   ],
+   [
+    "Range",
+    "Easy TeSys Protect, LRE"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "0.63 to 1 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1E06 to LC1E38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Associated fuse (power circuit)",
+    "4 A gG or 2 A aM"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, 1.5 to 6 mm² flexible"
+   ],
+   [
+    "Temperature compensation",
+    "-20 to 60 °C"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 44.5 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.13 kg"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1, IEC 60947-5-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRE05/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-protect-motor-circuit-breaker-4-to-6a": {
+  "summary": "A Schneider Electric Easy TeSys Protect LRE thermal overload relay, adjustable from 4 to 6 A, trip class 10A. It fits under Easy TeSys LC1E contactors (LC1E06 to LC1E38) and switches off the motor when it draws too much current for too long or loses a phase. A good value choice for pumps, fans and general motor starters.",
+  "highlights": [
+   "Adjustable current setting 4 to 6 A",
+   "Class 10A tripping with phase failure sensitivity",
+   "1 NO + 1 NC auxiliary contacts and a trip indicator",
+   "Mounts directly under LC1E06 to LC1E38 contactors",
+   "Red stop and green reset push-buttons"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LRE10"
+   ],
+   [
+    "Range",
+    "Easy TeSys Protect, LRE"
+   ],
+   [
+    "Type",
+    "Differential thermal overload relay"
+   ],
+   [
+    "Adjustment range",
+    "4 to 6 A"
+   ],
+   [
+    "Trip class",
+    "10A"
+   ],
+   [
+    "Compatible contactors",
+    "LC1E06 to LC1E38"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC, 50/60 Hz"
+   ],
+   [
+    "Associated fuse (power circuit)",
+    "16 A gG or 8 A aM"
+   ],
+   [
+    "Power terminals",
+    "Screw clamp, 1.5 to 6 mm² flexible"
+   ],
+   [
+    "Temperature compensation",
+    "-20 to 60 °C"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "45 x 44.5 x 70 mm"
+   ],
+   [
+    "Weight",
+    "0.13 kg"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1, IEC 60947-5-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LRE10/",
+  "confidence": "high"
+ },
+ "schneider-tesys-auxiliary-contact-block-2no-for-tesys-d": {
+  "summary": "A Schneider Electric TeSys LADN20 auxiliary contact block with two normally open contacts. It clips onto the front of a TeSys D or Deca contactor or control relay to add extra contacts for interlocking, signalling or self-holding circuits.",
+  "highlights": [
+   "2 NO instantaneous contacts",
+   "Front mounting on TeSys D, Deca and F contactors",
+   "6 A at 120 V AC-15",
+   "Screw clamp terminals",
+   "Rated up to 690 V AC"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LADN20"
+   ],
+   [
+    "Range",
+    "TeSys Deca"
+   ],
+   [
+    "Contacts",
+    "2 NO, instantaneous"
+   ],
+   [
+    "Mounting",
+    "Front of contactor"
+   ],
+   [
+    "Compatible with",
+    "TeSys D / Deca LC1D, CAD; TeSys F LC1F"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Rated current",
+    "6 A at 120 V AC-15, 1.04 A at 690 V AC-15, 0.55 A at 125 V DC-13"
+   ],
+   [
+    "Thermal current (Ith)",
+    "10 A"
+   ],
+   [
+    "Mechanical durability",
+    "30 million cycles"
+   ],
+   [
+    "Terminals",
+    "Screw clamp, 1 to 4 mm²"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "26 x 48 x 42 mm"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Standard",
+    "IEC 60947-5-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LADN20/",
+  "confidence": "high"
+ },
+ "schneider-easy-tesys-contactor-3p-95a-1no-plus-1nc": {
+  "summary": "A Schneider Electric Easy TeSys LC1E three-pole contactor rated 95 A in AC-3 motor duty, with a 220 V AC 50 Hz coil and 1 NO + 1 NC auxiliary contacts. It switches three-phase motors up to 45 kW at 400 V, as well as heaters and other resistive loads up to 125 A. It is the cost-effective Easy TeSys contactor for pumps, compressors, fans and general motor starters, and pairs with Easy TeSys LRE overload relays.",
+  "highlights": [
+   "95 A AC-3, 125 A AC-1 rating",
+   "Switches motors up to 45 kW at 400 V",
+   "220 V AC 50 Hz coil",
+   "3 NO power poles plus 1 NO + 1 NC auxiliary",
+   "DIN rail or plate mounting"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1E95M5"
+   ],
+   [
+    "Range",
+    "Easy TeSys Control, LC1E"
+   ],
+   [
+    "Poles",
+    "3P (3 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "95 A (up to 440 V)"
+   ],
+   [
+    "Rated current AC-1",
+    "125 A"
+   ],
+   [
+    "Motor power AC-3",
+    "22 kW at 230 V, 45 kW at 400 V"
+   ],
+   [
+    "Coil voltage",
+    "220 V AC, 50 Hz"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 690 V AC"
+   ],
+   [
+    "Mechanical durability",
+    "3 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "85 x 127 x 121 mm"
+   ],
+   [
+    "Weight",
+    "1.52 kg"
+   ],
+   [
+    "Mounting",
+    "DIN rail or plate"
+   ],
+   [
+    "Standards",
+    "IEC 60947-1, IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1E95M5/",
+  "confidence": "high"
+ },
+ "schneider-altivar-atv320-compact-drive-2-2kw-3ph-380-500v": {
+  "summary": "A Schneider Electric Altivar Machine ATV320 compact variable speed drive for 2.2 kW three-phase motors on a 380 to 500 V supply. It suits small machines such as conveyors, mixers, packaging lines, pumps and fans, with built-in Modbus and CANopen communication, a class C2 EMC filter and safe torque off.",
+  "highlights": [
+   "2.2 kW heavy duty",
+   "380 to 500 V three-phase supply, 5.5 A output",
+   "Built-in Modbus serial and CANopen",
+   "Integrated class C2 EMC filter",
+   "STO safety input, compact housing"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "ATV320U22N4C"
+   ],
+   [
+    "Range",
+    "Altivar Machine ATV320, compact format"
+   ],
+   [
+    "Motor power",
+    "2.2 kW heavy duty"
+   ],
+   [
+    "Supply voltage",
+    "380 to 500 V three-phase, 50/60 Hz"
+   ],
+   [
+    "Output current",
+    "5.5 A"
+   ],
+   [
+    "Line current",
+    "8.7 A at 380 V"
+   ],
+   [
+    "Maximum output frequency",
+    "599 Hz"
+   ],
+   [
+    "Communication",
+    "Modbus serial, CANopen; optional communication modules"
+   ],
+   [
+    "EMC filter",
+    "Class C2, integrated"
+   ],
+   [
+    "Protection rating",
+    "IP20"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "140 x 184 x 158 mm"
+   ],
+   [
+    "Weight",
+    "2.1 kg"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 50 °C without derating"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/ATV320U22N4C/",
+  "confidence": "high"
+ },
+ "schneider-tesys-giga-contactor-265a-4p-100-250v-ac-dc": {
+  "summary": "A Schneider Electric TeSys Giga four-pole high power contactor rated 265 A in AC-3 and 385 A in AC-1, with a wide band 100 to 250 V AC/DC coil. It switches large loads such as main feeders, capacitor banks, heaters, lighting and generator or changeover circuits. The electronic coil accepts both AC and DC control voltages and draws very little holding power.",
+  "highlights": [
+   "4 poles (4 NO), 265 A AC-3, 385 A AC-1",
+   "Wide band coil 100 to 250 V AC or DC",
+   "Built-in 1 NO + 1 NC auxiliary contacts",
+   "Rated up to 1000 V AC",
+   "Bar or lug power connections"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "LC1G2654KUEN"
+   ],
+   [
+    "Range",
+    "TeSys Giga, LC1G"
+   ],
+   [
+    "Poles",
+    "4P (4 NO)"
+   ],
+   [
+    "Rated current AC-3",
+    "265 A (up to 440 V, <60 °C)"
+   ],
+   [
+    "Rated current AC-1",
+    "385 A (<40 °C)"
+   ],
+   [
+    "Rated operational voltage",
+    "Up to 1000 V AC, up to 460 V DC"
+   ],
+   [
+    "Coil voltage",
+    "100 to 250 V AC 50/60 Hz or DC"
+   ],
+   [
+    "Auxiliary contacts",
+    "1 NO + 1 NC"
+   ],
+   [
+    "Rated breaking capacity",
+    "2380 A at 440 V"
+   ],
+   [
+    "Impulse withstand voltage",
+    "8 kV"
+   ],
+   [
+    "Mechanical durability",
+    "8 million cycles"
+   ],
+   [
+    "Dimensions (W x H x D)",
+    "185 x 225 x 226 mm"
+   ],
+   [
+    "Weight",
+    "8.3 kg"
+   ],
+   [
+    "Standard",
+    "IEC 60947-4-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.se.com/ae/en/product/LC1G2654KUEN/",
+  "confidence": "high"
  }
 }
