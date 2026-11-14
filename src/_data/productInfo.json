@@ -21278,5 +21278,3300 @@
   "spin": [],
   "source": "",
   "confidence": "low"
+ },
+ "wi-fi-panorama-camera": {
+  "summary": "A small Wi-Fi security camera that turns to give you a full 360 degree view of a room. You watch it live and get alerts on your phone through its app. A simple way to keep an eye on a small shop, an apartment or a home.",
+  "highlights": [
+   "360 degree panoramic coverage by pan and tilt",
+   "Live view and playback on your phone",
+   "Connects over Wi-Fi, no cable to a recorder",
+   "Records to a microSD card",
+   "Night vision for dark rooms"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Indoor Wi-Fi pan and tilt camera"
+   ],
+   [
+    "Coverage",
+    "360 degree pan"
+   ],
+   [
+    "Connection",
+    "Wi-Fi (2.4 GHz is the usual band for this type)"
+   ],
+   [
+    "Viewing",
+    "Mobile app, live view and playback"
+   ],
+   [
+    "Storage",
+    "microSD card (sold separately)"
+   ],
+   [
+    "Night vision",
+    "Yes, built-in infrared"
+   ],
+   [
+    "Audio",
+    "Usually built-in microphone and speaker"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "wi-fi-uniarch-3mp-360-camera": {
+  "summary": "An outdoor 3 MP Wi-Fi camera from Uniarch that pans and tilts, so one camera can cover a whole yard, gate or shop front. It has both infrared and warm light for night images, can follow people as they move, and lets you talk through it from the app. Recordings go to a microSD card of up to 512 GB.",
+  "highlights": [
+   "3 MP (2304 x 1296) picture with H.265 compression",
+   "Pan 0 to 345 degrees and tilt 0 to 90 degrees, with auto tracking",
+   "Smart dual light: 30 m infrared and 30 m warm light",
+   "Built-in mic and speaker for two-way talk",
+   "Wi-Fi 6 on 2.4 GHz plus an Ethernet port",
+   "IP66 weather protection"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/3.0 inch CMOS"
+   ],
+   [
+    "Resolution",
+    "3 MP (2304 x 1296), up to 25 fps"
+   ],
+   [
+    "Lens",
+    "4.0 mm fixed, F1.6, 74.3 degree horizontal view"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 0 to 345 degrees, tilt 0 to 90 degrees, 20 presets"
+   ],
+   [
+    "Night vision",
+    "IR up to 30 m and warm light up to 30 m"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264"
+   ],
+   [
+    "Smart features",
+    "Human and vehicle motion detection, loud sound detection, auto tracking"
+   ],
+   [
+    "Audio",
+    "Built-in mic and speaker, two-way audio"
+   ],
+   [
+    "Wi-Fi",
+    "2.4 GHz, IEEE 802.11b/g/n/ax, external antenna"
+   ],
+   [
+    "Network port",
+    "1 x RJ45 10/100 Mbps"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Power",
+    "DC 12 V, 5.5 mm barrel plug"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://global.uniview.com/Products/Wireless_Camera/P_Series/Wired_Wi-Fi_PT_Cam/Uho-P1A-M3F4D-U/",
+  "confidence": "medium"
+ },
+ "wi-fi-imilab-c22-home-security-camera": {
+  "summary": "A compact indoor IMILAB camera that pans and tilts to see the whole room. It records sharp 3K video, works with the IMILAB Home app, and lets you talk to people at home through the camera. Good for watching children, pets or a front room.",
+  "highlights": [
+   "3K picture (2880 x 1620)",
+   "Pan and tilt for full room coverage",
+   "Two-way audio",
+   "Night vision",
+   "Motion detection and phone alerts",
+   "Records to microSD card"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Indoor pan and tilt Wi-Fi camera"
+   ],
+   [
+    "Resolution",
+    "3K (2880 x 1620)"
+   ],
+   [
+    "Coverage",
+    "360 degree pan with tilt"
+   ],
+   [
+    "Night vision",
+    "Yes"
+   ],
+   [
+    "Audio",
+    "Two-way audio"
+   ],
+   [
+    "Detection",
+    "Motion detection with app alerts"
+   ],
+   [
+    "Wi-Fi",
+    "2.4 GHz"
+   ],
+   [
+    "Storage",
+    "microSD card"
+   ],
+   [
+    "App",
+    "IMILAB Home"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "wi-fi-ezviz-ec-dual-2k-3mp": {
+  "summary": "An outdoor EZVIZ camera with two 2K lenses in one body: a fixed wide-angle lens on top and a pan and tilt lens below. When the top lens spots a person, the lower lens turns to follow them, so you see the big picture and the close-up at the same time. It works without a subscription and records to a microSD card of up to 512 GB.",
+  "highlights": [
+   "Two 2K lenses: 2.8 mm wide view plus 6 mm pan and tilt close-up",
+   "Pan 350 degrees and tilt 80 degrees",
+   "AI human and vehicle shape detection with auto tracking",
+   "Colour night vision and 30 m black and white night vision",
+   "Two-way talk, siren and strobe light",
+   "Weatherproof for outdoor use"
+  ],
+  "specs": [
+   [
+    "Model",
+    "CS-H9c-R100-8H33WKFL (H9c Dual 2K)"
+   ],
+   [
+    "Image sensor",
+    "1/2.7 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "2304 x 1296 (2K) on each lens"
+   ],
+   [
+    "Lenses",
+    "Upper 2.8 mm F1.6 (108 degree horizontal), lower 6 mm F1.6 (55 degree horizontal)"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 350 degrees, tilt 80 degrees"
+   ],
+   [
+    "Night vision",
+    "Colour night vision, black and white up to 30 m"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264"
+   ],
+   [
+    "Wi-Fi",
+    "2.4 GHz, IEEE 802.11b/g/n"
+   ],
+   [
+    "Wired network",
+    "1 x RJ45 10/100 Mbps"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB, EZVIZ cloud optional"
+   ],
+   [
+    "Power",
+    "DC 12 V 1.5 A, max 12 W"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 50 °C"
+   ],
+   [
+    "Dimensions",
+    "145 x 116 x 142 mm"
+   ],
+   [
+    "Weight",
+    "668 g"
+   ]
+  ],
+  "inBox": [
+   "H9c camera",
+   "Drill template",
+   "Screw kit",
+   "Waterproof kit",
+   "Power adapter",
+   "Regulatory information",
+   "Quick start guide"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://mfs.ezvizlife.com/H9c%20Dual%202K%20Datasheet.pdf",
+  "confidence": "medium"
+ },
+ "wi-fi-imilab-ec3-lite-2k-hd": {
+  "summary": "An IMILAB outdoor bullet camera with 2K video, built for gates, yards and doorways. It has a spotlight for colour night images, a siren to scare off intruders, and two-way audio, all controlled from the IMILAB Home app. It plugs into mains power and connects over Wi-Fi.",
+  "highlights": [
+   "2K picture (2304 x 1296, 3 MP)",
+   "Colour night vision with built-in spotlight",
+   "AI detection with phone alerts and siren",
+   "Two-way audio",
+   "IP66 weather protection for outdoor use"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Outdoor Wi-Fi bullet camera"
+   ],
+   [
+    "Resolution",
+    "3 MP (2304 x 1296)"
+   ],
+   [
+    "Night vision",
+    "Colour night vision with spotlight"
+   ],
+   [
+    "Audio",
+    "Two-way audio"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ],
+   [
+    "Wi-Fi",
+    "2.4 GHz"
+   ],
+   [
+    "Power",
+    "Wired, 12 V adapter"
+   ],
+   [
+    "Storage",
+    "microSD card"
+   ],
+   [
+    "App",
+    "IMILAB Home"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "1tb-surveillance-hdd": {
+  "summary": "A 1TB 3.5 inch hard drive made for CCTV recorders (DVR and NVR) that write video 24 hours a day. Surveillance drives are tuned for constant writing from several cameras at once, which a normal desktop drive is not. A good fit for a small system of a few cameras.",
+  "highlights": [
+   "1TB capacity",
+   "Built for 24/7 recording",
+   "Handles video from several cameras at once",
+   "Standard 3.5 inch SATA drive for DVRs and NVRs",
+   "Check your recorder's maximum drive size before buying"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "1TB"
+   ],
+   [
+    "Type",
+    "Surveillance hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Workload",
+    "Designed for 24/7 continuous recording"
+   ],
+   [
+    "Use",
+    "DVR and NVR recorders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "2tb-surveillance-hdd": {
+  "summary": "A 2TB 3.5 inch hard drive made for CCTV recorders (DVR and NVR) that write video 24 hours a day. Surveillance drives are tuned for constant writing from several cameras at once, which a normal desktop drive is not. Enough room for a home or small shop system.",
+  "highlights": [
+   "2TB capacity",
+   "Built for 24/7 recording",
+   "Handles video from several cameras at once",
+   "Standard 3.5 inch SATA drive for DVRs and NVRs",
+   "Check your recorder's maximum drive size before buying"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "2TB"
+   ],
+   [
+    "Type",
+    "Surveillance hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Workload",
+    "Designed for 24/7 continuous recording"
+   ],
+   [
+    "Use",
+    "DVR and NVR recorders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "4tb-surveillance-hdd": {
+  "summary": "A 4TB 3.5 inch hard drive made for CCTV recorders (DVR and NVR) that write video 24 hours a day. Surveillance drives are tuned for constant writing from several cameras at once, which a normal desktop drive is not. A popular size for 4 to 8 camera systems.",
+  "highlights": [
+   "4TB capacity",
+   "Built for 24/7 recording",
+   "Handles video from several cameras at once",
+   "Standard 3.5 inch SATA drive for DVRs and NVRs",
+   "Check your recorder's maximum drive size before buying"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "4TB"
+   ],
+   [
+    "Type",
+    "Surveillance hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Workload",
+    "Designed for 24/7 continuous recording"
+   ],
+   [
+    "Use",
+    "DVR and NVR recorders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "6tb-surveillance-hdd": {
+  "summary": "A 6TB 3.5 inch hard drive made for CCTV recorders (DVR and NVR) that write video 24 hours a day. Surveillance drives are tuned for constant writing from several cameras at once, which a normal desktop drive is not. Lets you keep footage for longer before it is overwritten.",
+  "highlights": [
+   "6TB capacity",
+   "Built for 24/7 recording",
+   "Handles video from several cameras at once",
+   "Standard 3.5 inch SATA drive for DVRs and NVRs",
+   "Check your recorder's maximum drive size before buying"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "6TB"
+   ],
+   [
+    "Type",
+    "Surveillance hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Workload",
+    "Designed for 24/7 continuous recording"
+   ],
+   [
+    "Use",
+    "DVR and NVR recorders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "8tb-surveillance-hdd": {
+  "summary": "A 8TB 3.5 inch hard drive made for CCTV recorders (DVR and NVR) that write video 24 hours a day. Surveillance drives are tuned for constant writing from several cameras at once, which a normal desktop drive is not. Suits larger systems or high resolution cameras.",
+  "highlights": [
+   "8TB capacity",
+   "Built for 24/7 recording",
+   "Handles video from several cameras at once",
+   "Standard 3.5 inch SATA drive for DVRs and NVRs",
+   "Check your recorder's maximum drive size before buying"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "8TB"
+   ],
+   [
+    "Type",
+    "Surveillance hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Workload",
+    "Designed for 24/7 continuous recording"
+   ],
+   [
+    "Use",
+    "DVR and NVR recorders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "10tb-surveillance-hdd": {
+  "summary": "A 10TB 3.5 inch hard drive made for CCTV recorders (DVR and NVR) that write video 24 hours a day. Surveillance drives are tuned for constant writing from several cameras at once, which a normal desktop drive is not. For big systems with many cameras or long retention.",
+  "highlights": [
+   "10TB capacity",
+   "Built for 24/7 recording",
+   "Handles video from several cameras at once",
+   "Standard 3.5 inch SATA drive for DVRs and NVRs",
+   "Check your recorder's maximum drive size before buying"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "10TB"
+   ],
+   [
+    "Type",
+    "Surveillance hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA 6 Gb/s"
+   ],
+   [
+    "Workload",
+    "Designed for 24/7 continuous recording"
+   ],
+   [
+    "Use",
+    "DVR and NVR recorders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "1tb-standard-hdd": {
+  "summary": "A 1TB 3.5 inch desktop hard drive for general storage. Fits inside a desktop PC or an external enclosure. It is a good choice for backups, archives and exported footage, but for a recorder that writes all day a surveillance drive lasts better.",
+  "highlights": [
+   "1TB capacity",
+   "Standard 3.5 inch SATA desktop drive",
+   "For backups, archives and extra storage",
+   "Fits desktop PCs and most recorders with a 3.5 inch bay"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "1TB"
+   ],
+   [
+    "Type",
+    "Desktop hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA"
+   ],
+   [
+    "Recommended use",
+    "Backups, archives, general storage"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "2tb-standard-hdd": {
+  "summary": "A 2TB 3.5 inch desktop hard drive for general storage. Plenty of room for documents, photos and footage copies. It is a good choice for backups, archives and exported footage, but for a recorder that writes all day a surveillance drive lasts better.",
+  "highlights": [
+   "2TB capacity",
+   "Standard 3.5 inch SATA desktop drive",
+   "For backups, archives and extra storage",
+   "Fits desktop PCs and most recorders with a 3.5 inch bay"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "2TB"
+   ],
+   [
+    "Type",
+    "Desktop hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA"
+   ],
+   [
+    "Recommended use",
+    "Backups, archives, general storage"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "4tb-standard-hdd": {
+  "summary": "A 4TB 3.5 inch desktop hard drive for general storage. A practical size for long term archives. It is a good choice for backups, archives and exported footage, but for a recorder that writes all day a surveillance drive lasts better.",
+  "highlights": [
+   "4TB capacity",
+   "Standard 3.5 inch SATA desktop drive",
+   "For backups, archives and extra storage",
+   "Fits desktop PCs and most recorders with a 3.5 inch bay"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "4TB"
+   ],
+   [
+    "Type",
+    "Desktop hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA"
+   ],
+   [
+    "Recommended use",
+    "Backups, archives, general storage"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "6tb-standard-hdd": {
+  "summary": "A 6TB 3.5 inch desktop hard drive for general storage. Adds a lot of space for files and media. It is a good choice for backups, archives and exported footage, but for a recorder that writes all day a surveillance drive lasts better.",
+  "highlights": [
+   "6TB capacity",
+   "Standard 3.5 inch SATA desktop drive",
+   "For backups, archives and extra storage",
+   "Fits desktop PCs and most recorders with a 3.5 inch bay"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "6TB"
+   ],
+   [
+    "Type",
+    "Desktop hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA"
+   ],
+   [
+    "Recommended use",
+    "Backups, archives, general storage"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "8tb-standard-hdd": {
+  "summary": "A 8TB 3.5 inch desktop hard drive for general storage. Useful for keeping large libraries of footage. It is a good choice for backups, archives and exported footage, but for a recorder that writes all day a surveillance drive lasts better.",
+  "highlights": [
+   "8TB capacity",
+   "Standard 3.5 inch SATA desktop drive",
+   "For backups, archives and extra storage",
+   "Fits desktop PCs and most recorders with a 3.5 inch bay"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "8TB"
+   ],
+   [
+    "Type",
+    "Desktop hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA"
+   ],
+   [
+    "Recommended use",
+    "Backups, archives, general storage"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "10tb-standard-hdd": {
+  "summary": "A 10TB 3.5 inch desktop hard drive for general storage. For large backups and exported footage. It is a good choice for backups, archives and exported footage, but for a recorder that writes all day a surveillance drive lasts better.",
+  "highlights": [
+   "10TB capacity",
+   "Standard 3.5 inch SATA desktop drive",
+   "For backups, archives and extra storage",
+   "Fits desktop PCs and most recorders with a 3.5 inch bay"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "10TB"
+   ],
+   [
+    "Type",
+    "Desktop hard disk drive"
+   ],
+   [
+    "Form factor",
+    "3.5 inch"
+   ],
+   [
+    "Interface",
+    "SATA"
+   ],
+   [
+    "Recommended use",
+    "Backups, archives, general storage"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "32gb-wi-fi-camera-card": {
+  "summary": "A 32GB microSD card for Wi-Fi cameras, dash cams and phones. It holds a few days of continuous recording on a typical camera. Before buying, check the largest card your camera accepts.",
+  "highlights": [
+   "32GB storage",
+   "microSD size, fits Wi-Fi cameras",
+   "Loop recording: the camera overwrites the oldest footage",
+   "Format it in the camera before first use"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "32GB"
+   ],
+   [
+    "Card type",
+    "microSDHC"
+   ],
+   [
+    "Format",
+    "microSD"
+   ],
+   [
+    "Use",
+    "Wi-Fi cameras, dash cams, phones"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "64gb-wi-fi-camera-card": {
+  "summary": "A 64GB microSD card for Wi-Fi cameras, dash cams and phones. Double the space of a 32GB card, so footage is kept longer. Before buying, check the largest card your camera accepts.",
+  "highlights": [
+   "64GB storage",
+   "microSD size, fits Wi-Fi cameras",
+   "Loop recording: the camera overwrites the oldest footage",
+   "Format it in the camera before first use"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "64GB"
+   ],
+   [
+    "Card type",
+    "microSDXC"
+   ],
+   [
+    "Format",
+    "microSD"
+   ],
+   [
+    "Use",
+    "Wi-Fi cameras, dash cams, phones"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "128gb-wi-fi-camera-card": {
+  "summary": "A 128GB microSD card for Wi-Fi cameras, dash cams and phones. A good size for cameras that record all the time. Before buying, check the largest card your camera accepts.",
+  "highlights": [
+   "128GB storage",
+   "microSD size, fits Wi-Fi cameras",
+   "Loop recording: the camera overwrites the oldest footage",
+   "Format it in the camera before first use"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "128GB"
+   ],
+   [
+    "Card type",
+    "microSDXC"
+   ],
+   [
+    "Format",
+    "microSD"
+   ],
+   [
+    "Use",
+    "Wi-Fi cameras, dash cams, phones"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "256gb-wi-fi-camera-card": {
+  "summary": "A 256GB microSD card for Wi-Fi cameras, dash cams and phones. For cameras with high resolution or long retention. Before buying, check the largest card your camera accepts.",
+  "highlights": [
+   "256GB storage",
+   "microSD size, fits Wi-Fi cameras",
+   "Loop recording: the camera overwrites the oldest footage",
+   "Format it in the camera before first use"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "256GB"
+   ],
+   [
+    "Card type",
+    "microSDXC"
+   ],
+   [
+    "Format",
+    "microSD"
+   ],
+   [
+    "Use",
+    "Wi-Fi cameras, dash cams, phones"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "coaxial-cable-20m": {
+  "summary": "A 20 m coaxial cable for analog and HD analog CCTV cameras. It carries video from the camera to the DVR, and ready made versions also carry a power line so one cable does both jobs.",
+  "highlights": [
+   "20 m length",
+   "75 ohm coaxial cable for CCTV video",
+   "For analog and HD analog (AHD, TVI, CVI) cameras",
+   "Works with BNC connectors"
+  ],
+  "specs": [
+   [
+    "Length",
+    "20 m"
+   ],
+   [
+    "Cable type",
+    "75 ohm coaxial"
+   ],
+   [
+    "Connectors",
+    "BNC for video"
+   ],
+   [
+    "Use",
+    "Analog and HD analog CCTV"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "coaxial-cable-30m": {
+  "summary": "A 30 m coaxial cable for analog and HD analog CCTV cameras, for runs where a camera sits further from the recorder. Fit BNC connectors at each end to connect it.",
+  "highlights": [
+   "30 m length",
+   "75 ohm coaxial cable for CCTV video",
+   "For analog and HD analog cameras",
+   "Use with BNC connectors"
+  ],
+  "specs": [
+   [
+    "Length",
+    "30 m"
+   ],
+   [
+    "Cable type",
+    "75 ohm coaxial"
+   ],
+   [
+    "Conductor",
+    "Copper core"
+   ],
+   [
+    "Connectors",
+    "BNC (fitted on site or ready made)"
+   ],
+   [
+    "Use",
+    "Analog and HD analog CCTV"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "power-connector-male-female-pair": {
+  "summary": "A pair of DC power connectors, one male and one female, with screw terminals. They let you join a power cable to a camera's power lead or to a power supply without soldering.",
+  "highlights": [
+   "One male and one female DC connector",
+   "Screw terminals, no soldering needed",
+   "Standard size used on CCTV cameras",
+   "Polarity marked on each connector"
+  ],
+  "specs": [
+   [
+    "Contents",
+    "1 male and 1 female DC connector"
+   ],
+   [
+    "Size",
+    "5.5 x 2.1 mm barrel (standard CCTV size)"
+   ],
+   [
+    "Termination",
+    "Screw terminals"
+   ],
+   [
+    "Use",
+    "12 V DC camera power"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "cat-6-cable-305m": {
+  "summary": "A full 305 m box of Cat6 network cable for IP cameras, Wi-Fi access points and office networks. Cat6 supports Gigabit Ethernet and PoE, so one cable can carry both data and power to an IP camera.",
+  "highlights": [
+   "305 m box",
+   "Supports Gigabit Ethernet",
+   "Works with PoE for IP cameras",
+   "4 twisted pairs",
+   "Maximum 100 m per network run"
+  ],
+  "specs": [
+   [
+    "Length",
+    "305 m"
+   ],
+   [
+    "Category",
+    "Cat6 U/UTP"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Speed",
+    "Up to 1 Gbps"
+   ],
+   [
+    "Max run length",
+    "100 m per Ethernet link"
+   ],
+   [
+    "Connectors",
+    "RJ45 (not included)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "video-baluns-pair": {
+  "summary": "A pair of video baluns that let an analog or HD analog camera send its video over network (UTP) cable instead of coax. One goes at the camera, one at the DVR. Handy for long runs or where network cable is already in the wall.",
+  "highlights": [
+   "Sold as a pair, one for each end",
+   "BNC to twisted pair cable",
+   "Passive, no power needed",
+   "Lets you reuse Cat5e or Cat6 cable for CCTV"
+  ],
+  "specs": [
+   [
+    "Contents",
+    "2 baluns"
+   ],
+   [
+    "Connection",
+    "BNC to UTP (screw terminal or RJ45)"
+   ],
+   [
+    "Type",
+    "Passive"
+   ],
+   [
+    "Cable",
+    "Cat5e or Cat6"
+   ],
+   [
+    "Use",
+    "Analog and HD analog CCTV"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "bnc-connector": {
+  "summary": "BNC connectors for terminating coaxial CCTV cable on site. Fit one at each end of the coax to connect cameras to the DVR.",
+  "highlights": [
+   "Standard BNC plug for CCTV",
+   "For 75 ohm coaxial cable",
+   "Fit on site to any cable length"
+  ],
+  "specs": [
+   [
+    "Type",
+    "BNC male plug"
+   ],
+   [
+    "Impedance",
+    "75 ohm"
+   ],
+   [
+    "Cable",
+    "Coaxial cable such as RG59"
+   ],
+   [
+    "Use",
+    "CCTV cameras and DVRs"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "logitech-wireless-mouse": {
+  "summary": "A compact Logitech wireless mouse that connects through a tiny USB receiver. It works straight away on Windows, macOS, ChromeOS and Linux, and runs for months on one AA battery.",
+  "highlights": [
+   "Plug and play USB receiver",
+   "2.4 GHz wireless, up to 10 m range",
+   "Runs on one AA battery",
+   "Comfortable compact shape for either hand"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "2.4 GHz wireless, USB receiver"
+   ],
+   [
+    "Wireless range",
+    "Up to 10 m"
+   ],
+   [
+    "Power",
+    "1 x AA battery"
+   ],
+   [
+    "Sensor",
+    "Optical"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, ChromeOS, Linux"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/m185-wireless-mouse.910-002225",
+  "confidence": "low"
+ },
+ "amazon-basics-wireless-mouse": {
+  "summary": "A rechargeable wireless mouse with LED lighting that connects either by Bluetooth or with the included USB receiver. Charge it by cable instead of buying batteries.",
+  "highlights": [
+   "Dual mode: Bluetooth or 2.4 GHz USB receiver",
+   "Rechargeable battery, no AA batteries",
+   "LED lighting"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "Bluetooth 5.2 and 2.4 GHz USB receiver"
+   ],
+   [
+    "Power",
+    "Built-in rechargeable battery"
+   ],
+   [
+    "Lighting",
+    "LED"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "wireless-mouse": {
+  "summary": "A wireless optical mouse that plugs into any laptop or desktop through a small USB receiver. No software needed: plug it in and it works.",
+  "highlights": [
+   "Plug and play USB receiver",
+   "Optical sensor works on most surfaces",
+   "Works with Windows, macOS and Linux",
+   "No cable on your desk"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "2.4 GHz wireless, USB-A receiver"
+   ],
+   [
+    "Sensor",
+    "Optical"
+   ],
+   [
+    "Power",
+    "Battery (type depends on model)"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Linux"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "wired-mouse": {
+  "summary": "A simple USB wired mouse with an optical sensor. Plug it into any computer and it works, with no batteries to change.",
+  "highlights": [
+   "USB plug and play",
+   "Optical sensor",
+   "No batteries needed",
+   "Works with Windows, macOS and Linux"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "Wired USB-A"
+   ],
+   [
+    "Sensor",
+    "Optical"
+   ],
+   [
+    "Buttons",
+    "Left, right and scroll wheel"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Linux"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "vga-cable-10m": {
+  "summary": "A 10 m VGA cable with a 15-pin plug at each end for connecting a computer to a monitor or projector. The long length suits classrooms and ceiling projectors. VGA carries analog video only, so sound needs a separate cable.",
+  "highlights": [
+   "10 m length",
+   "15-pin VGA (D-sub) plug at both ends",
+   "Screw locks keep the plugs secure",
+   "Video only, no audio"
+  ],
+  "specs": [
+   [
+    "Length",
+    "10 m"
+   ],
+   [
+    "Connectors",
+    "VGA 15-pin male to VGA 15-pin male"
+   ],
+   [
+    "Signal",
+    "Analog video"
+   ],
+   [
+    "Audio",
+    "No"
+   ],
+   [
+    "Use",
+    "Monitors, projectors, older PCs"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "vga-to-hdmi": {
+  "summary": "A converter that takes the analog picture from a computer's VGA port and turns it into HDMI for a modern TV, monitor or projector. It works in one direction only, VGA in and HDMI out.",
+  "highlights": [
+   "Connects a VGA computer to an HDMI screen",
+   "Active converter",
+   "One direction only: VGA in, HDMI out",
+   "Many versions take sound from a 3.5 mm jack and USB power"
+  ],
+  "specs": [
+   [
+    "Input",
+    "VGA (15-pin)"
+   ],
+   [
+    "Output",
+    "HDMI"
+   ],
+   [
+    "Direction",
+    "One way, VGA to HDMI"
+   ],
+   [
+    "Audio",
+    "Through 3.5 mm audio lead where provided"
+   ],
+   [
+    "Power",
+    "USB power lead where provided"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-to-vga": {
+  "summary": "An adapter that lets a laptop or PC with an HDMI port show its picture on a VGA monitor or projector. It works in one direction only, HDMI in and VGA out.",
+  "highlights": [
+   "Connects an HDMI laptop to a VGA screen",
+   "One direction only: HDMI in, VGA out",
+   "Ideal for older projectors",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Input",
+    "HDMI male"
+   ],
+   [
+    "Output",
+    "VGA female (15-pin)"
+   ],
+   [
+    "Direction",
+    "One way, HDMI to VGA"
+   ],
+   [
+    "Signal",
+    "Digital to analog conversion"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-2m": {
+  "summary": "A 2 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. A handy length for a desk or TV cabinet.",
+  "highlights": [
+   "2 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-10m": {
+  "summary": "A 10 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. Long enough to reach across a meeting room.",
+  "highlights": [
+   "10 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "10 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-15m": {
+  "summary": "A 15 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. For wall screens and projectors further from the source.",
+  "highlights": [
+   "15 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "15 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-20m": {
+  "summary": "A 20 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. For projectors and wall screens across a large room.",
+  "highlights": [
+   "20 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "20 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-30m": {
+  "summary": "A 30 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. For training rooms and halls.",
+  "highlights": [
+   "30 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "30 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "usb-to-usb": {
+  "summary": "A USB-A to USB-A cable for devices that use a USB-A port at both ends, such as some hubs, docks, cooling pads and external enclosures.",
+  "highlights": [
+   "USB-A plug at both ends",
+   "For devices that need an A to A link",
+   "Not for linking two computers directly"
+  ],
+  "specs": [
+   [
+    "Connectors",
+    "USB-A male to USB-A male"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "adjustable-laptop-stand": {
+  "summary": "An aluminium stand that lifts your laptop to a better height and angle, so you look down less and the laptop gets more air underneath. Pair it with an external keyboard and mouse for a comfortable desk setup.",
+  "highlights": [
+   "Raises the screen closer to eye level",
+   "Adjustable height and angle",
+   "Aluminium build",
+   "Open design helps cooling"
+  ],
+  "specs": [
+   [
+    "Material",
+    "Aluminium"
+   ],
+   [
+    "Adjustment",
+    "Height and angle"
+   ],
+   [
+    "Fits",
+    "Most laptops (check size on the stand)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "usb-to-hdmi": {
+  "summary": "An adapter that adds an HDMI output to a computer through a USB port, so you can connect an extra monitor or TV. Useful when the laptop has no free HDMI port.",
+  "highlights": [
+   "Adds an HDMI screen through USB",
+   "Good for an extra monitor",
+   "Usually needs a driver installed on the computer"
+  ],
+  "specs": [
+   [
+    "Input",
+    "USB-A (USB 3.0 recommended)"
+   ],
+   [
+    "Output",
+    "HDMI"
+   ],
+   [
+    "Driver",
+    "Usually required"
+   ],
+   [
+    "Use",
+    "Extra monitor or TV"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "usb-to-usb-3m": {
+  "summary": "A USB-A to USB-A cable (3 m) for devices that use a USB-A port at both ends, such as some hubs, docks, cooling pads and external enclosures.",
+  "highlights": [
+   "USB-A plug at both ends",
+   "For devices that need an A to A link",
+   "Not for linking two computers directly"
+  ],
+  "specs": [
+   [
+    "Connectors",
+    "USB-A male to USB-A male"
+   ],
+   [
+    "Length",
+    "3 m"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-to-hdmi-1-5m": {
+  "summary": "A 1.5 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. A short cable for desktop monitors.",
+  "highlights": [
+   "1.5 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "1.5 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-to-hdmi-3m": {
+  "summary": "A 3 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. Good for TVs and meeting room tables.",
+  "highlights": [
+   "3 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "3 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-to-hdmi-10m": {
+  "summary": "A 10 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. Reaches ceiling projectors in most rooms.",
+  "highlights": [
+   "10 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "10 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-to-hdmi-15m": {
+  "summary": "A 15 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. For boardrooms and events.",
+  "highlights": [
+   "15 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "15 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hdmi-to-hdmi-20m": {
+  "summary": "A 20 m HDMI cable that carries both picture and sound from a laptop, PC, decoder or console to a TV, monitor or projector. For long runs to screens and projectors.",
+  "highlights": [
+   "20 m length",
+   "Standard HDMI plug at both ends",
+   "Carries video and audio in one cable",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Length",
+    "20 m"
+   ],
+   [
+    "Connectors",
+    "HDMI Type A male to HDMI Type A male"
+   ],
+   [
+    "Signals",
+    "Digital video and audio"
+   ],
+   [
+    "Use",
+    "TVs, monitors, projectors, decoders"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "printer-cable": {
+  "summary": "A USB printer cable with a flat USB-A plug for the computer and a square USB-B plug for the printer. It fits most printers and scanners.",
+  "highlights": [
+   "USB-A to USB-B",
+   "Fits most printers and scanners",
+   "Plug and play"
+  ],
+  "specs": [
+   [
+    "Connectors",
+    "USB-A male to USB-B male"
+   ],
+   [
+    "Standard",
+    "USB 2.0"
+   ],
+   [
+    "Use",
+    "Printers, scanners, some audio devices"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "vga-cable-2m": {
+  "summary": "A 2 m VGA cable with a 15-pin plug at each end for connecting a computer to a monitor or projector. A desk length for older monitors and PCs. VGA carries analog video only, so sound needs a separate cable.",
+  "highlights": [
+   "2 m length",
+   "15-pin VGA (D-sub) plug at both ends",
+   "Screw locks keep the plugs secure",
+   "Video only, no audio"
+  ],
+  "specs": [
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Connectors",
+    "VGA 15-pin male to VGA 15-pin male"
+   ],
+   [
+    "Signal",
+    "Analog video"
+   ],
+   [
+    "Audio",
+    "No"
+   ],
+   [
+    "Use",
+    "Monitors, projectors, older PCs"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "big-pin-laptop-charger": {
+  "summary": "A replacement charger with the large round 'big pin' tip used on many older HP and Dell laptops. Check the voltage and wattage on your old charger before you buy.",
+  "highlights": [
+   "Large round barrel tip for older HP and Dell laptops",
+   "Works on 100 to 240 V mains",
+   "Replacement for a lost or broken charger"
+  ],
+  "specs": [
+   [
+    "Connector",
+    "Large round barrel (7.4 mm type)"
+   ],
+   [
+    "Input",
+    "100 to 240 V AC, 50/60 Hz"
+   ],
+   [
+    "Compatible",
+    "Older HP and Dell laptops with big pin tip"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "blue-pin-laptop-charger": {
+  "summary": "A replacement charger with HP's slim 'blue pin' tip, used on many HP ProBook, EliteBook and Pavilion laptops. Check the wattage on your old charger before you buy.",
+  "highlights": [
+   "HP blue pin tip with centre pin",
+   "For many HP ProBook and EliteBook laptops",
+   "Works on 100 to 240 V mains"
+  ],
+  "specs": [
+   [
+    "Connector",
+    "4.5 x 3.0 mm barrel with centre pin (HP blue pin)"
+   ],
+   [
+    "Input",
+    "100 to 240 V AC, 50/60 Hz"
+   ],
+   [
+    "Compatible",
+    "HP laptops with blue pin port"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "type-c-laptop-charger": {
+  "summary": "A 65W USB-C charger that uses USB Power Delivery, so it can charge laptops, tablets and phones that charge over USB-C. It sets the right voltage for each device automatically.",
+  "highlights": [
+   "65W USB Power Delivery",
+   "Charges USB-C laptops, tablets and phones",
+   "Works on 100 to 240 V mains"
+  ],
+  "specs": [
+   [
+    "Output",
+    "Up to 65W, USB Power Delivery"
+   ],
+   [
+    "Connector",
+    "USB-C"
+   ],
+   [
+    "Input",
+    "100 to 240 V AC, 50/60 Hz"
+   ],
+   [
+    "Compatible",
+    "USB-C laptops and devices that charge with PD"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "lenovo-laptop-charger": {
+  "summary": "A charger for Lenovo ThinkPad and IdeaPad laptops. Lenovo uses different tips over the years (slim rectangular tip, round tip and USB-C), so match the tip and wattage to your laptop.",
+  "highlights": [
+   "For Lenovo ThinkPad and IdeaPad laptops",
+   "Match the tip type and wattage to your laptop",
+   "Works on 100 to 240 V mains"
+  ],
+  "specs": [
+   [
+    "Brand",
+    "Lenovo"
+   ],
+   [
+    "Input",
+    "100 to 240 V AC, 50/60 Hz"
+   ],
+   [
+    "Tip types used by Lenovo",
+    "Slim rectangular tip, round tip, USB-C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://psref.lenovo.com",
+  "confidence": "low"
+ },
+ "usb-to-type-c-1m": {
+  "summary": "A 1 m cable with a USB-A plug at one end and USB-C at the other, for charging and syncing phones, tablets and other USB-C devices from a charger or computer.",
+  "highlights": [
+   "1 m length",
+   "USB-A to USB-C",
+   "Charging and data"
+  ],
+  "specs": [
+   [
+    "Length",
+    "1 m"
+   ],
+   [
+    "Connectors",
+    "USB-A male to USB-C male"
+   ],
+   [
+    "Functions",
+    "Charging and data transfer"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "type-c-to-type-c": {
+  "summary": "A cable with USB-C at both ends for charging laptops, phones and tablets and connecting USB-C hubs and docks.",
+  "highlights": [
+   "USB-C at both ends",
+   "Charging and data",
+   "Works with USB-C chargers, hubs and docks"
+  ],
+  "specs": [
+   [
+    "Connectors",
+    "USB-C male to USB-C male"
+   ],
+   [
+    "Functions",
+    "Charging and data transfer"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "headset-with-microphone": {
+  "summary": "Headsets with a built-in microphone for calls, online meetings and classes. Available in wired and Bluetooth versions.",
+  "highlights": [
+   "Built-in microphone for calls",
+   "Wired and Bluetooth options",
+   "For meetings, classes and music"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Headset with microphone"
+   ],
+   [
+    "Connection",
+    "Wired or Bluetooth, depending on model"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "logitech-stereo-headset-h110": {
+  "summary": "A light, budget stereo headset for PCs that have separate 3.5 mm jacks for headphones and microphone. The mic boom swings to either side and tucks away when you are not talking.",
+  "highlights": [
+   "Dual 3.5 mm plugs (headphone and mic)",
+   "Mic boom rotates 180 degrees, wear it on either side",
+   "Adjustable headband with soft foam cushions",
+   "Only 74 g"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "Dual 3.5 mm plugs (separate mic and audio)"
+   ],
+   [
+    "Microphone",
+    "Unidirectional"
+   ],
+   [
+    "Mic frequency response",
+    "100 Hz to 16 kHz"
+   ],
+   [
+    "Headphone frequency response",
+    "20 Hz to 20 kHz"
+   ],
+   [
+    "Impedance",
+    "32 ohms"
+   ],
+   [
+    "Headphone sensitivity",
+    "100 dB +/-3 dB"
+   ],
+   [
+    "Cable length",
+    "2.35 m"
+   ],
+   [
+    "Dimensions",
+    "162 x 144 x 46 mm"
+   ],
+   [
+    "Weight",
+    "74 g"
+   ],
+   [
+    "Colour",
+    "Dark grey"
+   ]
+  ],
+  "inBox": [
+   "Stereo headset",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/headsets/h110-wired-headset/gallery/h110-gallery-2.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/headsets/h110-wired-headset/gallery/h110-gallery-3.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/headsets/h110-wired-headset/gallery/h110-gallery-4.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-hk/shop/p/h110-wired-headset",
+  "confidence": "high"
+ },
+ "logitech-stereo-headset-h111-3-5mm": {
+  "summary": "A simple stereo headset with a single 3.5 mm plug, so it works with laptops, phones and tablets that have a combined headset jack. The mic boom rotates to either side and the headband adjusts for a comfortable fit.",
+  "highlights": [
+   "Single 3.5 mm plug for laptops, phones and tablets",
+   "Stereo sound for calls and music",
+   "Mic boom rotates 180 degrees",
+   "Adjustable headband with soft foam cushions"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "Single 3.5 mm 4-pole plug"
+   ],
+   [
+    "Microphone",
+    "Unidirectional"
+   ],
+   [
+    "Mic frequency response",
+    "100 Hz to 16 kHz"
+   ],
+   [
+    "Headphone frequency response",
+    "20 Hz to 20 kHz"
+   ],
+   [
+    "Impedance",
+    "32 ohms"
+   ],
+   [
+    "Headphone sensitivity",
+    "100 dB +/-3 dB"
+   ],
+   [
+    "Dimensions",
+    "162 x 144 x 46 mm"
+   ],
+   [
+    "Weight",
+    "74 g"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "inBox": [
+   "Stereo headset",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h111/gallery/h111-gallery-02.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h111/gallery/h111-gallery-03.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h111/gallery/h111-gallery-04.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h111/gallery/h111-gallery-05.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/h111-stereo-headset",
+  "confidence": "high"
+ },
+ "logitech-usb-headset-h340": {
+  "summary": "An everyday USB headset with clear digital sound and a noise-cancelling microphone. Plug it into a USB-A port and it works on PC or Mac with no software.",
+  "highlights": [
+   "Plug and play USB-A connection",
+   "Noise-cancelling mic that tucks into the headband",
+   "Digital stereo sound",
+   "Swivel foam ear cushions",
+   "1.8 m cable"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "USB-A"
+   ],
+   [
+    "Microphone",
+    "Bi-directional, noise-cancelling"
+   ],
+   [
+    "Mic frequency response",
+    "100 Hz to 16 kHz"
+   ],
+   [
+    "Headphone frequency response",
+    "20 Hz to 20 kHz"
+   ],
+   [
+    "Impedance",
+    "22 ohms"
+   ],
+   [
+    "Headphone sensitivity",
+    "115 dB +/-3 dB"
+   ],
+   [
+    "Cable length",
+    "1.8 m"
+   ],
+   [
+    "Dimensions",
+    "160 x 175 x 60 mm"
+   ],
+   [
+    "Weight",
+    "100 g"
+   ]
+  ],
+  "inBox": [
+   "USB computer headset",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h340/gallery/2024-update/h340-headset-mic-gallery-02.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h340/gallery/2024-update/h340-headset-mic-gallery-03.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h340/gallery/2024-update/h340-headset-mic-gallery-04.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/h340/gallery/2024-update/h340-headset-mic-gallery-05.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/h340-usb-pc-noise-cancelling-mic",
+  "confidence": "high"
+ },
+ "logitech-usb-headset-h390": {
+  "summary": "A comfortable USB headset for video calls and music, with 30 mm drivers, a noise-cancelling mic and inline controls to change volume or mute without leaving your call. Leatherette ear cushions make it easy to wear all day.",
+  "highlights": [
+   "Plug and play USB connection",
+   "Noise-cancelling mic on a rotating boom",
+   "Inline volume and mute controls",
+   "30 mm drivers",
+   "Swivel leatherette ear cushions",
+   "1.9 m cable"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "USB-A (a USB-C version also exists)"
+   ],
+   [
+    "Drivers",
+    "30 mm"
+   ],
+   [
+    "Headphone frequency response",
+    "20 Hz to 20 kHz (music), 100 Hz to 10 kHz (talk)"
+   ],
+   [
+    "Impedance",
+    "32 ohms"
+   ],
+   [
+    "Headphone sensitivity",
+    "94 dB +/-3 dB at 1 kHz"
+   ],
+   [
+    "Microphone",
+    "Noise-cancelling, long boom"
+   ],
+   [
+    "Mic frequency response",
+    "100 Hz to 10 kHz"
+   ],
+   [
+    "Controls",
+    "Inline volume and mute"
+   ],
+   [
+    "Cable length",
+    "1.9 m"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, ChromeOS"
+   ],
+   [
+    "Dimensions",
+    "151 x 171 x 68 mm"
+   ],
+   [
+    "Weight",
+    "197 g"
+   ]
+  ],
+  "inBox": [
+   "H390 computer headset",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/headsets/h390-usb-headset/gallery/h390-sideview-angle-gallery-black.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/headsets/h390-usb-headset/gallery/h390-sideview-gallery-black.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/headsets/h390-usb-headset/gallery/h390-frontview-usba-gallery-black.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/headsets/h390-usb-headset/gallery/h390-topview-usba-gallery-black.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/h390-usb-headset",
+  "confidence": "high"
+ },
+ "logitech-wireless-keyboard-and-mouse-220": {
+  "summary": "A compact wireless keyboard and mouse set from Logitech that saves desk space but still has a number pad. Both share one small USB receiver, and the batteries last a long time.",
+  "highlights": [
+   "Compact keyboard with number pad",
+   "One USB receiver for both, up to 10 m range",
+   "Spill-resistant keyboard",
+   "Battery life up to 24 months (keyboard) and 12 months (mouse)",
+   "Ambidextrous mouse"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "2.4 GHz wireless, one USB receiver"
+   ],
+   [
+    "Wireless range",
+    "Up to 10 m"
+   ],
+   [
+    "Keyboard",
+    "Compact with number pad, spill-resistant"
+   ],
+   [
+    "Mouse sensor",
+    "Optical"
+   ],
+   [
+    "Mouse buttons",
+    "3 (left, right, middle click)"
+   ],
+   [
+    "Batteries",
+    "Keyboard 2 x AAA, mouse 2 x AA (included)"
+   ],
+   [
+    "Battery life",
+    "Keyboard up to 24 months, mouse up to 12 months"
+   ],
+   [
+    "Keyboard size and weight",
+    "381 x 112 x 17.8 mm, 320 g"
+   ],
+   [
+    "Mouse size and weight",
+    "107 x 60 x 40 mm, 112 g"
+   ]
+  ],
+  "inBox": [
+   "Keyboard with 2 AAA batteries",
+   "Mouse with 2 AA batteries",
+   "USB receiver",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/uk-mk220-gallery2.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/uk-mk220-gallery3.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/mk220-gallery-4.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk220/gallery/mk220-gallery-5.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-eu/shop/p/mk220-compact-keyboard-mouse",
+  "confidence": "high"
+ },
+ "logitech-wireless-keyboard-and-mouse-270": {
+  "summary": "Logitech's best-known wireless keyboard and mouse set: a full-size keyboard with number pad and media keys, plus a compact mouse. One tiny USB receiver runs both, with long battery life.",
+  "highlights": [
+   "Full-size keyboard with number pad",
+   "8 media and shortcut keys",
+   "One USB receiver, 2.4 GHz, up to 10 m range",
+   "Spill-resistant keyboard with adjustable tilt legs",
+   "Battery life up to 36 months (keyboard) and 12 months (mouse)"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "2.4 GHz wireless, one USB receiver"
+   ],
+   [
+    "Wireless range",
+    "Up to 10 m"
+   ],
+   [
+    "Keyboard",
+    "Full size with number pad, 8 media keys, spill-resistant"
+   ],
+   [
+    "Mouse",
+    "Compact, ambidextrous, optical"
+   ],
+   [
+    "Batteries",
+    "Keyboard 2 x AAA, mouse 1 x AA (included)"
+   ],
+   [
+    "Battery life",
+    "Keyboard up to 36 months, mouse up to 12 months"
+   ],
+   [
+    "Keyboard size and weight",
+    "441 x 149 x 18 mm, 498 g"
+   ],
+   [
+    "Mouse size and weight",
+    "99 x 60 x 39 mm, 75.2 g"
+   ]
+  ],
+  "inBox": [
+   "Keyboard with 2 AAA batteries",
+   "Mouse with 1 AA battery",
+   "USB receiver",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-2-new.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-3-new.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-4-new.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/combos/mk270/gallery/mk270-gallery-5-new.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/mk270-wireless-keyboard-mouse",
+  "confidence": "high"
+ },
+ "logitech-wireless-mouse-m170": {
+  "summary": "The Logitech M170 is a small, ambidextrous wireless mouse that slips easily into a laptop bag. Plug in the USB receiver and it works right away, for up to a year on one AA battery.",
+  "highlights": [
+   "Compact ambidextrous shape",
+   "Plug and play USB receiver, up to 10 m range",
+   "Up to 12 months on one AA battery",
+   "Optical tracking on most surfaces",
+   "Works with Windows, macOS, ChromeOS and Linux"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "2.4 GHz wireless, USB receiver"
+   ],
+   [
+    "Wireless range",
+    "Up to 10 m"
+   ],
+   [
+    "Sensor",
+    "Optical, 1000 DPI"
+   ],
+   [
+    "Buttons",
+    "3 (left, right, middle click)"
+   ],
+   [
+    "Scroll wheel",
+    "Line-by-line"
+   ],
+   [
+    "Battery",
+    "1 x AA (included), up to 12 months"
+   ],
+   [
+    "Power switch",
+    "On/off switch"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, ChromeOS, Linux"
+   ],
+   [
+    "Dimensions",
+    "97.7 x 61.5 x 35.2 mm"
+   ],
+   [
+    "Weight",
+    "69.3 g (with battery)"
+   ]
+  ],
+  "inBox": [
+   "Mouse",
+   "Receiver",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-2.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-3.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-4.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/m170-wireless-mouse",
+  "confidence": "high"
+ },
+ "logitech-wireless-mouse-m171": {
+  "summary": "The Logitech M171 is a small, ambidextrous wireless mouse that slips easily into a laptop bag. Plug in the USB receiver and it works right away, for up to a year on one AA battery.",
+  "highlights": [
+   "Compact ambidextrous shape",
+   "Plug and play USB receiver, up to 10 m range",
+   "Up to 12 months on one AA battery",
+   "Optical tracking on most surfaces",
+   "Works with Windows, macOS, ChromeOS and Linux"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "2.4 GHz wireless, USB receiver"
+   ],
+   [
+    "Wireless range",
+    "Up to 10 m"
+   ],
+   [
+    "Sensor",
+    "Optical, 1000 DPI"
+   ],
+   [
+    "Buttons",
+    "3 (left, right, middle click)"
+   ],
+   [
+    "Scroll wheel",
+    "Line-by-line"
+   ],
+   [
+    "Battery",
+    "1 x AA (included), up to 12 months"
+   ],
+   [
+    "Power switch",
+    "On/off switch"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, ChromeOS, Linux"
+   ],
+   [
+    "Dimensions",
+    "97.7 x 61.5 x 35.2 mm"
+   ],
+   [
+    "Weight",
+    "69.3 g (with battery)"
+   ]
+  ],
+  "inBox": [
+   "Mouse",
+   "Receiver",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-2.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-3.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-black-4.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/m171-wireless-mouse",
+  "confidence": "high"
+ },
+ "logitech-wireless-mouse-m185": {
+  "summary": "A comfortable, contoured wireless mouse from Logitech that works for left or right hand. Plug in the tiny receiver and go; one AA battery lasts up to 12 months thanks to the on/off switch and auto sleep.",
+  "highlights": [
+   "Contoured shape, comfortable in either hand",
+   "Plug and play nano receiver, up to 10 m range",
+   "Up to 12 months battery life",
+   "Optical tracking with line-by-line scrolling",
+   "Works with Windows, macOS, ChromeOS and Linux"
+  ],
+  "specs": [
+   [
+    "Connection",
+    "2.4 GHz wireless, nano USB receiver"
+   ],
+   [
+    "Wireless range",
+    "Up to 10 m"
+   ],
+   [
+    "Sensor",
+    "Optical"
+   ],
+   [
+    "Buttons",
+    "3 (left, right, middle click)"
+   ],
+   [
+    "Battery",
+    "1 x AA (pre-installed), up to 12 months"
+   ],
+   [
+    "Power switch",
+    "On/off switch"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, ChromeOS, Linux"
+   ],
+   [
+    "Dimensions",
+    "99 x 60 x 39 mm"
+   ],
+   [
+    "Weight",
+    "75.2 g (with battery)"
+   ]
+  ],
+  "inBox": [
+   "Mouse",
+   "Nano receiver",
+   "1 AA battery (pre-installed)",
+   "User documentation"
+  ],
+  "images": [
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m185/gallery/2025-update-assets/m185-grey-3qtr-angle-2.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m185/gallery/2025-update-assets/m185-grey-profile-angle-3.png",
+   "https://resource.logitech.com/content/dam/logitech/en/products/mice/m185/gallery/2025-update-assets/m185-grey-front-3qtr-angle-4.png"
+  ],
+  "spin": [],
+  "source": "https://www.logitech.com/en-us/shop/p/m185-wireless-mouse.910-002225",
+  "confidence": "high"
+ },
+ "jabra-evolve-20-headset": {
+  "summary": "A professional wired USB headset from Jabra for office calls and online meetings. A controller on the cable lets you answer, end and mute calls, and it is certified for leading call platforms such as Microsoft Teams and Cisco. Foam on-ear cushions keep it comfortable through the day.",
+  "highlights": [
+   "Plug and play USB connection",
+   "Inline call control unit: answer, end and mute",
+   "Wideband audio for calls and music",
+   "Certified for Microsoft Teams, Avaya and Cisco",
+   "2 year warranty"
+  ],
+  "specs": [
+   [
+    "Wearing style",
+    "On-ear, stereo (mono version also exists)"
+   ],
+   [
+    "Connection",
+    "USB (USB-A or USB-C versions)"
+   ],
+   [
+    "Audio",
+    "Wideband for speaker and microphone"
+   ],
+   [
+    "Controls",
+    "Inline call control unit"
+   ],
+   [
+    "Cable length",
+    "Headset cable 120 cm, control cable 95 cm"
+   ],
+   [
+    "Ear cushions",
+    "Foam"
+   ],
+   [
+    "Weight",
+    "171 g (stereo), 143 g (mono)"
+   ],
+   [
+    "Certifications",
+    "Microsoft Teams, Avaya, Cisco; CE, FCC"
+   ],
+   [
+    "Warranty",
+    "2 years"
+   ]
+  ],
+  "inBox": [
+   "Jabra Evolve 20 headset",
+   "USB controller",
+   "Quick start guide",
+   "Warranty and warning leaflets"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.jabra.com/business/office-headsets/jabra-evolve/jabra-evolve-20",
+  "confidence": "high"
+ },
+ "light-wave-101-uv-cash-counting-machine-with-lcd-display": {
+  "summary": "A desktop banknote counter from Lightwave (model LW-CCM-101) that counts about 1000 notes a minute and checks for fakes with UV, magnetic and infrared sensors. It also catches half notes, double notes and chained notes, and has batch and add modes for bundling cash. Good for shops, offices and cashiers.",
+  "highlights": [
+   "Counts up to 1000 notes per minute",
+   "UV, MG, MT, IR and DD counterfeit checks",
+   "Batch and add (cumulative) functions",
+   "Detects half, double and chained notes",
+   "LCD count and batch display"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-CCM-101"
+   ],
+   [
+    "Counting speed",
+    "1000 notes per minute"
+   ],
+   [
+    "Detection",
+    "UV, IR, DD, MG, MT"
+   ],
+   [
+    "Hopper capacity",
+    "100 old or 200 new notes"
+   ],
+   [
+    "Stacker capacity",
+    "100 old or 200 new notes"
+   ],
+   [
+    "Note size",
+    "50 x 110 to 90 x 180 mm"
+   ],
+   [
+    "Note thickness",
+    "0.075 to 0.15 mm"
+   ],
+   [
+    "Display",
+    "4-digit LCD count, 3-digit LCD batch"
+   ],
+   [
+    "Power supply",
+    "220 V AC +/-10%, 50 Hz"
+   ],
+   [
+    "Power consumption",
+    "80 W"
+   ],
+   [
+    "Dimensions",
+    "290 x 255 x 165 mm"
+   ],
+   [
+    "Net weight",
+    "5.5 kg"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://lightwaveglobal.com/media/catalog/product/5/1/5117_2_.png",
+   "https://lightwaveglobal.com/media/catalog/product/5/1/5117_3_.png",
+   "https://lightwaveglobal.com/media/catalog/product/5/1/5117_4_.png"
+  ],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/media/sparsh/product_attachment/Cash_counting_machine.xls_.pdf",
+  "confidence": "medium"
+ },
+ "light-wave-501-superfast-wireless-charger-140w-dch": {
+  "summary": "A Lightwave desktop charging hub (LW-DCH-140W-501) with up to 140W in total, three USB-C PD ports, two USB-A ports and a wireless charging pad on top. Charge a laptop, phone, tablet and earbuds at the same time from one plug.",
+  "highlights": [
+   "Up to 140W total output",
+   "3 USB-C Power Delivery ports",
+   "2 USB-A fast charging ports",
+   "Qi wireless charging pad on top",
+   "Over-current, over-voltage and short-circuit protection"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-DCH-140W-501"
+   ],
+   [
+    "Total output",
+    "140W"
+   ],
+   [
+    "USB-C ports",
+    "3, Power Delivery"
+   ],
+   [
+    "USB-A ports",
+    "2, fast charging"
+   ],
+   [
+    "Wireless charging",
+    "Qi wireless pad"
+   ],
+   [
+    "Input",
+    "100 to 240 V AC"
+   ],
+   [
+    "Protection",
+    "Over-current, over-voltage, short-circuit"
+   ],
+   [
+    "Housing",
+    "Matte PC"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/lightwave-140w-super-fast-universal-wireless-charger-lw-dch-140w-501",
+  "confidence": "medium"
+ },
+ "light-wave-docking-station-6-in-1-3xusb-hdmi-rj45": {
+  "summary": "A Lightwave USB-C docking station (LW-DOCK-61A) that adds an HDMI screen, USB ports and wired Gigabit internet to a laptop through one USB-C port. A 100W pass-through charging port keeps your laptop charged while you work. Plug and play, with no driver to install.",
+  "highlights": [
+   "HDMI output up to 4K at 30 Hz",
+   "3 USB 3.0 ports at 5 Gbps",
+   "Gigabit Ethernet (RJ45)",
+   "USB-C PD charging up to 100W",
+   "Works with Windows, macOS and Android, no driver needed"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-DOCK-61A"
+   ],
+   [
+    "Host connection",
+    "USB-C"
+   ],
+   [
+    "HDMI",
+    "1, up to 4K at 30 Hz"
+   ],
+   [
+    "USB-A",
+    "3 x USB 3.0, 5 Gbps"
+   ],
+   [
+    "Ethernet",
+    "1 x RJ45, 10/100/1000 Mbps"
+   ],
+   [
+    "Charging",
+    "USB-C PD 3.0, up to 100W"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Android"
+   ],
+   [
+    "Housing",
+    "Aluminium"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/media/sparsh/product_attachment/HUB.xlsx_-_Google_Sheets.pdf",
+  "confidence": "medium"
+ },
+ "light-wave-google-qled-uhd-75-tv": {
+  "summary": "A big 75 inch Lightwave QLED TV (LW-GQ7500-T2S2) with 4K UHD picture and HDR, running Google TV. Stream Netflix, YouTube and more, search by voice with Google Assistant, and cast from your phone with built-in Chromecast.",
+  "highlights": [
+   "75 inch QLED panel with 4K UHD resolution",
+   "HDR support",
+   "Google TV with Google Assistant voice search",
+   "Built-in Chromecast",
+   "Multiple HDMI and USB ports"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-GQ7500-T2S2"
+   ],
+   [
+    "Screen size",
+    "75 inch"
+   ],
+   [
+    "Panel",
+    "QLED (quantum dot)"
+   ],
+   [
+    "Resolution",
+    "4K UHD (3840 x 2160)"
+   ],
+   [
+    "HDR",
+    "Yes"
+   ],
+   [
+    "Smart platform",
+    "Google TV with Google Assistant"
+   ],
+   [
+    "Casting",
+    "Built-in Chromecast"
+   ],
+   [
+    "Inputs",
+    "Multiple HDMI and USB ports"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/lightwave-uhd-google-qled-tv-lw-gq7500-t2s2",
+  "confidence": "medium"
+ },
+ "light-wave-smart-android-fhd-led-tv-43": {
+  "summary": "A 43 inch Lightwave Smart Android LED TV (LW-S4300-T2S2) with a Full HD 1080p picture. It has Netflix and YouTube built in, a DVB-T2 and DVB-S2 receiver for free-to-air and satellite channels, and an Ethernet port as well as Wi-Fi.",
+  "highlights": [
+   "43 inch Full HD (1920 x 1080)",
+   "Android smart TV with Netflix and YouTube keys",
+   "Built-in DVB-T2 and DVB-S2 receiver",
+   "RJ45 Ethernet and Wi-Fi",
+   "Frameless design, VESA 200 x 200 wall mount"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-S4300-T2S2"
+   ],
+   [
+    "Screen size",
+    "43 inch"
+   ],
+   [
+    "Resolution",
+    "1920 x 1080 (Full HD)"
+   ],
+   [
+    "Brightness",
+    "180 cd/m2"
+   ],
+   [
+    "Contrast ratio",
+    "1200:1"
+   ],
+   [
+    "Refresh rate",
+    "60 Hz"
+   ],
+   [
+    "Inputs",
+    "2 x HDMI (1 ARC), 2 x USB, AV in, RJ45, DVB-T2, DVB-S2"
+   ],
+   [
+    "Outputs",
+    "Earphone, coaxial"
+   ],
+   [
+    "Sound",
+    "2 x 8 W"
+   ],
+   [
+    "Power",
+    "100 to 240 V, 85 W"
+   ],
+   [
+    "Wall mount",
+    "VESA 200 x 200"
+   ],
+   [
+    "Size without stand",
+    "955 x 84 x 554 mm"
+   ],
+   [
+    "Weight",
+    "5.15 kg"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [
+   "TV",
+   "Remote control",
+   "2 batteries",
+   "2 base legs",
+   "4 screws",
+   "Manual"
+  ],
+  "images": [
+   "https://lightwaveglobal.com/media/catalog/product/s/4/s4300_1_.png"
+  ],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/media/sparsh/product_attachment/LW-S4300-T2S2.pdf",
+  "confidence": "medium"
+ },
+ "light-wave-smart-android-uhd-led-tv-50": {
+  "summary": "A 50 inch Lightwave Smart Android LED TV (LW-S5000-T2S2) with a sharp 4K UHD picture. It has Netflix and YouTube built in, three HDMI inputs, a DVB-T2 and DVB-S2 receiver, and both Ethernet and Wi-Fi.",
+  "highlights": [
+   "50 inch 4K UHD (3840 x 2160)",
+   "Android smart TV with Netflix and YouTube keys",
+   "3 HDMI inputs (1 ARC)",
+   "Built-in DVB-T2 and DVB-S2 receiver",
+   "VESA 200 x 300 wall mount"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-S5000-T2S2"
+   ],
+   [
+    "Screen size",
+    "50 inch"
+   ],
+   [
+    "Resolution",
+    "3840 x 2160 (4K UHD)"
+   ],
+   [
+    "Brightness",
+    "200 cd/m2"
+   ],
+   [
+    "Contrast ratio",
+    "5000:1"
+   ],
+   [
+    "Refresh rate",
+    "60 Hz"
+   ],
+   [
+    "Inputs",
+    "3 x HDMI (1 ARC), 2 x USB, AV in, RJ45, DVB-T2, DVB-S2"
+   ],
+   [
+    "Outputs",
+    "Earphone, coaxial"
+   ],
+   [
+    "Sound",
+    "2 x 8 W"
+   ],
+   [
+    "Power",
+    "100 to 240 V, 108 W"
+   ],
+   [
+    "Wall mount",
+    "VESA 200 x 300"
+   ],
+   [
+    "Size without stand",
+    "1111 x 78 x 641 mm"
+   ],
+   [
+    "Weight",
+    "7.5 kg"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [
+   "TV",
+   "Remote control",
+   "2 batteries",
+   "2 base legs",
+   "4 screws",
+   "Manual"
+  ],
+  "images": [
+   "https://lightwaveglobal.com/media/catalog/product/s/5/s5000_1_.png"
+  ],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/media/sparsh/product_attachment/LW-S5000-T2S2_1.pdf",
+  "confidence": "medium"
+ },
+ "light-wave-super-fast-charger-2p-3p-3usb-65w-2m": {
+  "summary": "A compact Lightwave 65W desktop charger (LW-CH-L-65W) with three USB-C fast charging ports and a 2 m cord. One port alone gives the full 65W for a laptop, or share the power between two or three devices.",
+  "highlights": [
+   "65W total, up to 65W from a single port",
+   "3 USB-C PD outputs",
+   "2 m power cord",
+   "Overload and short-circuit protection",
+   "Light and compact, 304 g"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-CH-L-65W"
+   ],
+   [
+    "Outputs",
+    "C1, C2, C3: 5 V/3 A, 9 V/3 A, 12 V/3 A, 15 V/3 A, 20 V/3.25 A"
+   ],
+   [
+    "Single port",
+    "Up to 65W"
+   ],
+   [
+    "Two ports",
+    "C1+C2 or C1+C3: 45W + 20W; C2+C3: 18W total"
+   ],
+   [
+    "Total output",
+    "65W max"
+   ],
+   [
+    "Input",
+    "100 to 240 V, 50/60 Hz, 1.5 A max"
+   ],
+   [
+    "Protection",
+    "Overload, short-circuit (no surge suppression)"
+   ],
+   [
+    "Housing",
+    "PC"
+   ],
+   [
+    "Dimensions",
+    "74 x 51 x 34 mm"
+   ],
+   [
+    "Weight",
+    "0.304 kg"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/media/sparsh/product_attachment/LW-CH-L-65W.xlsx_-_Google_Sheets.pdf",
+  "confidence": "medium"
+ },
+ "light-wave-tower-extension-43u-3-pin-power-socket-super-fast-charger": {
+  "summary": "A Lightwave tower-style power extension with 3-pin sockets and built-in USB fast charging. The upright design saves desk space and lets you power several devices and charge phones from one wall socket.",
+  "highlights": [
+   "Tower design saves desk space",
+   "3-pin power sockets",
+   "Built-in USB fast charging ports"
+  ],
+  "specs": [
+   [
+    "Brand",
+    "Lightwave"
+   ],
+   [
+    "Model",
+    "43U 3P"
+   ],
+   [
+    "Type",
+    "Tower power extension"
+   ],
+   [
+    "Sockets",
+    "3-pin"
+   ],
+   [
+    "USB charging",
+    "Yes, fast charging"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "light-wave-ups-3000va-2p": {
+  "summary": "A 3000VA / 1800W offline UPS from Lightwave that keeps your computers and equipment running through short power cuts and protects them from voltage swings with built-in AVR. Expect about 12 minutes of backup or more depending on load, with four outlets for your devices.",
+  "highlights": [
+   "3000VA / 1800W capacity",
+   "Built-in AVR for voltage swings",
+   "Wide 140 to 300 V input range",
+   "4 to 8 ms transfer time",
+   "4 universal output sockets",
+   "LED status indicators"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LW-UPS-3000VA"
+   ],
+   [
+    "Type",
+    "Offline UPS with AVR"
+   ],
+   [
+    "Capacity",
+    "3000VA / 1800W"
+   ],
+   [
+    "Input voltage range",
+    "140 to 300 V"
+   ],
+   [
+    "Output voltage",
+    "230 V +/-10%"
+   ],
+   [
+    "Output frequency",
+    "50/60 Hz +/-1 Hz"
+   ],
+   [
+    "Waveform",
+    "Sine wave on mains, simulated sine wave on battery"
+   ],
+   [
+    "Transfer time",
+    "4 to 8 ms, 13 ms max"
+   ],
+   [
+    "Battery",
+    "Sealed maintenance-free lead-acid"
+   ],
+   [
+    "Recharge time",
+    "8 hours to over 90%"
+   ],
+   [
+    "Backup time",
+    "Over 12 minutes, depends on load"
+   ],
+   [
+    "Outlets",
+    "4 universal sockets"
+   ],
+   [
+    "Noise",
+    "Under 45 dB"
+   ],
+   [
+    "Dimensions",
+    "436 x 145 x 212 mm"
+   ],
+   [
+    "Weight",
+    "22 kg"
+   ],
+   [
+    "Warranty",
+    "1 year"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://lightwaveglobal.com/media/sparsh/product_attachment/LW-UPS-3000VA.pdf",
+  "confidence": "medium"
+ },
+ "poly-black-wire-3225-headset": {
+  "summary": "A corded stereo business headset from Poly (now HP) that connects to a computer by USB-C, with a USB-A adapter, and to a phone or tablet by a 3.5 mm plug. It has a noise-cancelling mic, inline call controls and SoundGuard hearing protection, and comes with a travel case.",
+  "highlights": [
+   "USB-C cable with USB-A adapter plus 3.5 mm plug",
+   "Noise-cancelling mic, boom rotates 270 degrees",
+   "Inline controls: answer, end, mute, volume, redial",
+   "SoundGuard acoustic protection",
+   "Light metal headband, folding leatherette cushions",
+   "Travel case included"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Blackwire 3225 Stereo USB-C (8X229AA)"
+   ],
+   [
+    "Wearing style",
+    "On-ear, stereo"
+   ],
+   [
+    "Connection",
+    "USB-C with USB-A adapter, 3.5 mm"
+   ],
+   [
+    "Speaker size",
+    "28 mm"
+   ],
+   [
+    "Speaker bandwidth",
+    "200 Hz to 6.8 kHz speech mode, 20 Hz to 20 kHz media mode"
+   ],
+   [
+    "Microphone",
+    "Noise-cancelling, 100 Hz to 10 kHz"
+   ],
+   [
+    "Controls",
+    "Answer/end, ignore/hold, redial, mute, volume"
+   ],
+   [
+    "Cable length",
+    "227 cm total (USB to headset)"
+   ],
+   [
+    "Impedance",
+    "32 ohms"
+   ],
+   [
+    "Compatibility",
+    "Windows 11, Windows 10, macOS, Android, iOS"
+   ],
+   [
+    "Dimensions",
+    "155 x 32 x 178 mm"
+   ],
+   [
+    "Weight",
+    "119 g with cable, 92 g without"
+   ],
+   [
+    "Colour",
+    "Black"
+   ],
+   [
+    "Warranty",
+    "2 years (Poly standard limited warranty)"
+   ]
+  ],
+  "inBox": [
+   "Headset",
+   "USB-C to USB-A adapter",
+   "Travel case",
+   "User guide"
+  ],
+  "images": [
+   "https://hp.widen.net/content/fkshg3f2au/png/fkshg3f2au.png",
+   "https://hp.widen.net/content/apm7lviksm/png/apm7lviksm.png",
+   "https://hp.widen.net/content/k8i40erzbg/png/k8i40erzbg.png",
+   "https://hp.widen.net/content/swc6xkir3b/png/swc6xkir3b.png",
+   "https://hp.widen.net/content/mj6yccjzwd/png/mj6yccjzwd.png"
+  ],
+  "spin": [],
+  "source": "https://www.hp.com/emea_africa-en/products/accessories/product-details/product-specifications/2101953859",
+  "confidence": "high"
  }
 }
