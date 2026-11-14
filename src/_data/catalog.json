@@ -1139,7 +1139,7 @@
       "aisle": "Storage & Memory",
       "price": 70000,
       "desc": "8GB DDR4 memory to speed up a newer computer.",
-      "img": "/assets/img/products/ram-modules.jpg",
+      "img": "",
       "sku": "VX-1066"
     },
     {
@@ -1151,7 +1151,7 @@
       "aisle": "Storage & Memory",
       "price": 130000,
       "desc": "16GB DDR4 memory for running many programs at once.",
-      "img": "/assets/img/products/ram-modules.jpg",
+      "img": "",
       "sku": "VX-1067"
     },
     {
@@ -1163,7 +1163,7 @@
       "aisle": "Storage & Memory",
       "price": 30000,
       "desc": "8GB DDR3 memory for older computers.",
-      "img": "/assets/img/products/ram-modules.jpg",
+      "img": "",
       "sku": "VX-1068"
     },
     {
@@ -1175,7 +1175,7 @@
       "aisle": "Storage & Memory",
       "price": 26000,
       "desc": "4GB DDR3 memory at a low price.",
-      "img": "/assets/img/products/ram-modules.jpg",
+      "img": "",
       "sku": "VX-1069"
     },
     {
@@ -1187,7 +1187,7 @@
       "aisle": "Storage & Memory",
       "price": 45000,
       "desc": "4GB DDR4 memory for light use.",
-      "img": "/assets/img/products/ram-modules.jpg",
+      "img": "",
       "sku": "VX-1070"
     },
     {
@@ -1368,7 +1368,7 @@
       "aisle": "Infrastructure",
       "price": 585000,
       "desc": "LC patch panel, pigtails, cleaver, polishing films, and visual fault locator.",
-      "img": "/assets/img/products/fiber-lc-connector.jpg",
+      "img": "",
       "sku": "VX-1087"
     },
     {
@@ -2041,7 +2041,7 @@
       "aisle": "Installation Parts",
       "price": 300000,
       "desc": "Compact fresh air fan for utility rooms.",
-      "img": "/assets/img/products/inline-duct-fan.jpg",
+      "img": "",
       "sku": "VX-1141"
     },
     {
@@ -6842,10 +6842,9 @@
       "aisle": "Faceplates & Data Sockets",
       "price": 1500,
       "desc": "Face Plate, Single. Supplied by VEXA in Kigali, with installation available.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ethernet_Jack_on_Wall_-_CAT6.jpg/1280px-Ethernet_Jack_on_Wall_-_CAT6.jpg",
+      "img": "",
       "supplierKey": "aico:face plate single",
-      "sku": "VX-1447",
-      "imgSource": "https://commons.wikimedia.org/wiki/File:Ethernet_Jack_on_Wall_-_CAT6.jpg"
+      "sku": "VX-1447"
     },
     {
       "slug": "aico-rj45-data-socket-single",
@@ -6883,10 +6882,9 @@
       "aisle": "Faceplates & Data Sockets",
       "price": 3400,
       "desc": "RJ45 Data Socket, Double. Supplied by VEXA in Kigali, with installation available.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Network_socket_with_two_RJ45_sockets_%28CAT6%29.jpg/1280px-Network_socket_with_two_RJ45_sockets_%28CAT6%29.jpg",
+      "img": "",
       "supplierKey": "aico:data socket rj45 doublee data",
-      "sku": "VX-1450",
-      "imgSource": "https://commons.wikimedia.org/wiki/File:Network_socket_with_two_RJ45_sockets_(CAT6).jpg"
+      "sku": "VX-1450"
     },
     {
       "slug": "aico-rj45-to-rj45-utp-through-module",
@@ -7342,10 +7340,9 @@
       "aisle": "Access Control & Alarms",
       "price": 41400,
       "desc": "Automatic Door Closer.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Door_closer_20170214.jpg/1280px-Door_closer_20170214.jpg",
+      "img": "",
       "supplierKey": "hik:DS-K4DC103",
-      "sku": "VX-1520",
-      "imgSource": "https://commons.wikimedia.org/wiki/File:Door_closer_20170214.jpg"
+      "sku": "VX-1520"
     },
     {
       "slug": "hikvision-ds-k4dc104-automatic-door-closer",
@@ -7356,10 +7353,9 @@
       "aisle": "Access Control & Alarms",
       "price": 50025,
       "desc": "Automatic Door Closer.",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Door_closer_20170214.jpg/1280px-Door_closer_20170214.jpg",
+      "img": "",
       "supplierKey": "hik:DS-K4DC104",
-      "sku": "VX-1521",
-      "imgSource": "https://commons.wikimedia.org/wiki/File:Door_closer_20170214.jpg"
+      "sku": "VX-1521"
     },
     {
       "slug": "hikvision-ds-k4h255-lz-value-magnetic-locks",

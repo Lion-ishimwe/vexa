@@ -5,7 +5,7 @@ eleventyExcludeFromCollections: true
 {%- set today = page.date | isoDate -%}
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for u in ["/", "/shop/", "/services/", "/about/", "/contact/", "/photo-credits/"] %}
+{%- for u in ["/", "/shop/", "/services/", "/about/", "/contact/"] %}
   <url><loc>{{ site.url }}{{ u }}</loc><lastmod>{{ today }}</lastmod></url>
 {%- endfor %}
 {%- for c in catalog.categories %}
