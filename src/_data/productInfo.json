@@ -3532,5 +3532,1902 @@
   "spin": [],
   "source": "https://starlink.com/public-files/specification_sheet_standard.pdf",
   "confidence": "high"
+ },
+ "biometric-door-controller": {
+  "summary": "A door access controller that lets people in with a fingerprint or an RFID card or fob. It is meant for offices, server rooms and gated homes that want to know who opened a door and when. The included management software license lets you enrol users, set access times and read the entry log from a computer.",
+  "highlights": [
+   "Fingerprint and RFID card reading in one unit",
+   "Drives an electric lock through a built-in relay",
+   "Inputs for an exit button and a door contact",
+   "Keeps an entry log you can review in the software",
+   "Management software license included"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Standalone biometric access controller"
+   ],
+   [
+    "Identification",
+    "Fingerprint, RFID card or fob"
+   ],
+   [
+    "Lock control",
+    "Relay output for an electric strike or magnetic lock"
+   ],
+   [
+    "Inputs",
+    "Exit button and door sensor"
+   ],
+   [
+    "Software",
+    "Management software license included"
+   ],
+   [
+    "Typical power",
+    "12 V DC"
+   ],
+   [
+    "Mounting",
+    "Wall mounted beside the door"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "600lbs-magnetic-lock-kit": {
+  "summary": "A complete magnetic door lock kit with a holding force of 600 lb (about 270 kg), suitable for most single wooden, metal or glass framed doors. The lock holds the door shut while it has power and releases when the exit button is pressed or power is cut, which keeps escape routes safe. The kit comes with surface brackets, an exit button, a power supply and an LED status light.",
+  "highlights": [
+   "600 lb (about 270 kg) holding force",
+   "Fail safe: the door releases when power is removed",
+   "LED shows locked or unlocked status",
+   "Exit button and power supply included",
+   "Surface brackets for easy fitting"
+  ],
+  "specs": [
+   [
+    "Lock type",
+    "Electromagnetic lock, fail safe"
+   ],
+   [
+    "Holding force",
+    "600 lb (about 270 kg)"
+   ],
+   [
+    "Typical operating voltage",
+    "12 V DC"
+   ],
+   [
+    "Status indicator",
+    "LED"
+   ],
+   [
+    "Mounting",
+    "Surface mounted with brackets"
+   ],
+   [
+    "Release",
+    "Exit button, access controller or power cut"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hybrid-alarm-control-panel": {
+  "summary": "An intruder alarm control panel that works with both wired and wireless sensors, so you can mix cabled detectors with battery powered ones where running cable is hard. A built-in GSM dialer calls or texts you when the alarm goes off, and a backup battery keeps it running during power cuts. Tamper switches raise an alarm if someone tries to open the panel.",
+  "highlights": [
+   "Wired and wireless zones on one panel",
+   "GSM dialer sends alerts by call or SMS",
+   "Backup battery for power cuts",
+   "Tamper switches protect the panel itself",
+   "Arm and disarm by keypad"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Hybrid (wired and wireless) intruder alarm panel"
+   ],
+   [
+    "Zones",
+    "Wired and wireless"
+   ],
+   [
+    "Alert path",
+    "GSM dialer (needs a SIM card)"
+   ],
+   [
+    "Backup power",
+    "Rechargeable standby battery"
+   ],
+   [
+    "Tamper protection",
+    "Tamper switches"
+   ],
+   [
+    "Outputs",
+    "Siren output"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "dual-tech-motion-detectors-4": {
+  "summary": "A set of four dual technology motion detectors for alarm systems. Each one uses both a passive infrared sensor and a microwave sensor and only signals an alarm when both agree, which greatly cuts false alarms from heat sources, sunlight or curtains moving. Pet immunity helps avoid alarms from small animals, and swivel brackets make it easy to aim each detector.",
+  "highlights": [
+   "Pack of four detectors",
+   "PIR plus microwave for fewer false alarms",
+   "Pet immunity",
+   "Swivel brackets for easy aiming",
+   "Wired alarm relay output for standard panels"
+  ],
+  "specs": [
+   [
+    "Quantity",
+    "4 detectors"
+   ],
+   [
+    "Detection",
+    "Passive infrared (PIR) and microwave"
+   ],
+   [
+    "Pet immunity",
+    "Yes"
+   ],
+   [
+    "Mounting",
+    "Wall or corner with swivel bracket"
+   ],
+   [
+    "Output",
+    "Alarm relay for wired alarm panels"
+   ],
+   [
+    "Typical power",
+    "12 V DC from the alarm panel"
+   ],
+   [
+    "Use",
+    "Indoor"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "outdoor-ir-beam-pair": {
+  "summary": "A pair of outdoor active infrared beams that protect a perimeter such as a wall, fence line or driveway up to 100 m long. When someone walks through the invisible beam, the receiver triggers a relay that your alarm panel or siren can use. A built-in heater helps stop condensation and mist on the lenses, and pole clamps make mounting on posts simple.",
+  "highlights": [
+   "Covers up to 100 m outdoors",
+   "Transmitter and receiver pair",
+   "Heater module against condensation",
+   "Relay output for alarm panels",
+   "Pole clamps included"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Active infrared beam detector, transmitter and receiver"
+   ],
+   [
+    "Outdoor range",
+    "Up to 100 m"
+   ],
+   [
+    "Heater",
+    "Built-in heater module"
+   ],
+   [
+    "Output",
+    "Alarm relay interface"
+   ],
+   [
+    "Mounting",
+    "Pole or wall, pole clamps included"
+   ],
+   [
+    "Typical power",
+    "12 to 24 V supply"
+   ],
+   [
+    "Use",
+    "Outdoor perimeter protection"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "security-workstation-console": {
+  "summary": "An operator workstation for a guard room or control room. It combines a desk sized for two monitors with an alarm annunciator that shows which alarm has been triggered and an intercom handset for talking to gates or other posts. It gives security staff one tidy place to watch cameras and respond to events.",
+  "highlights": [
+   "Desk sized for two monitors",
+   "Alarm annunciator panel",
+   "Operator intercom handset",
+   "Built for control rooms and guard posts"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Security operator workstation"
+   ],
+   [
+    "Monitors",
+    "Dual monitor desk"
+   ],
+   [
+    "Alarm display",
+    "Alarm annunciator"
+   ],
+   [
+    "Communication",
+    "Operator intercom handset"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "hybrid-inverter-hh6ks-all-in-one-residential": {
+  "summary": "The KSTAR HH6KS is a 6 kW single phase hybrid inverter from the Home Series, designed to stack with KSTAR lithium battery packs into a neat all-in-one home energy system. It takes up to 9 kWp of solar, charges the batteries and keeps your home running on battery during grid outages. You can check and control the system from your phone over WiFi.",
+  "highlights": [
+   "6 kW hybrid inverter for homes",
+   "Up to 9 kWp of solar panels",
+   "Stacks with H-PACK-5.1D lithium packs (5.12 kWh each)",
+   "Up to 4.7 kW backup on battery alone",
+   "WiFi and app monitoring"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR HH6KS (Home Series, single phase)"
+   ],
+   [
+    "Rated AC power",
+    "6.0 kW / 6.0 kVA"
+   ],
+   [
+    "Backup output",
+    "4.7 kW on battery, 6.0 kW on battery plus solar"
+   ],
+   [
+    "Max. PV array power",
+    "9.0 kWp"
+   ],
+   [
+    "PV input",
+    "Max. 500 V, MPPT range 120 to 450 V, start voltage 120 V"
+   ],
+   [
+    "MPPT",
+    "1 tracker, 1 string, max. 27 A input"
+   ],
+   [
+    "AC voltage and frequency",
+    "230 Vac, 50 / 60 Hz"
+   ],
+   [
+    "Battery",
+    "LFP, 51.2 V nominal, 5.12 kWh per pack"
+   ],
+   [
+    "Max. charge / discharge current",
+    "100 A (with 2 packs)"
+   ],
+   [
+    "Communication",
+    "RS232, RS485, USB, CAN, dry contact; WiFi app monitoring"
+   ],
+   [
+    "Display",
+    "LCD and app"
+   ],
+   [
+    "Protection rating",
+    "IP20 (inverter)"
+   ],
+   [
+    "Inverter size (W x H x D)",
+    "480 x 410 x 155 mm"
+   ],
+   [
+    "Inverter weight",
+    "15.7 kg"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_HH3.6KS%206KS-26-V1.pdf",
+  "confidence": "high"
+ },
+ "lithium-battery-pack-for-hh6ks": {
+  "summary": "A 5.12 kWh lithium iron phosphate battery pack made to stack with the KSTAR HH6KS hybrid inverter. LFP chemistry is safe and long lasting, and the pack connects with quick terminals for a tidy installation. You can combine up to four packs for longer backup.",
+  "highlights": [
+   "5.12 kWh per pack",
+   "Safe LFP (LiFePO4) chemistry",
+   "Stacks under the HH6KS as one tower",
+   "Up to 4 packs in parallel",
+   "5 year product warranty"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR H-PACK-5.1D"
+   ],
+   [
+    "Capacity",
+    "5.12 kWh"
+   ],
+   [
+    "Chemistry",
+    "LFP (LiFePO4)"
+   ],
+   [
+    "Voltage range",
+    "44.8 to 57.6 V"
+   ],
+   [
+    "Continuous power (charge / discharge)",
+    "2560 W / 4096 W"
+   ],
+   [
+    "Communication",
+    "CAN and RS485"
+   ],
+   [
+    "Parallel",
+    "Up to 4 packs"
+   ],
+   [
+    "Mounting",
+    "Floor stand (stacks under the inverter)"
+   ],
+   [
+    "Size (W x H x D)",
+    "480 x 485 x 190 mm"
+   ],
+   [
+    "Weight",
+    "43.9 kg"
+   ],
+   [
+    "Protection rating",
+    "IP21"
+   ],
+   [
+    "Cooling",
+    "Natural convection, under 25 dBA"
+   ],
+   [
+    "Operating temperature",
+    "0 to 50 °C charging, -10 to 50 °C discharging"
+   ],
+   [
+    "Certifications",
+    "IEC/EN 62619, UN 38.3, UL 1973"
+   ],
+   [
+    "Warranty",
+    "5 year product warranty"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.kstarnewenergy.com/images/PRODUCTS/B/kstar1234.png"
+  ],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_HH3.6KS%206KS-26-V1.pdf",
+  "confidence": "high"
+ },
+ "battery-to-inverter-cables-for-hh6ks": {
+  "summary": "A set of DC cables that connect KSTAR lithium battery packs to the HH6KS hybrid inverter. Correctly sized battery cables keep the connection cool and safe at the high currents a 48 V battery system carries. They are intended for use when installing or extending an HH6KS system.",
+  "highlights": [
+   "Connects lithium packs to the HH6KS inverter",
+   "Rated for 48 V class battery systems",
+   "Positive and negative DC leads",
+   "For new installs or adding packs"
+  ],
+  "specs": [
+   [
+    "Use",
+    "Battery to inverter DC connection"
+   ],
+   [
+    "Compatible inverter",
+    "KSTAR HH6KS"
+   ],
+   [
+    "System voltage",
+    "51.2 V nominal (48 V class)"
+   ],
+   [
+    "Inverter battery current",
+    "Up to 100 A charge or discharge (2 packs)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_HH3.6KS%206KS-26-V1.pdf",
+  "confidence": "medium"
+ },
+ "hybrid-inverter-hh10ks-all-in-one-residential": {
+  "summary": "The KSTAR HH10KS is a 10 kW single phase hybrid inverter for larger homes and small businesses. It accepts up to 18 kWp of solar on two MPPT trackers, charges KSTAR lithium battery packs and supplies up to 9.5 kW of backup power from the batteries during outages. Monitoring and settings are available on your phone through WiFi.",
+  "highlights": [
+   "10 kW hybrid inverter",
+   "Up to 18 kWp of solar on 2 MPPT trackers",
+   "Up to 9.5 kW backup from battery",
+   "Works with H-PACK-5.1A lithium packs",
+   "WiFi and app monitoring"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR HH10KS (Home Series, single phase)"
+   ],
+   [
+    "Rated AC power",
+    "10.0 kW / 10.0 kVA"
+   ],
+   [
+    "Backup output",
+    "9.5 kW on battery, 10.0 kW on battery plus solar"
+   ],
+   [
+    "Max. PV array power",
+    "18.0 kWp"
+   ],
+   [
+    "PV input",
+    "Max. 500 V, MPPT range 60 to 450 V, start voltage 120 V"
+   ],
+   [
+    "MPPT",
+    "2 trackers, 1 string each, max. 27 A per tracker"
+   ],
+   [
+    "AC voltage and frequency",
+    "230 Vac, 50 / 60 Hz"
+   ],
+   [
+    "Battery",
+    "LFP, 51.2 V nominal, 5.12 kWh per pack"
+   ],
+   [
+    "Max. charge / discharge current",
+    "200 A (with 4 packs)"
+   ],
+   [
+    "Communication",
+    "RS232, RS485, USB, CAN, dry contact; WiFi app monitoring"
+   ],
+   [
+    "Display",
+    "LCD and app"
+   ],
+   [
+    "Protection rating",
+    "IP20 (inverter)"
+   ],
+   [
+    "Inverter size (W x H x D)",
+    "435 x 580 x 155 mm"
+   ],
+   [
+    "Inverter weight",
+    "24.5 kg"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_HH10KS-V8.pdf",
+  "confidence": "high"
+ },
+ "lithium-battery-pack-for-hh10ks": {
+  "summary": "A 5.12 kWh rack mount lithium iron phosphate battery pack for the KSTAR HH10KS hybrid inverter. It is rated for about 6000 cycles, so it suits daily solar charging for many years. Packs sit in a rack and can be combined for more storage.",
+  "highlights": [
+   "5.12 kWh per pack",
+   "LFP chemistry rated for 6000 cycles",
+   "Rack mount design",
+   "Up to 8 packs in parallel",
+   "Quick-connect terminals"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR H-PACK-5.1A"
+   ],
+   [
+    "Capacity",
+    "5.12 kWh"
+   ],
+   [
+    "Chemistry",
+    "LFP (LiFePO4)"
+   ],
+   [
+    "Voltage range",
+    "44.8 to 56.5 V"
+   ],
+   [
+    "Continuous power (charge / discharge)",
+    "2560 W / 2560 W"
+   ],
+   [
+    "Communication",
+    "CAN and RS485"
+   ],
+   [
+    "Parallel",
+    "Up to 8 packs"
+   ],
+   [
+    "Cycle life",
+    "6000 cycles (25 °C, 0.5C)"
+   ],
+   [
+    "Mounting",
+    "Rack mount"
+   ],
+   [
+    "Size (W x H x D)",
+    "416 x 204 x 580 mm"
+   ],
+   [
+    "Weight",
+    "47 kg"
+   ],
+   [
+    "Protection rating",
+    "IP21"
+   ],
+   [
+    "Cooling",
+    "Natural convection, under 25 dBA"
+   ],
+   [
+    "Operating temperature",
+    "0 to 50 °C charging, -10 to 50 °C discharging"
+   ],
+   [
+    "Certifications",
+    "IEC/EN 62619, UN 38.3, UL 1973"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.kstarnewenergy.com/images/PRODUCTS/B/kstar123111.png"
+  ],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_HH10KS-V8.pdf",
+  "confidence": "high"
+ },
+ "battery-to-inverter-cables-for-hh10ks": {
+  "summary": "A set of DC cables that connect KSTAR lithium battery packs to the HH10KS hybrid inverter. The HH10KS can move up to 200 A to and from its batteries, so properly sized cables matter for safety and efficiency. Use them when installing or expanding an HH10KS system.",
+  "highlights": [
+   "Connects lithium packs to the HH10KS inverter",
+   "For 48 V class battery systems",
+   "Positive and negative DC leads",
+   "For new installs or adding packs"
+  ],
+  "specs": [
+   [
+    "Use",
+    "Battery to inverter DC connection"
+   ],
+   [
+    "Compatible inverter",
+    "KSTAR HH10KS"
+   ],
+   [
+    "System voltage",
+    "51.2 V nominal (48 V class)"
+   ],
+   [
+    "Inverter battery current",
+    "Up to 200 A charge or discharge (4 packs)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_HH10KS-V8.pdf",
+  "confidence": "medium"
+ },
+ "off-grid-inverter-knight-g2-6kva-48v": {
+  "summary": "The KSTAR Knight is a 6 kVA off-grid solar inverter for homes and businesses without a reliable grid. It combines a solar MPPT charger, a mains or generator charger and a pure sine wave inverter in one wall mounted unit, and works with both lead acid and lithium 48 V batteries. Up to six units can run in parallel for bigger loads.",
+  "highlights": [
+   "6 kW pure sine wave output",
+   "Solar charging up to 6700 W on one MPPT",
+   "Fast charging up to 120 A",
+   "Works with lead acid or lithium batteries and generators",
+   "Parallel up to 6 units"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR Knight 6000-48 (Knight series off-grid)"
+   ],
+   [
+    "Rated output",
+    "6000 W / 6000 VA"
+   ],
+   [
+    "Surge power",
+    "12000 VA"
+   ],
+   [
+    "Output voltage",
+    "220 / 230 / 240 Vac (230 default), pure sine wave"
+   ],
+   [
+    "AC input",
+    "230 V, 170 to 280 Vac (PC mode) or 90 to 280 Vac (appliance mode), 50 / 60 Hz"
+   ],
+   [
+    "Transfer time",
+    "15 ms (PC mode), 20 ms (appliance mode)"
+   ],
+   [
+    "PV input",
+    "Max. 500 Vdc open circuit, MPPT 120 to 450 Vdc, 1 tracker"
+   ],
+   [
+    "Nominal PV input power",
+    "6700 W"
+   ],
+   [
+    "Battery",
+    "48 V lead acid or 51.2 V LiFePO4"
+   ],
+   [
+    "Max. charge current",
+    "120 A (solar, mains or combined)"
+   ],
+   [
+    "Efficiency",
+    "Up to 93.5%"
+   ],
+   [
+    "Parallel",
+    "Optional, up to 6 units"
+   ],
+   [
+    "Communication",
+    "RS232, USB, dry contact; optional RS485, CAN, WiFi"
+   ],
+   [
+    "Size (W x H x D)",
+    "134.0 x 427.5 x 460.8 mm"
+   ],
+   [
+    "Weight",
+    "13.2 kg"
+   ],
+   [
+    "Protection rating",
+    "IP21, -10 to 50 °C operating"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_Knight%203600-24~6000-48-V3.pdf",
+  "confidence": "high"
+ },
+ "lithium-battery-5-12kwh-ip21-h-pack-5-1": {
+  "summary": "The KSTAR H-PACK-5.1 is a 5.12 kWh lithium iron phosphate battery for home solar and backup systems. It pairs with KSTAR Home Series hybrid inverters and is built with laser welded cells and quick-connect terminals. The rack mount version shown can be combined up to eight packs for more storage.",
+  "highlights": [
+   "5.12 kWh LFP battery",
+   "IP21 indoor enclosure",
+   "Silent natural cooling, under 25 dBA",
+   "CAN and RS485 communication with the inverter",
+   "Up to 8 packs in parallel (rack version)"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR H-PACK-5.1A"
+   ],
+   [
+    "Capacity",
+    "5.12 kWh"
+   ],
+   [
+    "Chemistry",
+    "LFP (LiFePO4)"
+   ],
+   [
+    "Voltage range",
+    "44.8 to 56.5 V"
+   ],
+   [
+    "Continuous power (charge / discharge)",
+    "2560 W / 2560 W"
+   ],
+   [
+    "Communication",
+    "CAN and RS485"
+   ],
+   [
+    "Parallel",
+    "Up to 8 packs"
+   ],
+   [
+    "Cycle life",
+    "6000 cycles (25 °C, 0.5C)"
+   ],
+   [
+    "Mounting",
+    "Rack mount"
+   ],
+   [
+    "Size (W x H x D)",
+    "416 x 204 x 580 mm"
+   ],
+   [
+    "Weight",
+    "47 kg"
+   ],
+   [
+    "Protection rating",
+    "IP21"
+   ],
+   [
+    "Cooling",
+    "Natural convection, under 25 dBA"
+   ],
+   [
+    "Operating temperature",
+    "0 to 50 °C charging, -10 to 50 °C discharging"
+   ],
+   [
+    "Certifications",
+    "IEC/EN 62619, UN 38.3, UL 1973"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.kstarnewenergy.com/images/PRODUCTS/B/kstar123111.png"
+  ],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_H-PACK-5.1%20-V1.pdf",
+  "confidence": "medium"
+ },
+ "battery-to-inverter-cables-for-h-pack-5-1": {
+  "summary": "A set of DC cables to connect a KSTAR H-PACK-5.1 lithium battery to its hybrid inverter. Each pack works at a nominal 51.2 V and can supply several kilowatts, so correctly sized leads keep the connection safe and efficient. Use them when installing a new pack or adding one to an existing system.",
+  "highlights": [
+   "For KSTAR H-PACK-5.1 packs",
+   "48 V class DC connection",
+   "Positive and negative DC leads",
+   "For new installs or extra packs"
+  ],
+  "specs": [
+   [
+    "Use",
+    "Battery to inverter DC connection"
+   ],
+   [
+    "Compatible battery",
+    "KSTAR H-PACK-5.1"
+   ],
+   [
+    "Battery voltage range",
+    "44.8 to 57.6 V"
+   ],
+   [
+    "Battery communication",
+    "CAN and RS485 (separate communication lead)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstarnewenergy.com/DOWNLOADS/Datasheet_H-PACK-5.1%20-V1.pdf",
+  "confidence": "medium"
+ },
+ "online-ups-1kva-single-phase-mp-1k-s": {
+  "summary": "The KSTAR MP 1K S is a 1 kVA online double conversion UPS in a tower case with batteries built in. It feeds your equipment from its own inverter at all times, so computers, network gear and other sensitive loads get clean, stable power with zero transfer time when the mains fails. A wide input range copes well with unstable grid voltage and generators.",
+  "highlights": [
+   "1 kVA / 0.9 kW true online UPS",
+   "Zero transfer time to battery",
+   "Wide 110 to 300 Vac input range",
+   "2 internal 12 V 9 Ah batteries",
+   "Generator compatible, ECO mode",
+   "USB, RS232 and SNMP card slot"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR MEMOPOWER MP 1k S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "1000 VA / 900 W"
+   ],
+   [
+    "Topology",
+    "Online double conversion, tower"
+   ],
+   [
+    "Input voltage range",
+    "110 to 300 Vac (176 to 280 Vac at full load)"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz, auto sensing"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "208 / 220 / 230 / 240 Vac selectable, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Waveform",
+    "Pure sine wave, THDv 3% or less (linear load)"
+   ],
+   [
+    "Transfer time",
+    "0 ms mains to battery, 4 ms to bypass (typical)"
+   ],
+   [
+    "Efficiency",
+    "88% mains mode, 85% battery mode"
+   ],
+   [
+    "Batteries",
+    "2 x 12 V 9 Ah internal (24 Vdc)"
+   ],
+   [
+    "Recharge time",
+    "4 hours to 90%"
+   ],
+   [
+    "Communication",
+    "USB, RS232, intelligent slot for SNMP or dry contact card"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Noise",
+    "Under 50 dB at 1 m"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/98.html",
+  "confidence": "medium"
+ },
+ "online-ups-2kva-single-phase-mp-2k-s": {
+  "summary": "The KSTAR MP 2K S is a 2 kVA online double conversion UPS in a tower case with batteries built in. It feeds your equipment from its own inverter at all times, so computers, network gear and other sensitive loads get clean, stable power with zero transfer time when the mains fails. A wide input range copes well with unstable grid voltage and generators.",
+  "highlights": [
+   "2 kVA / 1.8 kW true online UPS",
+   "Zero transfer time to battery",
+   "Wide 110 to 300 Vac input range",
+   "4 internal 12 V 9 Ah batteries",
+   "Generator compatible, ECO mode",
+   "USB, RS232 and SNMP card slot"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR MEMOPOWER MP 2k S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "2000 VA / 1800 W"
+   ],
+   [
+    "Topology",
+    "Online double conversion, tower"
+   ],
+   [
+    "Input voltage range",
+    "110 to 300 Vac (176 to 280 Vac at full load)"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz, auto sensing"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "208 / 220 / 230 / 240 Vac selectable, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Waveform",
+    "Pure sine wave, THDv 3% or less (linear load)"
+   ],
+   [
+    "Transfer time",
+    "0 ms mains to battery, 4 ms to bypass (typical)"
+   ],
+   [
+    "Efficiency",
+    "90% mains mode, 87% battery mode"
+   ],
+   [
+    "Batteries",
+    "4 x 12 V 9 Ah internal (48 Vdc)"
+   ],
+   [
+    "Recharge time",
+    "4 hours to 90%"
+   ],
+   [
+    "Communication",
+    "USB, RS232, intelligent slot for SNMP or dry contact card"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Noise",
+    "Under 50 dB at 1 m"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/98.html",
+  "confidence": "medium"
+ },
+ "online-ups-3kva-single-phase-mp-3k-s": {
+  "summary": "The KSTAR MP 3K S is a 3 kVA online double conversion UPS in a tower case with batteries built in. It feeds your equipment from its own inverter at all times, so computers, network gear and other sensitive loads get clean, stable power with zero transfer time when the mains fails. A wide input range copes well with unstable grid voltage and generators.",
+  "highlights": [
+   "3 kVA / 2.7 kW true online UPS",
+   "Zero transfer time to battery",
+   "Wide 110 to 300 Vac input range",
+   "6 internal 12 V 9 Ah batteries",
+   "Generator compatible, ECO mode",
+   "USB, RS232 and SNMP card slot"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR MEMOPOWER MP 3k S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "3000 VA / 2700 W"
+   ],
+   [
+    "Topology",
+    "Online double conversion, tower"
+   ],
+   [
+    "Input voltage range",
+    "110 to 300 Vac (176 to 280 Vac at full load)"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz, auto sensing"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "208 / 220 / 230 / 240 Vac selectable, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Waveform",
+    "Pure sine wave, THDv 3% or less (linear load)"
+   ],
+   [
+    "Transfer time",
+    "0 ms mains to battery, 4 ms to bypass (typical)"
+   ],
+   [
+    "Efficiency",
+    "91% mains mode, 88% battery mode"
+   ],
+   [
+    "Batteries",
+    "6 x 12 V 9 Ah internal (72 Vdc)"
+   ],
+   [
+    "Recharge time",
+    "4 hours to 90%"
+   ],
+   [
+    "Communication",
+    "USB, RS232, intelligent slot for SNMP or dry contact card"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Noise",
+    "Under 50 dB at 1 m"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/98.html",
+  "confidence": "medium"
+ },
+ "online-ups-6kva-single-phase-mp-6k-s": {
+  "summary": "The KSTAR MP 6K S is a 6 kVA single phase online UPS from the MEMOPOWER III range, with sixteen 9 Ah batteries built into a wheeled tower. It suits small server rooms, medical and lab equipment, and offices that need clean power with no break during outages. Its wide input range of 110 to 286 Vac handles weak grids and generators well.",
+  "highlights": [
+   "6 kVA / 5.4 kW true online UPS",
+   "16 internal 12 V 9 Ah batteries",
+   "Zero transfer time",
+   "Wide 110 to 286 Vac input",
+   "ECO mode and generator compatible",
+   "Wheeled tower cabinet"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR MEMOPOWER III MP 6k S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "6000 VA / 5400 W"
+   ],
+   [
+    "Topology",
+    "Online double conversion, tower"
+   ],
+   [
+    "Input voltage range",
+    "110 to 286 Vac"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "208 / 220 / 230 / 240 Vac selectable, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Waveform",
+    "Pure sine wave, THDv 2% or less (linear load)"
+   ],
+   [
+    "Transfer time",
+    "0 ms"
+   ],
+   [
+    "Efficiency",
+    "93.5%"
+   ],
+   [
+    "Batteries",
+    "16 x 12 V 9 Ah internal (192 Vdc)"
+   ],
+   [
+    "Recharge time",
+    "6 to 8 hours to 90%"
+   ],
+   [
+    "Communication",
+    "RS232, USB, EPO; SNMP or dry contact card optional"
+   ],
+   [
+    "Size (W x D x H)",
+    "191 x 460 x 720 mm (with wheels)"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/100.html",
+  "confidence": "medium"
+ },
+ "online-ups-10kva-single-phase-mp-pro-10k-s": {
+  "summary": "The KSTAR MP Pro 10K S is a 10 kVA single phase online UPS with internal batteries and built-in parallel capability. Two to four units can be linked for more power or N+X redundancy, and the parallel kit is included. It is a good fit for server rooms, clinics and businesses that cannot afford a power break.",
+  "highlights": [
+   "10 kVA / 9 kW true online UPS",
+   "Parallel up to 4 units, parallel kit included",
+   "Internal 12 V 9 Ah batteries",
+   "Zero transfer time",
+   "Wide 110 to 286 Vac input",
+   "Efficiency up to 93.5%"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR MEMOPOWER Pro MP Pro 10k S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "10000 VA / 9000 W"
+   ],
+   [
+    "Topology",
+    "Online double conversion, tower"
+   ],
+   [
+    "Input voltage range",
+    "110 to 286 Vac"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "208 / 220 / 230 / 240 Vac selectable, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Transfer time",
+    "0 ms"
+   ],
+   [
+    "Overload",
+    "110% for 60 min, 125% for 10 min, 150% for 1 min"
+   ],
+   [
+    "Efficiency",
+    "Up to 93.5%"
+   ],
+   [
+    "Batteries",
+    "16 x 12 V 9 Ah internal, 192 Vdc (as listed)"
+   ],
+   [
+    "Parallel",
+    "N+X, up to 4 units"
+   ],
+   [
+    "Communication",
+    "RS232, USB, EPO; relay or SNMP card optional"
+   ],
+   [
+    "Size (W x D x H)",
+    "191 x 460 x 720 mm (with wheels)"
+   ],
+   [
+    "Weight",
+    "71.5 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/100.html",
+  "confidence": "medium"
+ },
+ "online-ups-10kva-3-phase-ydc3310s": {
+  "summary": "The KSTAR YDC3310 S is a 10 kVA three phase online UPS from the YDC3300 series, with 20 batteries built into the cabinet. It uses a high frequency, three level inverter design for high efficiency in a small footprint, and switches to battery with zero transfer time. It is aimed at data rooms, factories and buildings with three phase loads.",
+  "highlights": [
+   "10 kVA / 9 kW, three phase in and out",
+   "20 internal 12 V 9 Ah batteries",
+   "Zero transfer time, online double conversion",
+   "Wide 208 to 478 Vac input range",
+   "Efficiency up to 95.5%, ECO mode",
+   "Handles 100% unbalanced load"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR YDC3310S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "10 kVA / 9 kW"
+   ],
+   [
+    "Phases",
+    "3 phase in, 3 phase out"
+   ],
+   [
+    "Input voltage",
+    "380 / 400 / 415 Vac (3Ph+N+PE), range 208 to 478 Vac"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "380 / 400 / 415 Vac, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Output distortion",
+    "THDv 2% linear, 5% non linear load"
+   ],
+   [
+    "Transfer time",
+    "0 ms"
+   ],
+   [
+    "Overload",
+    "110% for 60 min, 125% for 10 min, 150% for 1 min"
+   ],
+   [
+    "Efficiency",
+    "Up to 95.5%"
+   ],
+   [
+    "Batteries",
+    "20 x 12 V 9 Ah internal (1 x 20), ±120 Vdc"
+   ],
+   [
+    "Charging current",
+    "1.35 A (standard unit)"
+   ],
+   [
+    "Communication",
+    "USB, RS232, RS485, parallel port, REPO, dry contact, intelligent slot (SNMP / relay card optional)"
+   ],
+   [
+    "Environment",
+    "0 to 40 °C, 0 to 95% RH, up to 1500 m without derating"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.kstar.com.cn/bocupload/2023/11/22/17006255363917crqsh.png"
+  ],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/102.html",
+  "confidence": "medium"
+ },
+ "online-ups-20kva-3-phase-ydc3320s": {
+  "summary": "The KSTAR YDC3320 S is a 20 kVA three phase online UPS from the YDC3300 series, with 40 batteries built into the cabinet. It uses a high frequency, three level inverter design for high efficiency in a small footprint, and switches to battery with zero transfer time. It is aimed at data rooms, factories and buildings with three phase loads.",
+  "highlights": [
+   "20 kVA / 18 kW, three phase in and out",
+   "40 internal 12 V 9 Ah batteries",
+   "Zero transfer time, online double conversion",
+   "Wide 208 to 478 Vac input range",
+   "Efficiency up to 95.5%, ECO mode",
+   "Handles 100% unbalanced load"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR YDC3320S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "20 kVA / 18 kW"
+   ],
+   [
+    "Phases",
+    "3 phase in, 3 phase out"
+   ],
+   [
+    "Input voltage",
+    "380 / 400 / 415 Vac (3Ph+N+PE), range 208 to 478 Vac"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "380 / 400 / 415 Vac, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Output distortion",
+    "THDv 2% linear, 5% non linear load"
+   ],
+   [
+    "Transfer time",
+    "0 ms"
+   ],
+   [
+    "Overload",
+    "110% for 60 min, 125% for 10 min, 150% for 1 min"
+   ],
+   [
+    "Efficiency",
+    "Up to 95.5%"
+   ],
+   [
+    "Batteries",
+    "40 x 12 V 9 Ah internal (2 x 20), ±120 Vdc"
+   ],
+   [
+    "Charging current",
+    "2.7 A (standard unit)"
+   ],
+   [
+    "Communication",
+    "USB, RS232, RS485, parallel port, REPO, dry contact, intelligent slot (SNMP / relay card optional)"
+   ],
+   [
+    "Environment",
+    "0 to 40 °C, 0 to 95% RH, up to 1500 m without derating"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.kstar.com.cn/bocupload/2023/11/22/17006255363917crqsh.png"
+  ],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/102.html",
+  "confidence": "medium"
+ },
+ "online-ups-30kva-3-phase-ydc3330s": {
+  "summary": "The KSTAR YDC3330 S is a 30 kVA three phase online UPS from the YDC3300 series, with 60 batteries built into the cabinet. It uses a high frequency, three level inverter design for high efficiency in a small footprint, and switches to battery with zero transfer time. It is aimed at data rooms, factories and buildings with three phase loads.",
+  "highlights": [
+   "30 kVA / 27 kW, three phase in and out",
+   "60 internal 12 V 9 Ah batteries",
+   "Zero transfer time, online double conversion",
+   "Wide 208 to 478 Vac input range",
+   "Efficiency up to 95.5%, ECO mode",
+   "Handles 100% unbalanced load"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR YDC3330S (standard unit)"
+   ],
+   [
+    "Capacity",
+    "30 kVA / 27 kW"
+   ],
+   [
+    "Phases",
+    "3 phase in, 3 phase out"
+   ],
+   [
+    "Input voltage",
+    "380 / 400 / 415 Vac (3Ph+N+PE), range 208 to 478 Vac"
+   ],
+   [
+    "Input frequency",
+    "40 to 70 Hz"
+   ],
+   [
+    "Input power factor",
+    "0.99"
+   ],
+   [
+    "Output voltage",
+    "380 / 400 / 415 Vac, ±1%"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Output distortion",
+    "THDv 2% linear, 5% non linear load"
+   ],
+   [
+    "Transfer time",
+    "0 ms"
+   ],
+   [
+    "Overload",
+    "110% for 60 min, 125% for 10 min, 150% for 1 min"
+   ],
+   [
+    "Efficiency",
+    "Up to 95.5%"
+   ],
+   [
+    "Batteries",
+    "60 x 12 V 9 Ah internal (3 x 20), ±120 Vdc"
+   ],
+   [
+    "Charging current",
+    "4.05 A (standard unit)"
+   ],
+   [
+    "Communication",
+    "USB, RS232, RS485, parallel port, REPO, dry contact, intelligent slot (SNMP / relay card optional)"
+   ],
+   [
+    "Environment",
+    "0 to 40 °C, 0 to 95% RH, up to 1500 m without derating"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.kstar.com.cn/bocupload/2023/11/22/17006255363917crqsh.png"
+  ],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/102.html",
+  "confidence": "medium"
+ },
+ "online-ups-60kva-3-phase-ydc3360h": {
+  "summary": "The KSTAR YDC3360H is a 60 kVA three phase online UPS from the YDC3300 series, built as a long run unit that connects to an external battery bank. Its transformerless double conversion design gives high efficiency, and a wide input range lets it ride through poor grid conditions without using the batteries. Several units can be paralleled for growth or redundancy.",
+  "highlights": [
+   "60 kVA / 54 kW, three phase in and out",
+   "Long run unit for an external battery bank",
+   "Wide input range 138 to 485 Vac",
+   "Up to 8 units in parallel with shared batteries",
+   "Handles 100% unbalanced and generator loads"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR YDC3360H (long run unit)"
+   ],
+   [
+    "Capacity",
+    "60 kVA / 54 kW"
+   ],
+   [
+    "Phases",
+    "3 phase in, 3 phase out"
+   ],
+   [
+    "Input voltage",
+    "380 / 400 / 415 Vac, range 138 to 485 Vac (no derating above 305 Vac)"
+   ],
+   [
+    "Input power factor",
+    "Up to 0.99"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Topology",
+    "Transformerless online double conversion"
+   ],
+   [
+    "Transfer time",
+    "0 ms"
+   ],
+   [
+    "Efficiency",
+    "Up to 95.5%"
+   ],
+   [
+    "Batteries",
+    "External, configurable 30 to 50 pieces (not included)"
+   ],
+   [
+    "Parallel",
+    "Up to 8 units, shared battery option"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.kstar.com.cn/bocupload/2023/11/22/17006255363917crqsh.png"
+  ],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/ydc-online-ups.html",
+  "confidence": "medium"
+ },
+ "online-ups-80kva-3-phase-ydc3380h": {
+  "summary": "The KSTAR YDC3380H is a 80 kVA three phase online UPS from the YDC3300 series, built as a long run unit that connects to an external battery bank. Its transformerless double conversion design gives high efficiency, and a wide input range lets it ride through poor grid conditions without using the batteries. Several units can be paralleled for growth or redundancy.",
+  "highlights": [
+   "80 kVA / 72 kW, three phase in and out",
+   "Long run unit for an external battery bank",
+   "Wide input range 138 to 485 Vac",
+   "Up to 8 units in parallel with shared batteries",
+   "Handles 100% unbalanced and generator loads"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR YDC3380H (long run unit)"
+   ],
+   [
+    "Capacity",
+    "80 kVA / 72 kW"
+   ],
+   [
+    "Phases",
+    "3 phase in, 3 phase out"
+   ],
+   [
+    "Input voltage",
+    "380 / 400 / 415 Vac, range 138 to 485 Vac (no derating above 305 Vac)"
+   ],
+   [
+    "Input power factor",
+    "Up to 0.99"
+   ],
+   [
+    "Output power factor",
+    "0.9"
+   ],
+   [
+    "Topology",
+    "Transformerless online double conversion"
+   ],
+   [
+    "Transfer time",
+    "0 ms"
+   ],
+   [
+    "Efficiency",
+    "Up to 95.5%"
+   ],
+   [
+    "Batteries",
+    "External, configurable 30 to 50 pieces (not included)"
+   ],
+   [
+    "Parallel",
+    "Up to 8 units, shared battery option"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/ydc-online-ups.html",
+  "confidence": "medium"
+ },
+ "lead-acid-battery-12v-5ah-6-fm-5": {
+  "summary": "A KSTAR 6-FM-5 sealed lead acid battery rated 12 V 5 Ah. It is a valve regulated, maintenance free design that never needs topping up and does not release acid mist in normal float use. It suits UPS units, alarm and access control systems, telecom and other standby power uses.",
+  "highlights": [
+   "12 V 5 Ah",
+   "Sealed, valve regulated (VRLA), maintenance free",
+   "No acid mist in float use",
+   "Wide working range of -20 to 50 °C",
+   "For UPS, alarm, telecom and backup systems"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR 6-FM-5"
+   ],
+   [
+    "Nominal voltage",
+    "12 V (6 cells)"
+   ],
+   [
+    "Capacity",
+    "5 Ah"
+   ],
+   [
+    "Type",
+    "Valve regulated lead acid (VRLA), sealed, maintenance free"
+   ],
+   [
+    "Dimensions",
+    "90 x 70 x 101 mm (as listed)"
+   ],
+   [
+    "Weight",
+    "1.55 kg (as listed, within 2%)"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 50 °C"
+   ],
+   [
+    "Applications",
+    "UPS, telecom, electric power, security systems"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/157.html",
+  "confidence": "medium"
+ },
+ "lead-acid-battery-12v-7ah-6-fm-7": {
+  "summary": "A KSTAR 6-FM-7 sealed lead acid battery rated 12 V 7 Ah. It is a valve regulated, maintenance free design that never needs topping up and does not release acid mist in normal float use. It suits UPS units, alarm and access control systems, telecom and other standby power uses.",
+  "highlights": [
+   "12 V 7 Ah",
+   "Sealed, valve regulated (VRLA), maintenance free",
+   "No acid mist in float use",
+   "Wide working range of -20 to 50 °C",
+   "For UPS, alarm, telecom and backup systems"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR 6-FM-7"
+   ],
+   [
+    "Nominal voltage",
+    "12 V (6 cells)"
+   ],
+   [
+    "Capacity",
+    "7 Ah"
+   ],
+   [
+    "Type",
+    "Valve regulated lead acid (VRLA), sealed, maintenance free"
+   ],
+   [
+    "Dimensions",
+    "151 x 65 x 94 mm (as listed)"
+   ],
+   [
+    "Weight",
+    "2.0 kg (as listed, within 2%)"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 50 °C"
+   ],
+   [
+    "Applications",
+    "UPS, telecom, electric power, security systems"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/157.html",
+  "confidence": "medium"
+ },
+ "lead-acid-battery-12v-9ah-6-fm-9": {
+  "summary": "A KSTAR 6-FM-9 sealed lead acid battery rated 12 V 9 Ah. It is a valve regulated, maintenance free design that never needs topping up and does not release acid mist in normal float use. It suits UPS units, alarm and access control systems, telecom and other standby power uses.",
+  "highlights": [
+   "12 V 9 Ah",
+   "Sealed, valve regulated (VRLA), maintenance free",
+   "No acid mist in float use",
+   "Wide working range of -20 to 50 °C",
+   "For UPS, alarm, telecom and backup systems"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR 6-FM-9"
+   ],
+   [
+    "Nominal voltage",
+    "12 V (6 cells)"
+   ],
+   [
+    "Capacity",
+    "9 Ah"
+   ],
+   [
+    "Type",
+    "Valve regulated lead acid (VRLA), sealed, maintenance free"
+   ],
+   [
+    "Dimensions",
+    "151 x 65 x 94 mm (as listed)"
+   ],
+   [
+    "Weight",
+    "2.35 kg (as listed, within 2%)"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 50 °C"
+   ],
+   [
+    "Applications",
+    "UPS, telecom, electric power, security systems"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/157.html",
+  "confidence": "medium"
+ },
+ "lead-acid-battery-12v-38ah-6-fm-38a": {
+  "summary": "A KSTAR 6-FM-38A sealed lead acid battery rated 12 V 38 Ah. It is a valve regulated, maintenance free design that never needs topping up and does not release acid mist in normal float use. It suits UPS units, alarm and access control systems, telecom and other standby power uses.",
+  "highlights": [
+   "12 V 38 Ah",
+   "Sealed, valve regulated (VRLA), maintenance free",
+   "No acid mist in float use",
+   "Wide working range of -20 to 50 °C",
+   "For UPS, alarm, telecom and backup systems"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR 6-FM-38A"
+   ],
+   [
+    "Nominal voltage",
+    "12 V (6 cells)"
+   ],
+   [
+    "Capacity",
+    "38 Ah"
+   ],
+   [
+    "Type",
+    "Valve regulated lead acid (VRLA), sealed, maintenance free"
+   ],
+   [
+    "Dimensions",
+    "198 x 166 x 170 mm (as listed)"
+   ],
+   [
+    "Weight",
+    "12.1 kg (as listed, within 2%)"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 50 °C"
+   ],
+   [
+    "Applications",
+    "UPS, telecom, electric power, security systems"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/157.html",
+  "confidence": "medium"
+ },
+ "lead-acid-battery-12v-65ah-6-fm-65": {
+  "summary": "A KSTAR 6-FM-65 sealed lead acid battery rated 12 V 65 Ah. It is a valve regulated, maintenance free design that never needs topping up and does not release acid mist in normal float use. It suits UPS units, alarm and access control systems, telecom and other standby power uses.",
+  "highlights": [
+   "12 V 65 Ah",
+   "Sealed, valve regulated (VRLA), maintenance free",
+   "No acid mist in float use",
+   "Wide working range of -20 to 50 °C",
+   "For UPS, alarm, telecom and backup systems"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR 6-FM-65"
+   ],
+   [
+    "Nominal voltage",
+    "12 V (6 cells)"
+   ],
+   [
+    "Capacity",
+    "65 Ah"
+   ],
+   [
+    "Type",
+    "Valve regulated lead acid (VRLA), sealed, maintenance free"
+   ],
+   [
+    "Dimensions",
+    "350 x 167 x 178 mm (as listed)"
+   ],
+   [
+    "Weight",
+    "19.5 kg (as listed, within 2%)"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 50 °C"
+   ],
+   [
+    "Applications",
+    "UPS, telecom, electric power, security systems"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/157.html",
+  "confidence": "medium"
+ },
+ "lead-acid-battery-12v-100ah-6-fm-100": {
+  "summary": "A KSTAR 6-FM-100 sealed lead acid battery rated 12 V 100 Ah. It is a valve regulated, maintenance free design that never needs topping up and does not release acid mist in normal float use. It suits UPS units, alarm and access control systems, telecom and other standby power uses.",
+  "highlights": [
+   "12 V 100 Ah",
+   "Sealed, valve regulated (VRLA), maintenance free",
+   "No acid mist in float use",
+   "Wide working range of -20 to 50 °C",
+   "For UPS, alarm, telecom and backup systems"
+  ],
+  "specs": [
+   [
+    "Model",
+    "KSTAR 6-FM-100"
+   ],
+   [
+    "Nominal voltage",
+    "12 V (6 cells)"
+   ],
+   [
+    "Capacity",
+    "100 Ah"
+   ],
+   [
+    "Type",
+    "Valve regulated lead acid (VRLA), sealed, maintenance free"
+   ],
+   [
+    "Dimensions",
+    "406 x 173 x 208 mm (as listed)"
+   ],
+   [
+    "Weight",
+    "29.6 kg (as listed, within 2%)"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 50 °C"
+   ],
+   [
+    "Applications",
+    "UPS, telecom, electric power, security systems"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.kstar.com/product/detail/157.html",
+  "confidence": "medium"
  }
 }

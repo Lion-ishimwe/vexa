@@ -42,7 +42,8 @@ def alive(url):
 def main():
     files = [a for a in sys.argv[1:] if not a.startswith("--")]
     check = "--no-check" not in sys.argv
-    slugs = {p["slug"] for p in json.load(open(CATALOG, encoding="utf8"))["products"]}
+    main_img = {p["slug"]: p.get("img", "") for p in json.load(open(CATALOG, encoding="utf8"))["products"]}
+    slugs = set(main_img)
     info = json.load(open(INFO, encoding="utf8")) if os.path.exists(INFO) else {}
     entries, unknown = [], []
     for f in files:
@@ -63,7 +64,7 @@ def main():
             "highlights": [clean(h) for h in e.get("highlights") or [] if str(h).strip()],
             "specs": [[clean(k), clean(v)] for k, v in (e.get("specs") or []) if str(k).strip() and str(v).strip()],
             "inBox": [clean(b) for b in e.get("inBox") or [] if str(b).strip()],
-            "images": [u for u in (e.get("images") or []) if u in ok][:5],
+            "images": [u for u in (e.get("images") or []) if u in ok and u != main_img[e["slug"]]][:5],
             "spin": spin if len(spin) >= 12 and len(spin) == len(e.get("spin") or []) else [],
             "source": e.get("source") or "",
             "confidence": e.get("confidence") or "",
