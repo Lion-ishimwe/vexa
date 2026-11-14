@@ -24,6 +24,38 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("where", (items, key, value) => (items || []).filter(item => item[key] === value));
   eleventyConfig.addFilter("featured", (items) => (items || []).filter(item => item.featured));
   eleventyConfig.addFilter("withPhoto", (items) => (items || []).filter(item => item.img));
+  // Product and breadcrumb data for search engines (schema.org JSON-LD)
+  eleventyConfig.addFilter("productLd", (p, sku, dept, site, url, photo) => {
+    const abs = (u) => /^https?:/.test(u) ? u : site.url + encodeURI(u);
+    const product = {
+      "@type": "Product", name: p.title, sku, image: [abs(photo)], description: p.desc,
+      url: site.url + url, category: dept.name,
+    };
+    if (p.brand) product.brand = { "@type": "Brand", name: p.brand };
+    if (p.model) product.mpn = p.model;
+    if (p.price) product.offers = {
+      "@type": "Offer", price: p.price, priceCurrency: "RWF", url: site.url + url,
+      availability: "https://schema.org/InStock", itemCondition: "https://schema.org/NewCondition",
+      seller: { "@type": "Organization", name: site.name },
+    };
+    const crumbs = {
+      "@type": "BreadcrumbList", itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Home", item: site.url + "/" },
+        { "@type": "ListItem", position: 2, name: dept.name, item: `${site.url}/shop/${dept.slug}/` },
+        { "@type": "ListItem", position: 3, name: p.title },
+      ],
+    };
+    return JSON.stringify({ "@context": "https://schema.org", "@graph": [product, crumbs] }).replace(/</g, "\\u003c");
+  });
+  eleventyConfig.addFilter("siteLd", (site) => JSON.stringify({ "@context": "https://schema.org", "@graph": [
+    { "@type": "OnlineStore", "@id": site.url + "/#store", name: site.name, url: site.url,
+      logo: site.url + "/assets/brand/vexa-logo-1000.jpg", description: site.description, telephone: site.phone,
+      areaServed: { "@type": "Country", name: "Rwanda" }, founder: { "@type": "Person", name: site.founder.name } },
+    { "@type": "WebSite", "@id": site.url + "/#website", name: site.name, url: site.url,
+      potentialAction: { "@type": "SearchAction", target: site.url + "/shop/?q={search_term_string}",
+        "query-input": "required name=search_term_string" } },
+  ] }));
+  eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
   eleventyConfig.addFilter("take", (items, n) => (items || []).slice(0, n));
   eleventyConfig.addFilter("findBy", (items, key, value) => (items || []).find(item => item[key] === value));
   eleventyConfig.addFilter("uniq", (items, key) => [...new Set((items || []).map(item => item[key]).filter(Boolean))].sort());

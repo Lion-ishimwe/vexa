@@ -1,7 +1,8 @@
 module.exports = {
   name: "VEXA",
+  url: "https://vexa.rw",
   tagline: "Technology, delivered to your door in Rwanda.",
-  description: "VEXA is a technology shop in Kigali. We sell cameras, laptops, Wi-Fi, air conditioners and fire safety gear, deliver anywhere in Rwanda, and install what we sell.",
+  description: "VEXA is an online technology store based in Kigali. We sell cameras, laptops, Wi-Fi, air conditioners and fire safety gear, deliver anywhere in Rwanda, and install what we sell.",
   phone: "+250 785 576 541",
   phoneHref: "+250785576541",
   whatsapp: "250785576541",

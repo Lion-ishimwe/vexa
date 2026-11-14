@@ -7,7 +7,9 @@ pagination:
 permalink: "/product/{{ product.slug }}/"
 eleventyComputed:
   title: "{{ product.title | safe }}"
-  description: "{{ product.desc | safe }}"
+  description: "{{ product.desc | safe }}{% if product.price %} {{ product.price | rwf }}, delivered across Rwanda.{% endif %}"
+  ogImage: "{{ product.img }}"
+  ogType: "product"
 scripts:
   - /assets/js/product.js
 ---
@@ -15,6 +17,7 @@ scripts:
 {% set dept = catalog.categories | findBy("slug", product.category) %}
 {% set photo = product.img or ('/assets/img/cat/' + product.category + '.svg') %}
 {% set sku = catalog.products | sku(product) %}
+<script type="application/ld+json">{{ product | productLd(sku, dept, site, page.url, photo) | safe }}</script>
 <div class="wrap">
   <nav class="crumbs" aria-label="Breadcrumb">
     <a href="/">Home</a><span class="sl">/</span>

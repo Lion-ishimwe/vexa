@@ -1,0 +1,17 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+{%- set today = page.date | isoDate -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for u in ["/", "/shop/", "/services/", "/about/", "/contact/", "/photo-credits/"] %}
+  <url><loc>{{ site.url }}{{ u }}</loc><lastmod>{{ today }}</lastmod></url>
+{%- endfor %}
+{%- for c in catalog.categories %}
+  <url><loc>{{ site.url }}/shop/{{ c.slug }}/</loc><lastmod>{{ today }}</lastmod></url>
+{%- endfor %}
+{%- for p in catalog.products %}
+  <url><loc>{{ site.url }}/product/{{ p.slug }}/</loc><lastmod>{{ today }}</lastmod></url>
+{%- endfor %}
+</urlset>

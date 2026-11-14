@@ -9,7 +9,15 @@
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:title" content="{{ title or site.name }}">
   <meta property="og:description" content="{{ description or site.description }}">
-  <meta property="og:image" content="{{ ogImage or '/assets/brand/vexa-logo-1000.jpg' }}">
+  {%- set ogImg = ogImage or '/assets/brand/vexa-logo-1000.jpg' %}
+  <meta property="og:image" content="{{ ogImg if ogImg.startsWith('http') else site.url + (ogImg | replace(' ', '%20')) }}">
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {%- if page.url == "/" %}
+  <script type="application/ld+json">{{ site | siteLd | safe }}</script>
+  {%- endif %}
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/brand/icon-32.png">
   <link rel="apple-touch-icon" href="/assets/brand/icon-180.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
