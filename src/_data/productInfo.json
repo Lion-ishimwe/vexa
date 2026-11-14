@@ -1,1 +1,3536 @@
-{}
+{
+ "tp-link-300-mbps-wi-fi-router": {
+  "summary": "A 4G LTE router from TP-Link: put a Nano SIM card in and it shares mobile internet over 300 Mbps Wi-Fi and four wired ports. It suits a small office or home where fixed broadband is missing or unreliable, and it can also run on a cable connection with 4G as a backup.",
+  "highlights": [
+   "4G LTE Cat4 with up to 150 Mbps download",
+   "300 Mbps Wi-Fi on 2.4 GHz",
+   "Nano SIM slot, no setup software needed",
+   "Four 10/100 Mbps Ethernet ports, one can act as WAN",
+   "WAN failover from cable to 4G",
+   "Two detachable external 4G antennas"
+  ],
+  "specs": [
+   [
+    "Model (assumed)",
+    "TL-MR6400"
+   ],
+   [
+    "Mobile network",
+    "4G LTE Cat4, 3G fallback"
+   ],
+   [
+    "4G download / upload",
+    "Up to 150 Mbps / 50 Mbps"
+   ],
+   [
+    "4G bands",
+    "FDD: 800, 900, 1800, 2100, 2600 MHz; TDD: 2300, 2500, 2600 MHz"
+   ],
+   [
+    "3G bands",
+    "900, 2100 MHz"
+   ],
+   [
+    "Wi-Fi",
+    "IEEE 802.11b/g/n, 2.4 GHz, up to 300 Mbps"
+   ],
+   [
+    "Ethernet ports",
+    "3 x 10/100 Mbps LAN, 1 x 10/100 Mbps LAN/WAN"
+   ],
+   [
+    "SIM",
+    "Nano SIM slot"
+   ],
+   [
+    "Antennas",
+    "2 detachable external 4G LTE antennas"
+   ],
+   [
+    "Wireless security",
+    "WPA/WPA2, WPA-PSK/WPA2-PSK, WEP"
+   ],
+   [
+    "Other features",
+    "Guest network, WAN failover, Wi-Fi on/off button, WPS"
+   ],
+   [
+    "Power",
+    "9 V / 0.85 A external adapter (EU version)"
+   ],
+   [
+    "Dimensions",
+    "174 x 124.5 x 33.5 mm"
+   ]
+  ],
+  "inBox": [
+   "TL-MR6400 router",
+   "Power adapter",
+   "RJ45 Ethernet cable",
+   "Quick installation guide"
+  ],
+  "images": [
+   "https://static.tp-link.com/TL-MR6400_UN_5.0_01_large_1616465031928x.jpg",
+   "https://static.tp-link.com/TL-MR6400_UN_5.0_02_large_1616471329372c.jpg",
+   "https://static.tp-link.com/TL-MR6400_UN_5.0_03_large_1616471341325v.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.tp-link.com/uk/home-networking/3g-4g-router/tl-mr6400/",
+  "confidence": "medium"
+ },
+ "ubiquiti-unifi-dual-radio-ap": {
+  "summary": "A Ubiquiti UniFi ceiling access point with two radios, one on 2.4 GHz and one on 5 GHz, for reliable Wi-Fi across offices, shops, hotels and larger homes. It is powered over the network cable (PoE), so only one cable runs to the ceiling, and it is set up and monitored from the UniFi Network app.",
+  "highlights": [
+   "Dual-radio Wi-Fi on 2.4 GHz and 5 GHz",
+   "Powered by PoE over a single Ethernet cable",
+   "Ceiling or wall mounting",
+   "Managed centrally from the UniFi Network app",
+   "Add more UniFi access points as the site grows"
+  ],
+  "specs": [
+   [
+    "Brand",
+    "Ubiquiti UniFi"
+   ],
+   [
+    "Type",
+    "Indoor Wi-Fi access point"
+   ],
+   [
+    "Radios",
+    "Dual radio: 2.4 GHz and 5 GHz"
+   ],
+   [
+    "Power",
+    "PoE (Power over Ethernet)"
+   ],
+   [
+    "Mounting",
+    "Ceiling or wall"
+   ],
+   [
+    "Management",
+    "UniFi Network application (UniFi console or app)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://store.ui.com",
+  "confidence": "low"
+ },
+ "d-link-wi-fi-router": {
+  "summary": "A D-Link wireless router for homes and small offices: it connects to your internet line and shares it over Wi-Fi and wired Ethernet ports. Setup is done from a web browser or the D-Link app, depending on the model.",
+  "highlights": [
+   "Shares one internet connection with many devices",
+   "Wi-Fi plus wired Ethernet ports",
+   "Browser based setup",
+   "Suited to homes and small offices"
+  ],
+  "specs": [
+   [
+    "Brand",
+    "D-Link"
+   ],
+   [
+    "Type",
+    "Wi-Fi router"
+   ],
+   [
+    "Use",
+    "Home and small office"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.dlink.com",
+  "confidence": "low"
+ },
+ "d-link-4g-lte-dwr-1920-router": {
+  "summary": "A D-Link 4G LTE router: insert a SIM card and it shares mobile internet over Wi-Fi and Ethernet. It is useful as a main connection where there is no fixed line, or as a backup when the main line goes down.",
+  "highlights": [
+   "Mobile internet from a 4G SIM card",
+   "Wi-Fi and wired Ethernet for local devices",
+   "Useful as a backup connection",
+   "Browser based setup"
+  ],
+  "specs": [
+   [
+    "Brand",
+    "D-Link"
+   ],
+   [
+    "Type",
+    "4G LTE router"
+   ],
+   [
+    "Internet source",
+    "4G LTE SIM card"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.dlink.com",
+  "confidence": "low"
+ },
+ "d-link-des-1008c-switch": {
+  "summary": "A small 8-port D-Link switch that adds more wired connections to your network. It is plug and play with no setup, runs silently without a fan, and saves power automatically when a port is idle. A good fit for a desk, a home office or a small shop network running at 10/100 Mbps.",
+  "highlights": [
+   "8 Fast Ethernet ports at 10/100 Mbps",
+   "Plug and play, no configuration",
+   "Auto MDI/MDIX, any network cable works",
+   "Energy-Efficient Ethernet (802.3az)",
+   "Fanless and silent",
+   "Compact white desktop case"
+  ],
+  "specs": [
+   [
+    "Model",
+    "DES-1008C"
+   ],
+   [
+    "Ports",
+    "8 x 10/100 Mbps RJ45"
+   ],
+   [
+    "Type",
+    "Unmanaged desktop switch"
+   ],
+   [
+    "Standards",
+    "IEEE 802.3, 802.3u, 802.3x flow control, 802.3az EEE"
+   ],
+   [
+    "Switching capacity",
+    "1.6 Gbps"
+   ],
+   [
+    "MAC address table",
+    "2,000 entries"
+   ],
+   [
+    "Packet buffer",
+    "96 KB"
+   ],
+   [
+    "Jumbo frames",
+    "2,048 bytes"
+   ],
+   [
+    "LEDs",
+    "Per port link/activity/speed, power"
+   ],
+   [
+    "Power",
+    "5 V DC, 0.55 A external adapter"
+   ],
+   [
+    "Power consumption",
+    "1.55 W maximum, 0.55 W standby"
+   ],
+   [
+    "Dimensions",
+    "131 x 54 x 21 mm"
+   ],
+   [
+    "Weight",
+    "74.8 g"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Cooling",
+    "Fanless"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.dlink.com/en/-/media/product-pages/des/1008c/product-image-d1/des1008cf.png",
+   "https://www.dlink.com/en/-/media/product-pages/des/1008c/product-image-d1/des1008csr.png",
+   "https://www.dlink.com/en/-/media/product-pages/des/1008c/product-image-d1/des1008csl.png",
+   "https://www.dlink.com/en/-/media/product-pages/des/1008c/product-image-d1/des1008cb.png"
+  ],
+  "spin": [],
+  "source": "https://www.dlink.com/en/-/media/consumer_products/des/des-1005c/datasheet/des1005c1008ca1datasheetv100ww.pdf",
+  "confidence": "high"
+ },
+ "d-link-des-1005c-switch": {
+  "summary": "A small 5-port D-Link switch that adds more wired connections to your network. It is plug and play with no setup, runs silently without a fan, and saves power automatically when a port is idle. A good fit for a desk, a home office or a small shop network running at 10/100 Mbps.",
+  "highlights": [
+   "5 Fast Ethernet ports at 10/100 Mbps",
+   "Plug and play, no configuration",
+   "Auto MDI/MDIX, any network cable works",
+   "Energy-Efficient Ethernet (802.3az)",
+   "Fanless and silent",
+   "Compact white desktop case"
+  ],
+  "specs": [
+   [
+    "Model",
+    "DES-1005C"
+   ],
+   [
+    "Ports",
+    "5 x 10/100 Mbps RJ45"
+   ],
+   [
+    "Type",
+    "Unmanaged desktop switch"
+   ],
+   [
+    "Standards",
+    "IEEE 802.3, 802.3u, 802.3x flow control, 802.3az EEE"
+   ],
+   [
+    "Switching capacity",
+    "1 Gbps"
+   ],
+   [
+    "MAC address table",
+    "2,000 entries"
+   ],
+   [
+    "Packet buffer",
+    "96 KB"
+   ],
+   [
+    "Jumbo frames",
+    "2,048 bytes"
+   ],
+   [
+    "LEDs",
+    "Per port link/activity/speed, power"
+   ],
+   [
+    "Power",
+    "5 V DC, 0.55 A external adapter"
+   ],
+   [
+    "Power consumption",
+    "0.784 W maximum, 0.4 W standby"
+   ],
+   [
+    "Dimensions",
+    "88 x 48 x 21.45 mm"
+   ],
+   [
+    "Weight",
+    "43.4 g"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Cooling",
+    "Fanless"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.dlink.com/en/-/media/product-pages/des/1005c/product-image-d1/des1005cf.png",
+   "https://www.dlink.com/en/-/media/product-pages/des/1005c/product-image-d1/des1005csr.png",
+   "https://www.dlink.com/en/-/media/product-pages/des/1005c/product-image-d1/des1005csl.png",
+   "https://www.dlink.com/en/-/media/product-pages/des/1005c/product-image-d1/des1005cback.png"
+  ],
+  "spin": [],
+  "source": "https://www.dlink.com/en/-/media/consumer_products/des/des-1005c/datasheet/des1005c1008ca1datasheetv100ww.pdf",
+  "confidence": "high"
+ },
+ "24-port-gigabit-switch": {
+  "summary": "A 24-port Gigabit Ethernet switch for the core of an office or building network. It connects computers, servers, access points and cameras at up to 1 Gbps per port and mounts in a standard 19 inch rack. The listing describes Layer 3 routing and redundant power support for networks that need to stay up.",
+  "highlights": [
+   "24 Gigabit Ethernet ports",
+   "Layer 3 routing between VLANs (per listing)",
+   "Redundant power supply support (per listing)",
+   "19 inch rack mounting ears"
+  ],
+  "specs": [
+   [
+    "Ports",
+    "24 x 10/100/1000 Mbps RJ45"
+   ],
+   [
+    "Speed",
+    "Up to 1 Gbps per port, full duplex"
+   ],
+   [
+    "Type",
+    "Managed Layer 3 switch (per listing)"
+   ],
+   [
+    "Power",
+    "Redundant power supply support (per listing)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack, rack ears included (per listing)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "wi-fi-6-enterprise-router": {
+  "summary": "A business grade Wi-Fi 6 router for offices that need fast, stable wireless for many users. Wi-Fi 6 (802.11ax) handles crowded networks better than older Wi-Fi, and this unit is described with three radios, a firewall and a ceiling mounting plate.",
+  "highlights": [
+   "Wi-Fi 6 (802.11ax) for busy networks",
+   "Tri-radio coverage (per listing)",
+   "Built-in firewall with licensing (per listing)",
+   "Ceiling mounting plate (per listing)",
+   "WPA3 security, required for Wi-Fi 6 certification"
+  ],
+  "specs": [
+   [
+    "Wi-Fi standard",
+    "Wi-Fi 6, IEEE 802.11ax"
+   ],
+   [
+    "Bands",
+    "2.4 GHz and 5 GHz"
+   ],
+   [
+    "Radios",
+    "Tri-radio (per listing)"
+   ],
+   [
+    "Key Wi-Fi 6 features",
+    "OFDMA, MU-MIMO, target wake time"
+   ],
+   [
+    "Security",
+    "Firewall (licensed, per listing); WPA3"
+   ],
+   [
+    "Mounting",
+    "Ceiling plate (per listing)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "12u-wall-mount-rack": {
+  "summary": "A 12U wall mounted 19 inch rack cabinet for neatly housing a switch, patch panel, router and small UPS off the floor. The listing describes a tempered glass door, cooling fans, a power distribution unit (PDU) and cable managers, so it arrives ready for a small office comms room.",
+  "highlights": [
+   "12U of 19 inch mounting space (about 533 mm usable height)",
+   "Tempered glass front door (per listing)",
+   "Cooling fans (per listing)",
+   "PDU for powering equipment (per listing)",
+   "Cable managers for tidy patching (per listing)"
+  ],
+  "specs": [
+   [
+    "Rack size",
+    "12U (1U = 44.45 mm, 12U = 533.4 mm usable height)"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310)"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Front door",
+    "Tempered glass (per listing)"
+   ],
+   [
+    "Cooling",
+    "Fans (per listing)"
+   ],
+   [
+    "Power",
+    "PDU included (per listing)"
+   ],
+   [
+    "Cable management",
+    "Cable managers (per listing)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "fiber-termination-kit": {
+  "summary": "A kit for terminating and testing fibre optic links, aimed at installers. The listing describes an LC patch panel, pigtails, a fibre cleaver, polishing films and a visual fault locator, which together let you prepare, connect and check fibre runs.",
+  "highlights": [
+   "LC patch panel (per listing)",
+   "Fibre pigtails for splicing (per listing)",
+   "Cleaver for clean fibre cuts (per listing)",
+   "Polishing films (per listing)",
+   "Visual fault locator to trace breaks with red light (per listing)"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Fibre optic termination kit"
+   ],
+   [
+    "Connector type",
+    "LC (per listing)"
+   ],
+   [
+    "Contents (per listing)",
+    "LC patch panel, pigtails, cleaver, polishing films, visual fault locator"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "cat6-patch-cord-bundle-30-pcs": {
+  "summary": "A bundle of 30 Cat6 patch cords in assorted lengths for connecting patch panels, switches and devices. Cat6 handles Gigabit Ethernet with ease. The listing says the cords are factory tested and come with Velcro straps and a labelling kit for a tidy rack.",
+  "highlights": [
+   "30 Cat6 patch cords",
+   "Assorted lengths (per listing)",
+   "RJ45 plugs on both ends",
+   "Factory tested (per listing)",
+   "Velcro straps and labelling kit (per listing)"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6 (up to 250 MHz)"
+   ],
+   [
+    "Quantity",
+    "30 cords"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) on both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded, for flexible patching"
+   ],
+   [
+    "Speed",
+    "1 Gbps; 10 Gbps over short runs"
+   ],
+   [
+    "Lengths",
+    "Assorted (per listing)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "network-ups-2kva": {
+  "summary": "A 2 kVA rack mount UPS that keeps network equipment running through short power cuts and protects it from surges and dips. The listing describes an LCD for diagnostics, an SNMP card for remote monitoring and a battery pack.",
+  "highlights": [
+   "2 kVA capacity",
+   "Rack mount for 19 inch cabinets (per listing)",
+   "LCD status and diagnostics (per listing)",
+   "SNMP card for remote monitoring (per listing)",
+   "Battery pack (per listing)"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "2 kVA"
+   ],
+   [
+    "Form factor",
+    "19 inch rack mount (per listing)"
+   ],
+   [
+    "Display",
+    "LCD (per listing)"
+   ],
+   [
+    "Monitoring",
+    "SNMP network card (per listing)"
+   ],
+   [
+    "Battery",
+    "Battery pack (per listing)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "usb-to-ethernet": {
+  "summary": "A small adapter that adds a wired RJ45 Ethernet port to a laptop or PC through a USB port. Handy for laptops with no network port, or when Wi-Fi is weak and you need a steady cable connection.",
+  "highlights": [
+   "Adds an RJ45 Ethernet port over USB",
+   "Plug and play on most modern systems",
+   "Compact and portable"
+  ],
+  "specs": [
+   [
+    "Host connector",
+    "USB Type-A"
+   ],
+   [
+    "Network port",
+    "RJ45 Ethernet"
+   ],
+   [
+    "Use",
+    "Laptops and PCs without a free Ethernet port"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "usb-to-ethernet-with-usb-extension": {
+  "summary": "A USB adapter that adds a wired Ethernet port and extra USB ports at the same time. Good for laptops with few ports: plug in once and get a network cable connection plus room for a mouse, keyboard or flash drive.",
+  "highlights": [
+   "RJ45 Ethernet port over USB",
+   "Extra USB ports for accessories",
+   "Plug and play",
+   "Compact, travel friendly"
+  ],
+  "specs": [
+   [
+    "Host connector",
+    "USB Type-A"
+   ],
+   [
+    "Network port",
+    "RJ45 Ethernet"
+   ],
+   [
+    "Extra ports",
+    "USB ports (number not stated)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "type-c-to-ethernet": {
+  "summary": "An adapter that adds a wired RJ45 Ethernet port to a laptop, tablet or phone with a USB-C port. Ideal for slim laptops that have no network socket. The listing describes it as Gigabit.",
+  "highlights": [
+   "USB-C to RJ45 Ethernet",
+   "Gigabit speed (per listing)",
+   "Plug and play",
+   "Small and light for slim laptops"
+  ],
+  "specs": [
+   [
+    "Host connector",
+    "USB Type-C"
+   ],
+   [
+    "Network port",
+    "RJ45 Ethernet"
+   ],
+   [
+    "Speed",
+    "Up to 1 Gbps (per listing)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "usb-wi-fi-device": {
+  "summary": "A plug-in USB Wi-Fi adapter that lets a desktop PC connect to Wi-Fi, or gives a laptop a second wireless connection. Simply plug it into a USB port and install the driver if the system asks for one.",
+  "highlights": [
+   "Adds Wi-Fi to a desktop PC",
+   "Useful as a backup or replacement Wi-Fi card",
+   "Plugs into a standard USB port"
+  ],
+  "specs": [
+   [
+    "Interface",
+    "USB Type-A"
+   ],
+   [
+    "Function",
+    "Wireless network adapter (Wi-Fi client)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "cisco-network-switch-c-1300-48-poe": {
+  "summary": "A Cisco Catalyst 1300 managed switch with 48 Gigabit ports, all able to power devices such as IP cameras, phones and Wi-Fi access points over PoE+. It adds Layer 3 routing, VLANs and security features for growing businesses and branch offices, fits a standard 19 inch rack and is managed from a web browser, the command line or the Cisco Business app.",
+  "highlights": [
+   "48 Gigabit ports, all PoE+ (802.3af/at, up to 30 W per port)",
+   "375 W total PoE budget",
+   "4 SFP uplinks for fibre or copper modules",
+   "Layer 3: static routes, RIP v2 and IPv6 routing",
+   "Web, CLI, SNMP and Cisco Business app management",
+   "Limited lifetime warranty"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Cisco Catalyst C1300-48P (4G or 4X version)"
+   ],
+   [
+    "Ports",
+    "48 x 10/100/1000 Mbps RJ45"
+   ],
+   [
+    "Uplinks",
+    "4 x 1G SFP (C1300-48P-4G) or 4 x 10G SFP+ (C1300-48P-4X)"
+   ],
+   [
+    "PoE",
+    "48 ports, IEEE 802.3af/at PoE+, up to 30 W per port"
+   ],
+   [
+    "PoE budget",
+    "375 W"
+   ],
+   [
+    "Switching capacity",
+    "104 Gbps (4G) or 176 Gbps (4X)"
+   ],
+   [
+    "Forwarding rate",
+    "77.38 Mpps (4G) or 130.94 Mpps (4X)"
+   ],
+   [
+    "MAC table",
+    "16,000 (4G) or 32,000 (4X) addresses"
+   ],
+   [
+    "Memory",
+    "1 GB DDR4 RAM, 512 MB flash"
+   ],
+   [
+    "Jumbo frames",
+    "Up to 9,000 bytes"
+   ],
+   [
+    "Layer 3",
+    "Static and RIP v2 routing, IPv6 routing; up to 990 routes (4G) or 7,168 routes (4X)"
+   ],
+   [
+    "Management",
+    "Web interface, CLI, SNMP v1/v2c/v3, Cisco Business Dashboard and mobile app"
+   ],
+   [
+    "Cooling",
+    "1 fan, 37.3 dBA"
+   ],
+   [
+    "Dimensions",
+    "444.3 x 350 x 43.94 mm, 1U rack mount"
+   ],
+   [
+    "Weight",
+    "5.43 kg (4G) or 6.37 kg (4X)"
+   ]
+  ],
+  "inBox": [
+   "Switch",
+   "Power cord",
+   "19 inch rack mounting brackets",
+   "Pointer card"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1300-series-switches/nb-06-cat1300-ser-data-sheet-cte-en.html",
+  "confidence": "medium"
+ },
+ "aico-cat6-utp-cable": {
+  "summary": "AICO Cat6 UTP installation cable for structured network cabling. It is the everyday choice for office and home networks, CCTV and Wi-Fi access points, giving reliable Gigabit speed over runs up to 100 m. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Cat6, rated up to 250 MHz",
+   "Gigabit Ethernet up to 100 m",
+   "10 Gbps on shorter runs (up to about 55 m)",
+   "Unshielded, light and easy to pull",
+   "Works with PoE cameras and access points"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Construction",
+    "U/UTP, unshielded twisted pair"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps up to 100 m; 10 Gbps up to about 55 m"
+   ],
+   [
+    "Standard",
+    "TIA-568 Category 6 / ISO 11801 Class E"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6e-utp-cable": {
+  "summary": "AICO Cat6e UTP installation cable for structured network cabling. Cat6e is sold as an enhanced Cat6 with extra headroom for Gigabit and short 10 Gbps runs. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Enhanced Cat6 cable",
+   "Gigabit Ethernet up to 100 m",
+   "Unshielded, light and easy to pull",
+   "Works with PoE cameras and access points"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6e"
+   ],
+   [
+    "Construction",
+    "U/UTP, unshielded twisted pair"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Enhanced beyond Cat6; exact rating not stated"
+   ],
+   [
+    "Network speed",
+    "1 Gbps up to 100 m; 10 Gbps over shorter runs"
+   ],
+   [
+    "Standard",
+    "Cat6e is not an official TIA or ISO category; built to at least Cat6"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-ftp-cable": {
+  "summary": "AICO Cat6 FTP installation cable for structured network cabling. An overall foil shield protects the signal from electrical noise, so it suits runs near power lines, lifts, motors and factory equipment. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Cat6, rated up to 250 MHz",
+   "Overall foil shield against interference",
+   "Gigabit Ethernet up to 100 m",
+   "Good near power cables, motors and machinery"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Construction",
+    "F/UTP, overall foil shield around the four pairs, with drain wire"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps up to 100 m; 10 Gbps up to about 55 m"
+   ],
+   [
+    "Standard",
+    "TIA-568 Category 6 / ISO 11801 Class E"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels (shielded types)"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6e-ftp-cable": {
+  "summary": "AICO Cat6e FTP installation cable for structured network cabling. It is an enhanced Cat6 with an overall foil shield for electrically noisy places. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Enhanced Cat6 cable",
+   "Overall foil shield against interference",
+   "Gigabit Ethernet up to 100 m",
+   "Good near power cables and machinery"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6e"
+   ],
+   [
+    "Construction",
+    "F/UTP, overall foil shield around the four pairs, with drain wire"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Enhanced beyond Cat6; exact rating not stated"
+   ],
+   [
+    "Network speed",
+    "1 Gbps up to 100 m; 10 Gbps over shorter runs"
+   ],
+   [
+    "Standard",
+    "Cat6e is not an official TIA or ISO category; built to at least Cat6"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels (shielded types)"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-sftp-cable": {
+  "summary": "AICO Cat6 SFTP installation cable for structured network cabling. It has both a braided screen and foil, giving the best protection from interference for industrial sites, data rooms and runs near heavy power cabling. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Cat6, rated up to 250 MHz",
+   "Double shielding: braid plus foil",
+   "Strong protection from interference",
+   "Gigabit Ethernet up to 100 m"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Construction",
+    "SF/UTP or S/FTP, braided screen plus foil"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps up to 100 m; 10 Gbps up to about 55 m"
+   ],
+   [
+    "Standard",
+    "TIA-568 Category 6 / ISO 11801 Class E"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels (shielded types)"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6e-sftp-cable": {
+  "summary": "AICO Cat6e SFTP installation cable for structured network cabling. It is an enhanced Cat6 with braid and foil shielding for noisy industrial and data room environments. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Enhanced Cat6 cable",
+   "Double shielding: braid plus foil",
+   "Strong protection from interference",
+   "Gigabit Ethernet up to 100 m"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6e"
+   ],
+   [
+    "Construction",
+    "SF/UTP or S/FTP, braided screen plus foil"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Enhanced beyond Cat6; exact rating not stated"
+   ],
+   [
+    "Network speed",
+    "1 Gbps up to 100 m; 10 Gbps over shorter runs"
+   ],
+   [
+    "Standard",
+    "Cat6e is not an official TIA or ISO category; built to at least Cat6"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels (shielded types)"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-sftp-outdoor-cable": {
+  "summary": "AICO Cat6 SFTP outdoor installation cable for structured network cabling. The outdoor jacket resists sun and rain, so it is used for outdoor cameras, access points and links between buildings. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Made for outdoor runs",
+   "UV resistant outer jacket",
+   "Double shielding: braid plus foil",
+   "Gigabit Ethernet up to 100 m",
+   "Ideal for outdoor CCTV and links between buildings"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Construction",
+    "SF/UTP or S/FTP, braided screen plus foil"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps up to 100 m; 10 Gbps up to about 55 m"
+   ],
+   [
+    "Standard",
+    "TIA-568 Category 6 / ISO 11801 Class E"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels (shielded types)"
+   ],
+   [
+    "Jacket",
+    "UV resistant outdoor jacket"
+   ],
+   [
+    "Use",
+    "Outdoor runs between buildings, to cameras and access points"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat7-u-ftp-cable": {
+  "summary": "AICO Cat7 U/FTP installation cable for structured network cabling. Each pair has its own foil shield, giving very low crosstalk for 10 Gbps networks, server rooms and future proof installs. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Cat7, rated up to 600 MHz",
+   "10 Gbps up to 100 m",
+   "Each pair individually foil shielded",
+   "Strong noise protection for data rooms"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat7"
+   ],
+   [
+    "Construction",
+    "U/FTP, foil around each pair (as titled)"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Up to 600 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps up to 100 m"
+   ],
+   [
+    "Standard",
+    "ISO 11801 Class F"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels (shielded types)"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6a-utp-cable": {
+  "summary": "AICO Cat6A UTP installation cable for structured network cabling. It carries 10 Gbps over the full 100 m channel, making it the choice for new offices, fast Wi-Fi access points and server links. Installation cable like this is meant for fixed runs that end at wall sockets and patch panels, not for making patch cords.",
+  "highlights": [
+   "Cat6A, rated up to 500 MHz",
+   "10 Gbps over the full 100 m",
+   "Handles high power PoE well",
+   "Good for Wi-Fi 6 and Wi-Fi 7 access points"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Construction",
+    "U/UTP, unshielded twisted pair"
+   ],
+   [
+    "Pairs",
+    "4 twisted pairs, solid conductors"
+   ],
+   [
+    "Bandwidth",
+    "Up to 500 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps up to 100 m"
+   ],
+   [
+    "Standard",
+    "TIA-568 Category 6A / ISO 11801 Class EA"
+   ],
+   [
+    "Termination",
+    "RJ45 jacks, keystones and patch panels"
+   ],
+   [
+    "Jacket",
+    "Indoor jacket"
+   ],
+   [
+    "Use",
+    "Fixed indoor installation in walls, trunking and ceilings"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat7-s-ftp-patch-cord-1-m": {
+  "summary": "A 1 m AICO Cat7 S/FTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat7 S/FTP patch cord, 1 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps",
+   "Fully shielded for low interference"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat7"
+   ],
+   [
+    "Length",
+    "1 m"
+   ],
+   [
+    "Shielding",
+    "S/FTP, foil around each pair plus overall braid"
+   ],
+   [
+    "Bandwidth",
+    "Up to 600 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends, shielded"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat7-s-ftp-patch-cord-2-m": {
+  "summary": "A 2 m AICO Cat7 S/FTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat7 S/FTP patch cord, 2 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps",
+   "Fully shielded for low interference"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat7"
+   ],
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Shielding",
+    "S/FTP, foil around each pair plus overall braid"
+   ],
+   [
+    "Bandwidth",
+    "Up to 600 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends, shielded"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat7-s-ftp-patch-cord-3-m": {
+  "summary": "A 3 m AICO Cat7 S/FTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat7 S/FTP patch cord, 3 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps",
+   "Fully shielded for low interference"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat7"
+   ],
+   [
+    "Length",
+    "3 m"
+   ],
+   [
+    "Shielding",
+    "S/FTP, foil around each pair plus overall braid"
+   ],
+   [
+    "Bandwidth",
+    "Up to 600 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends, shielded"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat7-s-ftp-patch-cord-5-m": {
+  "summary": "A 5 m AICO Cat7 S/FTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat7 S/FTP patch cord, 5 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps",
+   "Fully shielded for low interference"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat7"
+   ],
+   [
+    "Length",
+    "5 m"
+   ],
+   [
+    "Shielding",
+    "S/FTP, foil around each pair plus overall braid"
+   ],
+   [
+    "Bandwidth",
+    "Up to 600 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends, shielded"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6a-utp-patch-cord-1-m": {
+  "summary": "A 1 m AICO Cat6A UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6A UTP patch cord, 1 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Length",
+    "1 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 500 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6a-utp-patch-cord-2-m": {
+  "summary": "A 2 m AICO Cat6A UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6A UTP patch cord, 2 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 500 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6a-utp-patch-cord-3-m": {
+  "summary": "A 3 m AICO Cat6A UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6A UTP patch cord, 3 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Length",
+    "3 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 500 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6a-utp-patch-cord-5-m": {
+  "summary": "A 5 m AICO Cat6A UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6A UTP patch cord, 5 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Length",
+    "5 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 500 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6a-utp-patch-cord-15-m": {
+  "summary": "A 15 m AICO Cat6A UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits longer runs, for example from a wall socket across a room or between racks.",
+  "highlights": [
+   "Cat6A UTP patch cord, 15 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Length",
+    "15 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 500 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6a-utp-patch-cord-20-m": {
+  "summary": "A 20 m AICO Cat6A UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits longer runs, for example from a wall socket across a room or between racks.",
+  "highlights": [
+   "Cat6A UTP patch cord, 20 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 10 Gbps"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Length",
+    "20 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 500 MHz"
+   ],
+   [
+    "Network speed",
+    "10 Gbps"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-utp-patch-cord-1-m": {
+  "summary": "A 1 m AICO Cat6 UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6 UTP patch cord, 1 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 1 Gbps (10 Gbps on short runs)"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Length",
+    "1 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps (10 Gbps on short runs)"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-utp-patch-cord-2-m": {
+  "summary": "A 2 m AICO Cat6 UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6 UTP patch cord, 2 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 1 Gbps (10 Gbps on short runs)"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps (10 Gbps on short runs)"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-utp-patch-cord-3-m": {
+  "summary": "A 3 m AICO Cat6 UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6 UTP patch cord, 3 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 1 Gbps (10 Gbps on short runs)"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Length",
+    "3 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps (10 Gbps on short runs)"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-utp-patch-cord-5-m": {
+  "summary": "A 5 m AICO Cat6 UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits short links in a rack or at a desk.",
+  "highlights": [
+   "Cat6 UTP patch cord, 5 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 1 Gbps (10 Gbps on short runs)"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Length",
+    "5 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps (10 Gbps on short runs)"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cat6-utp-patch-cord-10-m": {
+  "summary": "A 10 m AICO Cat6 UTP patch cord with RJ45 plugs on both ends, for connecting switches, patch panels, routers, PCs and cameras. Stranded conductors keep it flexible, and at this length it suits longer runs, for example from a wall socket across a room or between racks.",
+  "highlights": [
+   "Cat6 UTP patch cord, 10 m long",
+   "RJ45 plugs on both ends",
+   "Flexible stranded conductors",
+   "Supports 1 Gbps (10 Gbps on short runs)"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Length",
+    "10 m"
+   ],
+   [
+    "Shielding",
+    "U/UTP, unshielded"
+   ],
+   [
+    "Bandwidth",
+    "Up to 250 MHz"
+   ],
+   [
+    "Network speed",
+    "1 Gbps (10 Gbps on short runs)"
+   ],
+   [
+    "Connectors",
+    "RJ45 (8P8C) plugs, both ends"
+   ],
+   [
+    "Conductors",
+    "Stranded copper, 4 pairs"
+   ],
+   [
+    "Wiring",
+    "Straight through"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-6u-600-x-450-mm-wall-mounted-network-cabinet": {
+  "summary": "An AICO 6U wall mounted 19 inch network cabinet, 600 mm wide and 450 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a small office, shop or CCTV setup: a patch panel, a switch and a router or NVR.",
+  "highlights": [
+   "6U of 19 inch mounting space",
+   "600 mm wide x 450 mm deep",
+   "Wall mounted, keeps equipment off the floor",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "6U"
+   ],
+   [
+    "Usable mounting height",
+    "266.7 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "450 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Suits",
+    "A small office, shop or CCTV setup: a patch panel, a switch and a router or NVR"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-6u-600-x-600-mm-wall-mounted-network-cabinet": {
+  "summary": "An AICO 6U wall mounted 19 inch network cabinet, 600 mm wide and 600 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a small office, shop or CCTV setup: a patch panel, a switch and a router or NVR.",
+  "highlights": [
+   "6U of 19 inch mounting space",
+   "600 mm wide x 600 mm deep",
+   "Wall mounted, keeps equipment off the floor",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "6U"
+   ],
+   [
+    "Usable mounting height",
+    "266.7 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "600 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Suits",
+    "A small office, shop or CCTV setup: a patch panel, a switch and a router or NVR"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-9u-600-x-600-mm-wall-mounted-network-cabinet": {
+  "summary": "An AICO 9U wall mounted 19 inch network cabinet, 600 mm wide and 600 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a small office, shop or CCTV setup: a patch panel, a switch and a router or NVR.",
+  "highlights": [
+   "9U of 19 inch mounting space",
+   "600 mm wide x 600 mm deep",
+   "Wall mounted, keeps equipment off the floor",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "9U"
+   ],
+   [
+    "Usable mounting height",
+    "400.05 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "600 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Suits",
+    "A small office, shop or CCTV setup: a patch panel, a switch and a router or NVR"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-9u-600-x-450-mm-wall-mounted-network-cabinet": {
+  "summary": "An AICO 9U wall mounted 19 inch network cabinet, 600 mm wide and 450 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a small office, shop or CCTV setup: a patch panel, a switch and a router or NVR.",
+  "highlights": [
+   "9U of 19 inch mounting space",
+   "600 mm wide x 450 mm deep",
+   "Wall mounted, keeps equipment off the floor",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "9U"
+   ],
+   [
+    "Usable mounting height",
+    "400.05 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "450 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Suits",
+    "A small office, shop or CCTV setup: a patch panel, a switch and a router or NVR"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-12u-600-x-600-mm-wall-mounted-network-cabinet": {
+  "summary": "An AICO 12U wall mounted 19 inch network cabinet, 600 mm wide and 600 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a small to medium office comms point with patch panels, switches and a small UPS.",
+  "highlights": [
+   "12U of 19 inch mounting space",
+   "600 mm wide x 600 mm deep",
+   "Wall mounted, keeps equipment off the floor",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "12U"
+   ],
+   [
+    "Usable mounting height",
+    "533.4 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "600 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Suits",
+    "A small to medium office comms point with patch panels, switches and a small UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-15u-600-x-600-mm-wall-mounted-network-cabinet": {
+  "summary": "An AICO 15U wall mounted 19 inch network cabinet, 600 mm wide and 600 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a small to medium office comms point with patch panels, switches and a small UPS.",
+  "highlights": [
+   "15U of 19 inch mounting space",
+   "600 mm wide x 600 mm deep",
+   "Wall mounted, keeps equipment off the floor",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "15U"
+   ],
+   [
+    "Usable mounting height",
+    "666.75 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "600 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Suits",
+    "A small to medium office comms point with patch panels, switches and a small UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-18u-600-x-450-mm-wall-mounted-network-cabinet": {
+  "summary": "An AICO 18U wall mounted 19 inch network cabinet, 600 mm wide and 450 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a small to medium office comms point with patch panels, switches and a small UPS.",
+  "highlights": [
+   "18U of 19 inch mounting space",
+   "600 mm wide x 450 mm deep",
+   "Wall mounted, keeps equipment off the floor",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "18U"
+   ],
+   [
+    "Usable mounting height",
+    "800.1 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "450 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Wall mounted"
+   ],
+   [
+    "Suits",
+    "A small to medium office comms point with patch panels, switches and a small UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-18u-600-x-600-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 18U floor standing 19 inch network cabinet, 600 mm wide and 600 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for an office comms room with patch panels, switches, an NVR and a UPS.",
+  "highlights": [
+   "18U of 19 inch mounting space",
+   "600 mm wide x 600 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "18U"
+   ],
+   [
+    "Usable mounting height",
+    "800.1 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "600 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "An office comms room with patch panels, switches, an NVR and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-18u-800-x-1000-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 18U floor standing 19 inch network cabinet, 800 mm wide and 1000 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for an office comms room with patch panels, switches, an NVR and a UPS.",
+  "highlights": [
+   "18U of 19 inch mounting space",
+   "800 mm wide x 1000 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management",
+   "1000 mm depth suits full depth servers"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "18U"
+   ],
+   [
+    "Usable mounting height",
+    "800.1 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "1000 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "An office comms room with patch panels, switches, an NVR and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-22u-800-x-800-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 22U floor standing 19 inch network cabinet, 800 mm wide and 800 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for an office comms room with patch panels, switches, an NVR and a UPS.",
+  "highlights": [
+   "22U of 19 inch mounting space",
+   "800 mm wide x 800 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "22U"
+   ],
+   [
+    "Usable mounting height",
+    "977.9 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "800 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "An office comms room with patch panels, switches, an NVR and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-22u-800-x-1000-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 22U floor standing 19 inch network cabinet, 800 mm wide and 1000 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for an office comms room with patch panels, switches, an NVR and a UPS.",
+  "highlights": [
+   "22U of 19 inch mounting space",
+   "800 mm wide x 1000 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management",
+   "1000 mm depth suits full depth servers"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "22U"
+   ],
+   [
+    "Usable mounting height",
+    "977.9 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "1000 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "An office comms room with patch panels, switches, an NVR and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-27u-600-x-800-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 27U floor standing 19 inch network cabinet, 600 mm wide and 800 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for an office comms room with patch panels, switches, an NVR and a UPS.",
+  "highlights": [
+   "27U of 19 inch mounting space",
+   "600 mm wide x 800 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "27U"
+   ],
+   [
+    "Usable mounting height",
+    "1200.15 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "800 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "An office comms room with patch panels, switches, an NVR and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-27u-800-x-800-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 27U floor standing 19 inch network cabinet, 800 mm wide and 800 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for an office comms room with patch panels, switches, an NVR and a UPS.",
+  "highlights": [
+   "27U of 19 inch mounting space",
+   "800 mm wide x 800 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "27U"
+   ],
+   [
+    "Usable mounting height",
+    "1200.15 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "800 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "An office comms room with patch panels, switches, an NVR and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-27u-800-x-1000-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 27U floor standing 19 inch network cabinet, 800 mm wide and 1000 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for an office comms room with patch panels, switches, an NVR and a UPS.",
+  "highlights": [
+   "27U of 19 inch mounting space",
+   "800 mm wide x 1000 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management",
+   "1000 mm depth suits full depth servers"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "27U"
+   ],
+   [
+    "Usable mounting height",
+    "1200.15 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "1000 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "An office comms room with patch panels, switches, an NVR and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-32u-600-x-600-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 32U floor standing 19 inch network cabinet, 600 mm wide and 600 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a server room or main comms room with several patch panels, switches, servers and a UPS.",
+  "highlights": [
+   "32U of 19 inch mounting space",
+   "600 mm wide x 600 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "32U"
+   ],
+   [
+    "Usable mounting height",
+    "1422.4 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "600 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "A server room or main comms room with several patch panels, switches, servers and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-32u-600-x-800-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 32U floor standing 19 inch network cabinet, 600 mm wide and 800 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a server room or main comms room with several patch panels, switches, servers and a UPS.",
+  "highlights": [
+   "32U of 19 inch mounting space",
+   "600 mm wide x 800 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "32U"
+   ],
+   [
+    "Usable mounting height",
+    "1422.4 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "800 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "A server room or main comms room with several patch panels, switches, servers and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-32u-800-x-800-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 32U floor standing 19 inch network cabinet, 800 mm wide and 800 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a server room or main comms room with several patch panels, switches, servers and a UPS.",
+  "highlights": [
+   "32U of 19 inch mounting space",
+   "800 mm wide x 800 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "32U"
+   ],
+   [
+    "Usable mounting height",
+    "1422.4 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "800 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "A server room or main comms room with several patch panels, switches, servers and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-32u-800-x-1000-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 32U floor standing 19 inch network cabinet, 800 mm wide and 1000 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a server room or main comms room with several patch panels, switches, servers and a UPS.",
+  "highlights": [
+   "32U of 19 inch mounting space",
+   "800 mm wide x 1000 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management",
+   "1000 mm depth suits full depth servers"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "32U"
+   ],
+   [
+    "Usable mounting height",
+    "1422.4 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "1000 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "A server room or main comms room with several patch panels, switches, servers and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-42u-600-x-600-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 42U floor standing 19 inch network cabinet, 600 mm wide and 600 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a server room or main comms room with several patch panels, switches, servers and a UPS.",
+  "highlights": [
+   "42U of 19 inch mounting space",
+   "600 mm wide x 600 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "42U"
+   ],
+   [
+    "Usable mounting height",
+    "1866.9 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "600 mm"
+   ],
+   [
+    "External depth",
+    "600 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "A server room or main comms room with several patch panels, switches, servers and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-42u-800-x-1000-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 42U floor standing 19 inch network cabinet, 800 mm wide and 1000 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a server room or main comms room with several patch panels, switches, servers and a UPS.",
+  "highlights": [
+   "42U of 19 inch mounting space",
+   "800 mm wide x 1000 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management",
+   "1000 mm depth suits full depth servers"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "42U"
+   ],
+   [
+    "Usable mounting height",
+    "1866.9 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "1000 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "A server room or main comms room with several patch panels, switches, servers and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-47u-800-x-1000-mm-floor-standing-network-cabinet": {
+  "summary": "An AICO 47U floor standing 19 inch network cabinet, 800 mm wide and 1000 mm deep. It holds and protects network equipment in one tidy enclosure and is sized for a server room or main comms room with several patch panels, switches, servers and a UPS.",
+  "highlights": [
+   "47U of 19 inch mounting space",
+   "800 mm wide x 1000 mm deep",
+   "Floor standing cabinet",
+   "Takes standard 19 inch switches, patch panels and shelves",
+   "800 mm width leaves room for side cable management",
+   "1000 mm depth suits full depth servers"
+  ],
+  "specs": [
+   [
+    "Rack height",
+    "47U"
+   ],
+   [
+    "Usable mounting height",
+    "2089.15 mm (1U = 44.45 mm)"
+   ],
+   [
+    "External width",
+    "800 mm"
+   ],
+   [
+    "External depth",
+    "1000 mm"
+   ],
+   [
+    "Mounting standard",
+    "19 inch (EIA-310), 482.6 mm panel width"
+   ],
+   [
+    "Installation",
+    "Floor standing"
+   ],
+   [
+    "Suits",
+    "A server room or main comms room with several patch panels, switches, servers and a UPS"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat6-utp-24-ports": {
+  "summary": "An AICO 24-port Cat6 UTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy.",
+  "highlights": [
+   "24 RJ45 ports",
+   "Cat6 UTP rated, for Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Unshielded, for UTP cabling"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Ports",
+    "24 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Unshielded (UTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "1U for 24 ports"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat6-utp-48-ports": {
+  "summary": "An AICO 48-port Cat6 UTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy.",
+  "highlights": [
+   "48 RJ45 ports",
+   "Cat6 UTP rated, for Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Unshielded, for UTP cabling"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6"
+   ],
+   [
+    "Ports",
+    "48 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Unshielded (UTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "2U for 48 ports (1U high density versions exist)"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat6a-utp-24-ports": {
+  "summary": "An AICO 24-port Cat6A UTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy.",
+  "highlights": [
+   "24 RJ45 ports",
+   "Cat6A UTP rated, for 10 Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Unshielded, for UTP cabling"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Ports",
+    "24 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Unshielded (UTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "1U for 24 ports"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat6a-utp-48-ports": {
+  "summary": "An AICO 48-port Cat6A UTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy.",
+  "highlights": [
+   "48 RJ45 ports",
+   "Cat6A UTP rated, for 10 Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Unshielded, for UTP cabling"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Ports",
+    "48 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Unshielded (UTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "2U for 48 ports (1U high density versions exist)"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat6a-ftp-24-ports": {
+  "summary": "An AICO 24-port Cat6A FTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy. Being shielded, it should be used with shielded cable and earthed to the cabinet.",
+  "highlights": [
+   "24 RJ45 ports",
+   "Cat6A FTP rated, for 10 Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Shielded, with an earthing point for the cable screen"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Ports",
+    "24 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Shielded (FTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "1U for 24 ports"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat6a-ftp-48-ports": {
+  "summary": "An AICO 48-port Cat6A FTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy. Being shielded, it should be used with shielded cable and earthed to the cabinet.",
+  "highlights": [
+   "48 RJ45 ports",
+   "Cat6A FTP rated, for 10 Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Shielded, with an earthing point for the cable screen"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat6A"
+   ],
+   [
+    "Ports",
+    "48 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Shielded (FTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "2U for 48 ports (1U high density versions exist)"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat7-ftp-24-ports": {
+  "summary": "An AICO 24-port Cat7 FTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy. Being shielded, it should be used with shielded cable and earthed to the cabinet.",
+  "highlights": [
+   "24 RJ45 ports",
+   "Cat7 FTP rated, for 10 Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Shielded, with an earthing point for the cable screen"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat7"
+   ],
+   [
+    "Ports",
+    "24 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Shielded (FTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "1U for 24 ports"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-patch-panel-cat7-ftp-48-ports": {
+  "summary": "An AICO 48-port Cat7 FTP patch panel for a 19 inch rack. Installation cables from the wall sockets end at the back, and short patch cords at the front connect each one to the switch, keeping the rack neat and making moves and changes easy. Being shielded, it should be used with shielded cable and earthed to the cabinet.",
+  "highlights": [
+   "48 RJ45 ports",
+   "Cat7 FTP rated, for 10 Gigabit Ethernet",
+   "Fits any 19 inch rack or cabinet",
+   "Numbered ports for easy labelling",
+   "Shielded, with an earthing point for the cable screen"
+  ],
+  "specs": [
+   [
+    "Category",
+    "Cat7"
+   ],
+   [
+    "Ports",
+    "48 x RJ45"
+   ],
+   [
+    "Shielding",
+    "Shielded (FTP)"
+   ],
+   [
+    "Mounting",
+    "19 inch rack"
+   ],
+   [
+    "Typical rack height",
+    "2U for 48 ports (1U high density versions exist)"
+   ],
+   [
+    "Termination",
+    "Punch down (IDC) or keystone modules at the rear"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-face-plate-single": {
+  "summary": "A single port wall face plate from AICO that finishes a network point on the wall. It holds one RJ45 keystone jack, giving a clean, safe socket where a computer, phone or access point plugs in.",
+  "highlights": [
+   "One port",
+   "Holds a standard keystone jack",
+   "Neat wall finish for network points",
+   "Fits a standard wall box"
+  ],
+  "specs": [
+   [
+    "Ports",
+    "1"
+   ],
+   [
+    "Accepts",
+    "Keystone RJ45 jack (sold separately unless stated)"
+   ],
+   [
+    "Mounting",
+    "Wall box or surface box"
+   ],
+   [
+    "Use",
+    "Data and voice outlets"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-rj45-data-socket-single": {
+  "summary": "A single RJ45 data socket from AICO for ending a network cable at the wall. The installation cable is punched down at the back and a patch cord plugs into the front, giving a reliable network point for a computer, phone, camera or access point.",
+  "highlights": [
+   "One RJ45 port",
+   "Punch down (IDC) termination at the back",
+   "Colour coded for T568A / T568B wiring",
+   "For wall outlets and face plates"
+  ],
+  "specs": [
+   [
+    "Ports",
+    "1 x RJ45"
+   ],
+   [
+    "Termination",
+    "IDC punch down"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ],
+   [
+    "Use",
+    "Wall outlets, face plates"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-face-plate-double": {
+  "summary": "A two port wall face plate from AICO for network points that need two connections, for example a PC and an IP phone. It holds two RJ45 keystone jacks in one neat plate.",
+  "highlights": [
+   "Two ports",
+   "Holds standard keystone jacks",
+   "Neat wall finish for network points",
+   "Fits a standard wall box"
+  ],
+  "specs": [
+   [
+    "Ports",
+    "2"
+   ],
+   [
+    "Accepts",
+    "Keystone RJ45 jacks (sold separately unless stated)"
+   ],
+   [
+    "Mounting",
+    "Wall box or surface box"
+   ],
+   [
+    "Use",
+    "Data and voice outlets"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-rj45-data-socket-double": {
+  "summary": "A double RJ45 data socket from AICO giving two network connections at one wall point, for example a PC and an IP phone. Each port is terminated with its own installation cable at the back.",
+  "highlights": [
+   "Two RJ45 ports",
+   "Punch down (IDC) termination at the back",
+   "Colour coded for T568A / T568B wiring",
+   "Two connections at one wall point"
+  ],
+  "specs": [
+   [
+    "Ports",
+    "2 x RJ45"
+   ],
+   [
+    "Termination",
+    "IDC punch down"
+   ],
+   [
+    "Wiring",
+    "T568A / T568B"
+   ],
+   [
+    "Use",
+    "Wall outlets, face plates"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-rj45-to-rj45-utp-through-module": {
+  "summary": "An AICO RJ45 to RJ45 through module (coupler) that snaps into a face plate or patch panel. Patch cords plug into both sides, so no punch down tool is needed, which makes it handy for quick installs and for joining two cords.",
+  "highlights": [
+   "RJ45 socket on both sides",
+   "No punch down needed",
+   "Snaps into keystone face plates and panels",
+   "Unshielded (UTP)"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Keystone through coupler"
+   ],
+   [
+    "Connectors",
+    "RJ45 female to RJ45 female"
+   ],
+   [
+    "Shielding",
+    "UTP, unshielded"
+   ],
+   [
+    "Wiring",
+    "Straight through, pin to pin"
+   ],
+   [
+    "Mounting",
+    "Keystone face plates and patch panels"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "aico-cabinet-cooling-fan": {
+  "summary": "A cooling fan unit from AICO for network cabinets. Fitted to the cabinet roof, it pulls warm air out so switches, routers, NVRs and UPS units run cooler and last longer.",
+  "highlights": [
+   "Extracts warm air from the cabinet",
+   "Fits the roof fan opening of network cabinets",
+   "Mains powered",
+   "Helps equipment last longer"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Cabinet roof cooling fan unit"
+   ],
+   [
+    "Mounting",
+    "Cabinet roof or top panel"
+   ],
+   [
+    "Power",
+    "Mains AC"
+   ],
+   [
+    "Use",
+    "Wall mounted and floor standing network cabinets"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "starlink-standard-kit": {
+  "summary": "The Starlink Standard Kit brings high speed satellite internet to homes and offices, including places fibre and mobile networks do not reach. The flat dish sits on its kickstand or a mount with a clear view of the sky and connects to the included Wi-Fi 6 router. The Starlink subscription is paid separately.",
+  "highlights": [
+   "Electronic phased array dish with 110° field of view",
+   "Weatherproof dish rated IP67, works from -30 to 50 °C",
+   "Wi-Fi 6 tri-band router, up to 297 m² coverage and 235 devices",
+   "Two Ethernet ports on the router",
+   "Melts snow and runs in strong wind",
+   "Everything needed in the box, including a 15 m cable"
+  ],
+  "specs": [
+   [
+    "Dish type",
+    "Electronic phased array"
+   ],
+   [
+    "Field of view",
+    "110°"
+   ],
+   [
+    "Orientation",
+    "Software assisted manual orienting"
+   ],
+   [
+    "Dish size",
+    "594 x 383 x 39.7 mm"
+   ],
+   [
+    "Dish weight",
+    "2.9 kg (3.2 kg with kickstand)"
+   ],
+   [
+    "Dish rating",
+    "IP67, Type 4"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 50 °C"
+   ],
+   [
+    "Wind rating",
+    "Operational at 96 km/h and above"
+   ],
+   [
+    "Power consumption",
+    "75 to 100 W average"
+   ],
+   [
+    "Router",
+    "Starlink Router 3, Wi-Fi 6 (802.11a/b/g/n/ac/ax), tri-band 4x4 MU-MIMO"
+   ],
+   [
+    "Router coverage",
+    "Up to 297 m², up to 235 devices"
+   ],
+   [
+    "Router ports",
+    "2 Ethernet LAN ports"
+   ],
+   [
+    "Mesh",
+    "Works with up to 3 Starlink mesh nodes"
+   ],
+   [
+    "Starlink cable",
+    "15 m"
+   ],
+   [
+    "Power supply",
+    "100 to 240 V AC, 50 to 60 Hz"
+   ]
+  ],
+  "inBox": [
+   "Starlink Standard dish",
+   "Kickstand",
+   "Starlink Router 3",
+   "Starlink cable 15 m",
+   "AC power cable 1.5 m",
+   "Power supply"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://starlink.com/public-files/specification_sheet_standard.pdf",
+  "confidence": "high"
+ }
+}

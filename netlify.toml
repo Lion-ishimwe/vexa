@@ -52,9 +52,11 @@
     'https://resource\.logitech\.com/.*',
     'https://ssl\-product\-images\.www8\-hp\.com/.*',
     'https://starlink\.com/.*',
+    'https://static\.tp\-link\.com/.*',
     'https://storage\-asset\.msi\.com/.*',
     'https://upload\.wikimedia\.org/.*',
     'https://www\.cisco\.com/.*',
+    'https://www\.dlink\.com/.*',
     'https://www\.kstar\.com\.cn/.*',
     'https://www\.kstarnewenergy\.com/.*'
   ]
