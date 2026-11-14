@@ -49,8 +49,8 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.addFilter("siteLd", (site) => JSON.stringify({ "@context": "https://schema.org", "@graph": [
     { "@type": "OnlineStore", "@id": site.url + "/#store", name: site.name, url: site.url,
-      logo: site.url + "/assets/brand/vexa-logo-1000.jpg", description: site.description, telephone: site.phone,
-      areaServed: { "@type": "Country", name: "Rwanda" }, openingHours: "Mo-Su 07:30-20:00", founder: { "@type": "Person", name: site.founder.name } },
+      logo: site.url + "/assets/brand/vexa-logo-1000.jpg", description: site.description, telephone: [site.phone, site.phone2],
+      areaServed: { "@type": "Country", name: "Rwanda" }, openingHours: "Mo-Sa 07:30-20:00", founder: { "@type": "Person", name: site.founder.name } },
     { "@type": "WebSite", "@id": site.url + "/#website", name: site.name, url: site.url,
       potentialAction: { "@type": "SearchAction", target: site.url + "/shop/?q={search_term_string}",
         "query-input": "required name=search_term_string" } },

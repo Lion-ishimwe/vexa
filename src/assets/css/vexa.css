@@ -575,7 +575,9 @@ ul { margin: 0; padding: 0; list-style: none; }
   .wrap { padding: 0 16px; }
   .hero-cta .btn { white-space: normal; text-align: center; }
   .promo-copy { padding: 24px; }
-  .announce-items span:nth-child(n+2) { display: none; }
+  .announce-items { display: none; }
+  .announce .wrap { justify-content: center; }
+  .topbar-phones { white-space: nowrap; font-size: 12px; }
   .grid-products { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .cat-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .card-media { padding: 10px; }

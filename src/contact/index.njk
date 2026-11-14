@@ -1,20 +1,20 @@
 ---
 layout: base.njk
 title: Contact & help
-description: Call or WhatsApp VEXA any day for product advice, orders, delivery and installation in Rwanda.
+description: Call or WhatsApp VEXA Monday to Saturday for product advice, orders, delivery and installation in Rwanda.
 ---
 {% from "icons.njk" import icon %}
 <section class="page-head">
   <div class="wrap">
     <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span class="sl">/</span><span>Contact</span></nav>
     <h1>Contact &amp; help</h1>
-    <p>Questions about a product, an order or an installation? We answer every day.</p>
+    <p>Questions about a product, an order or an installation? We answer Monday to Saturday, 7:30 am to 8:00 pm.</p>
   </div>
 </section>
 
 <div class="wrap contact-grid">
   <div class="contact-cards">
-    <a class="contact-card" href="tel:{{ site.phoneHref }}"><span class="ci">{{ icon("phone") }}</span><div><small>Call us</small><b>{{ site.phone }}</b></div></a>
+    <div class="contact-card"><span class="ci">{{ icon("phone") }}</span><div><small>Call us</small><b><a href="tel:{{ site.phoneHref }}">{{ site.phone }}</a> / <a href="tel:{{ site.phone2Href }}">{{ site.phone2 }}</a></b></div></div>
     <a class="contact-card" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener"><span class="ci">{{ icon("whatsapp") }}</span><div><small>WhatsApp</small><b>Chat with sales &amp; support</b></div></a>
     {% if site.email %}<a class="contact-card" href="mailto:{{ site.email }}"><span class="ci">{{ icon("mail") }}</span><div><small>Email</small><b>{{ site.email }}</b></div></a>{% endif %}
     <div class="contact-card"><span class="ci">{{ icon("pin") }}</span><div><small>Based in</small><b>Kigali, delivering across Rwanda</b></div></div>

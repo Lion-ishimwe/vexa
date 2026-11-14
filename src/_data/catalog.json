@@ -96,7 +96,7 @@
       "slug": "electrical",
       "name": "Electrical & Wiring",
       "tagline": "Schneider and Legrand breakers, contactors, drives, switches, sockets and trunking.",
-      "img": "/assets/img/cat/electrical.svg",
+      "img": "/assets/img/cat/electrical.jpg",
       "count": 149,
       "aisles": [
         "Breakers & Protection",
@@ -109,7 +109,7 @@
       "slug": "solar-power",
       "name": "Solar & Power",
       "tagline": "Hybrid and off-grid solar inverters, lithium batteries, online UPS and backup batteries.",
-      "img": "/assets/img/cat/solar-power.svg",
+      "img": "/assets/img/cat/solar-power.jpg",
       "count": 33,
       "aisles": [
         "Inverters",

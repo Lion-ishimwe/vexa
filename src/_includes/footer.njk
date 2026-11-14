@@ -27,7 +27,7 @@
     <div>
       <h3>Get in touch</h3>
       <ul class="footer-contact">
-        <li>{{ icon("phone", "icon-sm") }}<a href="tel:{{ site.phoneHref }}">{{ site.phone }}</a></li>
+        <li>{{ icon("phone", "icon-sm") }}<span><a href="tel:{{ site.phoneHref }}">{{ site.phone }}</a> / <a href="tel:{{ site.phone2Href }}">{{ site.phone2 }}</a></span></li>
         <li>{{ icon("whatsapp", "icon-sm") }}<a href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">WhatsApp</a></li>
         {% if site.email %}<li>{{ icon("mail", "icon-sm") }}<a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
         <li>{{ icon("pin", "icon-sm") }}{{ site.location }}</li>
