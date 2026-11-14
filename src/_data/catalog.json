@@ -3320,8 +3320,9 @@
       "aisle": "Laptops",
       "price": 820000,
       "desc": "Laptop with 14 inch non-touch display, 13th Gen Core i5, 8GB RAM and 512GB SSD.",
-      "img": "",
-      "sku": "VX-1572"
+      "img": "https://europe.pro.infinixmobility.com/media/wysiwyg/Y3-Plus_Silver_03_.png",
+      "sku": "VX-1572",
+      "imgSource": "https://ru.infinixmobility.com/specs/inbook-y3-plus"
     },
     {
       "slug": "hp-omnibook-x-flip-core-ultra-5-16gb-ram-512gb-ssd-14-inch",

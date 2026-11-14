@@ -30139,5 +30139,4429 @@
   "spin": [],
   "source": "https://pcb.inc.hp.com/dc/api/spec-sheet/ww-en/2103134541/pdf/BU7W4EA.pdf",
   "confidence": "low"
+ },
+ "external-hdd-500gb": {
+  "summary": "A 500GB portable external hard drive that plugs into a USB port and is powered by it, so there is no separate charger. It suits quick backups and moving documents between computers. It works with Windows and Mac computers and many smart TVs once formatted for the device you use.",
+  "highlights": [
+   "500GB of storage",
+   "Powered over USB, no adapter needed",
+   "Pocket sized 2.5 inch drive",
+   "Plug and play on most computers",
+   "Works on older USB 2.0 ports at lower speed"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Portable external hard disk drive (HDD)"
+   ],
+   [
+    "Capacity",
+    "500GB"
+   ],
+   [
+    "Drive size",
+    "2.5 inch"
+   ],
+   [
+    "Interface",
+    "USB, usually USB 3.0 (5 Gbps), backward compatible with USB 2.0"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS and other devices that read USB drives (reformatting may be needed)"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 500GB shown by the computer, because makers count 1 GB as 1,000,000,000 bytes"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "external-hdd-1tb": {
+  "summary": "A 1TB portable external hard drive that plugs into a USB port and is powered by it, so there is no separate charger. It suits documents, photos and a good amount of music and video. It works with Windows and Mac computers and many smart TVs once formatted for the device you use.",
+  "highlights": [
+   "1TB of storage",
+   "Powered over USB, no adapter needed",
+   "Pocket sized 2.5 inch drive",
+   "Plug and play on most computers",
+   "Works on older USB 2.0 ports at lower speed"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Portable external hard disk drive (HDD)"
+   ],
+   [
+    "Capacity",
+    "1TB"
+   ],
+   [
+    "Drive size",
+    "2.5 inch"
+   ],
+   [
+    "Interface",
+    "USB, usually USB 3.0 (5 Gbps), backward compatible with USB 2.0"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS and other devices that read USB drives (reformatting may be needed)"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 1TB shown by the computer, because makers count 1 GB as 1,000,000,000 bytes"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "external-hdd-2tb": {
+  "summary": "A 2TB portable external hard drive that plugs into a USB port and is powered by it, so there is no separate charger. It suits large photo and video libraries and full computer backups. It works with Windows and Mac computers and many smart TVs once formatted for the device you use.",
+  "highlights": [
+   "2TB of storage",
+   "Powered over USB, no adapter needed",
+   "Pocket sized 2.5 inch drive",
+   "Plug and play on most computers",
+   "Works on older USB 2.0 ports at lower speed"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Portable external hard disk drive (HDD)"
+   ],
+   [
+    "Capacity",
+    "2TB"
+   ],
+   [
+    "Drive size",
+    "2.5 inch"
+   ],
+   [
+    "Interface",
+    "USB, usually USB 3.0 (5 Gbps), backward compatible with USB 2.0"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS and other devices that read USB drives (reformatting may be needed)"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 2TB shown by the computer, because makers count 1 GB as 1,000,000,000 bytes"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "external-hdd-4tb": {
+  "summary": "A 4TB portable external hard drive that plugs into a USB port and is powered by it, so there is no separate charger. It suits big media collections, many years of photos and full backups of several computers. It works with Windows and Mac computers and many smart TVs once formatted for the device you use.",
+  "highlights": [
+   "4TB of storage",
+   "Powered over USB, no adapter needed",
+   "Pocket sized 2.5 inch drive",
+   "Plug and play on most computers",
+   "Works on older USB 2.0 ports at lower speed"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Portable external hard disk drive (HDD)"
+   ],
+   [
+    "Capacity",
+    "4TB"
+   ],
+   [
+    "Drive size",
+    "2.5 inch"
+   ],
+   [
+    "Interface",
+    "USB, usually USB 3.0 (5 Gbps), backward compatible with USB 2.0"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS and other devices that read USB drives (reformatting may be needed)"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 4TB shown by the computer, because makers count 1 GB as 1,000,000,000 bytes"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "memory-card-128gb": {
+  "summary": "A 128GB microSD card for security cameras, dashcams, phones, tablets and action cameras. It comes in the microSDXC format, so the device must support SDXC cards of this size. A microSD to SD adapter, when included, lets it work in full size SD slots.",
+  "highlights": [
+   "128GB of storage",
+   "microSDXC format",
+   "Fits cameras, phones and tablets",
+   "Usually formatted exFAT"
+  ],
+  "specs": [
+   [
+    "Type",
+    "microSD memory card"
+   ],
+   [
+    "Capacity",
+    "128GB"
+   ],
+   [
+    "Card standard",
+    "microSDXC (cards from 64GB up to 2TB)"
+   ],
+   [
+    "File system",
+    "exFAT as usually supplied"
+   ],
+   [
+    "Size",
+    "15 x 11 x 1 mm (standard microSD size)"
+   ],
+   [
+    "Compatibility",
+    "Devices with a microSDXC slot; older microSDHC only devices cannot use it"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 128GB shown by the device"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "ram-ddr4-8gb": {
+  "summary": "A 8GB DDR4 memory module to speed up a newer computer and run more programs at once. Adding memory helps a computer stay responsive when several programs are open. DDR4 only fits DDR4 slots, so check your computer's memory type and whether it takes a desktop or laptop module before buying.",
+  "highlights": [
+   "8GB DDR4 module",
+   "Helps with multitasking",
+   "Simple to install in a free or upgradable slot",
+   "Not interchangeable with DDR3"
+  ],
+  "specs": [
+   [
+    "Type",
+    "DDR4 SDRAM memory module"
+   ],
+   [
+    "Capacity",
+    "8GB"
+   ],
+   [
+    "Form factor",
+    "288-pin DIMM for desktops or 260-pin SO-DIMM for laptops"
+   ],
+   [
+    "Voltage",
+    "1.2 V standard"
+   ],
+   [
+    "Compatibility",
+    "Computers with DDR4 memory slots, mostly from around 2015 onward"
+   ],
+   [
+    "Note",
+    "DDR4 and DDR3 slots are keyed differently and cannot be swapped"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "ram-ddr4-16gb": {
+  "summary": "A 16GB DDR4 memory module to heavy multitasking, office work with many browser tabs, photo editing and light gaming. Adding memory helps a computer stay responsive when several programs are open. DDR4 only fits DDR4 slots, so check your computer's memory type and whether it takes a desktop or laptop module before buying.",
+  "highlights": [
+   "16GB DDR4 module",
+   "Helps with multitasking",
+   "Simple to install in a free or upgradable slot",
+   "Not interchangeable with DDR3"
+  ],
+  "specs": [
+   [
+    "Type",
+    "DDR4 SDRAM memory module"
+   ],
+   [
+    "Capacity",
+    "16GB"
+   ],
+   [
+    "Form factor",
+    "288-pin DIMM for desktops or 260-pin SO-DIMM for laptops"
+   ],
+   [
+    "Voltage",
+    "1.2 V standard"
+   ],
+   [
+    "Compatibility",
+    "Computers with DDR4 memory slots, mostly from around 2015 onward"
+   ],
+   [
+    "Note",
+    "DDR4 and DDR3 slots are keyed differently and cannot be swapped"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "ram-ddr3-8gb": {
+  "summary": "A 8GB DDR3 memory module to give an older computer more room to work. Adding memory helps a computer stay responsive when several programs are open. DDR3 only fits DDR3 slots, so check your computer's memory type and whether it takes a desktop or laptop module before buying.",
+  "highlights": [
+   "8GB DDR3 module",
+   "Helps with multitasking",
+   "Simple to install in a free or upgradable slot",
+   "Not interchangeable with DDR4"
+  ],
+  "specs": [
+   [
+    "Type",
+    "DDR3 SDRAM memory module"
+   ],
+   [
+    "Capacity",
+    "8GB"
+   ],
+   [
+    "Form factor",
+    "240-pin DIMM for desktops or 204-pin SO-DIMM for laptops"
+   ],
+   [
+    "Voltage",
+    "1.5 V standard (DDR3L low voltage modules run at 1.35 V)"
+   ],
+   [
+    "Compatibility",
+    "Older computers with DDR3 memory slots"
+   ],
+   [
+    "Note",
+    "DDR3 and DDR4 slots are keyed differently and cannot be swapped"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "ram-ddr3-4gb": {
+  "summary": "A 4GB DDR3 memory module to basic upgrades for older computers. Adding memory helps a computer stay responsive when several programs are open. DDR3 only fits DDR3 slots, so check your computer's memory type and whether it takes a desktop or laptop module before buying.",
+  "highlights": [
+   "4GB DDR3 module",
+   "Helps with multitasking",
+   "Simple to install in a free or upgradable slot",
+   "Not interchangeable with DDR4"
+  ],
+  "specs": [
+   [
+    "Type",
+    "DDR3 SDRAM memory module"
+   ],
+   [
+    "Capacity",
+    "4GB"
+   ],
+   [
+    "Form factor",
+    "240-pin DIMM for desktops or 204-pin SO-DIMM for laptops"
+   ],
+   [
+    "Voltage",
+    "1.5 V standard (DDR3L low voltage modules run at 1.35 V)"
+   ],
+   [
+    "Compatibility",
+    "Older computers with DDR3 memory slots"
+   ],
+   [
+    "Note",
+    "DDR3 and DDR4 slots are keyed differently and cannot be swapped"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "ram-ddr4-4gb": {
+  "summary": "A 4GB DDR4 memory module to light use and basic upgrades. Adding memory helps a computer stay responsive when several programs are open. DDR4 only fits DDR4 slots, so check your computer's memory type and whether it takes a desktop or laptop module before buying.",
+  "highlights": [
+   "4GB DDR4 module",
+   "Helps with multitasking",
+   "Simple to install in a free or upgradable slot",
+   "Not interchangeable with DDR3"
+  ],
+  "specs": [
+   [
+    "Type",
+    "DDR4 SDRAM memory module"
+   ],
+   [
+    "Capacity",
+    "4GB"
+   ],
+   [
+    "Form factor",
+    "288-pin DIMM for desktops or 260-pin SO-DIMM for laptops"
+   ],
+   [
+    "Voltage",
+    "1.2 V standard"
+   ],
+   [
+    "Compatibility",
+    "Computers with DDR4 memory slots, mostly from around 2015 onward"
+   ],
+   [
+    "Note",
+    "DDR4 and DDR3 slots are keyed differently and cannot be swapped"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "flash-disk-4gb": {
+  "summary": "A 4GB USB flash disk for moving a few documents and small files. It plugs straight into a USB port with no software needed and fits on a keyring or in a pocket. It works with Windows, Mac and most TVs, car radios and printers that accept USB drives.",
+  "highlights": [
+   "4GB of storage",
+   "Plug and play, no driver needed",
+   "Small and easy to carry",
+   "Works with computers, TVs and car radios"
+  ],
+  "specs": [
+   [
+    "Type",
+    "USB flash drive"
+   ],
+   [
+    "Capacity",
+    "4GB"
+   ],
+   [
+    "Connector",
+    "USB Type-A"
+   ],
+   [
+    "File system",
+    "Usually FAT32 as supplied, which limits single files to 4GB"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Linux and devices that read USB drives"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 4GB shown by the computer"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "flash-disk-8gb": {
+  "summary": "A 8GB USB flash disk for everyday transfers of documents and photos. It plugs straight into a USB port with no software needed and fits on a keyring or in a pocket. It works with Windows, Mac and most TVs, car radios and printers that accept USB drives.",
+  "highlights": [
+   "8GB of storage",
+   "Plug and play, no driver needed",
+   "Small and easy to carry",
+   "Works with computers, TVs and car radios"
+  ],
+  "specs": [
+   [
+    "Type",
+    "USB flash drive"
+   ],
+   [
+    "Capacity",
+    "8GB"
+   ],
+   [
+    "Connector",
+    "USB Type-A"
+   ],
+   [
+    "File system",
+    "Usually FAT32 as supplied, which limits single files to 4GB"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Linux and devices that read USB drives"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 8GB shown by the computer"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "flash-disk-16gb": {
+  "summary": "A 16GB USB flash disk for documents, school work and presentations. It plugs straight into a USB port with no software needed and fits on a keyring or in a pocket. It works with Windows, Mac and most TVs, car radios and printers that accept USB drives.",
+  "highlights": [
+   "16GB of storage",
+   "Plug and play, no driver needed",
+   "Small and easy to carry",
+   "Works with computers, TVs and car radios"
+  ],
+  "specs": [
+   [
+    "Type",
+    "USB flash drive"
+   ],
+   [
+    "Capacity",
+    "16GB"
+   ],
+   [
+    "Connector",
+    "USB Type-A"
+   ],
+   [
+    "File system",
+    "Usually FAT32 as supplied, which limits single files to 4GB"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Linux and devices that read USB drives"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 16GB shown by the computer"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "flash-disk-32gb": {
+  "summary": "A 32GB USB flash disk for presentations, photos and music. It plugs straight into a USB port with no software needed and fits on a keyring or in a pocket. It works with Windows, Mac and most TVs, car radios and printers that accept USB drives.",
+  "highlights": [
+   "32GB of storage",
+   "Plug and play, no driver needed",
+   "Small and easy to carry",
+   "Works with computers, TVs and car radios"
+  ],
+  "specs": [
+   [
+    "Type",
+    "USB flash drive"
+   ],
+   [
+    "Capacity",
+    "32GB"
+   ],
+   [
+    "Connector",
+    "USB Type-A"
+   ],
+   [
+    "File system",
+    "Usually FAT32 as supplied, which limits single files to 4GB"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Linux and devices that read USB drives"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 32GB shown by the computer"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "flash-disk-64gb": {
+  "summary": "A 64GB USB flash disk for bigger files such as videos and large photo folders. It plugs straight into a USB port with no software needed and fits on a keyring or in a pocket. It works with Windows, Mac and most TVs, car radios and printers that accept USB drives.",
+  "highlights": [
+   "64GB of storage",
+   "Plug and play, no driver needed",
+   "Small and easy to carry",
+   "Works with computers, TVs and car radios"
+  ],
+  "specs": [
+   [
+    "Type",
+    "USB flash drive"
+   ],
+   [
+    "Capacity",
+    "64GB"
+   ],
+   [
+    "Connector",
+    "USB Type-A"
+   ],
+   [
+    "File system",
+    "Often exFAT as supplied, which handles files bigger than 4GB"
+   ],
+   [
+    "Compatibility",
+    "Windows, macOS, Linux and devices that read USB drives"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Usable space",
+    "Slightly less than 64GB shown by the computer"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "medium"
+ },
+ "asus-vivobook-16-i9-16gb-1tb": {
+  "summary": "The ASUS Vivobook 16 (X1605VA) is a large screen everyday laptop with a powerful Intel Core i9 processor, 16GB of memory and a roomy 1TB SSD. It suits home, study and office use, heavy multitasking and light creative work. The 16 inch non-touch screen gives plenty of room for spreadsheets and side by side windows, and the full size keyboard includes a number pad.",
+  "highlights": [
+   "13th Gen Intel Core i9 processor for demanding multitasking",
+   "16GB DDR4 memory and a 1TB M.2 NVMe SSD",
+   "16 inch 16:10 non-touch anti-glare display",
+   "Full size keyboard with number pad",
+   "720p webcam with privacy shutter",
+   "USB-C, USB-A and HDMI ports for everyday accessories"
+  ],
+  "specs": [
+   [
+    "Model",
+    "ASUS Vivobook 16 (X1605VA)"
+   ],
+   [
+    "Processor",
+    "Intel Core i9 (13th Gen); the Core i9 ASUS lists for the X1605VA is the i9-13900H (up to 5.4 GHz, 14 cores, 20 threads)"
+   ],
+   [
+    "Memory",
+    "16GB DDR4"
+   ],
+   [
+    "Storage",
+    "1TB M.2 NVMe PCIe SSD"
+   ],
+   [
+    "Display",
+    "16 inch, 16:10, non-touch, anti-glare; FHD (1920 x 1200) OLED or WUXGA (1920 x 1200) IPS-level depending on configuration, with higher resolution IPS panels on some versions"
+   ],
+   [
+    "Graphics",
+    "Intel Iris Xe Graphics (needs dual channel memory) or Intel UHD Graphics"
+   ],
+   [
+    "Ports",
+    "2x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 1 Type-C with power delivery, 1x USB 2.0 Type-A, 1x HDMI 1.4, 1x 3.5 mm combo audio jack, DC-in"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E or Wi-Fi 5 with Bluetooth, depending on configuration"
+   ],
+   [
+    "Camera",
+    "720p HD with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "Chiclet keyboard with number pad, 1.4 mm key travel, backlit on some versions"
+   ],
+   [
+    "Battery",
+    "42Wh or 50Wh 3-cell Li-ion, depending on configuration"
+   ],
+   [
+    "Weight",
+    "1.88 kg"
+   ],
+   [
+    "Dimensions",
+    "35.87 x 24.95 x 1.99 cm"
+   ],
+   [
+    "Operating system",
+    "Windows 11 Home or Pro, depending on region"
+   ],
+   [
+    "Colour",
+    "Indie Black or Cool Silver"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/a4d2fedd-1595-4cee-bd53-fb994c716c91/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/6dc19177-1274-402e-9db8-c43faa8fbba4/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/6863b05f-3020-4827-9367-71224b58bf7d/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/24711174-4494-402c-b222-f17fd77c5b76/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/3252a784-d95d-4f01-8812-b37b14e9b187/w1000"
+  ],
+  "spin": [],
+  "source": "https://www.asus.com/laptops/for-home/vivobook/vivobook-16-oled-x1605/techspec/",
+  "confidence": "medium"
+ },
+ "epson-ecotank-ink-cyan": {
+  "summary": "A genuine Epson 103 EcoTank refill bottle of cyan dye ink for EcoTank printers that take the 103 ink series. Each 65 ml bottle prints up to about 7,500 pages, so you refill rarely. The key-lock nozzle only fits the cyan tank, which keeps refills clean and stops colours from being mixed up.",
+  "highlights": [
+   "Genuine Epson 103 series cyan ink, code C13T00S24A",
+   "65 ml bottle, up to about 7,500 pages",
+   "Dye ink for everyday documents, homework and colour prints",
+   "Key-lock bottle fits only the cyan tank, for mess-free refills",
+   "Fits EcoTank models such as the L3210, L3250 and L5290"
+  ],
+  "specs": [
+   [
+    "Ink series",
+    "Epson 103 EcoTank"
+   ],
+   [
+    "Colour",
+    "Cyan"
+   ],
+   [
+    "Product code",
+    "C13T00S24A"
+   ],
+   [
+    "Volume",
+    "65 ml"
+   ],
+   [
+    "Ink type",
+    "Dye ink"
+   ],
+   [
+    "Page yield",
+    "Up to 7,500 pages (Epson method based on ISO/IEC 24712 patterns)"
+   ],
+   [
+    "Compatible printers (as listed by Epson)",
+    "EcoTank L1110, L1210, L1250, L3110, L3150, L3160, L3210, L3211, L3250, L3251, L3260, L5190, L5290 and other models in the 103 range"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/103_c_bottle_we_side-3d.png?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/supplies/printers/home/103-ecotank-cyan-ink-bottle-c13t00s24a",
+  "confidence": "high"
+ },
+ "epson-ecotank-ink-yellow": {
+  "summary": "A genuine Epson 103 EcoTank refill bottle of yellow dye ink for EcoTank printers that take the 103 ink series. Each 65 ml bottle prints up to about 7,500 pages, so you refill rarely. The key-lock nozzle only fits the yellow tank, which keeps refills clean and stops colours from being mixed up.",
+  "highlights": [
+   "Genuine Epson 103 series yellow ink, code C13T00S44A",
+   "65 ml bottle, up to about 7,500 pages",
+   "Dye ink for everyday documents, homework and colour prints",
+   "Key-lock bottle fits only the yellow tank, for mess-free refills",
+   "Fits EcoTank models such as the L3210, L3250 and L5290"
+  ],
+  "specs": [
+   [
+    "Ink series",
+    "Epson 103 EcoTank"
+   ],
+   [
+    "Colour",
+    "Yellow"
+   ],
+   [
+    "Product code",
+    "C13T00S44A"
+   ],
+   [
+    "Volume",
+    "65 ml"
+   ],
+   [
+    "Ink type",
+    "Dye ink"
+   ],
+   [
+    "Page yield",
+    "Up to 7,500 pages (Epson method based on ISO/IEC 24712 patterns)"
+   ],
+   [
+    "Compatible printers (as listed by Epson)",
+    "EcoTank L1110, L1210, L1250, L3110, L3150, L3160, L3210, L3211, L3250, L3251, L3260, L5190, L5290 and other models in the 103 range"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/103_y_bottle_we_side-3d.png?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/supplies/printers/home/103-ecotank-yellow-ink-bottle-c13t00s44a",
+  "confidence": "high"
+ },
+ "epson-ecotank-l3210-color-printer": {
+  "summary": "The Epson EcoTank L3210 is a compact colour printer that also scans and copies, made for homes, students and small home offices. Instead of cartridges it has refillable ink tanks, and the ink in the box is enough for up to 8,100 black and 6,500 colour pages. It connects to your computer by USB.",
+  "highlights": [
+   "Print, scan and copy in one compact unit",
+   "Refillable ink tanks with very low cost per page",
+   "Ink in the box prints up to 8,100 black and 6,500 colour pages",
+   "Borderless photo prints up to 10 x 15 cm",
+   "Simple USB connection"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy"
+   ],
+   [
+    "Print technology",
+    "Epson Micro Piezo inkjet, 4-colour dye ink"
+   ],
+   [
+    "Max print resolution",
+    "5,760 x 1,440 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "10 pages/min black, 5 pages/min colour"
+   ],
+   [
+    "Max print speed (draft)",
+    "33 pages/min black, 15 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A4, A5, A6, B5, Letter, Legal, 10 x 15 cm, 13 x 18 cm, envelopes (DL, C6, No. 10)"
+   ],
+   [
+    "Paper input",
+    "100-sheet rear tray, 30-sheet output tray"
+   ],
+   [
+    "Paper weight",
+    "64 to 300 g/m²"
+   ],
+   [
+    "Duplex",
+    "Manual"
+   ],
+   [
+    "Scanner",
+    "Flatbed, contact image sensor (CIS), 600 x 1,200 dpi optical"
+   ],
+   [
+    "Connectivity",
+    "USB"
+   ],
+   [
+    "Ink",
+    "Epson 103 EcoTank bottles (Middle East and Africa)"
+   ],
+   [
+    "Included ink yield",
+    "8,100 pages black, 6,500 pages colour"
+   ],
+   [
+    "Power",
+    "220 to 240 V AC"
+   ],
+   [
+    "Dimensions",
+    "375 x 347 x 179 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "3.9 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "4 x 65 ml ink bottles (black, cyan, magenta, yellow) plus 1 extra black bottle",
+   "Setup guide",
+   "Driver and utilities CD",
+   "Warranty document"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/20lou2_mcx_blk_04_2.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/20lou2_mcx_blk_11_2_jpg.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/home/ecotank-home-l3210-c11cj68405",
+  "confidence": "high"
+ },
+ "epson-ecotank-l3250-color-wifi-printer": {
+  "summary": "The Epson EcoTank L3250 is a compact colour printer, scanner and copier with Wi-Fi, so you can print from laptops and phones around the house. Its refillable ink tanks replace cartridges, and the ink in the box lasts for up to 8,100 black and 6,500 colour pages. A good fit for families, students and home offices.",
+  "highlights": [
+   "Print, scan and copy with Wi-Fi and Wi-Fi Direct",
+   "Print from your phone with the Epson Smart Panel app",
+   "Ink in the box prints up to 8,100 black and 6,500 colour pages",
+   "Refillable ink tanks with key-lock bottles",
+   "Sharper 1,200 x 2,400 dpi scanner"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy"
+   ],
+   [
+    "Print technology",
+    "Epson Micro Piezo inkjet, 4-colour dye ink"
+   ],
+   [
+    "Max print resolution",
+    "5,760 x 1,440 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "10 pages/min black, 5 pages/min colour"
+   ],
+   [
+    "Max print speed (draft)",
+    "33 pages/min black, 15 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A4, A5, A6, B5, Letter, Legal, 10 x 15 cm, 13 x 18 cm, envelopes (DL, C6, No. 10)"
+   ],
+   [
+    "Paper input",
+    "100-sheet rear tray, 30-sheet output tray"
+   ],
+   [
+    "Duplex",
+    "Manual"
+   ],
+   [
+    "Scanner",
+    "Flatbed, contact image sensor (CIS), 1,200 x 2,400 dpi optical"
+   ],
+   [
+    "Connectivity",
+    "USB, Wi-Fi, Wi-Fi Direct"
+   ],
+   [
+    "Mobile printing",
+    "Epson Smart Panel app, Epson Connect (iPrint, Email Print, Remote Print)"
+   ],
+   [
+    "Ink",
+    "Epson 103 EcoTank bottles (Middle East and Africa)"
+   ],
+   [
+    "Included ink yield",
+    "8,100 pages black, 6,500 pages colour"
+   ],
+   [
+    "Power",
+    "220 to 240 V AC"
+   ],
+   [
+    "Dimensions",
+    "375 x 347 x 179 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "3.9 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "4 x 65 ml ink bottles (black, cyan, magenta, yellow) plus 1 extra black bottle",
+   "Setup guide",
+   "Driver and utilities CD",
+   "Warranty document"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/20lou2_mdx_blk_04_2.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/20lou2_mdx_blk_11_2.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/20lou2_mdx_blk_12_a.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/home/ecotank-home-l3250-c11cj67418",
+  "confidence": "high"
+ },
+ "epson-ecotank-l5290-printer": {
+  "summary": "The Epson EcoTank L5290 is a colour all-in-one for small offices and busy homes: it prints, scans, copies and faxes. A 30-page automatic document feeder handles multi-page originals, and it connects by Wi-Fi, Ethernet or USB. Refillable ink tanks keep running costs low, with ink in the box for up to 8,100 black and 6,500 colour pages.",
+  "highlights": [
+   "Print, scan, copy and fax",
+   "30-page automatic document feeder",
+   "Wi-Fi, Wi-Fi Direct, Ethernet and USB",
+   "3.7 cm colour screen",
+   "Ink in the box prints up to 8,100 black and 6,500 colour pages"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy, fax"
+   ],
+   [
+    "Print technology",
+    "Epson Micro Piezo inkjet, 4-colour dye ink"
+   ],
+   [
+    "Max print resolution",
+    "5,760 x 1,440 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "10 pages/min black, 5 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A4, A5, A6, B5, Letter, Legal, 10 x 15 cm, 13 x 18 cm, envelopes (DL, C6, No. 10)"
+   ],
+   [
+    "Paper input",
+    "100-sheet rear tray, 30-sheet output tray"
+   ],
+   [
+    "Automatic document feeder",
+    "30 pages"
+   ],
+   [
+    "Duplex",
+    "Manual"
+   ],
+   [
+    "Scanner",
+    "Flatbed and ADF, contact image sensor (CIS), 1,200 x 2,400 dpi optical"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, 100 speed dials, memory for up to 100 pages, PC fax"
+   ],
+   [
+    "Connectivity",
+    "USB, Ethernet, Wi-Fi, Wi-Fi Direct"
+   ],
+   [
+    "Ink",
+    "Epson 103 EcoTank bottles"
+   ],
+   [
+    "Included ink yield",
+    "8,100 pages black, 6,500 pages colour"
+   ],
+   [
+    "Dimensions",
+    "375 x 347 x 237 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "5 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "4 x 65 ml ink bottles (black, cyan, magenta, yellow) plus 1 extra black bottle",
+   "Software CD",
+   "Warranty document"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/20lou2_fjx_blk_05_2.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/20lou2_fjx_blk_11_2.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a17899-productpicture-hires-en-int-l5290_8_alternative_angle1_2000x2000.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/business/ecotank-business-l5290-c11cj65409",
+  "confidence": "high"
+ },
+ "epson-ecotank-l6490": {
+  "summary": "The Epson EcoTank L6490 is a fast A4 colour all-in-one for small businesses, with print, scan, copy and fax. It prints both sides automatically, has a 35-page document feeder, a 250-sheet paper tray and a 6.1 cm touchscreen. Pigment inks give sharp, smudge-resistant text, and the ink in the box lasts for up to 13,300 black and 5,200 colour pages.",
+  "highlights": [
+   "Print, scan, copy and fax with automatic two-sided printing",
+   "17 pages/min black and 9.5 pages/min colour (ISO)",
+   "35-page document feeder and 250-sheet paper tray",
+   "Pigment inks for crisp, smudge-resistant text",
+   "Wi-Fi, Wi-Fi Direct, Ethernet and USB",
+   "Ink in the box prints up to 13,300 black and 5,200 colour pages"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy, fax"
+   ],
+   [
+    "Print technology",
+    "PrecisionCore inkjet, 4-colour pigment ink"
+   ],
+   [
+    "Max print resolution",
+    "4,800 x 1,200 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "17 pages/min black, 9.5 pages/min colour"
+   ],
+   [
+    "Duplex",
+    "Automatic (A4 plain paper), 7.5 pages/min black, 5 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A4, A5, A6, B5, Letter, Legal, 10 x 15 cm, 13 x 18 cm, envelopes (DL, C6, No. 10)"
+   ],
+   [
+    "Paper input",
+    "250-sheet tray plus rear feed, 30-sheet output tray"
+   ],
+   [
+    "Automatic document feeder",
+    "35 pages"
+   ],
+   [
+    "Scanner",
+    "Flatbed and ADF, contact image sensor (CIS), 1,200 x 2,400 dpi optical"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, 100 speed dials, memory for up to 180 pages, PC fax"
+   ],
+   [
+    "Connectivity",
+    "USB, Ethernet, Wi-Fi, Wi-Fi Direct"
+   ],
+   [
+    "Display",
+    "6.1 cm colour touchscreen"
+   ],
+   [
+    "Ink",
+    "Epson 112 EcoTank pigment bottles (127 ml black, 70 ml colours)"
+   ],
+   [
+    "Included ink yield",
+    "13,300 pages black, 5,200 pages colour"
+   ],
+   [
+    "Dimensions",
+    "346 x 375 x 347 mm (as stated by Epson)"
+   ],
+   [
+    "Weight",
+    "7.3 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "1 set of ink (1 x 127 ml black, 3 x 70 ml cyan, magenta, yellow) plus extra black",
+   "Setup guide",
+   "Driver and utilities CD",
+   "Warranty document"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6490_8_printerpanel_2000x2000.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6490_9_alternative_angle_2000x2000.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6490_4_ink-hotspot_2000x2000.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/business-plus/ecotank-business-l6490-c11cj88404da",
+  "confidence": "high"
+ },
+ "epson-ecotank-pro-m15180": {
+  "summary": "The Epson EcoTank Pro M15180 is a black and white A3+ printer, scanner and copier for busy offices. It prints 25 pages per minute, handles A3 two-sided printing, scanning and copying, and holds up to 550 sheets with its three paper sources. A 10.9 cm touchscreen, network connections and a refillable pigment ink tank make it a low-cost workhorse.",
+  "highlights": [
+   "Mono A3+ print, scan and copy",
+   "25 pages/min (ISO), 16 pages/min two-sided",
+   "Automatic two-sided printing, copying and scanning up to A3",
+   "50-page document feeder, up to 550 sheets of paper",
+   "10.9 cm colour touchscreen, Wi-Fi, Ethernet and USB",
+   "Refillable pigment ink, Epson 112 black bottles"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy (black and white printing)"
+   ],
+   [
+    "Print technology",
+    "PrecisionCore inkjet, DURABrite ET pigment black ink"
+   ],
+   [
+    "Max print resolution",
+    "4,800 x 1,200 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "25 pages/min, 16 pages/min two-sided"
+   ],
+   [
+    "First page out",
+    "5.5 seconds"
+   ],
+   [
+    "Paper sizes",
+    "Up to A3+, including A3, A4, A5, A6, B5, B6, Letter, Legal, envelopes"
+   ],
+   [
+    "Paper input",
+    "250 sheets standard, up to 550 sheets, 3 paper sources including rear feed"
+   ],
+   [
+    "Output tray",
+    "125 sheets"
+   ],
+   [
+    "Duplex",
+    "Automatic, A4 and A3"
+   ],
+   [
+    "Automatic document feeder",
+    "50 pages, two-sided"
+   ],
+   [
+    "Scanner",
+    "Contact image sensor (CIS), 1,200 dpi, max scan size 297 x 432 mm"
+   ],
+   [
+    "Connectivity",
+    "USB 2.0, Ethernet, Wi-Fi (802.11a/b/g/n/ac), Wi-Fi Direct, USB host"
+   ],
+   [
+    "Display",
+    "10.9 cm colour touchscreen"
+   ],
+   [
+    "Included ink yield",
+    "4,500 pages black"
+   ],
+   [
+    "Dimensions",
+    "515 x 500 x 350 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "20.3 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "Quick start guide",
+   "Installation and safety manual",
+   "Driver and utilities CD",
+   "Warranty document"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/m15180.png?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a25477-productpicture-hires-en-int-ecotank_m15180_07_panel_2000x2000px.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a25477-productpicture-hires-en-int-ecotank_m15180_08_alternative_angle_2000x2000px.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a25477-productpicture-hires-en-int-ecotank_m15180_03_inkbottles_hotspots_2000x2000px.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.eu/en_EU/products/printers/inkjet/business-inkjet/ecotank-pro-m15180/p/31130",
+  "confidence": "high"
+ },
+ "epson-l15150-meaf": {
+  "summary": "The Epson EcoTank L15150 is an A3+ colour all-in-one for offices that print large documents, with print, scan, copy and fax. It prints, copies and scans both sides automatically up to A3, has a 50-page document feeder and a 10.9 cm touchscreen. Refillable pigment inks keep text sharp and running costs low.",
+  "highlights": [
+   "A3+ colour print, scan, copy and fax",
+   "25 pages/min black, 12 pages/min colour (ISO)",
+   "Automatic two-sided printing, copying, scanning and faxing up to A3",
+   "50-page document feeder and 10.9 cm colour touchscreen",
+   "Wi-Fi, Wi-Fi Direct, Ethernet and USB",
+   "Refillable Epson 112 pigment inks"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy, fax"
+   ],
+   [
+    "Print technology",
+    "PrecisionCore inkjet, DURABrite ET 4-colour pigment ink"
+   ],
+   [
+    "Max print resolution",
+    "4,800 x 2,400 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "25 pages/min black, 12 pages/min colour"
+   ],
+   [
+    "Two-sided speed (ISO)",
+    "16 pages/min black, 9 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A3+, A3, A4, A5, A6, B6, envelopes (DL, No. 10)"
+   ],
+   [
+    "Paper input",
+    "250 sheets standard, 3 paper sources; 125-sheet output tray"
+   ],
+   [
+    "Duplex",
+    "Automatic, A4 and A3"
+   ],
+   [
+    "Automatic document feeder",
+    "50 pages, two-sided"
+   ],
+   [
+    "Scanner",
+    "Contact image sensor (CIS), 2,400 x 1,200 dpi, max scan size 297 x 432 mm"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, 200 speed dials, memory up to 550 pages, fax to email"
+   ],
+   [
+    "Connectivity",
+    "USB, Ethernet, Wi-Fi, Wi-Fi Direct, USB host"
+   ],
+   [
+    "Included ink yield",
+    "4,500 pages black, 2,800 pages colour"
+   ],
+   [
+    "Power",
+    "220 to 240 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Dimensions",
+    "515 x 500 x 350 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "20.2 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "1 set of ink (1 x 127 ml black, 3 x 70 ml cyan, magenta, yellow)",
+   "Quick start guide",
+   "User manual"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/a18460-productpicture-hires-en-int-ecotank_l15150_07_panel_2000x2000px.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a18460-productpicture-hires-en-int-ecotank_l15150_08_alternative_angle_2000x2000px.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a18460-productpicture-hires-en-int-ecotank_l15150_03_ink-hotspot_2000x2000px.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/business-plus/ecotank-business-l15150-c11ch72403da",
+  "confidence": "high"
+ },
+ "epson-l15160-meaf": {
+  "summary": "The Epson EcoTank L15160 is a fast A3+ colour all-in-one for busy offices, with print, scan, copy and fax. It prints colour as fast as black at 25 pages per minute, handles two-sided jobs up to A3, and has a 50-page document feeder and a 10.9 cm touchscreen. Refillable pigment inks keep text sharp and running costs low.",
+  "highlights": [
+   "A3+ colour print, scan, copy and fax",
+   "25 pages/min in both black and colour (ISO)",
+   "Automatic two-sided printing, copying, scanning and faxing up to A3",
+   "50-page document feeder and 10.9 cm colour touchscreen",
+   "Wi-Fi, Wi-Fi Direct, Ethernet and USB",
+   "Refillable Epson 112 pigment inks"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy, fax"
+   ],
+   [
+    "Print technology",
+    "PrecisionCore inkjet, DURABrite ET 4-colour pigment ink"
+   ],
+   [
+    "Max print resolution",
+    "4,800 x 1,200 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "25 pages/min black, 25 pages/min colour"
+   ],
+   [
+    "Two-sided speed (ISO)",
+    "21 pages/min black, 21 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A3+, A3, A4, A5, A6, B6, envelopes (DL, No. 10)"
+   ],
+   [
+    "Paper input",
+    "250 sheets standard, 3 paper sources; 250-sheet output tray"
+   ],
+   [
+    "Duplex",
+    "Automatic, A4 and A3"
+   ],
+   [
+    "Automatic document feeder",
+    "50 pages, two-sided"
+   ],
+   [
+    "Scanner",
+    "Contact image sensor (CIS), 2,400 x 1,200 dpi, max scan size 297 x 432 mm"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, 200 speed dials, memory up to 550 pages, fax to email"
+   ],
+   [
+    "Connectivity",
+    "USB, Ethernet, Wi-Fi, Wi-Fi Direct, USB host"
+   ],
+   [
+    "Included ink yield",
+    "4,500 pages black, 2,800 pages colour"
+   ],
+   [
+    "Power",
+    "220 to 240 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Dimensions",
+    "515 x 500 x 350 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "20.9 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "1 set of ink (1 x 127 ml black, 3 x 70 ml cyan, magenta, yellow)",
+   "Quick start guide",
+   "User manual"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/a18460-productpicture-hires-en-int-ecotank_l15160_07_panel_2000x2000px.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a18460-productpicture-hires-en-int-ecotank_l15160_08_alternative_angle_2000x2000px.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a18460-productpicture-hires-en-int-ecotank_l15160_03_ink-hotspot_2000x2000px.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/business-plus/ecotank-business-l15160-c11ch71403da",
+  "confidence": "high"
+ },
+ "epson-l6550-meaf": {
+  "summary": "The Epson EcoTank L6550 is an A4 colour all-in-one for small and medium offices, with print, scan, copy and fax. It prints 25 pages per minute in black, handles two-sided printing, copying and scanning automatically, and holds plenty of paper. A 10.9 cm touchscreen, network connections and refillable pigment inks make it a low-cost office printer.",
+  "highlights": [
+   "A4 colour print, scan, copy and fax",
+   "25 pages/min black, 12 pages/min colour (ISO)",
+   "Automatic two-sided printing, copying, scanning and faxing",
+   "50-page document feeder and 10.9 cm colour touchscreen",
+   "Wi-Fi (802.11ac), Wi-Fi Direct, Ethernet and USB",
+   "Refillable Epson 112 pigment inks"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy, fax"
+   ],
+   [
+    "Print technology",
+    "PrecisionCore inkjet, DURABrite ET 4-colour pigment ink"
+   ],
+   [
+    "Max print resolution",
+    "4,800 x 2,400 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "25 pages/min black, 12 pages/min colour"
+   ],
+   [
+    "Two-sided speed (ISO)",
+    "16 pages/min black, 9 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A4, A5, A6, B5, B6, Letter, Legal, envelopes (DL, C4, C6, No. 10)"
+   ],
+   [
+    "Paper input",
+    "550 sheets standard, 3 paper sources including rear feed; 125-sheet output tray"
+   ],
+   [
+    "Duplex",
+    "Automatic (A4)"
+   ],
+   [
+    "Automatic document feeder",
+    "50 pages, two-sided"
+   ],
+   [
+    "Scanner",
+    "Contact image sensor (CIS), 1,200 x 2,400 dpi"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, 200 speed dials, memory up to 550 pages, fax to email"
+   ],
+   [
+    "Connectivity",
+    "USB, Ethernet, Wi-Fi 802.11a/b/g/n/ac, Wi-Fi Direct"
+   ],
+   [
+    "Ink",
+    "Epson 112 EcoTank pigment bottles"
+   ],
+   [
+    "Included ink yield",
+    "4,500 pages black, 2,800 pages colour"
+   ],
+   [
+    "Dimensions",
+    "425 x 500 x 350 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "17.5 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6550_8_printerpanel_2000x2000.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6550_9_alternative_angle_2000x2000.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6550_4_ink-hotspot_2000x2000.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://epson.eu/en_EU/products/printers/inkjet/consumer/ecotank-l6550/p/29234",
+  "confidence": "high"
+ },
+ "epson-l6570-meaf": {
+  "summary": "The Epson EcoTank L6570 is a fast A4 colour all-in-one for busy offices, with print, scan, copy and fax. It prints colour as fast as black at 25 pages per minute, handles two-sided jobs automatically and holds plenty of paper. A 10.9 cm touchscreen, network connections and refillable pigment inks make it a low-cost office printer.",
+  "highlights": [
+   "A4 colour print, scan, copy and fax",
+   "25 pages/min in both black and colour (ISO)",
+   "Automatic two-sided printing, copying, scanning and faxing",
+   "50-page document feeder and 10.9 cm colour touchscreen",
+   "Wi-Fi (802.11ac), Wi-Fi Direct, Ethernet and USB",
+   "Refillable Epson 112 pigment inks"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy, fax"
+   ],
+   [
+    "Print technology",
+    "PrecisionCore inkjet, DURABrite ET 4-colour pigment ink"
+   ],
+   [
+    "Max print resolution",
+    "4,800 x 1,200 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "25 pages/min black, 25 pages/min colour"
+   ],
+   [
+    "Two-sided speed (ISO)",
+    "21 pages/min black, 21 pages/min colour"
+   ],
+   [
+    "Paper sizes",
+    "A4, A5, A6, B5, B6, Letter, Legal, envelopes (DL, C4, C6, No. 10)"
+   ],
+   [
+    "Paper input",
+    "550 sheets standard, 3 paper sources including rear feed; 125-sheet output tray"
+   ],
+   [
+    "Duplex",
+    "Automatic (A4)"
+   ],
+   [
+    "Automatic document feeder",
+    "50 pages, two-sided"
+   ],
+   [
+    "Scanner",
+    "Contact image sensor (CIS), 1,200 x 2,400 dpi"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, 200 speed dials, memory up to 550 pages, fax to email"
+   ],
+   [
+    "Connectivity",
+    "USB, Ethernet, Wi-Fi 802.11a/b/g/n/ac, Wi-Fi Direct"
+   ],
+   [
+    "Included ink yield",
+    "4,500 pages black, 2,800 pages colour"
+   ],
+   [
+    "Power",
+    "220 to 240 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Dimensions",
+    "425 x 500 x 350 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "17.8 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "1 set of ink (1 x 127 ml black, 3 x 70 ml cyan, magenta, yellow)",
+   "Quick start guide",
+   "User guide"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6570_8_printerpanel_2000x2000.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6570_9_alternative_angle_2000x2000.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a17902-productpicture-hires-en-int-l6570_4_ink-hotspot_2000x2000.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/business-plus/ecotank-business-l6570-c11cj29403da",
+  "confidence": "high"
+ },
+ "epson-lq-590-240v": {
+  "summary": "The Epson LQ-590 is a heavy-duty 24-pin dot matrix printer for invoices, delivery notes and multi-part forms. It prints an original plus four carbon copies at up to 440 characters per second, and accepts single sheets, continuous paper, labels and roll paper. Built for long service, it uses long-life ribbon cartridges rated for about 5 million characters.",
+  "highlights": [
+   "24-pin, 80-column impact printer for multi-part forms",
+   "Up to 440 characters per second (high-speed draft)",
+   "Original plus 4 copies",
+   "Front and rear feed for sheets and continuous paper",
+   "Parallel and USB, with optional network or serial card",
+   "Ribbon cartridge C13S015337 lasts about 5 million characters"
+  ],
+  "specs": [
+   [
+    "Print technology",
+    "24-pin impact dot matrix"
+   ],
+   [
+    "Columns",
+    "80"
+   ],
+   [
+    "Print speed",
+    "440 cps high-speed draft, 330 cps draft, 110 cps letter quality (10 cpi)"
+   ],
+   [
+    "Max resolution",
+    "360 x 180 dpi"
+   ],
+   [
+    "Copies",
+    "Original plus 4"
+   ],
+   [
+    "Paper handling",
+    "Single sheet front and rear, continuous paper front and rear, rear output; optional 150-sheet feeder"
+   ],
+   [
+    "Media",
+    "Single and multi-part sheets, continuous paper, labels, roll paper"
+   ],
+   [
+    "Interfaces",
+    "Bidirectional parallel, USB 2.0, Type B slot (optional Ethernet or RS-232)"
+   ],
+   [
+    "Emulations",
+    "ESC/P2, IBM PPDS"
+   ],
+   [
+    "Ribbon",
+    "Epson C13S015337, about 5 million characters"
+   ],
+   [
+    "Reliability",
+    "MTBF 20,000 hours, print head 400 million strokes per wire"
+   ],
+   [
+    "Power consumption",
+    "42 W"
+   ],
+   [
+    "Dimensions",
+    "438 x 375 x 172 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "7.1 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.epson.eu/en_EU/products/printers/dot-matrix/epson-lq-590/p/266",
+  "confidence": "medium"
+ },
+ "epson-m3170": {
+  "summary": "The Epson EcoTank M3170 is a black and white A4 all-in-one for small offices, with print, scan, copy and fax. It prints 20 pages per minute, does automatic two-sided printing and has a 35-page document feeder. The two ink bottles in the box are rated for up to 11,000 pages, so running costs stay very low.",
+  "highlights": [
+   "Mono print, scan, copy and fax",
+   "20 pages/min (ISO), automatic two-sided printing",
+   "35-page document feeder and 250-sheet paper tray",
+   "6.1 cm colour touchscreen",
+   "Wi-Fi, Wi-Fi Direct, Ethernet and USB",
+   "Two ink bottles in the box, up to 11,000 pages"
+  ],
+  "specs": [
+   [
+    "Functions",
+    "Print, scan, copy, fax (black and white printing)"
+   ],
+   [
+    "Print technology",
+    "PrecisionCore inkjet, pigment black ink"
+   ],
+   [
+    "Max print resolution",
+    "1,200 x 2,400 dpi"
+   ],
+   [
+    "Print speed (ISO/IEC 24734)",
+    "20 pages/min, 9 pages/min two-sided"
+   ],
+   [
+    "First page out",
+    "6 seconds"
+   ],
+   [
+    "Paper sizes",
+    "A4, A5, A6, B5, B6, Letter, Legal, Executive"
+   ],
+   [
+    "Paper input",
+    "250-sheet tray plus rear feed; 100-sheet output tray"
+   ],
+   [
+    "Duplex",
+    "Automatic (A4)"
+   ],
+   [
+    "Automatic document feeder",
+    "35 pages"
+   ],
+   [
+    "Scanner",
+    "Flatbed and ADF, contact image sensor (CIS), 1,200 x 2,400 dpi"
+   ],
+   [
+    "Fax",
+    "33.6 kbps, 100 speed dials, memory up to 180 pages, PC fax"
+   ],
+   [
+    "Connectivity",
+    "USB, Ethernet, Wi-Fi, Wi-Fi Direct"
+   ],
+   [
+    "Ink",
+    "Epson 110 EcoTank pigment black bottles"
+   ],
+   [
+    "Included ink yield",
+    "11,000 pages"
+   ],
+   [
+    "Dimensions",
+    "375 x 347 x 346 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "7.3 kg"
+   ]
+  ],
+  "inBox": [
+   "Printer",
+   "Power cable",
+   "2 ink bottles",
+   "Warranty document"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/m3170-web.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a19884-productpicture-hires-en-int-ecotank_m3170_08_panel_2000x2000px.jpg?w=1000",
+   "https://i8.amplience.net/i/epsonemear/a19884-productpicture-hires-en-int-ecotank_m3170_04_ink-hotspot_2000x2000px.jpg?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.ae/printers/ecotank/business-plus/ecotank-business-m3170-c11cg92404by",
+  "confidence": "high"
+ },
+ "epson-projector-co-w01": {
+  "summary": "The Epson CO-W01 is a compact, easy to use 3LCD projector for presentations, classes, films and gaming. It gives 3,000 lumens of bright colour and white light at WXGA resolution, projects images from 33 to 378 inches, and connects by HDMI. A built-in 5 W speaker and a long lamp life make it simple to set up anywhere.",
+  "highlights": [
+   "3LCD with 3,000 lumens colour and white brightness",
+   "WXGA resolution, 16:10",
+   "Screen size from 33 to 378 inches",
+   "HDMI input and built-in 5 W speaker",
+   "Lamp life up to 6,000 hours, 12,000 hours in eco mode",
+   "Light and compact at 2.4 kg"
+  ],
+  "specs": [
+   [
+    "Technology",
+    "3LCD, 0.59 inch panels"
+   ],
+   [
+    "Brightness",
+    "3,000 lumens colour and white (2,000 lumens eco), ISO 21118"
+   ],
+   [
+    "Resolution",
+    "WXGA, 16:10"
+   ],
+   [
+    "Throw ratio",
+    "1.27 to 1.71:1"
+   ],
+   [
+    "Screen size",
+    "33 to 378 inches"
+   ],
+   [
+    "Projection distance",
+    "0.9 to 10.4 m (1.64 m for a 60 inch image)"
+   ],
+   [
+    "Keystone correction",
+    "Manual, vertical and horizontal up to 30 degrees"
+   ],
+   [
+    "Connections",
+    "HDMI 1.4, USB 2.0 Type A, USB Type B (service only)"
+   ],
+   [
+    "Lamp",
+    "188 W UHE, 6,000 hours (12,000 hours eco mode)"
+   ],
+   [
+    "Speaker",
+    "5 W built-in"
+   ],
+   [
+    "Noise",
+    "38 dB normal, 29 dB eco"
+   ],
+   [
+    "Power consumption",
+    "270 W normal, 214 W eco, 0.5 W standby"
+   ],
+   [
+    "Dimensions",
+    "295 x 211 x 87 mm (W x D x H)"
+   ],
+   [
+    "Weight",
+    "2.4 kg"
+   ]
+  ],
+  "inBox": [
+   "Projector",
+   "Power cable",
+   "Remote control with batteries",
+   "Quick start guide",
+   "User manual (CD)",
+   "Warranty card"
+  ],
+  "images": [
+   "https://i8.amplience.net/i/epsonemear/w01_w_std_02_png.png?w=1000",
+   "https://i8.amplience.net/i/epsonemear/w01_w_std_03_png.png?w=1000",
+   "https://i8.amplience.net/i/epsonemear/w01_w_std_05_png.png?w=1000",
+   "https://i8.amplience.net/i/epsonemear/w01_w_std_06_png.png?w=1000",
+   "https://i8.amplience.net/i/epsonemear/w01_w_std_07_png.png?w=1000"
+  ],
+  "spin": [],
+  "source": "https://www.epson.eu/en_EU/products/projector/home-cinema/co-w01-projector/p/35469",
+  "confidence": "high"
+ },
+ "lenovo-loq-15irx10-i7-13650hx-16gb-512gb-rtx5060-15-6-fhd-win11-luna-grey": {
+  "summary": "The Lenovo LOQ 15IRX10 is a 15.6 inch gaming laptop built around an Intel Core i7-13650HX and an NVIDIA GeForce RTX 5060 graphics card. It suits players and creators who want smooth 1080p gaming on a fast 144Hz screen. Memory and storage can be expanded later thanks to two memory slots and a spare SSD slot.",
+  "highlights": [
+   "Intel Core i7-13650HX with 14 cores and 20 threads",
+   "NVIDIA GeForce RTX 5060 Laptop GPU with 8GB GDDR7, up to 100W",
+   "15.6 inch Full HD 144Hz IPS screen with G-SYNC",
+   "16GB DDR5 and 512GB PCIe 4.0 SSD, both upgradable",
+   "Full size keyboard with numeric keypad"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i7-13650HX (14 cores: 6 P-cores + 8 E-cores, 20 threads, up to 4.9 GHz, 24MB cache)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5, two SODIMM slots (up to 32GB)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD, second M.2 slot free"
+   ],
+   [
+    "Display",
+    "15.6 inch FHD (1920 x 1080) IPS, 144Hz, 300 nits, 100% sRGB, anti-glare, non-touch, NVIDIA G-SYNC"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 5060 Laptop GPU, 8GB GDDR7, up to 100W TGP"
+   ],
+   [
+    "Ports",
+    "3x USB-A (5Gbps), 1x USB-C (10Gbps) with Power Delivery and DisplayPort 1.4, HDMI 2.1, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 (802.11ax 2x2) and Bluetooth 5.2"
+   ],
+   [
+    "Keyboard",
+    "Full size with numeric keypad and Copilot key, white or 24-zone RGB backlight depending on configuration"
+   ],
+   [
+    "Camera and audio",
+    "5MP camera with electronic shutter, 2x 2W stereo speakers with Nahimic Audio"
+   ],
+   [
+    "Battery",
+    "60Wh or 80Wh depending on configuration, Rapid Charge Pro (up to 50% in 30 minutes)"
+   ],
+   [
+    "Dimensions",
+    "359.86 x 258.7 x 21.9 to 23.9 mm"
+   ],
+   [
+    "Weight",
+    "From 2.4 kg"
+   ],
+   [
+    "Operating system",
+    "Windows 11"
+   ],
+   [
+    "Colour",
+    "Luna Grey"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_10.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT2_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_08.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT2_02.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15IRX10/LOQ_15IRX10_Spec.pdf",
+  "confidence": "high"
+ },
+ "lenovo-loq-15irx10-i7-13650hx-16gb-512gb-rtx50650-15-6-fhd-win11-luna-grey": {
+  "summary": "The Lenovo LOQ 15IRX10 is a 15.6 inch gaming laptop with an Intel Core i7-13650HX and an NVIDIA GeForce RTX 50 series graphics card. It is a good fit for 1080p gaming, streaming and creative work on a fast 144Hz screen. Memory and storage can be expanded later thanks to two memory slots and a spare SSD slot.",
+  "highlights": [
+   "Intel Core i7-13650HX with 14 cores and 20 threads",
+   "NVIDIA GeForce RTX 50 series Laptop GPU with 8GB GDDR7",
+   "15.6 inch Full HD 144Hz IPS screen with G-SYNC",
+   "16GB DDR5 and 512GB PCIe 4.0 SSD, both upgradable",
+   "Full size keyboard with numeric keypad"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i7-13650HX (14 cores: 6 P-cores + 8 E-cores, 20 threads, up to 4.9 GHz, 24MB cache)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5, two SODIMM slots (up to 32GB)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD, second M.2 slot free"
+   ],
+   [
+    "Display",
+    "15.6 inch FHD (1920 x 1080) IPS, 144Hz, 300 nits, 100% sRGB, anti-glare, non-touch, NVIDIA G-SYNC"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 5050 or RTX 5060 Laptop GPU (see note), 8GB GDDR7, up to 100W TGP"
+   ],
+   [
+    "Ports",
+    "3x USB-A (5Gbps), 1x USB-C (10Gbps) with Power Delivery and DisplayPort 1.4, HDMI 2.1, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 (802.11ax 2x2) and Bluetooth 5.2"
+   ],
+   [
+    "Keyboard",
+    "Full size with numeric keypad and Copilot key, white or 24-zone RGB backlight depending on configuration"
+   ],
+   [
+    "Camera and audio",
+    "5MP camera with electronic shutter, 2x 2W stereo speakers with Nahimic Audio"
+   ],
+   [
+    "Battery",
+    "60Wh or 80Wh depending on configuration, Rapid Charge Pro (up to 50% in 30 minutes)"
+   ],
+   [
+    "Dimensions",
+    "359.86 x 258.7 x 21.9 to 23.9 mm"
+   ],
+   [
+    "Weight",
+    "From 2.4 kg"
+   ],
+   [
+    "Operating system",
+    "Windows 11"
+   ],
+   [
+    "Colour",
+    "Luna Grey"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_10.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT2_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_08.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT2_02.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15IRX10/LOQ_15IRX10_Spec.pdf",
+  "confidence": "medium"
+ },
+ "asus-expertbook-b1503-cva-core-i3-8gb-ram-256gb-ssd-15-6-inch": {
+  "summary": "The ASUS ExpertBook B1 (B1503CVA) is a durable 15.6 inch business laptop for offices, schools and small businesses. It pairs a 13th Gen Intel Core i3 processor with 8GB of DDR5 memory and a 256GB PCIe 4.0 SSD for smooth everyday work. It is tested to the US MIL-STD 810H military grade standard, has a full keyboard with number pad and a wired LAN port, and both memory and storage can be upgraded later.",
+  "highlights": [
+   "13th Gen Intel Core i3 processor",
+   "8GB DDR5 memory, two SO-DIMM slots, up to 64GB",
+   "256GB PCIe 4.0 NVMe SSD with a spare M.2 slot",
+   "15.6 inch Full HD anti-glare non-touch display",
+   "US MIL-STD 810H military grade durability",
+   "Gigabit LAN, HDMI and two USB-C ports with charging"
+  ],
+  "specs": [
+   [
+    "Model",
+    "ASUS ExpertBook B1 (B1503CVA)"
+   ],
+   [
+    "Processor",
+    "Intel Core i3 (13th Gen); the Core i3 ASUS lists for this model is the i3-1315U (up to 4.5 GHz, 6 cores, 8 threads)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5 SO-DIMM, 2 slots, up to 64GB"
+   ],
+   [
+    "Storage",
+    "256GB M.2 2280 NVMe PCIe 4.0 SSD, plus a free M.2 2230 PCIe 4.0 slot"
+   ],
+   [
+    "Display",
+    "15.6 inch FHD (1920 x 1080), 16:9, anti-glare, non-touch, 250 or 300 nits depending on panel"
+   ],
+   [
+    "Graphics",
+    "Intel UHD Graphics"
+   ],
+   [
+    "Ports",
+    "2x USB 3.2 Gen 2 Type-C (display and power delivery), 2x USB 3.2 Gen 1 Type-A, 1x HDMI 1.4, 1x RJ45 Gigabit Ethernet, 1x 3.5 mm combo audio jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 or Wi-Fi 6E (2x2) with Bluetooth 5.4, depending on configuration"
+   ],
+   [
+    "Camera",
+    "720p HD, or 1080p FHD with privacy shutter, depending on configuration"
+   ],
+   [
+    "Keyboard",
+    "Chiclet keyboard with number pad, 1.35 mm key travel, spill resistant; backlit on some versions"
+   ],
+   [
+    "Battery",
+    "42Wh, 50Wh or 63Wh 3-cell Li-ion, depending on configuration"
+   ],
+   [
+    "Charging",
+    "65W USB-C adapter"
+   ],
+   [
+    "Weight",
+    "From 1.64 kg"
+   ],
+   [
+    "Dimensions",
+    "35.95 x 23.22 x 1.99 cm"
+   ],
+   [
+    "Durability",
+    "US MIL-STD 810H military grade standard"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/f19b9adf-6861-4228-90da-abcc9031166d/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/4268dfd7-87e7-4e04-be91-a02b363f3a0d/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/3fb8a5ac-38e2-4e65-8303-94f84a8de95a/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/6e8ee01e-96f4-49f5-9f36-9ca7c177dba0/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/da38e27f-ccde-4207-ad40-37bf8f2930ce/w1000"
+  ],
+  "spin": [],
+  "source": "https://www.asus.com/laptops/for-work/expertbook/asus-expertbook-b1-b1503/techspec/",
+  "confidence": "high"
+ },
+ "asus-expertbook-p3405-cva-core-i5-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The ASUS ExpertBook P3 (P3405CVA) is a slim 14 inch business laptop that weighs from 1.36 kg, made for people who work on the move. A 13th Gen Intel Core i5 H series processor, 16GB of DDR5 memory and a 512GB PCIe 4.0 SSD keep office apps, browsers and video calls running smoothly. The sharp 16:10 screen, Full HD camera and full set of ports, including wired LAN, make it a practical all day work tool.",
+  "highlights": [
+   "13th Gen Intel Core i5-13420H processor",
+   "16GB DDR5 memory, upgradable to 64GB",
+   "512GB PCIe 4.0 NVMe SSD",
+   "14 inch 16:10 anti-glare non-touch display",
+   "Full HD 1080p camera",
+   "Light and thin: from 1.36 kg and 1.79 cm"
+  ],
+  "specs": [
+   [
+    "Model",
+    "ASUS ExpertBook P3 (P3405CVA)"
+   ],
+   [
+    "Processor",
+    "Intel Core i5-13420H (13th Gen), 2.1 GHz up to 4.6 GHz, 8 cores, 12 threads"
+   ],
+   [
+    "Memory",
+    "16GB DDR5 SO-DIMM, 2 slots, up to 64GB"
+   ],
+   [
+    "Storage",
+    "512GB M.2 NVMe PCIe 4.0 SSD, plus a second M.2 PCIe 4.0 slot"
+   ],
+   [
+    "Display",
+    "14 inch, 16:10, anti-glare, non-touch; WUXGA (1920 x 1200, 300 nits) or WQXGA (2560 x 1600, 400 nits, 100% sRGB) depending on configuration"
+   ],
+   [
+    "Graphics",
+    "Intel UHD Graphics"
+   ],
+   [
+    "Ports",
+    "2x USB 3.2 Gen 2 Type-C (display and power delivery), 2x USB 3.2 Gen 1 Type-A, 1x HDMI 2.1, 1x RJ45 Gigabit Ethernet, 1x 3.5 mm combo audio jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 (802.11ax, dual band, 2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "1080p FHD with privacy shutter, or with IR for Windows Hello, depending on configuration"
+   ],
+   [
+    "Keyboard",
+    "Chiclet keyboard, 1.5 mm key travel, spill resistant; backlit on some versions"
+   ],
+   [
+    "Battery",
+    "50Wh or 63Wh 3-cell Li-ion, depending on configuration"
+   ],
+   [
+    "Charging",
+    "65W USB-C adapter"
+   ],
+   [
+    "Weight",
+    "From 1.36 kg"
+   ],
+   [
+    "Dimensions",
+    "31.51 x 22.68 x 1.79 to 1.80 cm"
+   ],
+   [
+    "Colour",
+    "Misty Grey"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/d5b47339-3c94-44bc-ae13-4d9b769d87a5/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/f9df84b8-7a70-4678-aaf0-25b0dac88f3f/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/5c971c0e-5bbe-48ff-907f-3304cc81621b/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/187a5f23-96c8-4845-a298-d47899f9778c/w1000"
+  ],
+  "spin": [],
+  "source": "https://www.asus.com/laptops/for-work/expertbook/asus-expertbook-p3-p3405/techspec/",
+  "confidence": "high"
+ },
+ "asus-expertbook-p1503-cva-core-i5-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The ASUS ExpertBook P1 (P1503CVA) is a practical 15.6 inch business laptop for offices, schools and home work. A 13th Gen Intel Core i5 processor, 8GB of DDR5 memory and a 512GB PCIe 4.0 SSD handle documents, email, browsing and video calls with ease. It has a full keyboard with number pad, wired LAN and two USB-C ports that can charge the laptop, and memory and storage can be upgraded later.",
+  "highlights": [
+   "13th Gen Intel Core i5 processor",
+   "8GB DDR5 memory, two SO-DIMM slots, up to 64GB",
+   "512GB PCIe 4.0 NVMe SSD with a spare M.2 slot",
+   "15.6 inch Full HD anti-glare non-touch display",
+   "Gigabit LAN, HDMI and two USB-C ports with charging",
+   "Wi-Fi 6 and Bluetooth 5.4"
+  ],
+  "specs": [
+   [
+    "Model",
+    "ASUS ExpertBook P1 (P1503CVA)"
+   ],
+   [
+    "Processor",
+    "Intel Core i5 (13th Gen); ASUS offers the i5-13500H, i5-13420H or i5-1334U in this model, depending on configuration"
+   ],
+   [
+    "Memory",
+    "8GB DDR5 SO-DIMM, 2 slots, up to 64GB"
+   ],
+   [
+    "Storage",
+    "512GB M.2 2280 NVMe PCIe 4.0 SSD, plus a free M.2 2230 PCIe 4.0 slot"
+   ],
+   [
+    "Display",
+    "15.6 inch FHD (1920 x 1080), 16:9, anti-glare, non-touch, 250 or 300 nits depending on panel"
+   ],
+   [
+    "Graphics",
+    "Intel UHD Graphics, or Intel Iris Xe Graphics with dual channel memory"
+   ],
+   [
+    "Ports",
+    "2x USB 3.2 Gen 2 Type-C (display and power delivery), 2x USB 3.2 Gen 1 Type-A, 1x HDMI 1.4, 1x RJ45 Gigabit Ethernet, 1x 3.5 mm combo audio jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 (802.11ax, dual band, 2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "720p HD, or 1080p FHD with privacy shutter, depending on configuration"
+   ],
+   [
+    "Keyboard",
+    "Chiclet keyboard, 1.35 mm key travel, spill resistant; number pad and backlight on some versions"
+   ],
+   [
+    "Battery",
+    "42Wh, 50Wh or 63Wh 3-cell Li-ion, depending on configuration"
+   ],
+   [
+    "Charging",
+    "65W USB-C adapter"
+   ],
+   [
+    "Weight",
+    "From 1.61 kg"
+   ],
+   [
+    "Dimensions",
+    "35.95 x 23.22 x 1.99 cm"
+   ],
+   [
+    "Colour",
+    "Misty Grey"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/e3ec8e2c-7619-4f21-ad78-2ef3067f1928/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/10eb20fe-89f8-4a86-aa47-9f9e3359ff5a/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/f15f547d-880c-4d47-b8cf-9a2d09c57b35/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/69677b31-3bca-4edb-970e-e7f05b014a78/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/f673b9f7-b55b-4670-83f3-eb0017a02999/w1000"
+  ],
+  "spin": [],
+  "source": "https://www.asus.com/laptops/for-work/expertbook/expertbook-p1-p1503/techspec/",
+  "confidence": "high"
+ },
+ "dell-15-15250-core-i5-8gb-ram-512gb-ssd-15-6-inch-touch": {
+  "summary": "The Dell 15 (model DC15250) is an everyday 15.6 inch laptop for home, study and office work. This version has a Full HD touch screen, a 13th Gen Intel Core i5 processor, 8GB of memory and a fast 512GB SSD. It has a full keyboard with number pad, an SD card reader and HDMI for an external screen.",
+  "highlights": [
+   "15.6 inch Full HD (1920 x 1080) touch screen",
+   "13th Gen Intel Core i5-1334U with 10 cores",
+   "8GB DDR5 memory and 512GB PCIe NVMe SSD",
+   "Full size keyboard with number pad",
+   "Wi-Fi 6, HDMI, USB-C and SD card reader"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Dell 15 DC15250"
+   ],
+   [
+    "Processor",
+    "13th Gen Intel Core i5-1334U, 10 cores, up to 4.6 GHz"
+   ],
+   [
+    "Memory",
+    "8GB DDR5 (two SODIMM slots, up to 16GB supported)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch FHD (1920 x 1080) touch, WVA, anti-glare, 60 Hz, 220 nits"
+   ],
+   [
+    "Graphics",
+    "Intel integrated graphics"
+   ],
+   [
+    "Ports",
+    "1 x USB 3.2 Gen 1 Type-C, 1 x USB 3.2 Gen 1 Type-A, 1 x USB 2.0 Type-A, 1 x HDMI 1.4, 1 x universal audio jack, 1 x power port"
+   ],
+   [
+    "Card reader",
+    "SD card slot"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 or Wi-Fi 5 with Bluetooth, depending on the card fitted"
+   ],
+   [
+    "Camera",
+    "HD 720p webcam on the plastic chassis"
+   ],
+   [
+    "Audio",
+    "Two 2 W stereo speakers"
+   ],
+   [
+    "Battery",
+    "3-cell 41 Wh (54 Wh 4-cell on some configurations)"
+   ],
+   [
+    "Weight",
+    "Up to 1.90 kg (plastic chassis)"
+   ],
+   [
+    "Dimensions",
+    "358.5 x 235.6 x 16.96 to 18.99 mm (plastic chassis)"
+   ],
+   [
+    "Colour",
+    "Carbon Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell/dell-15-intel-3530/media-gallery/laptop-dell-dc15250nt-bk-plastic-gallery-1.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell/dell-15-intel-3530/media-gallery/laptop-dell-dc15250nt-bk-plastic-usbc-data-gallery-2.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell/dell-15-intel-3530/media-gallery/laptop-dell-dc15250nt-bk-plastic-gallery-4.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell/dell-15-intel-3530/media-gallery/laptop-dell-dc15250nt-bk-plastic-gallery-6.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell/dell-15-intel-3530/media-gallery/laptop-dell-dc15250nt-bk-plastic-gallery-9.psd?wid=1200"
+  ],
+  "spin": [],
+  "source": "https://www.dell.com/support/manuals/en-us/dell-dc15250-laptop/dell_15_dc15250_owners_manual/specifications-of-dell-15-dc15250?guid=guid-7c9f07ce-626e-44ca-be3a-a1fb036413f9&lang=en-us",
+  "confidence": "high"
+ },
+ "msi-modern-14f13-mxg-core-i5-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The MSI Modern 14 F13MX is a light 14 inch laptop for students and office work, weighing about 1.5 kg. It runs a 13th Gen Intel Core i5 processor with 8GB of DDR5 memory and a 512GB NVMe SSD, which is plenty for documents, browsing, online classes and video calls. It also has a backlit keyboard, a webcam shutter for privacy and a wired LAN port, which is handy in offices and schools.",
+  "highlights": [
+   "13th Gen Intel Core i5 processor",
+   "8GB DDR5 memory, two slots, up to 64GB",
+   "512GB NVMe PCIe Gen4 SSD",
+   "14 inch Full HD IPS-level non-touch display",
+   "Backlit keyboard and webcam privacy shutter",
+   "Wi-Fi 6E, Bluetooth 5.3 and Gigabit LAN"
+  ],
+  "specs": [
+   [
+    "Model",
+    "MSI Modern 14 F13MXG"
+   ],
+   [
+    "Processor",
+    "Intel Core i5 (13th Gen); exact chip depends on configuration"
+   ],
+   [
+    "Memory",
+    "8GB DDR5 (up to DDR5-5600), 2 slots, up to 64GB"
+   ],
+   [
+    "Storage",
+    "512GB M.2 NVMe PCIe Gen4 SSD"
+   ],
+   [
+    "Display",
+    "14 inch FHD (1920 x 1080), IPS-level, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel Iris Xe or Intel UHD Graphics, depending on memory configuration"
+   ],
+   [
+    "Ports",
+    "1x USB 3.2 Gen 2 Type-C (DisplayPort and Power Delivery 3.0), 3x USB 3.2 Gen 1 Type-A, 1x HDMI (4K at 30Hz), 1x RJ45, 1x microSD card reader, 1x mic-in/headphone-out combo jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E (802.11ax), Bluetooth 5.3"
+   ],
+   [
+    "Webcam",
+    "720p HD (30fps) with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "White backlit keyboard with Copilot key"
+   ],
+   [
+    "Audio",
+    "2x 2W speakers, array microphone"
+   ],
+   [
+    "Security",
+    "Firmware TPM 2.0, Kensington lock, fingerprint reader on some versions"
+   ],
+   [
+    "Battery",
+    "3-cell, 46.8Wh, with 65W adapter"
+   ],
+   [
+    "Weight",
+    "1.5 kg"
+   ],
+   [
+    "Dimensions",
+    "323.9 x 217.2 x 19.9 mm"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://storage-asset.msi.com/global/picture/product/product_17270632986ba5f063d61b2caa688dfb874732c26e.png",
+   "https://storage-asset.msi.com/global/picture/product/product_1727063298e616e9593560faea043a480668a9fbb1.png",
+   "https://storage-asset.msi.com/global/picture/product/product_1727063300d4cae0a53d42010af99b46f1941a67d7.png",
+   "https://storage-asset.msi.com/global/picture/product/product_1727063302e67771eaec7a8fdc96138eda53c00f29.png"
+  ],
+  "spin": [],
+  "source": "https://www.msi.com/Business-Productivity/Modern-14-F13MX/Specification",
+  "confidence": "high"
+ },
+ "lenovo-v14-core-i5-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The Lenovo V14 is a practical 14 inch laptop for office work, school and small businesses. It pairs an Intel Core i5 processor with 8GB of DDR5 memory and a 512GB SSD, and keeps useful wired ports such as Ethernet and HDMI. A privacy shutter on the webcam and a spill-resistant keyboard make it easy to live with every day.",
+  "highlights": [
+   "Intel Core i5-13420H processor with 8 cores",
+   "8GB DDR5 memory, upgradable to 32GB with two slots",
+   "512GB PCIe NVMe SSD",
+   "14 inch Full HD anti-glare screen",
+   "Gigabit Ethernet, HDMI and USB-C on board"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i5-13420H (8 cores: 4 P-cores + 4 E-cores, 12 threads, up to 4.6 GHz, 12MB cache)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5200, two SODIMM slots (up to 32GB)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 2242 PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch FHD (1920 x 1080), non-touch, anti-glare; TN 250 nits or IPS 300 nits depending on configuration"
+   ],
+   [
+    "Graphics",
+    "Intel UHD Graphics (integrated)"
+   ],
+   [
+    "Ports",
+    "2x USB-A (5Gbps), 1x USB-C (5Gbps) with Power Delivery and DisplayPort 1.2, HDMI 1.4b, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 (802.11ax 2x2) and Bluetooth 5.2"
+   ],
+   [
+    "Camera",
+    "HD 720p with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant, non-backlit, with Copilot key"
+   ],
+   [
+    "Battery",
+    "47Wh, Rapid Charge (up to 80% in 1 hour)"
+   ],
+   [
+    "Dimensions",
+    "324.2 x 215.2 x 17.9 mm"
+   ],
+   [
+    "Weight",
+    "From 1.37 kg"
+   ],
+   [
+    "Colour",
+    "Business Black or Luna Grey depending on configuration"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_V14_G5_IRL/Lenovo_V14_G5_IRL_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_V14_G5_IRL/Lenovo_V14_G5_IRL_CT1_04.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_V14_G5_IRL/Lenovo_V14_G5_IRL_CT2_02.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_V14_G5_IRL/Lenovo_V14_G5_IRL_CT2_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/Lenovo/Lenovo_V14_G5_IRL/Lenovo_V14_G5_IRL_CT2_03.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo/Lenovo_V14_G5_IRL/Lenovo_V14_G5_IRL_Spec.pdf",
+  "confidence": "medium"
+ },
+ "lenovo-thinkpad-e14-gen-7-core-ultra-5-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The ThinkPad E14 Gen 7 is a 14 inch business laptop with an Intel Core Ultra 5 processor, 16GB of memory and a 512GB SSD. It is aimed at small businesses, professionals and students who want ThinkPad build quality and security at a sensible level. A full set of ports, including Ethernet and Thunderbolt 4, saves carrying adapters.",
+  "highlights": [
+   "Intel Core Ultra 5 processor with built-in AI engine (NPU)",
+   "16GB memory and 512GB PCIe 4.0 SSD",
+   "14 inch 16:10 anti-glare screen",
+   "Thunderbolt 4, HDMI 2.1 and Gigabit Ethernet built in",
+   "Spill-resistant keyboard with TrackPoint",
+   "Webcam privacy shutter and discrete TPM 2.0 security chip"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 5 (exact processor model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "16GB total; DDR5-5600 in two SODIMM slots (upgradable to 64GB) on Arrow Lake and Meteor Lake models, or soldered LPDDR5X-8533 (not upgradable) on Lunar Lake models"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch IPS, 16:10, anti-glare, non-touch; WUXGA (1920 x 1200) 300 nits or 2.8K (2880 x 1800) 120Hz 400 nits depending on configuration"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics or Intel Arc Graphics (integrated), depending on processor; Arc needs an H series chip with dual-channel memory, or comes with Lunar Lake V series chips"
+   ],
+   [
+    "Ports",
+    "1x USB-A (5Gbps), 1x USB-A (10Gbps, Always On), 1x Thunderbolt 4 (USB4 40Gbps) with Power Delivery, 1x USB-C (20Gbps) or a second Thunderbolt 4 depending on processor, HDMI 2.1, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6, Wi-Fi 6E or Wi-Fi 7 (2x2) with Bluetooth, depending on configuration"
+   ],
+   [
+    "Camera",
+    "HD 720p, FHD 1080p + IR or 5MP depending on configuration, all with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant ThinkPad keyboard with TrackPoint and Copilot key, backlight optional"
+   ],
+   [
+    "Audio",
+    "2x 2W stereo speakers, Dolby Atmos, audio by HARMAN"
+   ],
+   [
+    "Battery",
+    "48Wh or 64Wh depending on configuration"
+   ],
+   [
+    "Security",
+    "Discrete TPM 2.0, Kensington Nano slot, optional fingerprint reader in power button"
+   ],
+   [
+    "Dimensions",
+    "313 x 220.3 x 19.7 to 20.5 mm (maximum)"
+   ],
+   [
+    "Weight",
+    "From 1.32 to 1.34 kg depending on processor"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_05.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT2_04.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT2_01.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_Spec.pdf",
+  "confidence": "high"
+ },
+ "infinix-inbook-y3-plus-core-i5-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The Infinix INBook Y3 Plus is a slim, aluminium alloy laptop for students and everyday office work. The Core i5 version pairs an Intel Core i5 processor with 8GB of memory and a 512GB SSD. It charges over USB-C, has a backlit keyboard and an FHD webcam, and offers HDMI and an SD card slot.",
+  "highlights": [
+   "Intel Core i5 processor with 8GB memory and 512GB NVMe SSD",
+   "Full HD IPS display",
+   "Aluminium alloy body, 17.95 mm thin",
+   "50 Wh battery with 45W USB-C charging",
+   "Backlit keyboard and FHD webcam"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i5 (the official Core i5 version uses the 11th Gen Core i5-1165G7)"
+   ],
+   [
+    "Memory",
+    "8GB"
+   ],
+   [
+    "Storage",
+    "512GB NVMe PCIe SSD"
+   ],
+   [
+    "Display",
+    "Full HD (1920 x 1080) IPS, 16:9, 260 nits, 60% NTSC, non-touch"
+   ],
+   [
+    "Ports",
+    "1 x USB-C (data, charging and DisplayPort), 1 x USB-C (data), 2 x USB 3.0, 1 x HDMI 1.4, 1 x 3.5 mm headset jack"
+   ],
+   [
+    "Card reader",
+    "SD card slot"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 802.11ac (2.4 and 5 GHz), Bluetooth 5.1"
+   ],
+   [
+    "Camera",
+    "FHD webcam with dual light"
+   ],
+   [
+    "Audio",
+    "Two 2 W speakers, two microphones"
+   ],
+   [
+    "Keyboard",
+    "Full size backlit keyboard, multi-touch touchpad"
+   ],
+   [
+    "Battery",
+    "50 Wh lithium polymer"
+   ],
+   [
+    "Charger",
+    "45W USB-C power adapter"
+   ],
+   [
+    "Body",
+    "Aluminium alloy, 17.95 mm thick"
+   ],
+   [
+    "Colour",
+    "Grey, silver or blue"
+   ]
+  ],
+  "inBox": [
+   "Laptop",
+   "45W USB-C power adapter",
+   "USB-C charging cable",
+   "Quick start guide",
+   "Warranty card"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://ru.infinixmobility.com/specs/inbook-y3-plus",
+  "confidence": "medium"
+ },
+ "acer-travelmate-p2-15-core-ultra-5-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The Acer TravelMate P2 15 is a business laptop with a 15.6 inch Full HD screen, built for office work, video calls and travel. This version runs on an Intel Core Ultra 5 processor with a built-in AI engine, 8GB of DDR5 memory and a 512GB SSD. It has a wide range of ports, including two Thunderbolt 4 USB-C ports, HDMI and wired Ethernet, plus a fingerprint reader and a camera shutter.",
+  "highlights": [
+   "Intel Core Ultra 5 processor with built-in NPU for AI features",
+   "15.6 inch Full HD IPS anti-glare display",
+   "Two Thunderbolt 4 (USB4) ports, HDMI and Gigabit Ethernet",
+   "Fingerprint reader, camera shutter and discrete TPM",
+   "53 Wh battery, about 1.62 kg"
+  ],
+  "specs": [
+   [
+    "Model",
+    "TravelMate P2 15 (TMP215-75-G2)"
+   ],
+   [
+    "Processor",
+    "Intel Core Ultra 5 (official example: Core Ultra 5 125H, 14 cores, Intel AI Boost NPU)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5 (up to 64GB supported)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe NVMe Gen 4 SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080) IPS, anti-glare, 60 Hz, 45% NTSC, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel Arc Graphics (integrated)"
+   ],
+   [
+    "Ports",
+    "2 x USB-C Thunderbolt 4 / USB4, 2 x USB 3.2 Gen 1 Type-A, 1 x HDMI, 1 x RJ-45 Gigabit Ethernet, headset jack"
+   ],
+   [
+    "Card reader",
+    "microSD"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E (2x2), Bluetooth 5.3"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, camera shutter, discrete TPM, Kensington Nano lock slot"
+   ],
+   [
+    "Battery",
+    "53 Wh lithium polymer"
+   ],
+   [
+    "Charger",
+    "65 W"
+   ],
+   [
+    "Weight",
+    "About 1.62 kg"
+   ],
+   [
+    "Dimensions",
+    "361.3 x 242.8 x 18.6 to 20.35 mm"
+   ],
+   [
+    "Colour",
+    "Silver"
+   ]
+  ],
+  "inBox": [
+   "Laptop",
+   "Battery (built in)",
+   "Power adapter",
+   "Power cord"
+  ],
+  "images": [
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-non-fingerprint-non-backlit-wp-pure-silver-01-1?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-non-fingerprint-non-backlit-wp-pure-silver-03-1?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-non-fingerprint-non-backlit-wp-pure-silver-04-3?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-pure-silver-05-3?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-pure-silver-08-1?wid=1200"
+  ],
+  "spin": [],
+  "source": "https://www.acer.com/gb-en/laptops/travelmate/travelmate-p2-15/pdp/NX.BLPEK.002",
+  "confidence": "medium"
+ },
+ "acer-travelmate-p2-14-core-ultra-5-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The Acer TravelMate P2 14 is a compact business laptop for people who work on the move. This version has an Intel Core Ultra 5 processor with a built-in AI engine, 8GB of DDR5 memory and a 512GB SSD, on a 14 inch WUXGA screen with a taller 16:10 shape. It keeps full size ports such as Thunderbolt 4, HDMI and Ethernet, and adds a fingerprint reader and camera shutter for security.",
+  "highlights": [
+   "Intel Core Ultra 5 processor with built-in NPU for AI features",
+   "14 inch WUXGA (1920 x 1200) 16:10 IPS display",
+   "Two Thunderbolt 4 (USB4) ports, HDMI and Gigabit Ethernet",
+   "Fingerprint reader, camera shutter and discrete TPM",
+   "Backlit keyboard, about 1.33 kg"
+  ],
+  "specs": [
+   [
+    "Model",
+    "TravelMate P2 14 AI (TMP214-57)"
+   ],
+   [
+    "Processor",
+    "Intel Core Ultra 5 (exact model depends on the configuration; Acer's example uses the Core Ultra 5 322)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5 (up to 32GB supported)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe Gen 4 SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, 16:10, matte, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel integrated graphics"
+   ],
+   [
+    "Ports",
+    "2 x USB-C Thunderbolt 4 / USB4, 2 x USB 3.2 Gen 1 Type-A, 1 x HDMI, 1 x RJ-45 Gigabit Ethernet, headset jack"
+   ],
+   [
+    "Card reader",
+    "microSD"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 7, Bluetooth 5.4"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, camera shutter, discrete TPM, Kensington Nano lock slot"
+   ],
+   [
+    "Keyboard",
+    "White backlit keyboard"
+   ],
+   [
+    "Battery",
+    "53 Wh lithium ion"
+   ],
+   [
+    "Weight",
+    "About 1.33 kg (2.93 lb)"
+   ],
+   [
+    "Colour",
+    "Silver"
+   ]
+  ],
+  "inBox": [
+   "Laptop",
+   "Battery (built in)",
+   "Power adapter",
+   "Power cord"
+  ],
+  "images": [
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-on-with-sd-card-with-sc-with-lte-wp-copilot-pure-silver-01?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-with-sd-card-with-sc-with-lte-wp-pure-silver-03?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-on-with-sd-card-with-sc-with-lte-wp-pure-silver-04?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-with-sd-card-with-sc-with-lte-pure-silver-05?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-with-sd-card-with-sc-with-lte-pure-silver-06?wid=1200"
+  ],
+  "spin": [],
+  "source": "https://www.acer.com/us-en/laptops/travelmate/travelmate-p2-14-ai-intel/pdp/NX.BSDAA.002",
+  "confidence": "medium"
+ },
+ "lenovo-thinkpad-e14-gen-7-core-ultra-7-32gb-ram-512gb-ssd-14-inch": {
+  "summary": "The ThinkPad E14 Gen 7 is a 14 inch business laptop, here with an Intel Core Ultra 7 processor, a generous 32GB of memory and a 512GB SSD. It suits professionals who run many apps, large spreadsheets or virtual meetings at once. A full set of ports, including Ethernet and Thunderbolt 4, saves carrying adapters.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "32GB memory for heavy multitasking, 512GB PCIe 4.0 SSD",
+   "14 inch 16:10 anti-glare screen",
+   "Thunderbolt 4, HDMI 2.1 and Gigabit Ethernet built in",
+   "Spill-resistant keyboard with TrackPoint",
+   "Webcam privacy shutter and discrete TPM 2.0 security chip"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (exact processor model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "32GB total; DDR5-5600 in two SODIMM slots (upgradable to 64GB) on Arrow Lake and Meteor Lake models, or soldered LPDDR5X-8533 (not upgradable) on Lunar Lake models"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch IPS, 16:10, anti-glare, non-touch; WUXGA (1920 x 1200) 300 nits or 2.8K (2880 x 1800) 120Hz 400 nits depending on configuration"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics or Intel Arc Graphics (integrated), depending on processor; Arc needs an H series chip with dual-channel memory, or comes with Lunar Lake V series chips"
+   ],
+   [
+    "Ports",
+    "1x USB-A (5Gbps), 1x USB-A (10Gbps, Always On), 1x Thunderbolt 4 (USB4 40Gbps) with Power Delivery, 1x USB-C (20Gbps) or a second Thunderbolt 4 depending on processor, HDMI 2.1, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6, Wi-Fi 6E or Wi-Fi 7 (2x2) with Bluetooth, depending on configuration"
+   ],
+   [
+    "Camera",
+    "HD 720p, FHD 1080p + IR or 5MP depending on configuration, all with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant ThinkPad keyboard with TrackPoint and Copilot key, backlight optional"
+   ],
+   [
+    "Audio",
+    "2x 2W stereo speakers, Dolby Atmos, audio by HARMAN"
+   ],
+   [
+    "Battery",
+    "48Wh or 64Wh depending on configuration"
+   ],
+   [
+    "Security",
+    "Discrete TPM 2.0, Kensington Nano slot, optional fingerprint reader in power button"
+   ],
+   [
+    "Dimensions",
+    "313 x 220.3 x 19.7 to 20.5 mm (maximum)"
+   ],
+   [
+    "Weight",
+    "From 1.32 to 1.34 kg depending on processor"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_05.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT2_04.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT2_01.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_Spec.pdf",
+  "confidence": "high"
+ },
+ "asus-tuf-gaming-f16-fx608j-core-i7-16gb-ram-512gb-ssd-16-inch-rtx-5050": {
+  "summary": "The ASUS TUF Gaming F16 (FX608J) is a 16 inch gaming laptop built around an Intel Core i7 HX processor and NVIDIA GeForce RTX 5050 Laptop graphics. It suits gamers and students who want smooth play on a large, fast screen, backed by 16GB of DDR5 memory and a 512GB SSD. The tough TUF build, RGB backlit keyboard and a generous set of ports, including wired LAN, make it a solid everyday machine as well.",
+  "highlights": [
+   "NVIDIA GeForce RTX 5050 Laptop GPU with 8GB GDDR7, up to 115W",
+   "16 inch 16:10 anti-glare screen at 144 or 165 Hz with G-Sync",
+   "MUX Switch with NVIDIA Advanced Optimus for better game performance",
+   "16GB DDR5-5600 memory, upgradable to 64GB",
+   "512GB PCIe 4.0 NVMe SSD",
+   "Wi-Fi 6E, Bluetooth 5.4, LAN port and HDMI 2.1"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i7 HX series: 13th Gen i7-13650HX or i7-13700HX, or 14th Gen i7-14650HX, depending on the exact model"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 5050 Laptop GPU, 8GB GDDR7, up to 115W (100W + 15W Dynamic Boost)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 SO-DIMM, upgradable to 64GB, dual channel support"
+   ],
+   [
+    "Storage",
+    "512GB M.2 NVMe PCIe 4.0 SSD"
+   ],
+   [
+    "Display",
+    "16 inch, 16:10, IPS-level, anti-glare, non-touch; FHD+ (1920 x 1200) at 144 or 165 Hz, or 2.5K (2560 x 1600) at 165 Hz, depending on configuration; 100% sRGB, G-Sync"
+   ],
+   [
+    "Ports",
+    "1x HDMI 2.1, 3x USB 3.2 Gen 2 Type-A (10Gbps), 1x USB 3.2 Gen 2 Type-C with DisplayPort and power delivery, 1x RJ45 LAN, 1x 3.5 mm combo audio jack; most versions add 1x Thunderbolt 4 (40Gbps)"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E (802.11ax, triple band, 2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "1080p FHD IR camera with Windows Hello face sign-in"
+   ],
+   [
+    "Keyboard",
+    "Backlit chiclet keyboard, 1-zone RGB, with Copilot key"
+   ],
+   [
+    "Audio",
+    "2 speakers, Dolby Atmos, AI noise cancelling, array microphone"
+   ],
+   [
+    "Battery",
+    "90Wh 4-cell Li-ion (70Wh on some versions)"
+   ],
+   [
+    "Weight",
+    "2.20 kg"
+   ],
+   [
+    "Dimensions",
+    "35.4 x 26.9 x 1.79 to 2.73 cm"
+   ],
+   [
+    "Operating system",
+    "Windows 11 Home or Pro, or no preinstalled OS, depending on region"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/31e66910-e008-4967-a713-e53943f372cf/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/37804516-3cf4-488d-b2eb-3c0a1832fae9/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/262d232f-cf69-4ea2-84fa-5dc2f3e3a9d2/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/c9402e79-45f3-4ee1-8f2a-6fc3acd851c7/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/5073bac3-e9d2-4208-b0ea-6eada7639841/w1000"
+  ],
+  "spin": [],
+  "source": "https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2025/techspec/",
+  "confidence": "medium"
+ },
+ "asus-tuf-gaming-f16-fx608j-core-i7-16gb-ram-512gb-ssd-16-inch-rtx-5060": {
+  "summary": "The ASUS TUF Gaming F16 (FX608J) is a 16 inch gaming laptop built around an Intel Core i7 HX processor and NVIDIA GeForce RTX 5060 Laptop graphics. It suits gamers and students who want smooth play on a large, fast screen, backed by 16GB of DDR5 memory and a 512GB SSD. The tough TUF build, RGB backlit keyboard and a generous set of ports, including wired LAN, make it a solid everyday machine as well.",
+  "highlights": [
+   "NVIDIA GeForce RTX 5060 Laptop GPU with 8GB GDDR7, up to 115W",
+   "16 inch 16:10 anti-glare screen at 144 or 165 Hz with G-Sync",
+   "MUX Switch with NVIDIA Advanced Optimus for better game performance",
+   "16GB DDR5-5600 memory, upgradable to 64GB",
+   "512GB PCIe 4.0 NVMe SSD",
+   "Wi-Fi 6E, Bluetooth 5.4, LAN port and HDMI 2.1"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i7 HX series: 13th Gen i7-13650HX or i7-13700HX, or 14th Gen i7-14650HX, depending on the exact model"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 5060 Laptop GPU, 8GB GDDR7, up to 115W (100W + 15W Dynamic Boost)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5-5600 SO-DIMM, upgradable to 64GB, dual channel support"
+   ],
+   [
+    "Storage",
+    "512GB M.2 NVMe PCIe 4.0 SSD"
+   ],
+   [
+    "Display",
+    "16 inch, 16:10, IPS-level, anti-glare, non-touch; FHD+ (1920 x 1200) at 144 or 165 Hz, or 2.5K (2560 x 1600) at 165 Hz, depending on configuration; 100% sRGB, G-Sync"
+   ],
+   [
+    "Ports",
+    "1x HDMI 2.1, 3x USB 3.2 Gen 2 Type-A (10Gbps), 1x USB 3.2 Gen 2 Type-C with DisplayPort and power delivery, 1x RJ45 LAN, 1x 3.5 mm combo audio jack; most versions add 1x Thunderbolt 4 (40Gbps)"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E (802.11ax, triple band, 2x2), Bluetooth 5.4"
+   ],
+   [
+    "Camera",
+    "1080p FHD IR camera with Windows Hello face sign-in"
+   ],
+   [
+    "Keyboard",
+    "Backlit chiclet keyboard, 1-zone RGB, with Copilot key"
+   ],
+   [
+    "Audio",
+    "2 speakers, Dolby Atmos, AI noise cancelling, array microphone"
+   ],
+   [
+    "Battery",
+    "90Wh 4-cell Li-ion (70Wh on some versions)"
+   ],
+   [
+    "Weight",
+    "2.20 kg"
+   ],
+   [
+    "Dimensions",
+    "35.4 x 26.9 x 1.79 to 2.73 cm"
+   ],
+   [
+    "Operating system",
+    "Windows 11 Home or Pro, or no preinstalled OS, depending on region"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/31e66910-e008-4967-a713-e53943f372cf/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/37804516-3cf4-488d-b2eb-3c0a1832fae9/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/262d232f-cf69-4ea2-84fa-5dc2f3e3a9d2/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/c9402e79-45f3-4ee1-8f2a-6fc3acd851c7/w1000",
+   "https://dlcdnwebimgs.asus.com/gain/5073bac3-e9d2-4208-b0ea-6eada7639841/w1000"
+  ],
+  "spin": [],
+  "source": "https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2025/techspec/",
+  "confidence": "medium"
+ },
+ "lenovo-loq-15irx10-core-i7-16gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The Lenovo LOQ 15IRX10 is a 15.6 inch gaming laptop with an Intel Core i7 HX processor and an NVIDIA GeForce RTX 50 series graphics card. It is made for gamers and students who want strong performance for games, streaming and creative apps. Two memory slots and a spare SSD slot leave room to upgrade later.",
+  "highlights": [
+   "Intel Core i7 HX series processor",
+   "NVIDIA GeForce RTX 50 series Laptop GPU with GDDR7 memory",
+   "15.6 inch IPS gaming screen with high refresh rate",
+   "16GB DDR5 and 512GB PCIe 4.0 SSD, both upgradable",
+   "Full size keyboard with numeric keypad"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core i7 HX series, 13th or 14th Gen (exact model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5, two SODIMM slots (up to 32GB)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD, second M.2 slot free"
+   ],
+   [
+    "Display",
+    "15.6 inch IPS, non-touch, anti-glare, 100% sRGB: FHD (1920 x 1080) 144Hz or WQHD (2560 x 1440) 165Hz depending on configuration"
+   ],
+   [
+    "Graphics",
+    "NVIDIA GeForce RTX 5050, RTX 5060 or RTX 5070 Laptop GPU depending on configuration"
+   ],
+   [
+    "Ports",
+    "3x USB-A (5Gbps), 1x USB-C (10Gbps) with Power Delivery and DisplayPort 1.4, HDMI 2.1, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 (802.11ax 2x2) and Bluetooth 5.2"
+   ],
+   [
+    "Keyboard",
+    "Full size with numeric keypad and Copilot key, white or 24-zone RGB backlight depending on configuration"
+   ],
+   [
+    "Camera and audio",
+    "5MP camera with electronic shutter, 2x 2W stereo speakers with Nahimic Audio"
+   ],
+   [
+    "Battery",
+    "60Wh or 80Wh depending on configuration, Rapid Charge Pro (up to 50% in 30 minutes)"
+   ],
+   [
+    "Dimensions",
+    "359.86 x 258.7 x 21.9 to 23.9 mm"
+   ],
+   [
+    "Weight",
+    "From 2.4 kg"
+   ],
+   [
+    "Operating system",
+    "Windows 11"
+   ],
+   [
+    "Colour",
+    "Luna Grey"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_10.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT2_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT1_08.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/LOQ/LOQ_15IRX10/LOQ_15IRX10_CT2_02.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/LOQ/LOQ_15IRX10/LOQ_15IRX10_Spec.pdf",
+  "confidence": "medium"
+ },
+ "infinix-inbook-air-xl-442-core-i7-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The Infinix INBook Air (XL442) is a light, slim 14 inch laptop with an aluminium body, weighing about 1.24 kg. This version has an Intel Core i7 processor, 16GB of fast LPDDR4X memory and a 512GB SSD. Its 16:10 Full HD+ screen gives a little more working space, and it charges over USB-C with a 57 Wh battery for a long day.",
+  "highlights": [
+   "Intel Core i7-1255U with 16GB LPDDR4X and 512GB SSD",
+   "14 inch 1920 x 1200 display in a 16:10 shape",
+   "Aluminium alloy body, 17.5 mm thin and about 1.24 kg",
+   "57 Wh battery with 45W USB-C charging",
+   "Backlit keyboard, glass touchpad and FHD webcam"
+  ],
+  "specs": [
+   [
+    "Model",
+    "INBook Air XL442"
+   ],
+   [
+    "Processor",
+    "12th Gen Intel Core i7-1255U"
+   ],
+   [
+    "Memory",
+    "16GB LPDDR4X"
+   ],
+   [
+    "Storage",
+    "512GB PCIe 3.0 SSD"
+   ],
+   [
+    "Display",
+    "14 inch 1920 x 1200 LCD, 16:10, 60 Hz, 300 nits, 48% NTSC, non-touch"
+   ],
+   [
+    "Ports",
+    "1 x full function USB-C, 1 x USB-C (data), 2 x USB 3.2 Gen 1, 1 x HDMI 1.4, 1 x 3.5 mm audio jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 (802.11ax), Bluetooth 5.2"
+   ],
+   [
+    "Camera",
+    "FHD webcam"
+   ],
+   [
+    "Audio",
+    "Dual speakers with DTS audio processing, two microphones"
+   ],
+   [
+    "Keyboard",
+    "Backlit keyboard, glass touchpad"
+   ],
+   [
+    "Battery",
+    "57 Wh lithium polymer"
+   ],
+   [
+    "Charger",
+    "45W USB-C"
+   ],
+   [
+    "Weight",
+    "1.24 kg"
+   ],
+   [
+    "Dimensions",
+    "314.3 x 219.5 x 17.5 mm"
+   ],
+   [
+    "Body",
+    "Aluminium alloy"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://east-africa.pro.infinixmobility.com/media/catalog/product/x/l/xl442_inbook_inbookair_base2_1.png",
+   "https://east-africa.pro.infinixmobility.com/media/catalog/product/x/l/xl442_inbook_inbookair_base3_1.png"
+  ],
+  "spin": [],
+  "source": "https://rw.infinixmobility.com/specs/inbook-air",
+  "confidence": "high"
+ },
+ "acer-travelmate-p2-core-ultra-7-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The Acer TravelMate P2 14 is a compact business laptop for people who work on the move. This version has an Intel Core Ultra 7 processor with a built-in AI engine, 16GB of DDR5 memory and a 512GB SSD, on a 14 inch WUXGA screen with a taller 16:10 shape. It keeps full size ports such as Thunderbolt 4, HDMI and Ethernet, and adds a fingerprint reader and camera shutter for security.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in NPU for AI features",
+   "16GB DDR5 memory and 512GB PCIe Gen 4 SSD",
+   "14 inch WUXGA (1920 x 1200) 16:10 IPS display",
+   "Two Thunderbolt 4 (USB4) ports, HDMI and Gigabit Ethernet",
+   "Fingerprint reader, camera shutter and discrete TPM"
+  ],
+  "specs": [
+   [
+    "Model",
+    "TravelMate P2 14 AI (TMP214-57)"
+   ],
+   [
+    "Processor",
+    "Intel Core Ultra 7 (exact model depends on the configuration)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5 (up to 32GB supported)"
+   ],
+   [
+    "Storage",
+    "512GB PCIe NVMe Gen 4 SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, 16:10, matte, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel integrated graphics"
+   ],
+   [
+    "Ports",
+    "2 x USB-C Thunderbolt 4 / USB4, 2 x USB 3.2 Gen 1 Type-A, 1 x HDMI, 1 x RJ-45 Gigabit Ethernet, headset jack"
+   ],
+   [
+    "Card reader",
+    "microSD"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 7, Bluetooth 5.4"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, camera shutter, discrete TPM, Kensington Nano lock slot"
+   ],
+   [
+    "Keyboard",
+    "White backlit keyboard"
+   ],
+   [
+    "Battery",
+    "53 Wh lithium ion"
+   ],
+   [
+    "Weight",
+    "About 1.33 kg (2.93 lb)"
+   ],
+   [
+    "Colour",
+    "Silver"
+   ]
+  ],
+  "inBox": [
+   "Laptop",
+   "Battery (built in)",
+   "Power adapter",
+   "Power cord"
+  ],
+  "images": [
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-on-with-sd-card-with-sc-with-lte-wp-copilot-pure-silver-01?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-with-sd-card-with-sc-with-lte-wp-pure-silver-03?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-on-with-sd-card-with-sc-with-lte-wp-pure-silver-04?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-with-sd-card-with-sc-with-lte-pure-silver-05?wid=1200",
+   "https://images.acer.com/is/image/acer/travelmate-p2-14-ai-tmp214-57-with-fp-with-bl-with-sd-card-with-sc-with-lte-pure-silver-06?wid=1200"
+  ],
+  "spin": [],
+  "source": "https://www.acer.com/us-en/laptops/travelmate/travelmate-p2-14-ai-intel/pdp/NX.BSDAA.002",
+  "confidence": "medium"
+ },
+ "acer-travelmate-p2-core-ultra-7-16gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The Acer TravelMate P2 15 is a business laptop with a 15.6 inch Full HD screen, built for office work, video calls and travel. This version runs on an Intel Core Ultra 7 processor with a built-in AI engine, 16GB of DDR5 memory and a 512GB SSD. It has two Thunderbolt 4 USB-C ports, HDMI and wired Ethernet, plus a fingerprint reader, backlit keyboard and a camera shutter.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in NPU for AI features",
+   "16GB DDR5 memory and 512GB PCIe Gen 4 SSD",
+   "15.6 inch Full HD IPS anti-glare display",
+   "Two Thunderbolt 4 (USB4) ports, HDMI and Gigabit Ethernet",
+   "Fingerprint reader, camera shutter and discrete TPM"
+  ],
+  "specs": [
+   [
+    "Model",
+    "TravelMate P2 15 (TMP215-55-G2)"
+   ],
+   [
+    "Processor",
+    "Intel Core Ultra 7 (official example: Core Ultra 7 255U, 12 cores, Intel AI Boost NPU)"
+   ],
+   [
+    "Memory",
+    "16GB DDR5 (up to 64GB supported)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe NVMe Gen 4 SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch Full HD (1920 x 1080) IPS, anti-glare, 60 Hz, 45% NTSC, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel integrated graphics"
+   ],
+   [
+    "Ports",
+    "2 x USB-C Thunderbolt 4 / USB4, 2 x USB 3.2 Gen 1 Type-A, 1 x HDMI, 1 x RJ-45 Gigabit Ethernet, headset jack"
+   ],
+   [
+    "Card reader",
+    "microSD"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E (2x2), Bluetooth 5.3"
+   ],
+   [
+    "Security",
+    "Fingerprint reader, camera shutter, discrete TPM, Kensington Nano lock slot"
+   ],
+   [
+    "Keyboard",
+    "White backlit keyboard"
+   ],
+   [
+    "Battery",
+    "53 Wh lithium polymer"
+   ],
+   [
+    "Weight",
+    "About 1.62 kg"
+   ],
+   [
+    "Dimensions",
+    "361.3 x 242.8 x 18.6 to 20.35 mm"
+   ],
+   [
+    "Colour",
+    "Silver"
+   ]
+  ],
+  "inBox": [
+   "Laptop",
+   "Battery (built in)",
+   "Power adapter",
+   "Power cord"
+  ],
+  "images": [
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-non-fingerprint-non-backlit-wp-pure-silver-01-1?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-non-fingerprint-non-backlit-wp-pure-silver-03-1?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-non-fingerprint-non-backlit-wp-pure-silver-04-3?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-pure-silver-05-3?wid=1200",
+   "https://images.acer.com/is/image/acer/acer-travelmate-p2-tmp215-55-g2-55-g2tco-75-g2-75-g2tco-pure-silver-08-1?wid=1200"
+  ],
+  "spin": [],
+  "source": "https://www.acer.com/gb-en/laptops/travelmate/travelmate-p2-15/pdp/NX.BLMEK.001",
+  "confidence": "medium"
+ },
+ "dell-latitude-5450-core-i7-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The Dell Latitude 5450 is a 14 inch business laptop built for reliable everyday work, with strong security and plenty of ports. This version has an Intel Core i7 processor, 8GB of DDR5 memory and a 512GB SSD with a Full HD anti-glare non-touch screen. Two Thunderbolt 4 ports, HDMI 2.1 and wired Ethernet make it easy to connect to docks, monitors and office networks.",
+  "highlights": [
+   "Intel Core i7 processor with 8GB DDR5 and 512GB SSD",
+   "14 inch Full HD (1920 x 1080) anti-glare IPS non-touch display",
+   "Two Thunderbolt 4 ports, HDMI 2.1 and RJ-45 Ethernet",
+   "Full HD webcam",
+   "Starts at about 1.40 kg"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Dell Latitude 5450"
+   ],
+   [
+    "Processor",
+    "Intel Core i7 (Dell offers the 13th Gen Core i7-1355U and Core i7-1365U vPro; exact model depends on the configuration)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5, 5600 MT/s (up to 64GB supported)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 2230 PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch FHD (1920 x 1080) IPS, anti-glare, 60 Hz, non-touch (250 to 400 nits depending on panel)"
+   ],
+   [
+    "Graphics",
+    "Intel integrated graphics"
+   ],
+   [
+    "Ports",
+    "2 x Thunderbolt 4 (USB-C with DisplayPort and Power Delivery), 2 x USB 3.2 Gen 1 Type-A (one with PowerShare), 1 x HDMI 2.1, 1 x RJ-45 Ethernet, 1 x universal audio jack"
+   ],
+   [
+    "Slots",
+    "Wedge lock slot; optional smart card reader and nano-SIM"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 or Wi-Fi 6E with Bluetooth, depending on the card fitted"
+   ],
+   [
+    "Camera",
+    "FHD 1080p webcam"
+   ],
+   [
+    "Battery",
+    "3-cell 42 Wh or 54 Wh with ExpressCharge, depending on configuration"
+   ],
+   [
+    "Weight",
+    "From 1.40 kg"
+   ],
+   [
+    "Dimensions",
+    "321.35 x 212 x 19.06 to 21.04 mm"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5450-laptop/mg/notebook-latitude-14-5450t-emza-gallery-5.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5450-laptop/mg/notebook-latitude-14-5450nt-gallery-6.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5450-laptop/mg/notebook-latitude-14-5450nt-gallery-7.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5450-laptop/mg/notebook-latitude-14-5450nt-gallery-8.psd?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-5450-laptop/mg/notebook-latitude-14-5450nt-gallery-10.psd?wid=1200"
+  ],
+  "spin": [],
+  "source": "https://www.dell.com/en-us/shop/laptops/spd/latitude5450",
+  "confidence": "medium"
+ },
+ "dell-pro-essential-15-pv15250-core-i7-8gb-ram-512gb-ssd-15-6-inch": {
+  "summary": "The Dell Pro Essential 15 (PV15250) is an affordable 15.6 inch business laptop for everyday office work. This version has a 13th Gen Intel Core i7 processor, 8GB of DDR5 memory and a 512GB SSD with a smooth 120 Hz Full HD non-touch screen. It has a full keyboard with number pad, HDMI, USB-C and an SD card reader, and comes with a 65W charger.",
+  "highlights": [
+   "13th Gen Intel Core i7-1355U with 10 cores, up to 5.0 GHz",
+   "8GB DDR5 memory and 512GB PCIe NVMe SSD",
+   "15.6 inch Full HD 120 Hz non-touch display",
+   "Wi-Fi 6, HDMI, USB-C and SD card reader",
+   "Full size keyboard with number pad"
+  ],
+  "specs": [
+   [
+    "Model",
+    "Dell Pro Essential 15 PV15250"
+   ],
+   [
+    "Processor",
+    "13th Gen Intel Core i7-1355U, 10 cores, up to 5.0 GHz"
+   ],
+   [
+    "Memory",
+    "8GB DDR5 (1 x 8GB, up to 5600 MT/s; up to 16GB supported)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "15.6 inch FHD (1920 x 1080), 120 Hz, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel integrated graphics"
+   ],
+   [
+    "Ports",
+    "1 x USB-C 3.2 Gen 1, 1 x USB 3.2 Gen 1 Type-A, 1 x USB 2.0 Type-A, 1 x HDMI 1.4, 1 x headset jack, 1 x power port"
+   ],
+   [
+    "Card reader",
+    "SD card slot"
+   ],
+   [
+    "Wireless",
+    "Realtek Wi-Fi 6 RTL8852BE (2x2) with Bluetooth"
+   ],
+   [
+    "Keyboard",
+    "Full size keyboard with number pad"
+   ],
+   [
+    "Battery",
+    "3-cell 41 Wh"
+   ],
+   [
+    "Charger",
+    "65W AC adapter, 4.5 mm barrel"
+   ],
+   [
+    "Weight",
+    "Up to 1.90 kg (plastic chassis)"
+   ],
+   [
+    "Dimensions",
+    "358.5 x 235.6 x 16.96 to 18.99 mm (plastic chassis)"
+   ],
+   [
+    "Colour",
+    "Carbon Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro/pv15250/media-gallery/notebook-pv15250-nt-laptop-bk-plastic-gallery-1.png?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro/pv15250/media-gallery/notebook-pv15250-nt-laptop-bk-plastic-gallery-3.png?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro/pv15250/media-gallery/notebook-pv15250-nt-laptop-bk-plastic-gallery-4.png?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro/pv15250/media-gallery/notebook-pv15250-nt-laptop-bk-plastic-gallery-6.png?wid=1200",
+   "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/dell-pro/pv15250/media-gallery/notebook-pv15250-nt-laptop-bk-plastic-gallery-9.png?wid=1200"
+  ],
+  "spin": [],
+  "source": "https://www.dell.com/en-us/shop/dell-laptops/spd/dellproessential15laptoppv15250",
+  "confidence": "high"
+ },
+ "lenovo-thinkpad-x13-gen-6-core-ultra-7-16gb-ram-512gb-ssd-13-3-inch": {
+  "summary": "The ThinkPad X13 Gen 6 is a light 13.3 inch business laptop that starts at under 1 kg. It combines an Intel Core Ultra 7 processor, 16GB of fast LPDDR5X memory and a 512GB SSD in a carbon fibre and metal body. It is made for people who travel a lot and still want a full ThinkPad keyboard and Thunderbolt 4.",
+  "highlights": [
+   "Starts at 927 g, among the lightest ThinkPads",
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "16GB LPDDR5X memory and 512GB PCIe SSD",
+   "Bright 13.3 inch WUXGA screen, 400 nits, 100% sRGB",
+   "Two Thunderbolt 4 ports plus HDMI 2.1 and USB-A"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 2; exact processor model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "16GB LPDDR5X (runs at 8400 MT/s), soldered, not upgradable"
+   ],
+   [
+    "Storage",
+    "512GB M.2 2280 PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "13.3 inch WUXGA (1920 x 1200) IPS, 16:10, 400 nits, 100% sRGB, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics, or Intel Arc 140T GPU on H series models (integrated)"
+   ],
+   [
+    "Ports",
+    "2x Thunderbolt 4 (USB4 40Gbps) with Power Delivery and DisplayPort 2.1, 1x USB-A (5Gbps, Always On), HDMI 2.1, 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E or Wi-Fi 7 (2x2) with Bluetooth, depending on configuration; no built-in Ethernet"
+   ],
+   [
+    "Camera",
+    "5MP with privacy shutter (IR for Windows Hello on some models)"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant ThinkPad keyboard with TrackPoint and Copilot key"
+   ],
+   [
+    "Audio",
+    "2x 2W stereo speakers with Dolby Atmos, 360 degree microphones with Dolby Voice"
+   ],
+   [
+    "Battery",
+    "41Wh or 54.7Wh depending on configuration, Rapid Charge (up to 80% in 1 hour)"
+   ],
+   [
+    "Dimensions",
+    "299.3 x 207 x 17.75 to 18.15 mm (maximum)"
+   ],
+   [
+    "Weight",
+    "From 927 g (41Wh) or 962 g (54.7Wh)"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X13_Gen_6_Intel/ThinkPad_X13_Gen_6_Intel_CT1_04.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X13_Gen_6_Intel/ThinkPad_X13_Gen_6_Intel_CT1_02.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X13_Gen_6_Intel/ThinkPad_X13_Gen_6_Intel_CT1_08.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X13_Gen_6_Intel/ThinkPad_X13_Gen_6_Intel_CT2_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X13_Gen_6_Intel/ThinkPad_X13_Gen_6_Intel_CT2_04.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X13_Gen_6_Intel/ThinkPad_X13_Gen_6_Intel_Spec.pdf",
+  "confidence": "high"
+ },
+ "lenovo-thinkbook-14-g8-ial-core-ultra-7-8gb-ram-512gb-ssd-14-inch": {
+  "summary": "The ThinkBook 14 G8 is a 14 inch laptop for small and growing businesses, with an aluminium lid and a clean Arctic Grey design. It runs an Intel Core Ultra 7 255H with 8GB of DDR5 memory and a 512GB SSD, and the memory can be upgraded later. It has a generous mix of ports, including Thunderbolt 4, Ethernet and an SD card reader.",
+  "highlights": [
+   "Intel Core Ultra 7 255H processor with 16 cores",
+   "8GB DDR5 in a slot, upgradable to 64GB",
+   "512GB PCIe 4.0 SSD with a second free M.2 slot",
+   "14 inch WUXGA 16:10 anti-glare screen",
+   "Thunderbolt 4, HDMI 2.1, Ethernet and SD card reader"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 255H (16 cores: 6 P-cores + 8 E-cores + 2 LP E-cores, up to 5.1 GHz, 24MB cache)"
+   ],
+   [
+    "Memory",
+    "8GB DDR5-5600, two SODIMM slots (up to 64GB)"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD, second M.2 slot free"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS, 16:10, 300 nits, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics (integrated); Intel Arc 140T performance needs 16GB or more in dual channel"
+   ],
+   [
+    "Ports",
+    "1x Thunderbolt 4 (USB4 40Gbps), 1x USB-C (10Gbps), 2x USB-A (5Gbps, one Always On), HDMI 2.1, Gigabit Ethernet (RJ-45), SD card reader, 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6 or Wi-Fi 6E (2x2) with Bluetooth, depending on configuration"
+   ],
+   [
+    "Camera",
+    "FHD 1080p with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant, with Copilot key"
+   ],
+   [
+    "Audio",
+    "2x 2W stereo speakers with Dolby Audio"
+   ],
+   [
+    "Battery",
+    "45Wh or 60Wh depending on configuration"
+   ],
+   [
+    "Dimensions",
+    "313.5 x 224 x 17.5 mm"
+   ],
+   [
+    "Weight",
+    "From 1.36 kg"
+   ],
+   [
+    "Colour",
+    "Arctic Grey, dual-tone"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkBook/ThinkBook_14_G8_IAL/ThinkBook_14_G8_IAL_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkBook/ThinkBook_14_G8_IAL/ThinkBook_14_G8_IAL_CT1_05.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkBook/ThinkBook_14_G8_IAL/ThinkBook_14_G8_IAL_CT2_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkBook/ThinkBook_14_G8_IAL/ThinkBook_14_G8_IAL_CT2_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkBook/ThinkBook_14_G8_IAL/ThinkBook_14_G8_IAL_CT2_04.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkBook/ThinkBook_14_G8_IAL/ThinkBook_14_G8_IAL_Spec.pdf",
+  "confidence": "high"
+ },
+ "msi-modern-14f1mxg-core-i7-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The MSI Modern 14 F1MX is a light 14 inch laptop for work and study, weighing about 1.5 kg. It pairs a top tier Intel Core processor (listed as Core i7) with 16GB of DDR5 memory and a 512GB NVMe SSD, so it handles busy multitasking, office suites and video calls comfortably. A backlit keyboard, webcam shutter and wired LAN port round out a practical everyday machine.",
+  "highlights": [
+   "Intel Core 7 class processor (sold as Core i7)",
+   "16GB DDR5 memory, two slots, up to 64GB",
+   "512GB NVMe PCIe Gen4 SSD",
+   "14 inch Full HD IPS-level non-touch display",
+   "Backlit keyboard with Copilot key and webcam privacy shutter",
+   "Wi-Fi 6E, Bluetooth 5.3 and Gigabit LAN"
+  ],
+  "specs": [
+   [
+    "Model",
+    "MSI Modern 14 F1MXG"
+   ],
+   [
+    "Processor",
+    "Core i7 per the listing; MSI specifies up to an Intel Core 7 processor for this model, exact chip depends on configuration"
+   ],
+   [
+    "Memory",
+    "16GB DDR5 (up to DDR5-5600), 2 slots, up to 64GB"
+   ],
+   [
+    "Storage",
+    "512GB M.2 NVMe PCIe Gen4 SSD"
+   ],
+   [
+    "Display",
+    "14 inch FHD (1920 x 1080), IPS-level, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics"
+   ],
+   [
+    "Ports",
+    "1x USB 3.2 Gen 2 Type-C (DisplayPort and Power Delivery 3.0), 3x USB 3.2 Gen 1 Type-A, 1x HDMI (4K at 30Hz), 1x RJ45, 1x microSD card reader, 1x mic-in/headphone-out combo jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6E (802.11ax), Bluetooth 5.3"
+   ],
+   [
+    "Webcam",
+    "720p HD (30fps) with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "White backlit keyboard with Copilot key"
+   ],
+   [
+    "Audio",
+    "2x 2W speakers, array microphone"
+   ],
+   [
+    "Security",
+    "Firmware TPM 2.0, Kensington lock, fingerprint reader on some versions"
+   ],
+   [
+    "Battery",
+    "3-cell, 46.8Wh, with 65W adapter"
+   ],
+   [
+    "Weight",
+    "1.5 kg"
+   ],
+   [
+    "Dimensions",
+    "323.9 x 217.2 x 19.9 mm"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://storage-asset.msi.com/global/picture/product/product_172057862270866d94f2c2baeb72958d1cc5526839.png",
+   "https://storage-asset.msi.com/global/picture/product/product_1720578347d75619d130d736e14cca82f1a20924a7.png",
+   "https://storage-asset.msi.com/global/picture/product/product_1720578349a9c987299aec906c6da5b6f8e0b81e24.png",
+   "https://storage-asset.msi.com/global/picture/product/product_172057835057341dcc0a0d1502e6e51d376697ebfa.png"
+  ],
+  "spin": [],
+  "source": "https://www.msi.com/Business-Productivity/Modern-14-F1MX/Specification",
+  "confidence": "medium"
+ },
+ "lenovo-thinkpad-t14s-2-in-1-gen-1-core-ultra-7-32gb-ram-1tb-ssd-14-inch": {
+  "summary": "The ThinkPad T14s 2-in-1 Gen 1 is a 14 inch convertible with a touch screen that folds back 360 degrees into tablet, tent or stand mode. This version has an Intel Core Ultra 7 processor, 32GB of memory and a 1TB SSD, so it handles demanding office work with ease. It suits professionals who present, sign documents or take notes with a pen.",
+  "highlights": [
+   "360 degree hinge: laptop, tent, stand and tablet modes",
+   "14 inch WUXGA multi-touch screen with pen support",
+   "Intel Core Ultra 7 processor, 32GB LPDDR5X, 1TB SSD",
+   "Two Thunderbolt 4 ports plus HDMI 2.1 and two USB-A",
+   "Fingerprint reader and webcam privacy shutter"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (Series 2; exact processor model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "32GB LPDDR5X (runs at 7467 MT/s), soldered, not upgradable"
+   ],
+   [
+    "Storage",
+    "1TB M.2 2280 PCIe NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) IPS multi-touch, 16:10, 400 to 500 nits depending on panel"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics, or Intel Arc 140T GPU on H series models (integrated)"
+   ],
+   [
+    "Pen",
+    "Supports Lenovo Yoga Pen (bundled on some configurations, otherwise sold separately)"
+   ],
+   [
+    "Ports",
+    "2x Thunderbolt 4 (USB4 40Gbps) with Power Delivery and DisplayPort 2.1, 2x USB-A (5Gbps, one Always On), HDMI 2.1, 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 6E or Wi-Fi 7 (2x2) with Bluetooth, depending on configuration; no built-in Ethernet"
+   ],
+   [
+    "Camera",
+    "5MP with privacy shutter (IR for Windows Hello on some models)"
+   ],
+   [
+    "Keyboard",
+    "Backlit, spill-resistant ThinkPad keyboard with TrackPoint and Copilot key"
+   ],
+   [
+    "Battery",
+    "58Wh, Rapid Charge (up to 80% in 1 hour)"
+   ],
+   [
+    "Dimensions",
+    "313.6 x 222.8 x 21.6 mm (maximum)"
+   ],
+   [
+    "Weight",
+    "From 1.40 kg"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_T14s_2_in_1_Gen_1/ThinkPad_T14s_2_in_1_Gen_1_CT1_07.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_T14s_2_in_1_Gen_1/ThinkPad_T14s_2_in_1_Gen_1_CT1_02.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_T14s_2_in_1_Gen_1/ThinkPad_T14s_2_in_1_Gen_1_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_T14s_2_in_1_Gen_1/ThinkPad_T14s_2_in_1_Gen_1_CT1_05.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_T14s_2_in_1_Gen_1/ThinkPad_T14s_2_in_1_Gen_1_CT2_01.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T14s_2_in_1_Gen_1/ThinkPad_T14s_2_in_1_Gen_1_Spec.pdf",
+  "confidence": "high"
+ },
+ "lenovo-thinkpad-x9-gen-1-core-ultra-7-32gb-ram-1tb-ssd-14-inch": {
+  "summary": "The ThinkPad X9 14 Gen 1 Aura Edition is a slim, all-aluminium 14 inch Copilot+ PC with a vivid OLED screen. It has an Intel Core Ultra 7 processor, 32GB of fast memory and a 1TB SSD, plus a large haptic glass touchpad. It is aimed at professionals who want a premium, light laptop with long battery life.",
+  "highlights": [
+   "14 inch OLED screen, 100% DCI-P3, DisplayHDR True Black 500",
+   "Intel Core Ultra 7 (Lunar Lake) Copilot+ PC with up to 48 TOPS NPU",
+   "32GB LPDDR5X memory and 1TB SSD",
+   "Slim aluminium body from 1.21 kg",
+   "Wi-Fi 7 and two Thunderbolt 4 ports"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 V series (Series 2, Lunar Lake; exact processor model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "32GB LPDDR5X-8533, on package, not upgradable"
+   ],
+   [
+    "Storage",
+    "1TB M.2 2242 PCIe 4.0 NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch WUXGA (1920 x 1200) OLED, 16:10, 400 nits, 100% DCI-P3, DisplayHDR True Black 500, Dolby Vision, anti-glare, non-touch"
+   ],
+   [
+    "Graphics",
+    "Intel Arc Graphics 140V (integrated)"
+   ],
+   [
+    "Ports",
+    "2x Thunderbolt 4 (USB4 40Gbps) with Power Delivery and DisplayPort 2.1, HDMI 2.1, 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Intel Wi-Fi 7 (2x2) and Bluetooth 5.4; no built-in Ethernet"
+   ],
+   [
+    "Camera",
+    "FHD 1080p + IR or 8MP + IR depending on configuration, with electronic shutter"
+   ],
+   [
+    "Keyboard and touchpad",
+    "Backlit spill-resistant keyboard with Copilot key, large haptic glass touchpad"
+   ],
+   [
+    "Security",
+    "Fingerprint reader in power button, IR face login, discrete TPM 2.0"
+   ],
+   [
+    "Battery",
+    "55Wh, Rapid Charge (up to 80% in 1 hour)"
+   ],
+   [
+    "Dimensions",
+    "311.8 x 212.3 x 6.7 to 17.18 mm"
+   ],
+   [
+    "Weight",
+    "From 1.21 kg (non-touch)"
+   ],
+   [
+    "Colour",
+    "Grey or White depending on configuration"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X9_14_Gen_1_Aura_Edition/ThinkPad_X9_14_Gen_1_Aura_Edition_CT1_06.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X9_14_Gen_1_Aura_Edition/ThinkPad_X9_14_Gen_1_Aura_Edition_CT1_10.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X9_14_Gen_1_Aura_Edition/ThinkPad_X9_14_Gen_1_Aura_Edition_CT1_08.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X9_14_Gen_1_Aura_Edition/ThinkPad_X9_14_Gen_1_Aura_Edition_CT2_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_X9_14_Gen_1_Aura_Edition/ThinkPad_X9_14_Gen_1_Aura_Edition_CT2_04.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X9_14_Gen_1_Aura_Edition/ThinkPad_X9_14_Gen_1_Aura_Edition_Spec.pdf",
+  "confidence": "high"
+ },
+ "lenovo-thinkpad-e14-gen-7-core-ultra-7-16gb-ram-512gb-ssd-14-inch": {
+  "summary": "The ThinkPad E14 Gen 7 is a 14 inch business laptop with an Intel Core Ultra 7 processor, 16GB of memory and a 512GB SSD. It is a dependable choice for professionals and small teams who want strong performance with ThinkPad security and keyboard. A full set of ports, including Ethernet and Thunderbolt 4, saves carrying adapters.",
+  "highlights": [
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "16GB memory and 512GB PCIe 4.0 SSD",
+   "14 inch 16:10 anti-glare screen",
+   "Thunderbolt 4, HDMI 2.1 and Gigabit Ethernet built in",
+   "Spill-resistant keyboard with TrackPoint",
+   "Webcam privacy shutter and discrete TPM 2.0 security chip"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (exact processor model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "16GB total; DDR5-5600 in two SODIMM slots (upgradable to 64GB) on Arrow Lake and Meteor Lake models, or soldered LPDDR5X-8533 (not upgradable) on Lunar Lake models"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD"
+   ],
+   [
+    "Display",
+    "14 inch IPS, 16:10, anti-glare, non-touch; WUXGA (1920 x 1200) 300 nits or 2.8K (2880 x 1800) 120Hz 400 nits depending on configuration"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics or Intel Arc Graphics (integrated), depending on processor; Arc needs an H series chip with dual-channel memory, or comes with Lunar Lake V series chips"
+   ],
+   [
+    "Ports",
+    "1x USB-A (5Gbps), 1x USB-A (10Gbps, Always On), 1x Thunderbolt 4 (USB4 40Gbps) with Power Delivery, 1x USB-C (20Gbps) or a second Thunderbolt 4 depending on processor, HDMI 2.1, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6, Wi-Fi 6E or Wi-Fi 7 (2x2) with Bluetooth, depending on configuration"
+   ],
+   [
+    "Camera",
+    "HD 720p, FHD 1080p + IR or 5MP depending on configuration, all with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant ThinkPad keyboard with TrackPoint and Copilot key, backlight optional"
+   ],
+   [
+    "Audio",
+    "2x 2W stereo speakers, Dolby Atmos, audio by HARMAN"
+   ],
+   [
+    "Battery",
+    "48Wh or 64Wh depending on configuration"
+   ],
+   [
+    "Security",
+    "Discrete TPM 2.0, Kensington Nano slot, optional fingerprint reader in power button"
+   ],
+   [
+    "Dimensions",
+    "313 x 220.3 x 19.7 to 20.5 mm (maximum)"
+   ],
+   [
+    "Weight",
+    "From 1.32 to 1.34 kg depending on processor"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_01.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_05.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT2_04.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_CT2_01.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E14_Gen_7_Intel/ThinkPad_E14_Gen_7_Intel_Spec.pdf",
+  "confidence": "high"
+ },
+ "lenovo-thinkpad-e16-core-ultra-7-16gb-ram-512gb-ssd-16-inch": {
+  "summary": "The ThinkPad E16 is a 16 inch business laptop with a large screen and a full keyboard with numeric keypad. This version has an Intel Core Ultra 7 processor, 16GB of memory and a 512GB SSD. It is a good fit for accounting, data entry and anyone who works with spreadsheets all day, with Ethernet and Thunderbolt 4 built in.",
+  "highlights": [
+   "Large 16 inch 16:10 anti-glare screen",
+   "Intel Core Ultra 7 processor with built-in AI engine (NPU)",
+   "16GB memory and 512GB PCIe 4.0 SSD",
+   "Full keyboard with numeric keypad and TrackPoint",
+   "Thunderbolt 4, HDMI 2.1 and Gigabit Ethernet"
+  ],
+  "specs": [
+   [
+    "Processor",
+    "Intel Core Ultra 7 (exact processor model depends on configuration)"
+   ],
+   [
+    "Memory",
+    "16GB total; DDR5-5600 in two SODIMM slots (upgradable to 64GB) on Arrow Lake and Meteor Lake models, or soldered LPDDR5X-8533 (not upgradable) on Lunar Lake models"
+   ],
+   [
+    "Storage",
+    "512GB M.2 PCIe 4.0 NVMe SSD"
+   ],
+   [
+    "Display",
+    "16 inch IPS, 16:10, anti-glare, non-touch; WUXGA (1920 x 1200) 300 nits or WQXGA (2560 x 1600) 120Hz 400 nits depending on configuration"
+   ],
+   [
+    "Graphics",
+    "Intel Graphics or Intel Arc Graphics (integrated), depending on processor; Arc needs an H series chip with dual-channel memory, or comes with Lunar Lake V series chips"
+   ],
+   [
+    "Ports",
+    "1x USB-A (5Gbps), 1x USB-A (10Gbps, Always On), 1x Thunderbolt 4 (USB4 40Gbps) with Power Delivery, 1x USB-C (20Gbps) or a second Thunderbolt 4 depending on processor, HDMI 2.1, Gigabit Ethernet (RJ-45), 3.5 mm headset jack"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 6, Wi-Fi 6E or Wi-Fi 7 (2x2) with Bluetooth, depending on configuration"
+   ],
+   [
+    "Camera",
+    "HD 720p, FHD 1080p + IR or 5MP depending on configuration, all with privacy shutter"
+   ],
+   [
+    "Keyboard",
+    "Spill-resistant ThinkPad keyboard with numeric keypad, TrackPoint and Copilot key"
+   ],
+   [
+    "Audio",
+    "2x 2W stereo speakers, Dolby Atmos, audio by HARMAN"
+   ],
+   [
+    "Battery",
+    "48Wh or 64Wh depending on configuration"
+   ],
+   [
+    "Dimensions",
+    "356 x 249 x 21.15 to 21.95 mm (maximum)"
+   ],
+   [
+    "Weight",
+    "From 1.62 to 1.65 kg depending on processor"
+   ],
+   [
+    "Colour",
+    "Black"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E16_Gen_3_Intel/ThinkPad_E16_Gen_3_Intel_CT1_02.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E16_Gen_3_Intel/ThinkPad_E16_Gen_3_Intel_CT1_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E16_Gen_3_Intel/ThinkPad_E16_Gen_3_Intel_CT1_04.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E16_Gen_3_Intel/ThinkPad_E16_Gen_3_Intel_CT2_03.png",
+   "https://psref.lenovo.com/syspool/Sys/Image/ThinkPad/ThinkPad_E16_Gen_3_Intel/ThinkPad_E16_Gen_3_Intel_CT2_01.png"
+  ],
+  "spin": [],
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_E16_Gen_3_Intel/ThinkPad_E16_Gen_3_Intel_Spec.pdf",
+  "confidence": "medium"
+ },
+ "light-wave-ssd-case-01-sata-ssd-m-b-m-key-socket": {
+  "summary": "An external case that turns an M.2 SATA SSD into a portable USB drive. It takes M.2 SATA drives with B+M key notches, the kind often removed from older laptops when upgrading. Handy for reusing an old SSD as a fast pocket drive or for copying data off it.",
+  "highlights": [
+   "Holds one M.2 SATA SSD",
+   "For B+M key drives",
+   "Reuse an old laptop SSD as a portable drive",
+   "Powered over USB"
+  ],
+  "specs": [
+   [
+    "Type",
+    "External SSD enclosure"
+   ],
+   [
+    "Supported drives",
+    "M.2 SATA SSD"
+   ],
+   [
+    "Socket",
+    "M.2, B+M key"
+   ],
+   [
+    "Drives supported",
+    "One"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Not supported",
+    "M.2 NVMe (M key only) SSDs"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "light-wave-ssd-case-02-m-2-nvme-ssd-m-key-socket": {
+  "summary": "An external case for an M.2 NVMe SSD that turns it into a fast portable USB drive. It takes NVMe drives with an M key socket, the type used in most modern laptops and desktops. Good for building a quick external drive or reading data from an SSD taken out of another computer.",
+  "highlights": [
+   "Holds one M.2 NVMe SSD",
+   "M key socket",
+   "Turns a spare SSD into a fast portable drive",
+   "Powered over USB"
+  ],
+  "specs": [
+   [
+    "Type",
+    "External SSD enclosure"
+   ],
+   [
+    "Supported drives",
+    "M.2 NVMe (PCIe) SSD"
+   ],
+   [
+    "Socket",
+    "M.2, M key"
+   ],
+   [
+    "Drives supported",
+    "One"
+   ],
+   [
+    "Power",
+    "Taken from the USB port"
+   ],
+   [
+    "Not supported",
+    "M.2 SATA SSDs, unless the case is stated as dual protocol"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "msi-monitor-mag-244f": {
+  "summary": "The MSI MAG 244F is a 23.8 inch Full HD gaming monitor with a fast 200Hz Rapid IPS panel and 0.5ms response time. It suits PC and console gamers who want smooth, sharp motion without paying for a higher resolution, and the IPS panel keeps colours consistent from wide angles. FreeSync Premium reduces tearing, and console mode supports 120Hz on PS5 and Xbox over HDMI.",
+  "highlights": [
+   "23.8 inch Full HD (1920 x 1080) Rapid IPS panel",
+   "200Hz refresh rate and 0.5ms (GtG) response time",
+   "AMD FreeSync Premium, HDR Ready",
+   "HDMI 2.0b and DisplayPort 1.2a, both up to 200Hz",
+   "Console mode with 120Hz and VRR for PS5 and Xbox",
+   "Anti-glare screen, tilt stand and 100 x 100 mm VESA mount"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "23.8 inch, flat"
+   ],
+   [
+    "Panel type",
+    "Rapid IPS, anti-glare"
+   ],
+   [
+    "Resolution",
+    "1920 x 1080 (Full HD), 16:9"
+   ],
+   [
+    "Refresh rate",
+    "200Hz (variable 48 to 200Hz)"
+   ],
+   [
+    "Response time",
+    "0.5ms (GtG, minimum)"
+   ],
+   [
+    "Brightness",
+    "300 nits (SDR)"
+   ],
+   [
+    "Contrast ratio",
+    "1000:1"
+   ],
+   [
+    "Colour",
+    "1.07 billion colours (8-bit + FRC); 91% Adobe RGB, 96% DCI-P3, 126% sRGB (CIE1976)"
+   ],
+   [
+    "Viewing angle",
+    "178 degrees horizontal and vertical"
+   ],
+   [
+    "Adaptive sync",
+    "AMD FreeSync Premium; HDR Ready"
+   ],
+   [
+    "Video ports",
+    "1x HDMI 2.0b (FHD at 200Hz), 1x DisplayPort 1.2a"
+   ],
+   [
+    "Audio",
+    "1x headphone out (no built-in speakers listed)"
+   ],
+   [
+    "Stand",
+    "Tilt from minus 5 to 20 degrees; VESA 100 x 100 mm; Kensington lock"
+   ],
+   [
+    "Power",
+    "External adapter 12V 3A, 100 to 240V AC"
+   ],
+   [
+    "Weight",
+    "2.88 kg net"
+   ]
+  ],
+  "inBox": [
+   "HDMI cable",
+   "Power cord",
+   "Power adapter",
+   "Quick guide"
+  ],
+  "images": [
+   "https://storage-asset.msi.com/global/picture/product/product_17392524560ca639b9c6df4984cdd8e5f75f2e81db.png",
+   "https://storage-asset.msi.com/global/picture/product/product_1739252459a231494cda732eb9257164b9ab7f80c2.png",
+   "https://storage-asset.msi.com/global/picture/product/product_17392524597eca26da628249e364cd98484dab7974.png",
+   "https://storage-asset.msi.com/global/picture/product/product_173925246100f20a8ff4d982f807c5c41845996d1c.png"
+  ],
+  "spin": [],
+  "source": "https://www.msi.com/Monitor/MAG-244F/Specification",
+  "confidence": "high"
+ },
+ "msi-pro-dp-180-i5-16gb-512gb-desktop-cpu-only": {
+  "summary": "The MSI PRO DP180 14th is a compact 18 litre business desktop tower with a 14th Gen Intel Core i5 processor, 16GB of memory and a 512GB SSD. It suits offices, reception desks and home offices that need a reliable, quiet PC with lots of ports. This listing is the desktop unit only: no monitor, keyboard or mouse are included.",
+  "highlights": [
+   "14th Gen Intel Core i5 processor",
+   "16GB memory and 512GB M.2 SSD, with spare 2.5 inch and 3.5 inch drive bays",
+   "Compact 18 litre tower, quiet at 28 dB idle",
+   "Front USB-C 10Gbps, card reader and audio jacks",
+   "Two 2.5G/1G LAN ports plus HDMI, DisplayPort and VGA outputs",
+   "500W 80 Plus Bronze power supply"
+  ],
+  "specs": [
+   [
+    "What you get",
+    "Desktop tower unit only (no monitor, keyboard or mouse)"
+   ],
+   [
+    "Processor",
+    "14th Gen Intel Core i5 (MSI lists the i5-14400 and i5-14400F for this model)"
+   ],
+   [
+    "Chipset",
+    "Intel H610"
+   ],
+   [
+    "Memory",
+    "16GB; DDR5-5600 (PRO DP180 14A) or DDR4-3200 (PRO DP180 14), 2 U-DIMM slots, up to 64GB"
+   ],
+   [
+    "Storage",
+    "512GB SSD; 1x M.2 slot (NVMe PCIe Gen3 x4 or SATA), 1x 2.5 inch bay, 1x 3.5 inch bay"
+   ],
+   [
+    "Graphics",
+    "Depends on configuration: Intel integrated graphics with the i5-14400, or an optional MSI GeForce card"
+   ],
+   [
+    "Front ports",
+    "1x USB 3.2 Gen 2 Type-C (10G), 2x USB 3.2 Gen 1 Type-A, card reader, mic-in, headphone-out"
+   ],
+   [
+    "Rear ports",
+    "2x RJ45 (2.5G/1G), 1x HDMI 2.1, 1x DisplayPort 1.4, 1x VGA, 4x USB 2.0, 1x USB 3.2 Gen 1, 1x PS/2, 1x COM, 3x audio jacks"
+   ],
+   [
+    "Wireless",
+    "Optional Intel Wi-Fi card with Bluetooth, depending on configuration"
+   ],
+   [
+    "Audio",
+    "Realtek ALC897 7.1 channel HD audio"
+   ],
+   [
+    "Power supply",
+    "500W 80 Plus Bronze"
+   ],
+   [
+    "Size",
+    "18 litres; 168 x 323 x 369 mm"
+   ],
+   [
+    "Weight",
+    "7.59 kg net (without keyboard)"
+   ],
+   [
+    "Noise",
+    "28 dB idle, 38 dB full load"
+   ],
+   [
+    "Security",
+    "Kensington lock and padlock loop"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://storage-asset.msi.com/global/picture/product/product_167763299493d7da100e82f2e69562d87eb7bccd21.png",
+   "https://storage-asset.msi.com/global/picture/product/product_16776329965c915d39dbc473cbef3116c759fc8a58.png",
+   "https://storage-asset.msi.com/global/picture/product/product_167763299624a692e43d3547a95011ab1ff7221315.png",
+   "https://storage-asset.msi.com/global/picture/product/product_167763299997845836456f4de1484c068d4eacaa1b.png"
+  ],
+  "spin": [],
+  "source": "https://www.msi.com/Business-Productivity-PC/PRO-DP180-14th/Specification",
+  "confidence": "medium"
  }
 }
