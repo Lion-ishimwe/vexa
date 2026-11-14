@@ -19,6 +19,6 @@ module.exports = {
     photo: "/assets/img/founder-lionnel.jpg"
   },
   // Umami visitor statistics (cloud.umami.is). Paste the website ID to switch counting on; empty means off.
-  umamiId: "",
+  umamiId: "90c06f5f-4746-43e8-a59d-f9e5043cc3f3",
   year: new Date().getFullYear()
 };
