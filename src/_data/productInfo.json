@@ -18758,5 +18758,2525 @@
   "spin": [],
   "source": "https://www.hikvision.com/en/products/premises-distribution-system/cable/coaxial-cables/ds-1lh1scam592c/",
   "confidence": "high"
+ },
+ "hikvision-305-m-cat6-utp-network-cable-full-copper": {
+  "summary": "A 305 m box of Hikvision CAT6 UTP network cable with solid bare copper conductors of 0.565 mm (23 AWG). It suits structured cabling, IP cameras and PoE runs where you want low resistance and dependable performance over full 100 m channels. The PVC jacket is flame retardant and the cable has a rip cord and a cross separator for easy, tidy terminations.",
+  "highlights": [
+   "Solid bare copper conductors (99.99%), not copper clad aluminium",
+   "0.565 mm (23 AWG) conductors for low resistance",
+   "Supports PoE applications",
+   "Meets ANSI/TIA-568.2-E and ISO/IEC 11801 CAT6 standards",
+   "Flame retardant PVC jacket rated CPR Eca and UL CM",
+   "305 m box with built-in rip cord and separator"
+  ],
+  "specs": [
+   [
+    "Category",
+    "CAT6 UTP (unshielded)"
+   ],
+   [
+    "Length",
+    "305 m"
+   ],
+   [
+    "Conductor",
+    "Solid bare copper, 99.99%"
+   ],
+   [
+    "Conductor diameter",
+    "0.565 mm (23 AWG)"
+   ],
+   [
+    "Insulation",
+    "HDPE, 1.02 mm diameter"
+   ],
+   [
+    "Jacket",
+    "PVC, 6.2 mm outer diameter"
+   ],
+   [
+    "Jacket colour",
+    "Orange"
+   ],
+   [
+    "Fire rating",
+    "CPR Eca, UL CM"
+   ],
+   [
+    "DC resistance",
+    "9.38 ohm per 100 m or less"
+   ],
+   [
+    "Operating voltage",
+    "57 V"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 75 °C"
+   ],
+   [
+    "Standards",
+    "ANSI/TIA-568.2-E, ISO/IEC 11801, RoHS 2.0"
+   ],
+   [
+    "Box size",
+    "325 x 245 x 333 mm"
+   ],
+   [
+    "Box weight",
+    "About 13.3 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/premises-distribution-system/cable/copper-cables/ds-1ln6-uu/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e0520hp-e-16-port-gigabit-unmanaged-poe-switch": {
+  "summary": "A 19 inch rack mount, plug and play Gigabit PoE switch with 16 PoE ports for IP cameras, access points and phones. Four of the ports are Hi-PoE with up to 90 W each for PTZ cameras and other power hungry devices, and two Gigabit RJ45 plus two fiber uplinks connect it to your recorder or network. No setup is needed: connect and go.",
+  "highlights": [
+   "16 Gigabit PoE ports, 4 of them Hi-PoE up to 90 W",
+   "2 Gigabit RJ45 and 2 Gigabit fiber uplink ports",
+   "225 W total PoE budget",
+   "Long range mode up to 300 m on ports 13 to 16",
+   "PoE watchdog restarts cameras that stop responding",
+   "6 kV surge protection, metal rack mount housing"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Unmanaged Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "16 x Gigabit PoE, 2 x Gigabit RJ45, 2 x Gigabit fiber"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at, 802.3bt"
+   ],
+   [
+    "Hi-PoE ports",
+    "Ports 1 to 4, up to 90 W per port"
+   ],
+   [
+    "PoE power budget",
+    "225 W"
+   ],
+   [
+    "Switching capacity",
+    "40 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "29.76 Mpps"
+   ],
+   [
+    "MAC address table",
+    "8 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 13 to 16"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "100 to 240 V AC, 50/60 Hz, built in"
+   ],
+   [
+    "Max. power consumption",
+    "250 W"
+   ],
+   [
+    "Mounting",
+    "19 inch rack (ears included)"
+   ],
+   [
+    "Dimensions",
+    "440 x 44 x 220.8 mm"
+   ],
+   [
+    "Weight",
+    "2.79 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/unmanaged-switch/ds-3e0520hp-e/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1106p-ei-m-4-port-fast-ethernet-smart-poe-switch": {
+  "summary": "A compact smart managed PoE switch with four 10/100 Mbps PoE ports and two 10/100 Mbps uplinks, sized for small camera systems at home or in a small business. It delivers up to 30 W per port within a 45 W budget and can reach cameras up to 300 m away in long range mode. Smart managed features include 802.1Q VLAN, STP/RSTP loop prevention, cable diagnostics and remote management through Hik-Partner Pro and HikCentral.",
+  "highlights": [
+   "4 x 10/100 Mbps PoE ports plus 2 x 10/100 Mbps uplinks",
+   "45 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "PoE watchdog and cable diagnostics",
+   "VLAN, STP/RSTP and Hik-Partner Pro remote management",
+   "Desktop or wall mount, metal housing"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Fast Ethernet PoE switch"
+   ],
+   [
+    "Ports",
+    "4 x 10/100 Mbps PoE, 2 x 10/100 Mbps RJ45"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "45 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "14 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "10.42 Mpps"
+   ],
+   [
+    "MAC address table",
+    "2 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 4"
+   ],
+   [
+    "Management",
+    "Web, Hik-Partner Pro, HikCentral Pro; VLAN (up to 32), STP/RSTP, link aggregation"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "54 V DC, 0.92 A external adapter"
+   ],
+   [
+    "Mounting",
+    "Desktop or wall"
+   ],
+   [
+    "Dimensions",
+    "121.1 x 27.6 x 83.1 mm"
+   ],
+   [
+    "Weight",
+    "0.27 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1106p-ei-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1310p-ei-m-8-port-fast-ethernet-smart-poe-switch": {
+  "summary": "A smart managed PoE switch with eight 10/100 Mbps PoE ports for cameras and two Gigabit RJ45 uplinks for your recorder or router. It provides a 60 W PoE budget with up to 30 W per port and supports long range transmission up to 300 m. Smart managed features include 802.1Q VLAN, STP/RSTP loop prevention, cable diagnostics and remote management through Hik-Partner Pro and HikCentral.",
+  "highlights": [
+   "8 x 10/100 Mbps PoE ports plus 2 Gigabit RJ45 uplinks",
+   "60 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "QoS, DHCP snooping, VLAN and STP/RSTP",
+   "Hik-Partner Pro remote management",
+   "Desktop or wall mount, metal housing"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Fast Ethernet PoE switch"
+   ],
+   [
+    "Ports",
+    "8 x 10/100 Mbps PoE, 2 x Gigabit RJ45"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "60 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "9.6 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "7.14 Mpps"
+   ],
+   [
+    "MAC address table",
+    "4 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 8"
+   ],
+   [
+    "Management",
+    "Web, Hik-Partner Pro, HikCentral Pro; VLAN, QoS, STP/RSTP, DHCP snooping"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "54 V DC, 2.22 A external adapter"
+   ],
+   [
+    "Mounting",
+    "Desktop or wall"
+   ],
+   [
+    "Dimensions",
+    "217.6 x 27.6 x 108.5 mm"
+   ],
+   [
+    "Weight",
+    "0.54 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1310p-ei-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1506p-ei-m-4-port-gigabit-smart-poe-switch": {
+  "summary": "A compact smart managed Gigabit PoE switch with four PoE ports and two Gigabit uplinks, ideal for a small set of high resolution cameras or Wi-Fi access points. It gives up to 30 W per port within a 45 W budget and reaches up to 300 m in long range mode. Smart managed features include 802.1Q VLAN, STP/RSTP loop prevention, cable diagnostics and remote management through Hik-Partner Pro and HikCentral.",
+  "highlights": [
+   "4 x Gigabit PoE ports plus 2 x Gigabit RJ45 uplinks",
+   "45 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "PoE watchdog and cable diagnostics",
+   "VLAN, STP/RSTP and Hik-Partner Pro remote management",
+   "Desktop or wall mount, metal housing"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "4 x Gigabit PoE, 2 x Gigabit RJ45"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "45 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "14 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "10.42 Mpps"
+   ],
+   [
+    "MAC address table",
+    "2 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 4"
+   ],
+   [
+    "Management",
+    "Web, Hik-Partner Pro, HikCentral Pro; VLAN (up to 32), STP/RSTP, link aggregation"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "54 V DC, 0.92 A external adapter"
+   ],
+   [
+    "Mounting",
+    "Desktop or wall"
+   ],
+   [
+    "Dimensions",
+    "121.1 x 27.6 x 83.1 mm"
+   ],
+   [
+    "Weight",
+    "0.27 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1506p-ei-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1510p-ei-m-8-port-gigabit-smart-poe-switch": {
+  "summary": "A smart managed Gigabit PoE switch with eight PoE ports and two Gigabit RJ45 uplinks, a good fit for 8 camera systems or small offices. It provides a 60 W PoE budget with up to 30 W per port and long range transmission up to 300 m. Smart managed features include 802.1Q VLAN, STP/RSTP loop prevention, cable diagnostics and remote management through Hik-Partner Pro and HikCentral.",
+  "highlights": [
+   "8 x Gigabit PoE ports plus 2 x Gigabit RJ45 uplinks",
+   "60 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "PoE watchdog and cable diagnostics",
+   "VLAN, STP/RSTP and Hik-Partner Pro remote management",
+   "Desktop or wall mount, metal housing"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "8 x Gigabit PoE, 2 x Gigabit RJ45"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "60 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "20 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "14.88 Mpps"
+   ],
+   [
+    "MAC address table",
+    "4 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 8"
+   ],
+   [
+    "Management",
+    "Web, Hik-Partner Pro, HikCentral Pro; VLAN (up to 32), STP/RSTP, link aggregation"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "54 V DC, 1.2 A external adapter"
+   ],
+   [
+    "Mounting",
+    "Desktop or wall"
+   ],
+   [
+    "Dimensions",
+    "217.6 x 27.6 x 108.5 mm"
+   ],
+   [
+    "Weight",
+    "0.54 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1510p-ei-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1510p-si-8-port-gigabit-smart-poe-switch": {
+  "summary": "A smart managed Gigabit PoE switch with eight PoE ports and two Gigabit fiber uplinks, made for camera systems where the switch sits far from the recorder. It has a generous 110 W PoE budget and supports long range PoE up to 300 m. Layer 2 management includes VLAN, link aggregation, QoS, SNMP and STP, plus topology view and alarms through Hik-Partner Pro.",
+  "highlights": [
+   "8 x Gigabit PoE ports plus 2 x Gigabit fiber uplinks",
+   "110 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "VLAN, QoS, link aggregation, storm control",
+   "Network topology and health monitoring",
+   "Desktop or wall mount, metal housing"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "8 x Gigabit PoE, 2 x Gigabit fiber"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "110 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "20 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "14.88 Mpps"
+   ],
+   [
+    "MAC address table",
+    "8 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 8"
+   ],
+   [
+    "Management",
+    "Web, Hik-Partner Pro; VLAN (up to 4094), QoS, STP, link aggregation, storm control"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "48 V DC, 2.5 A external adapter"
+   ],
+   [
+    "Mounting",
+    "Desktop or wall"
+   ],
+   [
+    "Dimensions",
+    "217.6 x 27.8 x 108.55 mm"
+   ],
+   [
+    "Weight",
+    "1.21 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1510p-si/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1518p-ei-m-16-port-gigabit-smart-poe-switch": {
+  "summary": "A 19 inch rack mount smart managed switch with 16 Gigabit PoE ports, one Gigabit RJ45 and one Gigabit fiber uplink. With a 130 W PoE budget and long range mode up to 300 m, it suits medium camera systems and small business networks. It supports VLAN, STP/RSTP, DHCP snooping, energy saving schedules and remote management through Hik-Partner Pro.",
+  "highlights": [
+   "16 x Gigabit PoE ports",
+   "1 Gigabit RJ45 and 1 Gigabit fiber uplink",
+   "130 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "VLAN, STP/RSTP, DHCP snooping, energy saving mode",
+   "Rack mount metal housing with built-in power supply"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "16 x Gigabit PoE, 1 x Gigabit RJ45, 1 x Gigabit fiber"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "130 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "56 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "41.66 Mpps"
+   ],
+   [
+    "MAC address table",
+    "8 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 16"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "100 to 240 V AC, 50/60 Hz, built in"
+   ],
+   [
+    "Max. power consumption",
+    "150 W"
+   ],
+   [
+    "Mounting",
+    "19 inch rack (ears included)"
+   ],
+   [
+    "Dimensions",
+    "440 x 44 x 220.8 mm"
+   ],
+   [
+    "Weight",
+    "2.7 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/mena-en/products/transmission/Network-Switches/smart-managed-series/ds-3e1518p-ei-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1526p-ei-m-24-port-gigabit-smart-poe-switch": {
+  "summary": "A 19 inch rack mount smart managed switch with 24 Gigabit PoE ports, one Gigabit RJ45 and one Gigabit fiber uplink. Its 230 W PoE budget and 300 m long range mode make it a solid core for larger camera systems. It supports VLAN, STP/RSTP, DHCP snooping, energy saving schedules and remote management through Hik-Partner Pro.",
+  "highlights": [
+   "24 x Gigabit PoE ports",
+   "1 Gigabit RJ45 and 1 Gigabit fiber uplink",
+   "230 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "VLAN, STP/RSTP, DHCP snooping, energy saving mode",
+   "Rack mount metal housing with built-in power supply"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "24 x Gigabit PoE, 1 x Gigabit RJ45, 1 x Gigabit fiber"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "230 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "56 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "41.66 Mpps"
+   ],
+   [
+    "MAC address table",
+    "8 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 24"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "100 to 240 V AC, 50/60 Hz, built in"
+   ],
+   [
+    "Max. power consumption",
+    "250 W"
+   ],
+   [
+    "Mounting",
+    "19 inch rack (ears included)"
+   ],
+   [
+    "Dimensions",
+    "440 x 44 x 220.8 mm"
+   ],
+   [
+    "Weight",
+    "2.96 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1526p-ei-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1526p-si-24-port-gigabit-smart-poe-switch": {
+  "summary": "A 19 inch rack mount smart managed switch with 24 Gigabit PoE ports and two Gigabit fiber uplinks. A large 370 W PoE budget means most ports can run demanding cameras at the same time, and long range mode reaches up to 300 m. Layer 2 management includes VLAN, link aggregation, QoS, SNMP and STP, with topology and alarm views in Hik-Partner Pro.",
+  "highlights": [
+   "24 x Gigabit PoE ports plus 2 x Gigabit fiber uplinks",
+   "370 W PoE budget, up to 30 W per port",
+   "Up to 300 m long range PoE transmission",
+   "VLAN, QoS, link aggregation, SNMP",
+   "Network topology and health monitoring",
+   "Rack mount metal housing with built-in power supply"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "24 x Gigabit PoE, 2 x Gigabit fiber"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "370 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "56 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "41.66 Mpps"
+   ],
+   [
+    "MAC address table",
+    "8 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 24"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "100 to 240 V AC, 50/60 Hz, built in"
+   ],
+   [
+    "Max. power consumption",
+    "400 W"
+   ],
+   [
+    "Mounting",
+    "19 inch rack (ears included)"
+   ],
+   [
+    "Dimensions",
+    "440 x 44 x 221 mm"
+   ],
+   [
+    "Weight",
+    "2.975 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1526p-si/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3e1552p-si-48-port-gigabit-smart-poe-switch": {
+  "summary": "A 19 inch rack mount smart managed switch with 48 Gigabit PoE ports, two Gigabit RJ45 and two Gigabit SFP uplinks, built for large surveillance and office networks. It offers a 470 W PoE budget, perpetual PoE that keeps cameras powered during a switch reboot, and long range mode up to 300 m. Security and management features include ACL, DHCP snooping, ARP anti-spoofing, ERPS ring protection, SNMP and QoS.",
+  "highlights": [
+   "48 x Gigabit PoE ports",
+   "2 Gigabit RJ45 and 2 Gigabit SFP uplinks",
+   "470 W PoE budget with perpetual PoE",
+   "Up to 300 m long range PoE transmission",
+   "ACL, DHCP snooping, ARP anti-spoofing, STP/RSTP/ERPS",
+   "Rack mount metal housing with built-in power supply"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Smart managed Gigabit PoE switch"
+   ],
+   [
+    "Ports",
+    "48 x Gigabit PoE, 2 x Gigabit RJ45, 2 x Gigabit SFP"
+   ],
+   [
+    "PoE standards",
+    "IEEE 802.3af, 802.3at"
+   ],
+   [
+    "PoE power budget",
+    "470 W"
+   ],
+   [
+    "Max. power per port",
+    "30 W"
+   ],
+   [
+    "Switching capacity",
+    "104 Gbps"
+   ],
+   [
+    "Packet forwarding rate",
+    "77.38 Mpps"
+   ],
+   [
+    "MAC address table",
+    "16 K"
+   ],
+   [
+    "Long range",
+    "Up to 300 m on ports 1 to 48"
+   ],
+   [
+    "Surge protection",
+    "6 kV"
+   ],
+   [
+    "Power supply",
+    "100 to 240 V AC, 50/60 Hz, built in"
+   ],
+   [
+    "Max. power consumption",
+    "500 W"
+   ],
+   [
+    "Mounting",
+    "19 inch rack (ears included)"
+   ],
+   [
+    "Dimensions",
+    "440 x 44 x 323.8 mm"
+   ],
+   [
+    "Weight",
+    "4.35 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/Network-Switches/smart-managed-series/ds-3e1552p-si/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3wr12c-ac1200-wireless-router": {
+  "summary": "A dual band AC1200 Wi-Fi router for homes and small offices, with four high gain antennas and beamforming to push the signal further. It combines 300 Mbps on 2.4 GHz with 867 Mbps on 5 GHz and can also work as a repeater, access point or WISP client. Setup and management are done through a simple web page.",
+  "highlights": [
+   "Dual band Wi-Fi 5 (802.11ac), up to 1167 Mbps combined",
+   "Four high gain antennas with MU-MIMO and beamforming",
+   "Router, repeater, client + AP, WISP and AP modes",
+   "Guest network and Wi-Fi schedule",
+   "1 WAN and 3 LAN Fast Ethernet ports"
+  ],
+  "specs": [
+   [
+    "Wi-Fi standard",
+    "IEEE 802.11a/n/ac wave 2 (5 GHz), 802.11b/g/n (2.4 GHz)"
+   ],
+   [
+    "Wi-Fi speed",
+    "Up to 1167 Mbps (300 Mbps on 2.4 GHz, 867 Mbps on 5 GHz)"
+   ],
+   [
+    "Frequency bands",
+    "2.4 GHz and 5 GHz"
+   ],
+   [
+    "Antennas",
+    "4 high gain external antennas"
+   ],
+   [
+    "Wireless features",
+    "MU-MIMO, beamforming"
+   ],
+   [
+    "Wired ports",
+    "1 x 10/100 Mbps WAN, 3 x 10/100 Mbps LAN"
+   ],
+   [
+    "Operating modes",
+    "Router, repeater, client + AP, WISP, AP"
+   ],
+   [
+    "WAN types",
+    "DHCP, static IP, PPPoE"
+   ],
+   [
+    "Security",
+    "WPA-PSK, WPA2-PSK, hidden SSID"
+   ],
+   [
+    "Management",
+    "Web interface"
+   ],
+   [
+    "Power",
+    "9 V DC, 1 A adapter"
+   ],
+   [
+    "Max. power consumption",
+    "9 W"
+   ],
+   [
+    "Weight",
+    "0.222 kg"
+   ]
+  ],
+  "inBox": [
+   "Wireless router x 1",
+   "Ethernet cable x 1",
+   "Quick installation guide x 1"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/soho-networking/wi-fi-router/ds-3wr12c/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3wr15x-1500m-wi-fi-6-wireless-router": {
+  "summary": "A dual band Wi-Fi 6 router for homes and small offices with speeds up to 1500 Mbps and Gigabit wired ports throughout. Four 5 dBi antennas, OFDMA, MU-MIMO and beamforming keep many devices connected smoothly, and it covers up to about 120 square metres in a typical home. It supports Hikvision Mesh, seamless roaming, parental controls, VPN and app management through Hik-Connect or Hik-Partner Pro.",
+  "highlights": [
+   "Wi-Fi 6 (802.11ax), up to 1500 Mbps",
+   "Gigabit WAN and 3 Gigabit LAN ports",
+   "Four 5 dBi antennas with OFDMA, MU-MIMO and beamforming",
+   "Up to 128 connections, coverage up to 120 m²",
+   "Hikvision Mesh, 802.11k/v roaming, VPN and parental controls",
+   "Web and app management"
+  ],
+  "specs": [
+   [
+    "Wi-Fi standard",
+    "IEEE 802.11a/n/ac/ax (5 GHz), 802.11b/g/n (2.4 GHz)"
+   ],
+   [
+    "Wi-Fi speed",
+    "Up to 1500 Mbps (1201 Mbps on 5 GHz, 300 Mbps on 2.4 GHz)"
+   ],
+   [
+    "Antennas",
+    "4 high gain antennas, 5 dBi"
+   ],
+   [
+    "Coverage",
+    "Up to 120 m² (home use)"
+   ],
+   [
+    "Max. connections",
+    "128 (50 recommended)"
+   ],
+   [
+    "Wired ports",
+    "1 x Gigabit WAN, 3 x Gigabit LAN"
+   ],
+   [
+    "Operating modes",
+    "Router, wireless extender, access point"
+   ],
+   [
+    "Security",
+    "WPA2-PSK, WPA/WPA2-PSK, WPA2-PSK/WPA3-SAE, firewall"
+   ],
+   [
+    "VPN",
+    "PPTP, L2TP and OpenVPN server and client"
+   ],
+   [
+    "Other features",
+    "IPv6, Hikvision Mesh, 802.11k/v roaming, parental control, DDNS"
+   ],
+   [
+    "Memory",
+    "128 MB RAM, 128 MB ROM"
+   ],
+   [
+    "Power",
+    "12 V DC, 1 A adapter"
+   ],
+   [
+    "Max. power consumption",
+    "10 W"
+   ],
+   [
+    "Dimensions",
+    "241.3 x 140.8 x 156.3 mm"
+   ],
+   [
+    "Weight",
+    "0.245 kg"
+   ]
+  ],
+  "inBox": [
+   "Wi-Fi 6 router x 1",
+   "Power adapter x 1",
+   "CAT5e network cable x 1",
+   "Quick start guide x 1",
+   "Regulatory and safety information x 1",
+   "Product flyer x 1"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000066957/AX1500-Pro%E9%BB%91%E8%89%B2%E6%8E%A5%E5%8F%A3%E5%9B%BE-WAN%E8%93%9D%E8%89%B2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/soho-networking/wi-fi-router/ds-3wr15x/",
+  "confidence": "high"
+ },
+ "hikvision-ds-3wr30x-3000m-wi-fi-6-wireless-router": {
+  "summary": "A fast dual band Wi-Fi 6 router with speeds up to 3000 Mbps, five high gain antennas and Gigabit wired ports, made for busy homes and small offices. It handles up to 256 connections and covers up to about 140 square metres in a typical home. Hikvision Mesh, 802.11k/v roaming, VPN, parental controls and app management are all included.",
+  "highlights": [
+   "Wi-Fi 6 (802.11ax), up to 3000 Mbps",
+   "Five 5 dBi antennas with OFDMA, MU-MIMO and beamforming",
+   "Gigabit WAN and 3 Gigabit LAN ports",
+   "Up to 256 connections, coverage up to 140 m²",
+   "Hikvision Mesh with WPS/Mesh button",
+   "VPN, parental controls, IPv6, web and app management"
+  ],
+  "specs": [
+   [
+    "Wi-Fi standard",
+    "IEEE 802.11a/n/ac/ax (5 GHz), 802.11b/g/n/ax (2.4 GHz)"
+   ],
+   [
+    "Wi-Fi speed",
+    "Up to 3000 Mbps (2402 Mbps on 5 GHz, 574 Mbps on 2.4 GHz)"
+   ],
+   [
+    "Antennas",
+    "5 high gain antennas, 5 dBi"
+   ],
+   [
+    "Coverage",
+    "Up to 140 m² (home use)"
+   ],
+   [
+    "Max. connections",
+    "256 (60 recommended)"
+   ],
+   [
+    "Wired ports",
+    "1 x Gigabit WAN, 3 x Gigabit LAN"
+   ],
+   [
+    "Operating modes",
+    "Router, wireless extender, access point"
+   ],
+   [
+    "Security",
+    "WPA2-PSK, WPA/WPA2-PSK, WPA2-PSK/WPA3-SAE, firewall"
+   ],
+   [
+    "VPN",
+    "PPTP, L2TP and OpenVPN server and client"
+   ],
+   [
+    "Other features",
+    "IPv6, Hikvision Mesh, 802.11k/v roaming, parental control, DDNS"
+   ],
+   [
+    "Memory",
+    "256 MB RAM, 128 MB ROM"
+   ],
+   [
+    "Power",
+    "12 V DC, 1 A adapter"
+   ],
+   [
+    "Max. power consumption",
+    "12 W"
+   ],
+   [
+    "Dimensions",
+    "281.7 x 145 x 204.1 mm"
+   ],
+   [
+    "Weight",
+    "0.40 kg"
+   ]
+  ],
+  "inBox": [
+   "Wi-Fi 6 router x 1",
+   "Power adapter x 1",
+   "CAT5e network cable x 1",
+   "Quick start guide x 1",
+   "Regulatory and safety information x 1",
+   "Product flyer x 1"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/transmission/soho-networking/wi-fi-router/ds-3wr30x/",
+  "confidence": "high"
+ },
+ "hikvision-ds-d5019s0-1p0-18-5-inch-hd-borderless-monitor": {
+  "summary": "An 18.5 inch HD monitor for CCTV viewing, reception desks and everyday office work. It shows 1366 x 768 with wide 178 degree viewing angles, low blue light for comfortable viewing and both HDMI and VGA inputs so it connects to recorders and older PCs alike. It can sit on its stand or mount on a wall with a 75 x 75 mm VESA bracket.",
+  "highlights": [
+   "18.5 inch HD screen, 1366 x 768",
+   "178° viewing angles",
+   "HDMI and VGA inputs",
+   "Low blue light and 3D noise reduction",
+   "VESA 75 x 75 mm wall mount support",
+   "Refresh rate up to 75 Hz"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "18.5 inch"
+   ],
+   [
+    "Resolution",
+    "1366 x 768 (HD)"
+   ],
+   [
+    "Brightness",
+    "200 cd/m²"
+   ],
+   [
+    "Contrast ratio",
+    "1000:1"
+   ],
+   [
+    "Response time",
+    "14 ms"
+   ],
+   [
+    "Refresh rate",
+    "60 Hz typical, 75 Hz max."
+   ],
+   [
+    "Viewing angle",
+    "178° / 178°"
+   ],
+   [
+    "Colours",
+    "16.7 million (8 bit), 72% NTSC"
+   ],
+   [
+    "Inputs",
+    "1 x HDMI 1.4, 1 x VGA"
+   ],
+   [
+    "Power",
+    "12 V DC, 2 A adapter; 24 W or less"
+   ],
+   [
+    "VESA mount",
+    "75 x 75 mm"
+   ],
+   [
+    "Dimensions with stand",
+    "447 x 351 x 200 mm"
+   ],
+   [
+    "Weight",
+    "About 1.9 kg"
+   ],
+   [
+    "Rated use",
+    "7 days x 12 hours"
+   ]
+  ],
+  "inBox": [
+   "Monitor x 1",
+   "Stand x 1",
+   "Power adapter (12 V, 2 A) x 1",
+   "HDMI cable (1.5 m) x 1",
+   "User manuals"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000143004/outline_leftside45view/%E6%AD%A3%E9%9D%A2%E5%B7%A645%C2%B0.jpg.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000143004/outline_rightside45view/%E6%AD%A3%E9%9D%A2%E5%8F%B345%C2%B0.jpg.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000143004/outline_rearview/%E8%83%8C%E9%9D%A2_1.jpg.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/display-and-control/monitors/commercial-monitor/ds-d5019s0-1p0/",
+  "confidence": "high"
+ },
+ "hikvision-ds-d5022f2-1v2-21-5-inch-fhd-100hz-va-monitor": {
+  "summary": "A 21.5 inch Full HD VA monitor with a smooth 100 Hz refresh rate, slim bezels on three sides and a 3000:1 contrast ratio for deep blacks. It works well for CCTV viewing, office work and study. HDMI and VGA inputs, an audio output, low blue light and VESA wall mount support make it easy to use anywhere.",
+  "highlights": [
+   "21.5 inch Full HD VA panel, 1920 x 1080",
+   "100 Hz refresh rate",
+   "3000:1 contrast ratio",
+   "Ultra thin bezel on three sides",
+   "HDMI, VGA and audio out",
+   "Rated for 24/7 operation"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "21.5 inch"
+   ],
+   [
+    "Panel type",
+    "VA"
+   ],
+   [
+    "Resolution",
+    "1920 x 1080 (Full HD)"
+   ],
+   [
+    "Brightness",
+    "250 cd/m²"
+   ],
+   [
+    "Contrast ratio",
+    "3000:1"
+   ],
+   [
+    "Response time",
+    "8 ms"
+   ],
+   [
+    "Refresh rate",
+    "100 Hz"
+   ],
+   [
+    "Viewing angle",
+    "178° / 178°"
+   ],
+   [
+    "Colours",
+    "16.7 million (8 bit), 72% NTSC"
+   ],
+   [
+    "Inputs and outputs",
+    "1 x HDMI 1.4, 1 x VGA, 1 x audio out"
+   ],
+   [
+    "Power",
+    "12 V DC, 2 A adapter; 24 W or less"
+   ],
+   [
+    "VESA mount",
+    "75 x 75 mm"
+   ],
+   [
+    "Dimensions with stand",
+    "493 x 393 x 186 mm"
+   ],
+   [
+    "Weight",
+    "About 2.0 kg"
+   ],
+   [
+    "Rated use",
+    "7 days x 24 hours"
+   ]
+  ],
+  "inBox": [
+   "Monitor x 1",
+   "Stand x 1",
+   "Power adapter (12 V, 2 A) x 1",
+   "HDMI cable (1.5 m) x 1",
+   "User manuals"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000124860/%E6%AD%A3%E5%B7%A6%E8%A7%86%E5%9B%BE_1.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000124860/%E6%AD%A3%E5%8F%B3%E8%A7%86%E5%9B%BE_1.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000124860/%E8%83%8C%E9%9D%A2%E6%AD%A3%E8%A7%86%E5%9B%BE.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/display-and-control/monitors/commercial-monitor/ds-d5022f2-1v2/",
+  "confidence": "high"
+ },
+ "hikvision-ds-d5024f2-ap2-23-8-inch-fhd-100hz-ips-monitor": {
+  "summary": "A 23.8 inch Full HD IPS monitor with up to 100 Hz refresh, accurate colours and wide 178 degree viewing angles. Slim bezels on three sides make it look modern on a desk or in a multi screen setup. It has HDMI and VGA inputs, an audio output, low blue light for eye comfort and a 75 x 75 mm VESA mount.",
+  "highlights": [
+   "23.8 inch Full HD IPS panel, 1920 x 1080",
+   "Up to 100 Hz refresh rate",
+   "178° viewing angles",
+   "Ultra thin bezel on three sides",
+   "HDMI, VGA and audio out",
+   "Rated for 24/7 operation"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "23.8 inch"
+   ],
+   [
+    "Panel type",
+    "IPS"
+   ],
+   [
+    "Resolution",
+    "1920 x 1080 (Full HD)"
+   ],
+   [
+    "Brightness",
+    "250 cd/m²"
+   ],
+   [
+    "Contrast ratio",
+    "1000:1"
+   ],
+   [
+    "Response time",
+    "14 ms"
+   ],
+   [
+    "Refresh rate",
+    "60 Hz typical, 100 Hz max."
+   ],
+   [
+    "Viewing angle",
+    "178° / 178°"
+   ],
+   [
+    "Colours",
+    "16.7 million, 72% NTSC"
+   ],
+   [
+    "Inputs and outputs",
+    "1 x HDMI 1.4, 1 x VGA, 1 x audio out"
+   ],
+   [
+    "Power",
+    "12 V DC, 2 A adapter; 24 W or less"
+   ],
+   [
+    "VESA mount",
+    "75 x 75 mm"
+   ],
+   [
+    "Dimensions with stand",
+    "540 x 427 x 186 mm"
+   ],
+   [
+    "Weight",
+    "About 2.85 kg"
+   ],
+   [
+    "Rated use",
+    "7 days x 24 hours"
+   ]
+  ],
+  "inBox": [
+   "Monitor x 1",
+   "Stand x 1",
+   "Power adapter (12 V, 2 A) x 1",
+   "HDMI cable (1.5 m) x 1",
+   "User manuals"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000152923/%E6%AD%A3%E5%B7%A6%E8%A7%86%E5%9B%BE.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000152923/%E6%AD%A3%E5%8F%B3%E8%A7%86%E5%9B%BE.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000152923/%E8%83%8C%E9%9D%A2%E6%AD%A3%E8%A7%86%E5%9B%BE.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/display-and-control/monitors/commercial-monitor/ds-d5024f2-ap2/",
+  "confidence": "high"
+ },
+ "hikvision-ds-d5027f2-1p2-27-inch-fhd-borderless-monitor": {
+  "summary": "A 27 inch Full HD IPS monitor with near borderless edges on three sides and up to 100 Hz refresh. The large screen and 300 cd/m² brightness make it comfortable for office work, study and CCTV viewing. It connects over HDMI or VGA, has low blue light for eye comfort and mounts on a wall with a 100 x 100 mm VESA bracket.",
+  "highlights": [
+   "27 inch Full HD IPS panel, 1920 x 1080",
+   "Up to 100 Hz refresh, 5 ms with overdrive",
+   "Borderless design, 2.1 mm bezel on three sides",
+   "300 cd/m² brightness",
+   "HDMI and VGA inputs",
+   "VESA 100 x 100 mm wall mount support"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "27 inch"
+   ],
+   [
+    "Panel type",
+    "IPS"
+   ],
+   [
+    "Resolution",
+    "1920 x 1080 (Full HD)"
+   ],
+   [
+    "Brightness",
+    "300 cd/m²"
+   ],
+   [
+    "Contrast ratio",
+    "1300:1"
+   ],
+   [
+    "Response time",
+    "14 ms typical, 5 ms with overdrive"
+   ],
+   [
+    "Refresh rate",
+    "60 Hz typical, 100 Hz max."
+   ],
+   [
+    "Viewing angle",
+    "178° / 178°"
+   ],
+   [
+    "Colours",
+    "16.7 million (8 bit), 72% NTSC"
+   ],
+   [
+    "Inputs",
+    "1 x HDMI 1.4, 1 x VGA"
+   ],
+   [
+    "Power",
+    "12 V DC, 2.5 A adapter; 30 W or less"
+   ],
+   [
+    "VESA mount",
+    "100 x 100 mm"
+   ],
+   [
+    "Dimensions with stand",
+    "613 x 450 x 216 mm"
+   ],
+   [
+    "Weight",
+    "About 3.93 kg"
+   ],
+   [
+    "Rated use",
+    "7 days x 12 hours"
+   ]
+  ],
+  "inBox": [
+   "Monitor x 1",
+   "Stand x 1",
+   "Power adapter (12 V, 2.5 A) x 1",
+   "HDMI cable (1.5 m) x 1",
+   "User manuals"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000124861/%E5%B7%A6%E8%A7%86%E5%9B%BE-DS-D5027F2-1P2-10.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000124861/%E5%8F%B3%E8%A7%86%E5%9B%BE-DS-D5027F2-1P2-9.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000124861/%E5%90%8E%E8%A7%86%E5%9B%BE-DS-D5027F2-1P2-2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/sg/products/display-and-control/monitors/Value-Series/ds-d5027f2-1p2/",
+  "confidence": "high"
+ },
+ "hikvision-ds-d5032f3-1v0s-32-inch-fhd-75hz-va-monitor-with-speaker": {
+  "summary": "A 32 inch Full HD VA monitor with two built-in 10 W speakers, made for control rooms, reception areas and displays that show CCTV or content all day. It runs on mains power directly, comes with a remote control and is rated for 24/7 use. HDMI and VGA inputs, an audio output and a 100 x 100 mm VESA mount make installation simple.",
+  "highlights": [
+   "32 inch Full HD VA panel, 1920 x 1080",
+   "Two built-in 10 W speakers",
+   "4000:1 contrast ratio, 300 cd/m² brightness",
+   "Up to 75 Hz refresh rate",
+   "HDMI, VGA and audio out, remote control included",
+   "Rated for 24/7 operation"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "32 inch"
+   ],
+   [
+    "Panel type",
+    "VA"
+   ],
+   [
+    "Resolution",
+    "1920 x 1080 (Full HD)"
+   ],
+   [
+    "Brightness",
+    "300 cd/m²"
+   ],
+   [
+    "Contrast ratio",
+    "4000:1"
+   ],
+   [
+    "Response time",
+    "8 ms"
+   ],
+   [
+    "Refresh rate",
+    "60 Hz typical, 75 Hz max."
+   ],
+   [
+    "Viewing angle",
+    "178° / 178°"
+   ],
+   [
+    "Inputs and outputs",
+    "1 x HDMI 1.4, 1 x VGA, 1 x audio out"
+   ],
+   [
+    "Speakers",
+    "2 x 10 W (8 ohm)"
+   ],
+   [
+    "Power",
+    "100 to 240 V AC, 50/60 Hz, built in; 48 W or less"
+   ],
+   [
+    "VESA mount",
+    "100 x 100 mm"
+   ],
+   [
+    "Dimensions with stand",
+    "735 x 489 x 208 mm"
+   ],
+   [
+    "Weight",
+    "About 4.55 kg"
+   ],
+   [
+    "Rated use",
+    "7 days x 24 hours"
+   ]
+  ],
+  "inBox": [
+   "Monitor x 1",
+   "Stand x 1",
+   "HDMI cable (1.5 m) x 1",
+   "Remote control x 1",
+   "Stand screws x 6",
+   "Wall mount screws x 4",
+   "User manuals"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000118490/%E6%AD%A3%E5%B7%A6%E8%A7%86%E5%9B%BE.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000118490/%E6%AD%A3%E5%8F%B3%E8%A7%86%E5%9B%BE.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000118490/%E5%90%8E%E8%A7%86%E5%9B%BE.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/display-and-control/monitors/commercial-monitor/ds-d5032f3-1v0s/",
+  "confidence": "high"
+ },
+ "hikvision-ds-d5043u3-1v0s-43-inch-uhd-60hz-va-monitor-eu": {
+  "summary": "A 43 inch 4K Ultra HD VA monitor for control rooms, meeting rooms and large CCTV displays, rated to run 24 hours a day. It offers HDMI, DisplayPort and VGA inputs, USB playback, RS232 control and two built-in 10 W speakers. Thin bezels on three sides, a remote control and a 200 x 200 mm VESA mount make it easy to install. This is the EU plug version.",
+  "highlights": [
+   "43 inch 4K UHD VA panel, 3840 x 2160 at 60 Hz",
+   "HDMI, DisplayPort, VGA and line in",
+   "USB 2.0 and RS232 in/out",
+   "Two built-in 10 W speakers",
+   "Thin bezel on three sides",
+   "Rated for 24/7 operation"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "43 inch"
+   ],
+   [
+    "Panel type",
+    "VA"
+   ],
+   [
+    "Resolution",
+    "3840 x 2160 (4K UHD) at 60 Hz"
+   ],
+   [
+    "Brightness",
+    "300 cd/m²"
+   ],
+   [
+    "Contrast ratio",
+    "4000:1"
+   ],
+   [
+    "Response time",
+    "6.5 ms typical"
+   ],
+   [
+    "Viewing angle",
+    "178° / 178°"
+   ],
+   [
+    "Colour depth",
+    "8 bit + FRC, 72% NTSC"
+   ],
+   [
+    "Inputs",
+    "1 x HDMI, 1 x DisplayPort, 1 x VGA, 1 x line in"
+   ],
+   [
+    "Other ports",
+    "1 x USB 2.0, RS232 in and out"
+   ],
+   [
+    "Speakers",
+    "2 x 10 W (8 ohm)"
+   ],
+   [
+    "Power",
+    "100 to 240 V AC, 50/60 Hz, built in; 80 W or less"
+   ],
+   [
+    "VESA mount",
+    "200 x 200 mm"
+   ],
+   [
+    "Dimensions with stand",
+    "957 x 616 x 242 mm"
+   ],
+   [
+    "Weight",
+    "About 6.81 kg"
+   ],
+   [
+    "Rated use",
+    "7 days x 24 hours"
+   ]
+  ],
+  "inBox": [
+   "Monitor x 1",
+   "Stand x 1",
+   "Power cable x 1",
+   "HDMI cable (1.5 m) x 1",
+   "Remote control x 1",
+   "Screws x 6",
+   "User manuals"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000157837/43%E5%AF%B8UHD%E6%AD%A3%E5%B7%A6%E8%A7%86%E5%9B%BE1.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000157837/43%E5%AF%B8UHD%E6%AD%A3%E5%8F%B3%E8%A7%86%E5%9B%BE1.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000157837/%E5%90%8E%E8%A7%86%E5%9B%BE3.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/display-and-control/monitors/commercial-monitor/ds-d5043u3-1v0s/",
+  "confidence": "high"
+ },
+ "hikvision-ds-k4dc103-automatic-door-closer": {
+  "summary": "A Hikvision surface mounted hydraulic door closer that pulls a door shut gently and reliably after every opening. It is a natural partner for access control systems with magnetic locks, making sure the door closes fully so the lock can engage. Closing speed can be adjusted during installation.",
+  "highlights": [
+   "Automatic closing for single swing doors",
+   "Hydraulic action for a smooth, controlled close",
+   "Adjustable closing speed",
+   "Helps magnetic locks engage on every close",
+   "Surface mounted on the door and frame"
+  ],
+  "specs": [
+   [
+    "Model",
+    "DS-K4DC103"
+   ],
+   [
+    "Type",
+    "Surface mounted hydraulic door closer"
+   ],
+   [
+    "Application",
+    "Single swing doors, access controlled doors"
+   ],
+   [
+    "Adjustment",
+    "Closing speed adjustable"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hikvision-ds-k4dc104-automatic-door-closer": {
+  "summary": "A Hikvision surface mounted hydraulic door closer that pulls a door shut gently and reliably after every opening. It is a natural partner for access control systems with magnetic locks, making sure the door closes fully so the lock can engage. Closing speed can be adjusted during installation.",
+  "highlights": [
+   "Automatic closing for single swing doors",
+   "Hydraulic action for a smooth, controlled close",
+   "Adjustable closing speed",
+   "Helps magnetic locks engage on every close",
+   "Surface mounted on the door and frame"
+  ],
+  "specs": [
+   [
+    "Model",
+    "DS-K4DC104"
+   ],
+   [
+    "Type",
+    "Surface mounted hydraulic door closer"
+   ],
+   [
+    "Application",
+    "Single swing doors, access controlled doors"
+   ],
+   [
+    "Adjustment",
+    "Closing speed adjustable"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hikvision-ds-k4h255-lz-value-magnetic-locks": {
+  "summary": "An L and Z mounting bracket set for the Hikvision DS-K4H255S single door magnetic lock. The L bracket holds the lock body and the Z bracket holds the armature plate, so the lock can be fitted on inward opening doors or frames without a flat mounting surface. It is made from strong sandblasted and anodised aluminium alloy.",
+  "highlights": [
+   "Bracket set for the DS-K4H255S magnetic lock",
+   "L bracket for the lock body, Z bracket for the armature plate",
+   "Z bracket has anti slip and position adjustment",
+   "Fits wooden, glass and metal doors",
+   "High strength aluminium alloy"
+  ],
+  "specs": [
+   [
+    "Type",
+    "L and Z bracket set for magnetic lock"
+   ],
+   [
+    "Compatible lock",
+    "Hikvision DS-K4H255S"
+   ],
+   [
+    "L bracket size",
+    "250 x 46 x 30 mm"
+   ],
+   [
+    "Z bracket size",
+    "180 x 47 x 47 mm"
+   ],
+   [
+    "Material",
+    "High strength aluminium alloy, sandblasted and oxidised"
+   ],
+   [
+    "Suitable doors",
+    "Wooden, glass and metal"
+   ],
+   [
+    "Weight",
+    "0.5 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/magnetic-locks/ds-k4h255-lz/",
+  "confidence": "high"
+ },
+ "hikvision-ds-k4h255s-value-magnetic-locks": {
+  "summary": "A single door electromagnetic lock with up to 272 kg (600 lb) of holding force, for wooden, glass and metal doors in access control systems. It runs on 12 or 24 V DC and releases when power is cut, which suits fail safe exit routes. The anodised aluminium housing is tough and wear resistant.",
+  "highlights": [
+   "Holding force up to 272 kg (600 lb)",
+   "12 V or 24 V DC power (12 V default)",
+   "Fail safe: unlocks when power is cut",
+   "Fits wooden, glass and metal doors",
+   "Anodised aluminium housing"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Single door electromagnetic lock"
+   ],
+   [
+    "Holding force",
+    "Up to 272 kg (600 lb)"
+   ],
+   [
+    "Power supply",
+    "12 V DC at 470 mA or 24 V DC at 235 mA"
+   ],
+   [
+    "Unlock method",
+    "Power off to unlock (fail safe)"
+   ],
+   [
+    "Lock body size",
+    "250 x 28 x 48 mm"
+   ],
+   [
+    "Armature plate size",
+    "180 x 38 x 12 mm"
+   ],
+   [
+    "Suitable doors",
+    "Wooden, glass and metal"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ],
+   [
+    "Weight",
+    "1.9 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/magnetic-locks/ds-k4h255s/",
+  "confidence": "high"
+ },
+ "hikvision-ds-k4h255-u-value-magnetic-locks": {
+  "summary": "A U bracket for fitting the Hikvision DS-K4H255S magnetic lock to frameless glass doors. It fits onto the bottom edge of the glass door, for glass from 9 to 12 mm thick, and is made of strong aluminium alloy.",
+  "highlights": [
+   "U bracket for the DS-K4H255S magnetic lock",
+   "For frameless glass doors, fitted at the lower edge",
+   "Fits glass 9 to 12 mm thick",
+   "High strength aluminium alloy"
+  ],
+  "specs": [
+   [
+    "Type",
+    "U bracket for magnetic lock"
+   ],
+   [
+    "Compatible lock",
+    "Hikvision DS-K4H255S"
+   ],
+   [
+    "Suitable doors",
+    "Frameless glass doors, 9 to 12 mm thick"
+   ],
+   [
+    "Dimensions",
+    "180 x 24.5 x 38.8 mm"
+   ],
+   [
+    "Material",
+    "High strength aluminium alloy, sandblasted and oxidised"
+   ],
+   [
+    "Weight",
+    "0.2 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Access-Control-Products/accessories/magnetic-locks/ds-k4h255-u/",
+  "confidence": "high"
+ },
+ "hikvision-ds-k7p01-exit-and-emergency-button": {
+  "summary": "A sturdy exit push button for access controlled doors. Pressing it signals the door controller to release the lock so people can leave without a card. It has a sandblasted aluminium alloy panel with a metal button and an 86 x 86 mm faceplate.",
+  "highlights": [
+   "Aluminium alloy panel with metal push button",
+   "NO, NC and COM contacts",
+   "86 x 86 mm faceplate for hollow door frames or flush boxes",
+   "Tested for 500,000 presses"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Exit push button"
+   ],
+   [
+    "Panel",
+    "Sandblasted aluminium alloy, metal button"
+   ],
+   [
+    "Contacts",
+    "NO / NC / COM"
+   ],
+   [
+    "Contact rating",
+    "Max. 36 V DC, 3 A"
+   ],
+   [
+    "Dimensions",
+    "86 x 86 x 28.9 mm"
+   ],
+   [
+    "Installation",
+    "Hollow door frame or flush electrical box"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ],
+   [
+    "Durability",
+    "500,000 press aging test"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/mena-en/products/Access-Control-Products/accessories/Push-Buttons/ds-k7p01/",
+  "confidence": "high"
+ },
+ "hikvision-ds-k7p08-touchless-exit-button": {
+  "summary": "A Hikvision touchless exit button for access controlled doors. Hold a hand in front of it and it signals the door controller to release the lock, which is more hygienic than a push button. It wires to the controller like a normal exit button.",
+  "highlights": [
+   "Touchless, hand wave activation",
+   "Hygienic, no contact needed",
+   "Wires to the door controller like a standard exit button"
+  ],
+  "specs": [
+   [
+    "Model",
+    "DS-K7P08"
+   ],
+   [
+    "Type",
+    "Touchless (no touch) exit button"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
+ },
+ "hikvision-ds-k7peb-exit-and-emergency-button": {
+  "summary": "A red emergency break glass unit for access controlled exits. In an emergency, breaking the glass switches the contacts and releases the door lock so people can get out quickly. It works with standard door controllers and magnetic locks.",
+  "highlights": [
+   "Red emergency break glass unit",
+   "Releases the door lock in an emergency",
+   "NO, NC and COM contacts",
+   "86 x 86 mm footprint"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Emergency break glass exit button"
+   ],
+   [
+    "Colour",
+    "Red"
+   ],
+   [
+    "Contacts",
+    "NO / NC / COM"
+   ],
+   [
+    "Contact rating",
+    "Max. 36 V DC, 3 A"
+   ],
+   [
+    "Dimensions",
+    "86 x 86 x 50 mm"
+   ],
+   [
+    "Application",
+    "Exit and emergency doors"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ],
+   [
+    "Weight",
+    "0.2 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/mena-en/products/Access-Control-Products/accessories/Push-Buttons/ds-k7peb/",
+  "confidence": "high"
+ },
+ "hikvision-ds-kas321-face-recognition-terminal-kit": {
+  "summary": "A single door access control kit built around the DS-K1T321MFWX face recognition terminal. People can open the door with their face, fingerprint, M1 card or PIN, and the kit includes the magnetic lock, bracket and a touchless exit button. It is a neat all in one choice for offices and homes that want attendance style access control on one door.",
+  "highlights": [
+   "Face, fingerprint, card and PIN access",
+   "Recognises a face in under 0.2 seconds",
+   "Up to 500 faces, 3000 fingerprints, 3000 cards, 150,000 events",
+   "Includes 272 kg magnetic lock, L/Z bracket and touchless exit button",
+   "Wired network and Wi-Fi (AP mode), web setup"
+  ],
+  "specs": [
+   [
+    "Terminal",
+    "DS-K1T321MFWX, 2.4 inch LCD, 2 MP camera"
+   ],
+   [
+    "Authentication",
+    "Face, fingerprint, M1 card (13.56 MHz), PIN"
+   ],
+   [
+    "Capacity",
+    "500 users and faces, 3000 fingerprints, 3000 cards, 150,000 events"
+   ],
+   [
+    "Face recognition",
+    "0.3 to 1.5 m, under 0.2 s, anti spoofing"
+   ],
+   [
+    "Network",
+    "10/100 Mbps Ethernet, Wi-Fi 2.4 GHz (AP mode)"
+   ],
+   [
+    "Interfaces",
+    "Lock output, exit button, door contact, tamper, RS-485, Wiegand, USB"
+   ],
+   [
+    "Terminal power",
+    "12 V DC, 6 W or less"
+   ],
+   [
+    "Magnetic lock",
+    "DS-K4H255S, 272 kg holding force, 12/24 V DC"
+   ],
+   [
+    "Lock bracket",
+    "DS-K4H255-LZ L and Z bracket"
+   ],
+   [
+    "Exit button",
+    "DS-K7P07 touchless, stainless steel"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C (terminal)"
+   ]
+  ],
+  "inBox": [
+   "DS-K1T321MFWX face recognition terminal",
+   "DS-K4H255S magnetic lock",
+   "DS-K4H255-LZ L and Z bracket",
+   "DS-K7P07 touchless exit button",
+   "FM11RF08-M1 cards"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/kits/ds-kas321/",
+  "confidence": "high"
+ },
+ "hikvision-ds-kas-7m01-accessory-kit": {
+  "summary": "A ready made accessory kit for one access controlled door: power supply, magnetic lock, lock bracket and exit button in one box. Pair it with a Hikvision access terminal or controller for a complete installation. The power supply can also charge a backup battery so the door keeps working during short outages.",
+  "highlights": [
+   "12 V DC, 24 W access control power supply with battery backup support",
+   "DS-K4H255S magnetic lock with 272 kg holding force",
+   "DS-K4H255-LZ L and Z bracket",
+   "DS-K7P07 stainless steel exit button",
+   "Everything needed around the controller for one door"
+  ],
+  "specs": [
+   [
+    "Power supply",
+    "DS-K7M-AW24, 110 to 230 V AC in, 12 V DC 24 W out"
+   ],
+   [
+    "Battery backup",
+    "Supports backup battery charging and discharging"
+   ],
+   [
+    "Power supply size",
+    "168 x 216 x 73.3 mm"
+   ],
+   [
+    "Magnetic lock",
+    "DS-K4H255S, up to 272 kg (600 lb), 12/24 V DC"
+   ],
+   [
+    "Lock size",
+    "250 x 28 x 48 mm"
+   ],
+   [
+    "Lock bracket",
+    "DS-K4H255-LZ, L 250 x 46 x 30 mm, Z 180 x 47 x 47 mm"
+   ],
+   [
+    "Exit button",
+    "DS-K7P07, stainless steel panel, 12 to 24 V DC"
+   ],
+   [
+    "Suitable doors",
+    "Wooden, glass and metal"
+   ]
+  ],
+  "inBox": [
+   "DS-K7M-AW24 power supply",
+   "DS-K4H255S magnetic lock",
+   "DS-K4H255-LZ L and Z bracket",
+   "DS-K7P07 exit button"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000120050/DS-KAS-7M01%E4%B8%BB%E5%9B%BE%E5%B7%A6%E8%A7%86.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000120050/DS-KAS-7M01%E4%B8%BB%E5%9B%BE%E5%8F%B3%E8%A7%86.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Access-Control-Products/terminals/kits/ds-kas-7m01/",
+  "confidence": "high"
+ },
+ "hikvision-ds-kis608-p-ip-video-intercom-kit": {
+  "summary": "An IP video intercom kit with a 2 MP outdoor door station and a 7 inch touchscreen indoor monitor, for homes and small offices. Visitors press one call button, you see and talk to them on the monitor or in the Hik-Connect app, and you can open the door remotely. Both units run on standard PoE or 12 V DC, and an admin card and five key fobs are included.",
+  "highlights": [
+   "2 MP HD door station with night vision and WDR",
+   "7 inch capacitive touchscreen indoor monitor",
+   "Answer and unlock from the Hik-Connect app",
+   "One button calling, two way audio",
+   "Standard PoE or 12 V DC power",
+   "IP65 door station, admin card and 5 key fobs included"
+  ],
+  "specs": [
+   [
+    "Door station",
+    "DS-KV6133-WME1, 2 MP camera, H.265/H.264"
+   ],
+   [
+    "Field of view",
+    "129° horizontal, 75° vertical"
+   ],
+   [
+    "Night vision",
+    "IR supplement light, up to 2.5 m"
+   ],
+   [
+    "Door station protection",
+    "IP65, -40 to 53 °C"
+   ],
+   [
+    "Lock control",
+    "1 relay, max. 30 V DC, 2 A"
+   ],
+   [
+    "Indoor station",
+    "DS-KH6350-WTE1, 7 inch touchscreen, 1024 x 600"
+   ],
+   [
+    "Indoor station storage",
+    "microSD (TF) card up to 128 GB"
+   ],
+   [
+    "Indoor station alarm inputs",
+    "8"
+   ],
+   [
+    "Network",
+    "10/100 Mbps Ethernet and Wi-Fi 2.4 GHz on both units"
+   ],
+   [
+    "Power",
+    "IEEE 802.3af PoE or 12 V DC"
+   ],
+   [
+    "Door station size",
+    "181.6 x 103.6 x 29.5 mm"
+   ],
+   [
+    "Indoor station size",
+    "175 x 113.5 x 21 mm"
+   ]
+  ],
+  "inBox": [
+   "DS-KV6133-WME1 door station x 1",
+   "DS-KH6350-WTE1 indoor station (white) x 1",
+   "DS-KABV6133-RS surface mount box x 1",
+   "Administrator card x 1",
+   "Key fobs x 5",
+   "Power supplies x 2"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/ip-kits/ds-kis608-p/",
+  "confidence": "high"
+ },
+ "hikvision-ds-ups1000-ups": {
+  "summary": "A 1000 VA / 600 W line interactive backup UPS that keeps a recorder, router, switch or PC running through short power cuts and protects it from surges and voltage swings. Built-in AVR corrects low and high mains voltage without draining the battery, and the battery recharges quickly. LED lights and beeps tell you when it is on battery, low or overloaded.",
+  "highlights": [
+   "1000 VA / 600 W capacity",
+   "Built-in AVR for unstable mains power",
+   "Wide 140 to 290 V AC input range",
+   "Switches to battery in 10 ms or less",
+   "Surge, overload and short circuit protection",
+   "Fast recharge: 90% in 4 to 6 hours"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "1000 VA / 600 W"
+   ],
+   [
+    "Input voltage",
+    "140 to 290 V AC, 50/60 Hz"
+   ],
+   [
+    "Output voltage",
+    "210 to 235 V AC"
+   ],
+   [
+    "Transfer time",
+    "10 ms or less"
+   ],
+   [
+    "Waveform",
+    "PWM (simulated sine wave) on battery"
+   ],
+   [
+    "Battery",
+    "1 x 12 V 9 Ah sealed lead acid"
+   ],
+   [
+    "Recharge time",
+    "4 to 6 hours to 90%"
+   ],
+   [
+    "Indicators",
+    "LED and audible alarm"
+   ],
+   [
+    "Protection",
+    "Surge, overload, short circuit"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Dimensions",
+    "274 x 95 x 139 mm"
+   ],
+   [
+    "Weight",
+    "About 5.4 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/premises-distribution-system/ups/back-up-type-ups/ds-ups1000/",
+  "confidence": "high"
+ },
+ "hikvision-ds-ups2000-ups": {
+  "summary": "A 2000 VA / 1200 W line interactive UPS for NVRs with several drives, network switches and workstations. Built-in AVR smooths out low and high mains voltage, an LCD shows input and output voltage, battery level and load, and a USB port allows monitoring from a PC. It switches to battery in 10 ms or less and is protected against surges, overloads and short circuits.",
+  "highlights": [
+   "2000 VA / 1200 W capacity",
+   "LCD display of voltage, battery and load",
+   "USB port for monitoring",
+   "Built-in AVR, 140 to 290 V AC input range",
+   "Surge, overload, discharge and short circuit protection",
+   "Two 12 V 9 Ah batteries"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "2000 VA / 1200 W"
+   ],
+   [
+    "Input voltage",
+    "140 to 290 V AC, 50/60 Hz"
+   ],
+   [
+    "Output voltage",
+    "210 to 235 V AC"
+   ],
+   [
+    "Transfer time",
+    "10 ms or less"
+   ],
+   [
+    "Waveform",
+    "PWM (simulated sine wave) on battery"
+   ],
+   [
+    "Battery",
+    "2 x 12 V 9 Ah sealed lead acid"
+   ],
+   [
+    "Recharge time",
+    "6 to 8 hours to 90%"
+   ],
+   [
+    "Typical backup time",
+    "About 70 min at 100 W, 17 min at 300 W, 5 min at 600 W"
+   ],
+   [
+    "Display",
+    "LCD"
+   ],
+   [
+    "Communication",
+    "USB"
+   ],
+   [
+    "Protection",
+    "Surge, overload, discharge, short circuit"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Dimensions",
+    "345 x 122 x 192 mm"
+   ],
+   [
+    "Weight",
+    "About 11 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/premises-distribution-system/ups/back-up-type-ups/ds-ups2000/",
+  "confidence": "high"
+ },
+ "hikvision-ds-ups3000-ups": {
+  "summary": "A 3000 VA / 1800 W line interactive UPS for larger security systems, network cabinets and office equipment. It has four 12 V 9 Ah batteries for longer runtime, built-in AVR, an LCD showing voltage, battery and load, and a USB port for monitoring. It switches to battery in 10 ms or less and guards against surges, overloads and short circuits.",
+  "highlights": [
+   "3000 VA / 1800 W capacity",
+   "Four 12 V 9 Ah batteries for longer runtime",
+   "LCD display and USB monitoring port",
+   "Built-in AVR, 140 to 290 V AC input range",
+   "4 output sockets",
+   "Surge, overload, discharge and short circuit protection"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "3000 VA / 1800 W"
+   ],
+   [
+    "Input voltage",
+    "140 to 290 V AC, 50/60 Hz"
+   ],
+   [
+    "Output voltage",
+    "210 to 235 V AC"
+   ],
+   [
+    "Transfer time",
+    "10 ms or less"
+   ],
+   [
+    "Waveform",
+    "PWM (simulated sine wave) on battery"
+   ],
+   [
+    "Outlets",
+    "4 (socket type depends on regional version)"
+   ],
+   [
+    "Battery",
+    "4 x 12 V 9 Ah sealed lead acid"
+   ],
+   [
+    "Recharge time",
+    "6 to 8 hours to 90%"
+   ],
+   [
+    "Typical backup time",
+    "About 150 min at 100 W, 15 min at 600 W, 6 min at 900 W"
+   ],
+   [
+    "Display",
+    "LCD"
+   ],
+   [
+    "Communication",
+    "USB"
+   ],
+   [
+    "Protection",
+    "Surge, overload, discharge, short circuit"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Dimensions",
+    "412 x 145 x 210 mm"
+   ],
+   [
+    "Weight",
+    "About 18.5 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/premises-distribution-system/ups/back-up-type-ups/ds-ups3000/",
+  "confidence": "high"
+ },
+ "hikvision-ds-ups600-ups": {
+  "summary": "A compact 600 VA / 360 W line interactive UPS for a DVR or NVR, router and small camera system, or a single PC. It rides through short power cuts, and the built-in AVR corrects low and high mains voltage without using the battery. LED lights and beeps show when it is on battery, low or overloaded.",
+  "highlights": [
+   "600 VA / 360 W capacity",
+   "Built-in AVR for unstable mains power",
+   "Wide 140 to 290 V AC input range",
+   "Switches to battery in 10 ms or less",
+   "Surge, overload and discharge protection",
+   "Compact size, about 4.2 kg"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "600 VA / 360 W"
+   ],
+   [
+    "Input voltage",
+    "140 to 290 V AC, 50/60 Hz"
+   ],
+   [
+    "Output voltage",
+    "210 to 235 V AC"
+   ],
+   [
+    "Transfer time",
+    "10 ms or less"
+   ],
+   [
+    "Waveform",
+    "PWM (simulated sine wave) on battery"
+   ],
+   [
+    "Battery",
+    "1 x 12 V 7 Ah sealed lead acid"
+   ],
+   [
+    "Recharge time",
+    "4 to 6 hours to 90%"
+   ],
+   [
+    "Indicators",
+    "LED and audible alarm"
+   ],
+   [
+    "Protection",
+    "Surge, overload, discharge"
+   ],
+   [
+    "Operating temperature",
+    "0 to 40 °C"
+   ],
+   [
+    "Dimensions",
+    "274 x 95 x 139 mm"
+   ],
+   [
+    "Weight",
+    "About 4.2 kg"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/premises-distribution-system/ups/back-up-type-ups/ds-ups600/",
+  "confidence": "high"
+ },
+ "hikvision-fm11rf08-m1-m1-rfid-card": {
+  "summary": "A white, thin Mifare 1 (M1) contactless smart card for Hikvision access control terminals, card readers and video intercoms. It works at 13.56 MHz, can be read and written, and is standard credit card size so it fits a wallet or badge holder.",
+  "highlights": [
+   "Mifare 1 (M1) 13.56 MHz contactless card",
+   "Read and write, 1 KB memory",
+   "Thin, credit card size PVC",
+   "Read distance up to 10 cm",
+   "Works with Hikvision M1 card readers and terminals"
+  ],
+  "specs": [
+   [
+    "Card type",
+    "Mifare 1 (M1), FM11RF08 chip"
+   ],
+   [
+    "Frequency",
+    "13.56 MHz"
+   ],
+   [
+    "Memory",
+    "1 KB"
+   ],
+   [
+    "Function",
+    "Read / write"
+   ],
+   [
+    "Read distance",
+    "Up to 10 cm"
+   ],
+   [
+    "Material",
+    "PVC, white"
+   ],
+   [
+    "Dimensions",
+    "85.5 x 54 x 0.8 mm"
+   ],
+   [
+    "Weight",
+    "Under 5.6 g"
+   ],
+   [
+    "Operating temperature",
+    "-20 to 75 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/mena-en/products/Access-Control-Products/accessories/Cards/fm11rf08-m1/",
+  "confidence": "high"
+ },
+ "hikvision-las60-57cn-rj45-single-port-poe-midspan": {
+  "summary": "A single port PoE midspan (PoE injector) sold under the Hikvision brand that adds power to an ordinary network cable, so one PoE device such as an IP camera, PTZ camera or access point can be powered without a PoE switch. Connect the data cable from your switch or router to the input port and run one cable from the output port to the device.",
+  "highlights": [
+   "Powers one PoE device over its network cable",
+   "No PoE switch needed",
+   "Data in port and power plus data out port",
+   "Indoor use"
+  ],
+  "specs": [
+   [
+    "Model",
+    "LAS60-57CN-RJ45"
+   ],
+   [
+    "Type",
+    "Single port PoE midspan (injector)"
+   ],
+   [
+    "Ports",
+    "1 x RJ45 data in, 1 x RJ45 power and data out"
+   ],
+   [
+    "Power input",
+    "Mains AC"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "",
+  "confidence": "low"
  }
 }
