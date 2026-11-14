@@ -34563,5 +34563,272 @@
   "spin": [],
   "source": "https://www.msi.com/Business-Productivity-PC/PRO-DP180-14th/Specification",
   "confidence": "medium"
+ },
+ "cisco-catalyst-2960-x-48-port-gigabit-poe-switch": {
+  "summary": "A managed 48-port Gigabit Ethernet switch from Cisco's Catalyst 2960-X range that also powers devices over the network cable with PoE+ (up to 30 W per port). It suits offices, schools and businesses that need to connect and power IP cameras, Wi-Fi access points and IP phones from one box. It fits in one rack unit, runs Cisco's LAN Base software, and can be stacked with up to seven more 2960-X switches using the optional FlexStack-Plus module. The total PoE budget (370 W or 740 W) and the uplink type (four 1G SFP or two 10G SFP+) depend on the exact version.",
+  "highlights": [
+   "48 Gigabit Ethernet ports with PoE and PoE+ (IEEE 802.3af/at), up to 30 W per port",
+   "PoE budget depends on version: 370 W (LPS/LPD models) or 740 W (FPS/FPD models)",
+   "Uplinks depend on version: 4 x 1G SFP (48LPS-L, 48FPS-L) or 2 x 10G SFP+ (48LPD-L, 48FPD-L)",
+   "Perpetual PoE keeps devices powered while the switch reloads",
+   "Optional FlexStack-Plus stacking of up to 8 switches at 80 Gbps",
+   "Compact 1 RU design with energy saving IEEE 802.3az (EEE)"
+  ],
+  "specs": [
+   [
+    "Ports",
+    "48 x 10/100/1000 Ethernet with PoE+"
+   ],
+   [
+    "Uplinks",
+    "Depends on version: 4 x 1G SFP (WS-C2960X-48LPS-L, 48FPS-L) or 2 x 10G SFP+ (WS-C2960X-48LPD-L, 48FPD-L)"
+   ],
+   [
+    "PoE standard",
+    "IEEE 802.3af PoE and 802.3at PoE+, up to 30 W per port"
+   ],
+   [
+    "PoE budget",
+    "Depends on version: 370 W on 48LPS-L and 48LPD-L (24 ports at 15.4 W or 12 at 30 W); 740 W on 48FPS-L and 48FPD-L (48 ports at 15.4 W or 24 at 30 W)"
+   ],
+   [
+    "Software",
+    "Cisco IOS LAN Base"
+   ],
+   [
+    "Switching capacity",
+    "216 Gbps"
+   ],
+   [
+    "Forwarding rate",
+    "107.1 Mpps (SFP models) or 130.9 Mpps (SFP+ models)"
+   ],
+   [
+    "Memory",
+    "512 MB DRAM, 128 MB flash"
+   ],
+   [
+    "MAC addresses",
+    "16,000"
+   ],
+   [
+    "VLANs",
+    "1,023 active VLANs, 4,096 VLAN IDs"
+   ],
+   [
+    "Jumbo frames",
+    "9,216 bytes"
+   ],
+   [
+    "Stacking",
+    "Optional FlexStack-Plus module (C2960X-STACK), up to 8 switches, 80 Gbps"
+   ],
+   [
+    "Management ports",
+    "RJ-45 and USB console, 10/100 Ethernet management port, USB Type A for storage"
+   ],
+   [
+    "Power",
+    "Built-in power supply, 100 to 240 V AC, 50 to 60 Hz; optional Cisco RPS 2300 for backup"
+   ],
+   [
+    "Size and weight",
+    "1 RU, 4.45 x 44.5 x 36.8 cm (H x W x D), 5.8 kg"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 45°C (up to 1,500 m altitude)"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.cisco.com/c/dam/assets/support/product-images/series/series-switches-catalyst-2960-x-series-switches-alternate2.jpg",
+   "https://www.cisco.com/c/dam/assets/support/product-images/series/series-switches-catalyst-2960-x-series-switches-alternate4.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/datasheet_c78-728232.html",
+  "confidence": "medium"
+ },
+ "cisco-catalyst-9300-24-port-poe-switch": {
+  "summary": "The Cisco Catalyst 9300 24-port PoE+ switch (C9300-24P) is a stackable enterprise access switch with 24 Gigabit Ethernet ports that can each deliver up to 30 W of PoE+ power. It is built for businesses that want a fast, secure and future-ready network for IP cameras, Wi-Fi access points and phones. Uplinks are added with a plug-in network module (from 4 x 1G up to 2 x 40G), and two hot-swappable power supply slots allow redundancy. Up to eight switches can be joined into one stack with StackWise-480.",
+  "highlights": [
+   "24 Gigabit Ethernet PoE+ ports, up to 30 W per port",
+   "PoE budget 445 W with the standard 715 W power supply, up to 720 W (all 24 ports at 30 W) with a second power supply",
+   "Modular uplinks: 4 x 1G, 4 x Multigigabit, 8 x 10G, 2 x 25G or 2 x 40G network modules",
+   "StackWise-480 stacking of up to 8 switches, plus StackPower power sharing",
+   "Dual hot-swappable power supplies and fans for high availability",
+   "Runs Cisco IOS XE with Network Essentials or Network Advantage licensing"
+  ],
+  "specs": [
+   [
+    "Model",
+    "C9300-24P (24-port PoE+)"
+   ],
+   [
+    "Ports",
+    "24 x 10/100/1000 Ethernet with PoE+"
+   ],
+   [
+    "PoE",
+    "IEEE 802.3at PoE+, up to 30 W per port"
+   ],
+   [
+    "PoE budget",
+    "445 W with one 715 W power supply; 720 W with a second 715 W or larger supply, or with a 1100 W supply"
+   ],
+   [
+    "Uplinks",
+    "Modular, depends on the network module fitted: C9300-NM-4G (4 x 1G), NM-4M (4 x Multigigabit), NM-8X (8 x 10G/1G), NM-2Y (2 x 25G/10G/1G), NM-2Q (2 x 40G)"
+   ],
+   [
+    "Switching capacity",
+    "208 Gbps (688 Gbps stacked)"
+   ],
+   [
+    "Forwarding rate",
+    "154.76 Mpps (511.90 Mpps stacked)"
+   ],
+   [
+    "Stacking",
+    "StackWise-480 (480 Gbps), up to 8 switches; StackPower supported"
+   ],
+   [
+    "Memory",
+    "8 GB DRAM, 16 GB flash"
+   ],
+   [
+    "MAC addresses",
+    "32,000"
+   ],
+   [
+    "VLAN IDs",
+    "4,094"
+   ],
+   [
+    "Jumbo frames",
+    "9,198 bytes"
+   ],
+   [
+    "Management ports",
+    "RJ-45 Ethernet management, RJ-45 console, USB 2.0, USB 3.0 slot for optional SSD"
+   ],
+   [
+    "Power",
+    "Two field-replaceable power supply slots; 715 W AC (PWR-C1-715WAC-P) as standard"
+   ],
+   [
+    "Software",
+    "Cisco IOS XE; Network Essentials or Network Advantage license (depends on version)"
+   ],
+   [
+    "Size and weight",
+    "4.4 x 44.5 x 40.9 cm (H x W x D, chassis), 7.4 kg"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 45°C (up to 1,500 m altitude)"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://www.cisco.com/c/dam/assets/support/product-images/series/switches-catalyst-9300-series-switches-alternate2.jpg",
+   "https://www.cisco.com/c/dam/assets/support/product-images/series/switches-catalyst-9300-series-switches-alternate3.jpg",
+   "https://www.cisco.com/c/dam/assets/support/product-images/series/switches-catalyst-9300-series-switches-alternate5.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-ser-data-sheet-cte-en.html",
+  "confidence": "medium"
+ },
+ "dell-ultrasharp-u3417w-34-inch-curved-monitor": {
+  "summary": "The Dell UltraSharp U3417W is a 34 inch curved ultrawide monitor with a sharp 3440 x 1440 IPS screen in a 21:9 shape. It gives you room to work with several windows side by side, and its gentle 1900R curve keeps the edges of the screen in comfortable view. Colours are accurate out of the box (99% sRGB, factory calibrated), and it has built-in 9 W speakers, a USB 3.0 hub and a KVM feature for using two computers with one keyboard and mouse. The stand adjusts for height, tilt and swivel.",
+  "highlights": [
+   "34 inch curved IPS screen, 3440 x 1440 at 60 Hz, 21:9 ultrawide",
+   "99% sRGB colour with factory calibration report included",
+   "Picture-by-Picture, Picture-in-Picture and built-in KVM for two computers",
+   "Two HDMI 2.0, DisplayPort, Mini DisplayPort and DisplayPort out",
+   "Four USB 3.0 ports and dual 9 W speakers",
+   "Height, tilt and swivel adjustable stand, VESA 100 mm mount"
+  ],
+  "specs": [
+   [
+    "Screen size",
+    "34.14 inch (86.72 cm) viewable, curved 1900R"
+   ],
+   [
+    "Resolution",
+    "3440 x 1440 at 60 Hz (21:9)"
+   ],
+   [
+    "Panel",
+    "IPS with LED backlight, anti-glare"
+   ],
+   [
+    "Brightness",
+    "300 cd/m² (typical)"
+   ],
+   [
+    "Contrast ratio",
+    "1,000:1 (typical)"
+   ],
+   [
+    "Response time",
+    "5 ms (fast mode), 8 ms (normal mode)"
+   ],
+   [
+    "Viewing angle",
+    "178° / 178°"
+   ],
+   [
+    "Colour",
+    "99% sRGB, 1.07 billion colours"
+   ],
+   [
+    "Video inputs",
+    "2 x HDMI 2.0, 1 x DisplayPort 1.2, 1 x Mini DisplayPort 1.2; DisplayPort out (MST) for a second monitor"
+   ],
+   [
+    "USB",
+    "4 x USB 3.0 downstream (2 with BC1.2 charging), 2 x USB 3.0 upstream"
+   ],
+   [
+    "Audio",
+    "2 x 9 W built-in speakers, 3.5 mm audio line out"
+   ],
+   [
+    "Stand",
+    "Height adjustable 115 mm, tilt 5° forward and 21° back, swivel 30° each way; VESA 100 x 100 mm"
+   ],
+   [
+    "Power",
+    "100 to 240 V AC; 50 W typical, under 0.5 W in active-off mode"
+   ],
+   [
+    "Dimensions with stand",
+    "81.4 cm wide, 41.7 to 53.2 cm high, 22.6 cm deep"
+   ],
+   [
+    "Weight",
+    "10.4 kg with stand, 7.7 kg panel only"
+   ]
+  ],
+  "inBox": [
+   "Monitor",
+   "Stand riser and stand base",
+   "Power cable (varies by country)",
+   "HDMI cable",
+   "Mini DisplayPort to DisplayPort cable",
+   "USB 3.0 upstream cable",
+   "Drivers and documentation media",
+   "Quick setup guide",
+   "Factory calibration report",
+   "Safety, environmental and regulatory information"
+  ],
+  "images": [
+   "https://i.dell.com/das/xa.ashx/global-site-design%20WEB/814084cb-88a2-42aa-7a61-77547cb34840/1/OriginalPng?id=Dell/Product_Images/Peripherals/Output_Devices/Dell/Monitors/U_Series/U3417W/pdp/monitor-u3417w-pdp-2.jpg",
+   "https://i.dell.com/das/xa.ashx/global-site-design%20WEB/5059926d-539e-d8eb-d4da-564aeed9a1a1/1/OriginalPng?id=Dell/Product_Images/Peripherals/Output_Devices/Dell/Monitors/U_Series/U3417W/pdp/monitor-u3417w-pdp-1.jpg"
+  ],
+  "spin": [],
+  "source": "https://i.dell.com/sites/csdocuments/Product_Docs/en/dell_ultrasharp_34_curved_monitor_u3417w_product_spec_sheet.pdf",
+  "confidence": "high"
  }
 }

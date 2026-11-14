@@ -20,7 +20,7 @@
       "name": "Laptops & Computing",
       "tagline": "Laptops, desktops, printers, monitors, memory and storage from HP, Lenovo, ASUS, Epson and MSI.",
       "img": "/assets/Product/landing/laptop1.jpeg",
-      "count": 108,
+      "count": 109,
       "aisles": [
         "Laptops",
         "Storage & Memory",
@@ -34,7 +34,7 @@
       "name": "Networking",
       "tagline": "Routers, access points, managed switches, racks and adapters.",
       "img": "/assets/Product/landing/unifi1.jpeg",
-      "count": 92,
+      "count": 94,
       "aisles": [
         "Routers & Switches",
         "Infrastructure",
@@ -7249,6 +7249,32 @@
       "sku": "VX-1608"
     },
     {
+      "slug": "cisco-catalyst-2960-x-48-port-gigabit-poe-switch",
+      "title": "Cisco Catalyst 2960-X 48-Port Gigabit PoE+ Switch",
+      "brand": "Cisco",
+      "model": "Catalyst 2960-X 48-port",
+      "category": "networking",
+      "aisle": "Routers & Switches",
+      "price": 4350000,
+      "desc": "Managed 48-port Gigabit PoE+ access switch from Cisco's Catalyst 2960-X range, to power and connect IP cameras, Wi-Fi access points and IP phones.",
+      "sku": "VX-1609",
+      "img": "https://www.cisco.com/c/dam/assets/support/product-images/series/series-switches-catalyst-2960-x-series-switches-alternate1.jpg",
+      "imgSource": "https://www.cisco.com/c/en/us/support/switches/catalyst-2960x-48lps-l-switch/model.html"
+    },
+    {
+      "slug": "cisco-catalyst-9300-24-port-poe-switch",
+      "title": "Cisco Catalyst 9300 24-Port PoE+ Switch",
+      "brand": "Cisco",
+      "model": "Catalyst 9300 24-port",
+      "category": "networking",
+      "aisle": "Routers & Switches",
+      "price": 4500000,
+      "desc": "Stackable 24-port PoE+ enterprise access switch from Cisco's Catalyst 9300 range, to power and connect IP cameras, Wi-Fi access points and IP phones.",
+      "sku": "VX-1610",
+      "img": "https://www.cisco.com/c/dam/assets/support/product-images/series/switches-catalyst-9300-series-switches.jpg",
+      "imgSource": "https://www.cisco.com/c/en/us/support/switches/catalyst-9300-series-switches/series.html"
+    },
+    {
       "slug": "hikvision-ds-d5019s0-1p0-18-5-inch-hd-borderless-monitor",
       "title": "Hikvision DS-D5019S0-1P0 18.5 inch HD Borderless Monitor",
       "brand": "Hikvision",
@@ -7331,6 +7357,19 @@
       "supplierKey": "hik:DS-D5043U3-1V0S",
       "imgSource": "https://www.hikvision.com/en/products/display-and-control/monitors/commercial-monitor/ds-d5043u3-1v0s/",
       "sku": "VX-1515"
+    },
+    {
+      "slug": "dell-ultrasharp-u3417w-34-inch-curved-monitor",
+      "title": "Dell UltraSharp U3417W 34\" Curved Monitor, 3440 x 1440",
+      "brand": "Dell",
+      "model": "U3417W",
+      "category": "computers",
+      "aisle": "Monitors",
+      "price": 625000,
+      "desc": "34 inch curved UltraSharp monitor with 3440 x 1440 resolution.",
+      "sku": "VX-1611",
+      "img": "https://i.dell.com/das/xa.ashx/global-site-design%20WEB/d8773f4c-b91b-30aa-c6a8-aba121a11ce5/1/OriginalPng?id=Dell/Product_Images/Peripherals/Output_Devices/Dell/Monitors/U_Series/U3417W/global_spi/dell-monitor-u3417w-right-productivity-hero-504x350-ng.psd",
+      "imgSource": "https://www.dell.com/en-us/shop/dell-ultrasharp-34-curved-monitor-u3417w/apd/210-aiyz (archived at web.archive.org, 2016 snapshot)"
     },
     {
       "slug": "hikvision-ds-k4dc103-automatic-door-closer",
