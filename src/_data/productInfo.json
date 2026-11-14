@@ -15881,5 +15881,2882 @@
   "spin": [],
   "source": "https://www.se.com/ae/en/product/LC1G2654KUEN/",
   "confidence": "high"
+ },
+ "hikvision-deepinview-12mp": {
+  "summary": "A professional DeepinView bullet camera from Hikvision with a motorised varifocal lens and built-in deep learning analytics. It is made for sites that need face capture, people counting and smart perimeter alarms, such as offices, warehouses and car parks. DarkFighter low-light imaging and 140 dB WDR keep the picture clear at night and against strong backlight.",
+  "highlights": [
+   "Motorised varifocal lens with auto focus",
+   "Deep learning analytics: face capture and comparison, human and vehicle detection",
+   "DarkFighter low-light imaging and 140 dB WDR",
+   "Infrared night vision up to 50 m (2.8 to 12 mm lens)",
+   "microSD slot up to 1 TB and Gigabit Ethernet",
+   "Alarm inputs and outputs for linking other security devices"
+  ],
+  "specs": [
+   [
+    "Model family",
+    "iDS-2CD7A26G0 DeepinView varifocal bullet"
+   ],
+   [
+    "Image sensor",
+    "1/1.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "2 MP (1920 x 1080)"
+   ],
+   [
+    "Lens",
+    "Motorised varifocal 2.8 to 12 mm or 8 to 32 mm (version dependent)"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.0005 lux, 0 lux with IR"
+   ],
+   [
+    "Night vision",
+    "IR up to 50 m (2.8 to 12 mm) or 100 m (8 to 32 mm)"
+   ],
+   [
+    "Wide dynamic range",
+    "140 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Analytics",
+    "Face capture and comparison (up to 150,000 faces), multi-target detection, perimeter protection"
+   ],
+   [
+    "Storage",
+    "microSD up to 1 TB, NAS"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Alarm",
+    "2 inputs, 2 outputs"
+   ],
+   [
+    "Protection rating",
+    "IP67, IK10"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/public/all/image/m000019594/%E5%8F%B3%E4%BE%A745%C2%B0%E5%9B%BE.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000019594/%E5%B7%A6%E8%A7%8645%C2%B0%E5%9B%BE.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000019594/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/DeepinView-Series/ids-2cd7a26g0-izhs-y--r-/",
+  "confidence": "low"
+ },
+ "hikvision-ds-2cd3686g2t-izs-8mp": {
+  "summary": "An 8 MP (4K) AcuSense bullet camera with a motorised varifocal lens, built for professional installations where you want to adjust the zoom after mounting. AcuSense deep learning separates people and vehicles from other movement, which cuts false alarms a lot. It also offers face capture, people counting and smart perimeter rules.",
+  "highlights": [
+   "8 MP 4K resolution (3840 x 2160)",
+   "Motorised varifocal lens with auto focus",
+   "AcuSense human and vehicle classification to reduce false alarms",
+   "IR night vision up to 60 m (2.7 to 13.5 mm lens)",
+   "120 dB true WDR",
+   "Alarm and audio terminals, microSD up to 512 GB"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/1.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "8 MP (3840 x 2160)"
+   ],
+   [
+    "Lens",
+    "Motorised varifocal 2.7 to 13.5 mm or 7 to 35 mm (version dependent), F1.6"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.003 lux, 0 lux with IR"
+   ],
+   [
+    "Night vision",
+    "IR up to 60 m (2.7 to 13.5 mm) or 80 m (7 to 35 mm)"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Smart functions",
+    "Line crossing, intrusion, region entrance and exit, face capture, people counting"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB, NAS"
+   ],
+   [
+    "Interfaces",
+    "1 RJ45 10/100 Mbps, 3 alarm in, 3 alarm out, audio in and out"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 13 W) or PoE 802.3at (max. 15 W)"
+   ],
+   [
+    "Dimensions",
+    "105 mm diameter x 340.7 mm"
+   ],
+   [
+    "Weight",
+    "About 1475 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000035358/main_mainview/DS-2CD36X6G2T-IZSY-%E5%B7%A6PC-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000035358/outline_drawingview/DS-2CD36X6G2T-IZSY-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000035358/outline_leftside45view/DS-2CD36X6G2T-IZSY-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Ultra-Series-SmartIP-/ds-2cd3686g2t-izs-y-/",
+  "confidence": "medium"
+ },
+ "hikvision-ds-2cd1047g2h-liu-4-mp-colorvu-smart-hybrid-light-fixed-bullet-network-camera-4m": {
+  "summary": "A 4 MP ColorVu bullet IP camera with Smart Hybrid Light. At night it watches in infrared and switches on its white light when it detects a person or vehicle, so you get colour footage of the event. It has a built-in microphone and an IP67 housing for indoor or outdoor use, a good value choice for homes and small businesses.",
+  "highlights": [
+   "4 MP (2560 x 1440) with a bright F1.0 lens",
+   "Smart Hybrid Light: IR and white light up to 30 m",
+   "Human and vehicle detection for motion alarms",
+   "Built-in microphone for audio recording",
+   "PoE or 12 VDC power",
+   "IP67 weatherproof housing"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/3 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.0, horizontal view 94°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 30 m"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.001 lux"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Audio",
+    "Built-in microphone"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB (-F version only)"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 6 W) or PoE 802.3af (max. 7.5 W)"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ],
+   [
+    "Dimensions",
+    "69.8 x 67.9 x 172.9 mm"
+   ],
+   [
+    "Weight",
+    "About 550 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/public/all/image/m000108247/DS-2CD10x7G2H-LIU%28F%29-%E7%AD%92%E6%9C%BA39-%E5%85%A8%E5%BD%A9%E5%8F%8C%E5%85%89-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E5%9F%BA%E7%BA%BF-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000108247/DS-2CD10x7G2H-LIU%28F%29-%E7%AD%92%E6%9C%BA39-%E5%85%A8%E5%BD%A9%E5%8F%8C%E5%85%89-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E5%9F%BA%E7%BA%BF-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/value-series/ds-2cd1047g2h-liu-f-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cd1067g2h-liu-6-mp-colorvu-smart-hybrid-light-fixed-bullet-network-camera-4m": {
+  "summary": "A 6 MP ColorVu bullet IP camera with Smart Hybrid Light. At night it watches in infrared and switches on its white light when it detects a person or vehicle, so you get colour footage of the event. It has a built-in microphone and an IP67 housing for indoor or outdoor use, a good value choice for homes and small businesses.",
+  "highlights": [
+   "6 MP (3200 x 1800) with a bright F1.0 lens",
+   "Smart Hybrid Light: IR and white light up to 30 m",
+   "Human and vehicle detection for motion alarms",
+   "Built-in microphone for audio recording",
+   "PoE or 12 VDC power",
+   "IP67 weatherproof housing"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.4 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "6 MP (3200 x 1800)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.0, horizontal view 94°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 30 m"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.001 lux, 0 lux with light"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Audio",
+    "Built-in microphone"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB (-F version only)"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 6.6 W) or PoE 802.3af (max. 8 W)"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ],
+   [
+    "Dimensions",
+    "69.8 x 67.9 x 172.9 mm"
+   ],
+   [
+    "Weight",
+    "About 550 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/public/all/image/m000108243/DS-2CD10x7G2H-LIU%28F%29-%E7%AD%92%E6%9C%BA39-%E5%85%A8%E5%BD%A9%E5%8F%8C%E5%85%89-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E5%9F%BA%E7%BA%BF-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000108243/DS-2CD10x7G2H-LIU%28F%29-%E7%AD%92%E6%9C%BA39-%E5%85%A8%E5%BD%A9%E5%8F%8C%E5%85%89-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E5%9F%BA%E7%BA%BF-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/value-series/ds-2cd1067g2h-liu-f-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cd1347g2h-liu-4-mp-colorvu-smart-hybrid-light-fixed-turret-network-camera-2": {
+  "summary": "A 4 MP ColorVu turret IP camera with Smart Hybrid Light. At night it watches in infrared and switches on its white light when it detects a person or vehicle, so you get colour footage of the event. It has a built-in microphone and an IP67 housing for indoor or outdoor use, a good value choice for homes and small businesses.",
+  "highlights": [
+   "4 MP (2560 x 1440) with a bright F1.0 lens",
+   "Smart Hybrid Light: IR and white light up to 30 m",
+   "Human and vehicle detection for motion alarms",
+   "Built-in microphone for audio recording",
+   "PoE or 12 VDC power",
+   "IP67 weatherproof housing"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/3 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440)"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F1.0, horizontal view 96°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 30 m"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.001 lux, 0 lux with light"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Audio",
+    "Built-in microphone"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB (-F version only)"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 6 W) or PoE 802.3af (max. 7.5 W)"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ],
+   [
+    "Dimensions",
+    "110 mm diameter x 93 mm"
+   ],
+   [
+    "Weight",
+    "About 420 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000108245/%E6%B5%B7%E8%9E%BA51B-%E5%8F%8C%E5%85%89-%E5%9F%BA%E7%BA%BF-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E5%85%A8%E5%BD%A9-%E6%B5%B7%E5%A4%96-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000108245/%E6%B5%B7%E8%9E%BA51B-%E5%8F%8C%E5%85%89-%E5%9F%BA%E7%BA%BF-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E5%85%A8%E5%BD%A9-%E6%B5%B7%E5%A4%96-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/value-series/ds-2cd1347g2h-liu-f-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cd1t47g2h-liuf-srb-4-mp-colorvu-with-smart-hybrid-light-fixed-bullet-network": {
+  "summary": "A 4 MP ColorVu bullet IP camera with Smart Hybrid Light and active deterrence. When it spots a person or vehicle it can flash red and blue lights and play an audible warning through its built-in speaker, which helps scare intruders off. It also has a built-in microphone, a memory card slot and an IP67 outdoor housing.",
+  "highlights": [
+   "4 MP (2560 x 1440) with F1.0 lens",
+   "Smart Hybrid Light: IR and white light up to 50 m",
+   "Red and blue flashing light plus audible warning",
+   "Built-in microphone and speaker",
+   "Person and vehicle detection",
+   "microSD up to 512 GB, PoE, IP67"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/3 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.0, horizontal view 80°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 50 m"
+   ],
+   [
+    "Deterrence",
+    "Red and blue flashing light, built-in speaker for audible warning"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.001 lux, 0 lux with light"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 8.8 W) or PoE 802.3af (max. 10.6 W)"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ],
+   [
+    "Dimensions",
+    "81 x 83.7 x 211 mm, about 480 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/value-series/ds-2cd1t47g2h-liuf-s-l--rb-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cd1t67g2h-liuf-srb-6-mp-colorvu-with-smart-hybrid-light-fixed-bullet-network": {
+  "summary": "A 6 MP ColorVu bullet IP camera with Smart Hybrid Light and active deterrence. When it spots a person or vehicle it can flash red and blue lights and play an audible warning through its built-in speaker, which helps scare intruders off. It also has a built-in microphone, a memory card slot and an IP67 outdoor housing.",
+  "highlights": [
+   "6 MP (3200 x 1800) with F1.0 lens",
+   "Smart Hybrid Light: IR and white light up to 50 m",
+   "Red and blue flashing light plus audible warning",
+   "Built-in microphone and speaker",
+   "Person and vehicle detection",
+   "microSD up to 512 GB, PoE, IP67"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.4 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "6 MP (3200 x 1800)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.0, horizontal view 94°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 50 m"
+   ],
+   [
+    "Deterrence",
+    "Red and blue flashing light, built-in speaker for audible warning"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.001 lux, 0 lux with light"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 9.8 W) or PoE 802.3af (max. 11.8 W)"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ],
+   [
+    "Dimensions",
+    "81 x 83.7 x 211 mm, about 480 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/value-series/ds-2cd1t67g2h-liuf-s-l--rb-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cd2383g2-li2u-srb-8-mp-acusense-strobe-light-and-audible-warning-and-smart-h": {
+  "summary": "An 8 MP (4K) AcuSense turret camera that does more than record. It recognises people and vehicles, then can flash red and blue strobe lights and sound a warning to deter intruders. Smart Hybrid Light gives colour or infrared night images, and a dual microphone array records clear audio.",
+  "highlights": [
+   "8 MP 4K resolution (3840 x 2160)",
+   "AcuSense person and vehicle classification",
+   "Red and blue strobe light and audible warning",
+   "Smart Hybrid Light up to 30 m",
+   "Dual microphone array and built-in speaker",
+   "Line crossing and intrusion detection"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "8 MP (3840 x 2160)"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F1.6, horizontal view 108°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 30 m"
+   ],
+   [
+    "Deterrence",
+    "Red and blue strobe light, speaker up to 110 dB at 10 cm"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Smart functions",
+    "Line crossing, intrusion, face detection"
+   ],
+   [
+    "Audio",
+    "Dual microphone array, built-in speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 15 W) or PoE 802.3at (max. 18 W)"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ],
+   [
+    "Dimensions",
+    "127.3 mm diameter x 96.3 mm, about 590 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000138287/%E6%B5%B7%E8%9E%BA51%E5%8F%8Cmic%E5%A3%B0%E5%85%89%E6%8A%A5%E8%AD%A6-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000138287/%E6%B5%B7%E8%9E%BA51%E5%8F%8Cmic%E5%A3%B0%E5%85%89%E6%8A%A5%E8%AD%A6-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E6%AD%A3.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2383g2-li2u-s-l--rb-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cd2t83g2-lis2u-srb-8-mp-acusense-strobe-light-and-audible-warning-and-smart": {
+  "summary": "An 8 MP (4K) AcuSense bullet camera with active deterrence for outdoor perimeters. It tells people and vehicles apart from other motion and can respond with red and blue strobe lights and a loud audible warning. Smart Hybrid Light reaches up to 60 m, and alarm and audio terminals let it work with other equipment.",
+  "highlights": [
+   "8 MP 4K resolution (3840 x 2160)",
+   "AcuSense person and vehicle classification",
+   "Red and blue strobe light and loud audible warning",
+   "Smart Hybrid Light up to 60 m",
+   "Dual microphone array, speaker, alarm in and out",
+   "IP67 outdoor housing"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "8 MP (3840 x 2160)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.6, horizontal view 88°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 60 m"
+   ],
+   [
+    "Deterrence",
+    "Red and blue strobe light, speaker up to 120 dB at 10 cm"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Smart functions",
+    "Line crossing, intrusion, face detection"
+   ],
+   [
+    "Interfaces",
+    "1 RJ45 10/100 Mbps, 1 alarm in, 1 alarm out, audio in and out"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Power",
+    "12 VDC (max. 17 W) or PoE 802.3at (max. 18 W)"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ],
+   [
+    "Dimensions",
+    "88.7 x 93.1 x 286.7 mm"
+   ],
+   [
+    "Weight",
+    "About 1160 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000138303/%E7%AD%92%E6%9C%BA45pro-%E5%8F%8C%E5%85%89-%E6%B5%B7%E5%BA%B7%E7%99%BD-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2t83g2-lis2u-s-l--rb-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2ce10df0t-lpfs-2-mp-smart-hybrid-light-with-colorvu-fixed-mini-bullet-camera": {
+  "summary": "A 2 MP Full HD ColorVu analogue bullet camera for use with a Hikvision Turbo HD DVR. Smart Hybrid Light lets it use infrared or white light at night, so it can record in colour in the dark. It has a built-in microphone that sends audio over the coaxial cable, and suits outdoor walls, gates and driveways.",
+  "highlights": [
+   "2 MP (1920 x 1080)",
+   "F1.0 lens for colour images in low light",
+   "Smart Hybrid Light: IR and white light up to 20 m",
+   "Built-in microphone, audio over coax",
+   "Works with TVI, AHD, CVI and CVBS recorders",
+   "IP67 weatherproof"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "2 MP CMOS"
+   ],
+   [
+    "Resolution",
+    "2 MP (1920 x 1080)"
+   ],
+   [
+    "Lens",
+    "3.6 mm fixed, F1.0, horizontal view 84°"
+   ],
+   [
+    "Night vision",
+    "Smart Hybrid Light: IR up to 20 m, white light up to 20 m"
+   ],
+   [
+    "Min. illumination",
+    "0.001 lux, 0 lux with white light"
+   ],
+   [
+    "Frame rate",
+    "1080p at 25/30 fps"
+   ],
+   [
+    "Video output",
+    "Switchable TVI, AHD, CVI, CVBS"
+   ],
+   [
+    "Wide dynamic range",
+    "Digital WDR"
+   ],
+   [
+    "Audio",
+    "Built-in microphone (pickup up to 5 m radius)"
+   ],
+   [
+    "Power",
+    "12 VDC, max. 2.9 W"
+   ],
+   [
+    "Dimensions",
+    "161.1 x 68.4 x 65.2 mm"
+   ],
+   [
+    "Weight",
+    "About 235 g"
+   ],
+   [
+    "Operating temperature",
+    "-40 to 60 °C"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/public/all/image/m000068419/%E7%AD%92%E6%9C%BA73-DF0T-LS%E5%8F%8C%E5%85%89%E7%9C%9F%E5%85%A8%E5%BD%A9-%E6%A0%87%E9%85%8D-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000068419/%E7%AD%92%E6%9C%BA73-DF0T-LS%E5%8F%8C%E5%85%89%E7%9C%9F%E5%85%A8%E5%BD%A9-%E6%A0%87%E9%85%8D-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/Turbo-HD-Cameras/ColorVu-Series/ds-2ce10df0t-lpfs/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2ce10kf0t-lpfs-3k-colorvu-smart-hybrid-light-fixed-mini-bullet-camera-3-6mm": {
+  "summary": "A 3K (2960 x 1665) ColorVu analogue bullet camera for use with a Hikvision Turbo HD DVR. Smart Hybrid Light lets it use infrared or white light at night, so it can record in colour in the dark. It has a built-in microphone that sends audio over the coaxial cable, and suits outdoor walls, gates and driveways.",
+  "highlights": [
+   "3K (2960 x 1665)",
+   "F1.0 lens for colour images in low light",
+   "Smart Hybrid Light: IR and white light up to 20 m",
+   "Built-in microphone, audio over coax",
+   "Works with TVI, AHD, CVI and CVBS recorders",
+   "IP67 weatherproof"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "3K CMOS"
+   ],
+   [
+    "Resolution",
+    "3K (2960 x 1665)"
+   ],
+   [
+    "Lens",
+    "3.6 mm fixed, F1.0, horizontal view 80°"
+   ],
+   [
+    "Night vision",
+    "Smart Hybrid Light: IR up to 20 m, white light up to 20 m"
+   ],
+   [
+    "Min. illumination",
+    "0.001 lux, 0 lux with white light"
+   ],
+   [
+    "Frame rate",
+    "TVI 3K at 20 fps, 4 MP and 1080p at 25/30 fps"
+   ],
+   [
+    "Video output",
+    "Switchable TVI, AHD, CVI, CVBS"
+   ],
+   [
+    "Wide dynamic range",
+    "Digital WDR"
+   ],
+   [
+    "Audio",
+    "Built-in microphone (pickup up to 5 m radius)"
+   ],
+   [
+    "Power",
+    "12 VDC, max. 3.9 W"
+   ],
+   [
+    "Dimensions",
+    "161.1 x 70 x 70 mm"
+   ],
+   [
+    "Weight",
+    "About 230 g"
+   ],
+   [
+    "Operating temperature",
+    "-40 to 60 °C"
+   ],
+   [
+    "Protection rating",
+    "IP67"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000104685/%E7%AD%92%E6%9C%BA73-DF0T-%E6%A0%87%E9%85%8D-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000104685/%E7%AD%92%E6%9C%BA73-DF0T-%E6%A0%87%E9%85%8D-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/Turbo-HD-Cameras/ColorVu-Series/ds-2ce10kf0t-lpfs/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2ce70df0t-lpfs-2-mp-smart-hybrid-light-with-colorvu-indoor-fixed-turret-camer": {
+  "summary": "A 2 MP Full HD ColorVu analogue indoor turret camera for use with a Hikvision Turbo HD DVR. Smart Hybrid Light lets it use infrared or white light at night, so it can record in colour in the dark. It has a built-in microphone that sends audio over the coaxial cable, and suits rooms, shops, corridors and reception areas.",
+  "highlights": [
+   "2 MP (1920 x 1080)",
+   "F1.0 lens for colour images in low light",
+   "Smart Hybrid Light: IR and white light up to 20 m",
+   "Built-in microphone, audio over coax",
+   "Works with TVI, AHD, CVI and CVBS recorders",
+   "Compact indoor turret design"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "2 MP CMOS"
+   ],
+   [
+    "Resolution",
+    "2 MP (1920 x 1080)"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F1.0, horizontal view 105°"
+   ],
+   [
+    "Night vision",
+    "Smart Hybrid Light: IR up to 20 m, white light up to 20 m"
+   ],
+   [
+    "Min. illumination",
+    "0.001 lux, 0 lux with white light"
+   ],
+   [
+    "Frame rate",
+    "1080p at 25/30 fps"
+   ],
+   [
+    "Video output",
+    "Switchable TVI, AHD, CVI, CVBS"
+   ],
+   [
+    "Wide dynamic range",
+    "Digital WDR"
+   ],
+   [
+    "Audio",
+    "Built-in microphone (pickup up to 5 m radius)"
+   ],
+   [
+    "Power",
+    "12 VDC, max. 2.9 W"
+   ],
+   [
+    "Dimensions",
+    "85 mm diameter x 81.3 mm"
+   ],
+   [
+    "Weight",
+    "About 155 g"
+   ],
+   [
+    "Operating temperature",
+    "-40 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/public/all/image/m000068422/DS-2CE70DF0T-LPFS-%E6%B5%B7%E8%9E%BA36-mic-%E5%9F%BA%E7%BA%BF-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000068422/DS-2CE70DF0T-LPFS-%E6%B5%B7%E8%9E%BA36-mic-%E5%9F%BA%E7%BA%BF-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/Turbo-HD-Cameras/ColorVu-Series/ds-2ce70df0t-lpfs/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2ce70kf0t-lpfs-3k-colorvu-smart-hybrid-light-indoor-fixed-turret-camera-2-8mm": {
+  "summary": "A 3K (2960 x 1665) ColorVu analogue indoor turret camera for use with a Hikvision Turbo HD DVR. Smart Hybrid Light lets it use infrared or white light at night, so it can record in colour in the dark. It has a built-in microphone that sends audio over the coaxial cable, and suits rooms, shops, corridors and reception areas.",
+  "highlights": [
+   "3K (2960 x 1665)",
+   "F1.0 lens for colour images in low light",
+   "Smart Hybrid Light: IR and white light up to 20 m",
+   "Built-in microphone, audio over coax",
+   "Works with TVI, AHD, CVI and CVBS recorders",
+   "Compact indoor turret design"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "3K CMOS"
+   ],
+   [
+    "Resolution",
+    "3K (2960 x 1665)"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F1.0, horizontal view 105°"
+   ],
+   [
+    "Night vision",
+    "Smart Hybrid Light: IR up to 20 m, white light up to 20 m"
+   ],
+   [
+    "Min. illumination",
+    "0.001 lux, 0 lux with white light"
+   ],
+   [
+    "Frame rate",
+    "TVI 3K at 20 fps, 4 MP and 1080p at 25/30 fps"
+   ],
+   [
+    "Video output",
+    "Switchable TVI, AHD, CVI, CVBS"
+   ],
+   [
+    "Wide dynamic range",
+    "Digital WDR"
+   ],
+   [
+    "Audio",
+    "Built-in microphone (pickup up to 5 m radius)"
+   ],
+   [
+    "Power",
+    "12 VDC, max. 3.9 W"
+   ],
+   [
+    "Dimensions",
+    "85 mm diameter x 81.3 mm"
+   ],
+   [
+    "Weight",
+    "About 240 g"
+   ],
+   [
+    "Operating temperature",
+    "-40 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/public/all/image/m000104682/DS-2CE70DF0T-LPFS-%E6%B5%B7%E8%9E%BA36-mic-%E5%9F%BA%E7%BA%BF-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000104682/DS-2CE70DF0T-LPFS-%E6%B5%B7%E8%9E%BA36-mic-%E5%9F%BA%E7%BA%BF-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/Turbo-HD-Cameras/ColorVu-Series/ds-2ce70kf0t-lpfs/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cv1043g2-lidwf-4-mp-outdoor-wi-fi-fixed-bullet-network-camera-4mm": {
+  "summary": "A 4 MP outdoor Wi-Fi bullet camera that connects without a network cable, so only power is needed at the mounting point. It supports Wi-Fi 6, has Smart Hybrid Light for colour or infrared night images, and a built-in microphone and speaker for two-way talk. A memory card slot lets it record on its own.",
+  "highlights": [
+   "4 MP (2560 x 1440)",
+   "Wi-Fi 6 (2.4 GHz) plus a wired Ethernet port",
+   "Smart Hybrid Light: IR and white light up to 30 m",
+   "Two-way audio with built-in mic and speaker",
+   "Human and vehicle detection",
+   "microSD up to 512 GB, IP66"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.7 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.6, horizontal view 70°"
+   ],
+   [
+    "Night vision",
+    "IR and white light, up to 30 m"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 802.11b/g/n/ax, 2.4 GHz"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC, max. 6.5 W (adapter included)"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ],
+   [
+    "Dimensions",
+    "260.9 x 113.9 x 67.4 mm"
+   ],
+   [
+    "Weight",
+    "About 310 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 60 °C"
+   ]
+  ],
+  "inBox": [
+   "Power adapter"
+  ],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000121866/DS-IPC-K6xH-LWT-%E7%AD%92%E6%9C%BA39-%E5%9B%BD%E5%86%85%E6%A0%87%E9%85%8D-%E6%AD%A3%E9%9D%A2.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000121866/%E7%AD%92%E6%9C%BA120-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/wireless-cameras/wi-fi-series/ds-2cv1043g2-lidw-f--b-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2cv1f43g2-lidwf-4-mp-indoor-wi-fi-fixed-pt-turret-network-camera-2-8mm": {
+  "summary": "A 4 MP indoor Wi-Fi camera that can pan and tilt, so one camera can look around a whole room. It supports Wi-Fi 6, records in colour or infrared at night, and has a built-in microphone and speaker for two-way talk. A good fit for homes, small offices and shops.",
+  "highlights": [
+   "4 MP (2560 x 1440)",
+   "Pan 0 to 350° and tilt 0 to 75°",
+   "Wi-Fi 6 (2.4 GHz) plus a wired Ethernet port",
+   "IR up to 20 m, white light up to 15 m",
+   "Two-way audio",
+   "microSD up to 512 GB"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.7 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440)"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F2.0, horizontal view 91°"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 0 to 350°, tilt 0 to 75°"
+   ],
+   [
+    "Night vision",
+    "IR up to 20 m, white light up to 15 m"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 802.11b/g/n/ax, 2.4 GHz"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264, MJPEG"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC, max. 9 W"
+   ],
+   [
+    "Dimensions",
+    "124 mm diameter x 119 mm"
+   ],
+   [
+    "Weight",
+    "About 290 g"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 40 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000121881/PT23-WIFI%E6%AC%BE-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000121881/PT23-WIFI%E6%AC%BE-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://assets.hikvision.com/prd/normal/all/doc/sm000066921/DS-2CV1F43G2-LIDWFB_Datasheet_20250113.pdf",
+  "confidence": "high"
+ },
+ "hikvision-ds-2de2c200iwg-k-4g-c05s10-2mp-pro-solar-powered-security-pt-camera-setup-4mm": {
+  "summary": "A complete 2 MP solar powered pan and tilt camera setup for places with no mains power or internet cable, such as farms, building sites and remote gates. A 10 W solar panel charges a 50.76 Wh battery, and video is sent over 4G using a nano SIM card. PIR and radar sensors work together to wake the camera only for real movement, which saves power.",
+  "highlights": [
+   "2 MP (1920 x 1080) pan and tilt camera",
+   "10 W solar panel and 50.76 Wh lithium battery",
+   "4G LTE connection with nano SIM",
+   "PIR plus radar detection up to 12 m",
+   "Two-way audio and IR night vision up to 30 m",
+   "microSD up to 512 GB, IP66"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.9 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "2 MP (1920 x 1080)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.6, horizontal view 84°"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 0 to 340°, tilt 0 to 80°, up to 25°/s"
+   ],
+   [
+    "Night vision",
+    "IR up to 30 m"
+   ],
+   [
+    "Connectivity",
+    "4G LTE (nano SIM), 1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Detection",
+    "PIR and radar, 80° wide, up to 12 m"
+   ],
+   [
+    "Solar panel",
+    "10 W"
+   ],
+   [
+    "Battery",
+    "Ternary lithium, 50.76 Wh, about 27 hours without sun at 1.85 W, over 800 cycles"
+   ],
+   [
+    "Power use",
+    "1.85 W typical with 4G working, 80 mW standby, max. 7 W"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ],
+   [
+    "Weight",
+    "About 850 g"
+   ],
+   [
+    "Operating temperature",
+    "0 to 50 °C (battery discharge -20 to 55 °C)"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000127160/PT28-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000127160/PT28-%E5%A4%AA%E9%98%B3%E8%83%BD%E5%A5%97%E8%A3%85-10W-%E5%B7%A6%E4%BE%A71.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/es-la/products/IP-Products/Network-Cameras/Wi-Fi-Series/ds-2de2c200iwg-k-4g-c05s10/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2de2c400iwg-w-4-mp-fixed-outdoor-ir-wifi-stand-alone-pt-network-camera-2-8mm": {
+  "summary": "A 4 MP outdoor Wi-Fi camera with pan and tilt that works on its own, recording to a memory card and viewable in the Hik-Connect app. It can follow detected people and vehicles with Auto-tracking Lite. Infrared night vision reaches 30 m, and a built-in mic and speaker allow two-way talk.",
+  "highlights": [
+   "4 MP (2560 x 1440)",
+   "Pan 0 to 345°, tilt 0 to 80°",
+   "Wi-Fi 2.4 GHz, up to 50 m range",
+   "Human and vehicle detection with auto tracking",
+   "IR night vision up to 30 m",
+   "Two-way audio, microSD up to 512 GB, IP66"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.9 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440)"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F1.6, horizontal view 91°"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 0 to 345°, tilt 0 to 80°"
+   ],
+   [
+    "Night vision",
+    "IR up to 30 m"
+   ],
+   [
+    "Wireless",
+    "Wi-Fi 802.11b/g/n, 2.4 GHz, up to 50 m"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC, 1 A, max. 10 W"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ],
+   [
+    "Dimensions",
+    "163.9 x 185.8 x 131.9 mm"
+   ],
+   [
+    "Weight",
+    "About 565 g"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000127760/%E5%8F%B3%E8%A7%86.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000127760/%E6%AD%A3%E8%A7%86.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/uk/products/IP-Products/Network-Cameras/wi-fi-series/ds-2de2c400iwg-w/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2de2c400iwg-k-4g-c05s10-4mp-pro-solar-powered-security-pt-camera-setup-4mm": {
+  "summary": "A complete 4 MP solar powered pan and tilt camera setup for places with no mains power or internet cable, such as farms, building sites and remote gates. A 10 W solar panel charges a 50.76 Wh battery, and video is sent over 4G using a nano SIM card. PIR and radar sensors work together to wake the camera only for real movement, which saves power.",
+  "highlights": [
+   "4 MP (2560 x 1440) pan and tilt camera",
+   "10 W solar panel and 50.76 Wh lithium battery",
+   "4G LTE connection with nano SIM",
+   "PIR plus radar detection up to 12 m",
+   "Two-way audio and IR night vision up to 30 m",
+   "microSD up to 512 GB, IP66"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "1/2.7 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440)"
+   ],
+   [
+    "Lens",
+    "4 mm fixed, F1.6, horizontal view 70°"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 0 to 340°, tilt 0 to 80°, up to 25°/s"
+   ],
+   [
+    "Night vision",
+    "IR up to 30 m"
+   ],
+   [
+    "Connectivity",
+    "4G LTE (nano SIM), 1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Detection",
+    "PIR and radar, 80° wide, up to 12 m"
+   ],
+   [
+    "Solar panel",
+    "10 W"
+   ],
+   [
+    "Battery",
+    "Ternary lithium, 50.76 Wh, about 27 hours without sun at 1.85 W, over 800 cycles"
+   ],
+   [
+    "Power use",
+    "1.85 W typical with 4G working, 80 mW standby, max. 7 W"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ],
+   [
+    "Weight",
+    "About 850 g"
+   ],
+   [
+    "Operating temperature",
+    "0 to 50 °C (battery discharge -20 to 55 °C)"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000127161/PT28-%E5%A4%AA%E9%98%B3%E8%83%BD%E5%A5%97%E8%A3%85-10W-%E5%8F%B3%E4%BE%A7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000127161/PT28-%E5%A4%AA%E9%98%B3%E8%83%BD%E5%A5%97%E8%A3%85-10W-%E5%B7%A6%E4%BE%A7.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/es-la/products/IP-Products/Network-Cameras/Wi-Fi-Series/ds-2de2c400iwg-k-4g-c05s10/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2se3c204mwg-e-12-tandemvu-2mp-plus-2mp-4x-poe-ptz-network-camera-2-8mm": {
+  "summary": "A TandemVu camera that combines a fixed 2 MP wide view and a 2 MP pan, tilt and 4x zoom camera in one body. You see the whole scene and zoom into details at the same time, so nothing is missed while the PTZ points elsewhere. It has hybrid light for colour night images, two-way audio and smart detection rules.",
+  "highlights": [
+   "Two 2 MP channels: fixed wide view plus PTZ",
+   "4x optical zoom (2.8 to 12 mm) on the PTZ channel",
+   "IR up to 40 m on the PTZ, IR and white light up to 30 m on the wide view",
+   "300 presets, patrols and 3D positioning",
+   "Built-in microphone and speaker",
+   "PoE+ powered, IP66"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "2 x 1/2.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "2 MP (1920 x 1080) on each channel"
+   ],
+   [
+    "Lens",
+    "Wide channel 2.8 mm (horizontal 104.9°); PTZ channel 2.8 to 12 mm, 4x optical, 16x digital"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 0 to 350°, tilt -5 to 90° (PTZ channel), up to 30°/s"
+   ],
+   [
+    "Night vision",
+    "PTZ IR up to 40 m; wide channel IR and white light up to 30 m"
+   ],
+   [
+    "Min. illumination",
+    "PTZ channel colour 0.01 lux, 0 lux with IR"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264, MJPEG"
+   ],
+   [
+    "Smart functions",
+    "Line crossing, intrusion, region entrance and exit"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Power",
+    "12 VDC or PoE+, max. 13.5 W"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ],
+   [
+    "Dimensions",
+    "311.5 x 223.5 x 156 mm, about 1.37 kg"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000115907/outline_drawingview/PT25-%E6%B5%B7%E5%A4%96%E7%89%88-%E6%AD%A3%E9%9D%A2-%E6%97%A0%E5%A4%A9%E7%BA%BF.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000115907/outline_leftside45view/PT2-%E6%B5%B7%E5%A4%96%E7%89%88-%E5%8F%B3%E4%BE%A7-%E6%97%A0%E5%A4%A9%E7%BA%BF.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/PTZ-Cameras/Value-Series/ds-2se3c204mwg-e-12/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2se3c404mwg-e-14-tandemvu-4mp-plus-4mp-4x-poe-ptz-network-camera-2-8mm": {
+  "summary": "A TandemVu camera that combines a fixed 4 MP wide view and a 4 MP pan, tilt and 4x zoom camera in one body. You see the whole scene and zoom into details at the same time, so nothing is missed while the PTZ points elsewhere. It has hybrid light for colour night images, two-way audio and smart detection rules.",
+  "highlights": [
+   "Two 4 MP channels: fixed wide view plus PTZ",
+   "4x optical zoom (2.8 to 12 mm) on the PTZ channel",
+   "IR up to 40 m on the PTZ, IR and white light up to 30 m on the wide view",
+   "300 presets, patrols and 3D positioning",
+   "Built-in microphone and speaker",
+   "PoE+ powered, IP66"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "2 x 1/2.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440) on each channel"
+   ],
+   [
+    "Lens",
+    "Wide channel 2.8 mm (horizontal 114.9°); PTZ channel 2.8 to 12 mm, 4x optical, 16x digital"
+   ],
+   [
+    "Pan and tilt",
+    "Pan 0 to 350°, tilt -5 to 90° (PTZ channel), up to 30°/s"
+   ],
+   [
+    "Night vision",
+    "PTZ IR up to 40 m; wide channel IR and white light up to 30 m"
+   ],
+   [
+    "Min. illumination",
+    "Colour 0.01 lux, 0 lux with IR"
+   ],
+   [
+    "Wide dynamic range",
+    "120 dB"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264, MJPEG"
+   ],
+   [
+    "Smart functions",
+    "Line crossing, intrusion, region entrance and exit"
+   ],
+   [
+    "Audio",
+    "Built-in microphone and speaker"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Power",
+    "12 VDC or PoE+, max. 13.5 W"
+   ],
+   [
+    "Protection rating",
+    "IP66"
+   ],
+   [
+    "Dimensions",
+    "311.5 x 223.5 x 156 mm, about 1.37 kg"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000115908/outline_drawingview/PT25-%E6%B5%B7%E5%A4%96%E7%89%88-%E6%AD%A3%E9%9D%A2-%E6%97%A0%E5%A4%A9%E7%BA%BF.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000115908/outline_leftside45view/PT2-%E6%B5%B7%E5%A4%96%E7%89%88-%E5%8F%B3%E4%BE%A7-%E6%97%A0%E5%A4%A9%E7%BA%BF.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/PTZ-Cameras/Value-Series/ds-2se3c404mwg-e-14/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2se4c215mwg-e-12-tandemvu-4-inch-2-mp-15x-colorvu-and-ir-network-speed-dome": {
+  "summary": "A 4 inch TandemVu speed dome that pairs a fixed 2 MP ColorVu wide view with a 2 MP 15x zoom PTZ camera. The wide channel keeps watching the whole area in colour while the PTZ zooms in on faces, number plates or events far away. AcuSense detection, face capture and people counting make it suited to car parks, yards and building perimeters.",
+  "highlights": [
+   "Two 2 MP channels: ColorVu wide view plus 15x PTZ",
+   "15x optical zoom (5 to 75 mm)",
+   "IR up to 100 m on the PTZ, white light up to 30 m on the wide view",
+   "360° endless pan up to 80°/s, 300 presets",
+   "AcuSense human and vehicle classification, face capture",
+   "Two microphones and a speaker, alarm in and out"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "2 x 1/2.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "2 MP (1920 x 1080) on each channel"
+   ],
+   [
+    "Lens",
+    "Wide channel 2.8 mm F1.0 (horizontal 106.1°); PTZ channel 5 to 75 mm, 15x optical, 16x digital"
+   ],
+   [
+    "Pan and tilt",
+    "360° endless pan, tilt -15 to 90°, up to 80°/s"
+   ],
+   [
+    "Night vision",
+    "PTZ IR up to 100 m; wide channel white light up to 30 m"
+   ],
+   [
+    "Min. illumination",
+    "Wide channel 0.0005 lux; PTZ colour 0.005 lux, 0 lux with IR"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264, MJPEG"
+   ],
+   [
+    "Smart functions",
+    "Line crossing, intrusion, region entrance and exit, face capture, people counting"
+   ],
+   [
+    "Audio",
+    "2 built-in microphones, built-in speaker, 1 audio in, 1 audio out"
+   ],
+   [
+    "Alarm",
+    "1 input, 1 output"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC 3.33 A or PoE+ (802.3at)"
+   ],
+   [
+    "Protection rating",
+    "IP67, 6000 V TVS lightning protection"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 65 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000159411/outline_leftside45view/%E7%BA%A2%E5%A4%96%E7%90%8320-%E5%B7%A6%E4%BE%A7-%E9%9D%9E4G%E5%9E%8B%E5%8F%B7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000159411/outline_rightside45view/%E7%BA%A2%E5%A4%96%E7%90%8320-%E5%8F%B3%E4%BE%A7-%E9%9D%9E4G%E5%9E%8B%E5%8F%B7.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/sg/products/IP-Products/PTZ-Cameras/Pro-Series/ds-2se4c215mwg-e-12/",
+  "confidence": "high"
+ },
+ "hikvision-ds-2se4c415mwg-e-14-tandemvu-4-plus-4mp-15x-colorvu-and-ir-acusense-network-spee": {
+  "summary": "A 4 inch TandemVu speed dome that pairs a fixed 4 MP ColorVu wide view with a 4 MP 15x zoom PTZ camera. The wide channel keeps watching the whole area in colour while the PTZ zooms in on faces, number plates or events far away. AcuSense detection, face capture and people counting make it suited to car parks, yards and building perimeters.",
+  "highlights": [
+   "Two 4 MP channels: ColorVu wide view plus 15x PTZ",
+   "15x optical zoom (5 to 75 mm)",
+   "IR up to 100 m on the PTZ, white light up to 30 m on the wide view",
+   "360° endless pan up to 80°/s, 300 presets",
+   "AcuSense human and vehicle classification, face capture",
+   "Two microphones and a speaker, alarm in and out"
+  ],
+  "specs": [
+   [
+    "Image sensor",
+    "2 x 1/2.8 inch progressive scan CMOS"
+   ],
+   [
+    "Resolution",
+    "4 MP (2560 x 1440) on each channel"
+   ],
+   [
+    "Lens",
+    "Wide channel 2.8 mm F1.0 (horizontal 96.1°); PTZ channel 5 to 75 mm, 15x optical, 16x digital"
+   ],
+   [
+    "Pan and tilt",
+    "360° endless pan, tilt -15 to 90°, up to 80°/s"
+   ],
+   [
+    "Night vision",
+    "PTZ IR up to 100 m; wide channel white light up to 30 m"
+   ],
+   [
+    "Min. illumination",
+    "Wide channel 0.0005 lux; PTZ colour 0.005 lux, 0 lux with IR"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264, MJPEG"
+   ],
+   [
+    "Smart functions",
+    "Line crossing, intrusion, region entrance and exit, face capture, people counting"
+   ],
+   [
+    "Audio",
+    "2 built-in microphones, built-in speaker, 1 audio in, 1 audio out"
+   ],
+   [
+    "Alarm",
+    "1 input, 1 output"
+   ],
+   [
+    "Storage",
+    "microSD up to 512 GB"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Power",
+    "12 VDC 3.33 A or PoE+ (802.3at)"
+   ],
+   [
+    "Protection rating",
+    "IP67, 6000 V TVS lightning protection"
+   ],
+   [
+    "Operating temperature",
+    "-30 to 65 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000159413/outline_leftside45view/%E7%BA%A2%E5%A4%96%E7%90%8320-%E5%B7%A6%E4%BE%A7-%E9%9D%9E4G%E5%9E%8B%E5%8F%B7.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/normal/all/image/m000159413/outline_rightside45view/%E7%BA%A2%E5%A4%96%E7%90%8320-%E5%8F%B3%E4%BE%A7-%E9%9D%9E4G%E5%9E%8B%E5%8F%B7.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/sg/products/IP-Products/PTZ-Cameras/Pro-Series/ds-2se4c415mwg-e-14/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7104ni-q1-4p-m-4-ch-mini-1u-4-poe-nvr": {
+  "summary": "A compact 4 channel network video recorder with 4 built-in PoE ports, so each IP camera gets power and data over a single network cable. It records cameras up to 6 MP with H.265+ compression to save disk space, and shows live video on a TV or monitor through HDMI or VGA. A simple, affordable choice for homes and small shops.",
+  "highlights": [
+   "4 IP camera inputs, up to 6 MP each",
+   "4 PoE ports (802.3af/at)",
+   "H.265+ compression for longer recording",
+   "HDMI and VGA output at 1080p",
+   "1 SATA bay, up to 6 TB",
+   "Remote viewing over the network"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "4 channels, up to 6 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "40 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "60 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI and 1 VGA, up to 1920 x 1080"
+   ],
+   [
+    "Decoding",
+    "H.265+, H.265, H.264+, H.264; 4-ch 1080p, 2-ch 4 MP or 1-ch 6 MP"
+   ],
+   [
+    "Playback",
+    "4 channels at once"
+   ],
+   [
+    "PoE",
+    "4 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 36 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Storage",
+    "1 SATA bay, up to 6 TB"
+   ],
+   [
+    "USB",
+    "2 x USB 2.0 (rear)"
+   ],
+   [
+    "Power supply",
+    "48 VDC, 1 A"
+   ],
+   [
+    "Dimensions",
+    "265 x 223 x 48 mm"
+   ],
+   [
+    "Weight",
+    "1 kg or less"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000000616/MB-0191HNN-H10-260A0-U0L1-A0-F-HIKVISION.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Value-Series/ds-7104ni-q1-4p-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7104ni-s1-w-4-ch-mini-wi-fi-nvs": {
+  "summary": "A small 4 channel Wi-Fi recorder (NVS) that creates its own wireless hotspot, so Hikvision Wi-Fi cameras can be added with one click. It records to a microSD card instead of a hard drive, which keeps it compact and silent. Setup and viewing are done through the Hik-Connect app.",
+  "highlights": [
+   "4 IP camera inputs",
+   "Built-in 2.4 GHz Wi-Fi hotspot, up to 150 Mbps",
+   "Records to microSD up to 512 GB",
+   "Set up and view with the Hik-Connect app",
+   "Low power, 6 W or less",
+   "Small 163 x 125 x 26 mm body"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "4 channels"
+   ],
+   [
+    "Recording resolution",
+    "Up to 6 MP"
+   ],
+   [
+    "Bandwidth",
+    "20 Mbps in, 20 Mbps out"
+   ],
+   [
+    "Wireless",
+    "2.4 GHz, high gain antennas, up to 150 Mbps"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Storage",
+    "microSD card, 32 GB to 512 GB"
+   ],
+   [
+    "Power supply",
+    "12 VDC, 1 A"
+   ],
+   [
+    "Power use",
+    "6 W or less"
+   ],
+   [
+    "Dimensions",
+    "163 x 125 x 26 mm"
+   ],
+   [
+    "Weight",
+    "500 g or less"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/public/all/image/m000121440/DS-7102NI-S1_W-B.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000121440/DS-7102NI-S1_W-F.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000121440/DS-7102NI-S1_W-FP-HIKVISION.png.thumb.1280.1280.png",
+   "https://assets.hikvision.com/prd/public/all/image/m000121440/DS-7102NI-S1_W-LP-HIKVISION.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Special-Series/ds-7104ni-s1-w/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7108ni-q1-8p-m-8-ch-mini-1u-8-poe-nvr": {
+  "summary": "A compact 8 channel network video recorder with 8 built-in PoE ports, so each IP camera gets power and data over a single network cable. It records cameras up to 6 MP with H.265+ compression to save disk space, and shows live video on a TV or monitor through HDMI or VGA. A simple, affordable choice for homes and small shops.",
+  "highlights": [
+   "8 IP camera inputs, up to 6 MP each",
+   "8 PoE ports (802.3af/at)",
+   "H.265+ compression for longer recording",
+   "HDMI and VGA output at 1080p",
+   "1 SATA bay, up to 6 TB",
+   "Remote viewing over the network"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "8 channels, up to 6 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "60 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "60 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI and 1 VGA, up to 1920 x 1080"
+   ],
+   [
+    "Decoding",
+    "H.265+, H.265, H.264+, H.264; 4-ch 1080p, 2-ch 4 MP or 1-ch 6 MP"
+   ],
+   [
+    "Playback",
+    "4 channels at once"
+   ],
+   [
+    "PoE",
+    "8 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 75 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100 Mbps"
+   ],
+   [
+    "Storage",
+    "1 SATA bay, up to 6 TB"
+   ],
+   [
+    "USB",
+    "2 x USB 2.0 (rear)"
+   ],
+   [
+    "Power supply",
+    "48 VDC, 1.8 A"
+   ],
+   [
+    "Dimensions",
+    "265 x 223 x 48 mm"
+   ],
+   [
+    "Weight",
+    "1 kg or less"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000000620/MB-0191HNN-H10-260A0-U0L1-A0-F-HIKVISION.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Value-Series/ds-7108ni-q1-8p-m/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7604nxi-k1-4p-4-ch-poe-1u-k-series-acusense-4k-nvr": {
+  "summary": "A 4 channel 1U AcuSense NVR from Hikvision's K series with 4 built-in PoE ports. It records IP cameras up to 12 MP and uses deep learning to narrow alarms down to real people and vehicles. A 4K HDMI output gives a sharp live view, and H.265+ keeps storage needs low. Suited to homes, shops and offices that want reliable, smart recording.",
+  "highlights": [
+   "4 IP camera inputs, up to 12 MP",
+   "4 PoE ports, plug and play",
+   "AcuSense human and vehicle detection to cut false alarms",
+   "4K HDMI output plus VGA",
+   "1 SATA bay, up to 10 TB each",
+   "H.265+ compression"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "4 channels, up to 12 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "40 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "80 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI up to 4K (3840 x 2160), 1 VGA up to 1080p"
+   ],
+   [
+    "Decoding",
+    "1-ch 12 MP, 2-ch 8 MP, 5-ch 4 MP or 10-ch 1080p (AI off)"
+   ],
+   [
+    "AI functions",
+    "Human and vehicle detection, perimeter protection, motion detection 2.0, facial recognition"
+   ],
+   [
+    "PoE",
+    "4 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 50 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Storage",
+    "1 SATA bay, up to 10 TB per disk"
+   ],
+   [
+    "USB",
+    "1 front, 1 rear USB 2.0"
+   ],
+   [
+    "Alarm in/out",
+    "4/1 on some versions"
+   ],
+   [
+    "Power supply",
+    "48 VDC, 1.35 A"
+   ],
+   [
+    "Dimensions",
+    "320 x 240 x 48 mm"
+   ],
+   [
+    "Weight",
+    "1 kg or less (without HDD)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7604nxi-k1-4p/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7608nxi-k1-8p-8-ch-poe-1u-k-series-acusense-4k-nvr": {
+  "summary": "A 8 channel 1U AcuSense NVR from Hikvision's K series with 8 built-in PoE ports. It records IP cameras up to 12 MP and uses deep learning to narrow alarms down to real people and vehicles. A 4K HDMI output gives a sharp live view, and H.265+ keeps storage needs low. Suited to homes, shops and offices that want reliable, smart recording.",
+  "highlights": [
+   "8 IP camera inputs, up to 12 MP",
+   "8 PoE ports, plug and play",
+   "AcuSense human and vehicle detection to cut false alarms",
+   "4K HDMI output plus VGA",
+   "1 SATA bay, up to 10 TB each",
+   "H.265+ compression"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "8 channels, up to 12 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "80 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "80 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI up to 4K (3840 x 2160), 1 VGA up to 1080p"
+   ],
+   [
+    "Decoding",
+    "1-ch 12 MP, 2-ch 8 MP, 4-ch 4 MP or 8-ch 1080p (AI off)"
+   ],
+   [
+    "AI functions",
+    "Human and vehicle detection, perimeter protection, motion detection 2.0, facial recognition"
+   ],
+   [
+    "PoE",
+    "8 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 75 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Storage",
+    "1 SATA bay, up to 10 TB per disk"
+   ],
+   [
+    "USB",
+    "1 front, 1 rear USB 2.0"
+   ],
+   [
+    "Alarm in/out",
+    "4/1 on some versions"
+   ],
+   [
+    "Power supply",
+    "48 VDC, 1.875 A"
+   ],
+   [
+    "Dimensions",
+    "320 x 240 x 48 mm"
+   ],
+   [
+    "Weight",
+    "1 kg or less (without HDD)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608nxi-k1-8p/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7616ni-q2-16p-16-ch-1u-16-poe-4k-nvr": {
+  "summary": "A 16 channel 1U network video recorder with 16 built-in PoE ports, so every camera runs on one cable for power and video. It records IP cameras up to 8 MP, outputs 4K over HDMI and holds two hard drives for longer storage. A solid choice for medium sized homes, shops and offices.",
+  "highlights": [
+   "16 IP camera inputs, up to 8 MP",
+   "16 PoE ports (802.3af/at)",
+   "4K HDMI output plus VGA",
+   "2 SATA bays, up to 8 TB each",
+   "H.265+ compression",
+   "Human and vehicle analysis on 4 channels"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "16 channels, up to 8 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "160 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "80 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI up to 4K, 1 VGA up to 1080p"
+   ],
+   [
+    "Decoding",
+    "1-ch 8 MP or 5-ch 1080p"
+   ],
+   [
+    "Playback",
+    "16 channels at once"
+   ],
+   [
+    "PoE",
+    "16 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 150 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Storage",
+    "2 SATA bays, up to 8 TB per disk"
+   ],
+   [
+    "USB",
+    "2 x USB 2.0"
+   ],
+   [
+    "Power supply",
+    "100 to 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Dimensions",
+    "385 x 315 x 52 mm (1U)"
+   ],
+   [
+    "Weight",
+    "2.6 kg or less"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 55 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616ni-q2-16p/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7616nxi-k2-16p-d-16-ch-poe-1u-k-series-acusense-4k-nvr": {
+  "summary": "A 16 channel 1U AcuSense NVR from Hikvision's K series with 16 built-in PoE ports. It records IP cameras up to 12 MP and uses deep learning to narrow alarms down to real people and vehicles. A 4K HDMI output gives a sharp live view, and H.265+ keeps storage needs low. Suited to homes, shops and offices that want reliable, smart recording.",
+  "highlights": [
+   "16 IP camera inputs, up to 12 MP",
+   "16 PoE ports, plug and play",
+   "AcuSense human and vehicle detection to cut false alarms",
+   "4K HDMI output plus VGA",
+   "2 SATA bays, up to 16 TB each",
+   "H.265+ compression"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "16 channels, up to 12 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "160 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "160 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI up to 4K (3840 x 2160), 1 VGA up to 1080p"
+   ],
+   [
+    "Decoding",
+    "2-ch 12 MP, 4-ch 8 MP, 8-ch 4 MP or 16-ch 1080p (AI off)"
+   ],
+   [
+    "AI functions",
+    "Human and vehicle detection, perimeter protection, motion detection 2.0, facial recognition"
+   ],
+   [
+    "PoE",
+    "16 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 200 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Storage",
+    "2 SATA bays, up to 16 TB per disk"
+   ],
+   [
+    "USB",
+    "1 front, 1 rear USB 2.0"
+   ],
+   [
+    "Alarm in/out",
+    "4/1"
+   ],
+   [
+    "Power supply",
+    "100 to 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Dimensions",
+    "385 x 315 x 52 mm"
+   ],
+   [
+    "Weight",
+    "3 kg or less (without HDD)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616nxi-k2-16p-d-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7632nxi-k2-16p-d-32-ch-poe-1u-k-series-acusense-4k-nvr": {
+  "summary": "A 32 channel 1U AcuSense NVR from Hikvision's K series with 16 built-in PoE ports. It records IP cameras up to 12 MP and uses deep learning to narrow alarms down to real people and vehicles. A 4K HDMI output gives a sharp live view, and H.265+ keeps storage needs low. Suited to homes, shops and offices that want reliable, smart recording.",
+  "highlights": [
+   "32 IP camera inputs, up to 12 MP",
+   "16 PoE ports, plug and play",
+   "AcuSense human and vehicle detection to cut false alarms",
+   "4K HDMI output plus VGA",
+   "2 SATA bays, up to 16 TB each",
+   "H.265+ compression"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "32 channels, up to 12 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "256 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "160 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI up to 4K (3840 x 2160), 1 VGA up to 1080p"
+   ],
+   [
+    "Decoding",
+    "2-ch 12 MP, 4-ch 8 MP, 8-ch 4 MP or 16-ch 1080p (AI off)"
+   ],
+   [
+    "AI functions",
+    "Human and vehicle detection, perimeter protection, motion detection 2.0, facial recognition"
+   ],
+   [
+    "PoE",
+    "16 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 200 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Storage",
+    "2 SATA bays, up to 16 TB per disk"
+   ],
+   [
+    "USB",
+    "1 front, 1 rear USB 2.0"
+   ],
+   [
+    "Alarm in/out",
+    "4/1"
+   ],
+   [
+    "Power supply",
+    "100 to 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Dimensions",
+    "385 x 315 x 52 mm"
+   ],
+   [
+    "Weight",
+    "3 kg or less (without HDD)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7632nxi-k2-16p-d-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7732nxi-k4-16p-d-32-ch-poe-1-5u-k-series-acusense-4k-nvr": {
+  "summary": "A 32 channel 1.5U AcuSense NVR from Hikvision's K series with 16 built-in PoE ports. It records IP cameras up to 12 MP and uses deep learning to narrow alarms down to real people and vehicles. A 4K HDMI output gives a sharp live view, and H.265+ keeps storage needs low. Suited to homes, shops and offices that want reliable, smart recording.",
+  "highlights": [
+   "32 IP camera inputs, up to 12 MP",
+   "16 PoE ports, plug and play",
+   "AcuSense human and vehicle detection to cut false alarms",
+   "4K HDMI output plus VGA",
+   "4 SATA bays, up to 16 TB each",
+   "H.265+ compression"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "32 channels, up to 12 MP"
+   ],
+   [
+    "Incoming bandwidth",
+    "256 Mbps"
+   ],
+   [
+    "Outgoing bandwidth",
+    "160 Mbps"
+   ],
+   [
+    "Video output",
+    "1 HDMI up to 4K (3840 x 2160), 1 VGA up to 1080p"
+   ],
+   [
+    "Decoding",
+    "2-ch 12 MP, 4-ch 8 MP, 8-ch 4 MP or 16-ch 1080p (AI off)"
+   ],
+   [
+    "AI functions",
+    "Human and vehicle detection, perimeter protection, motion detection 2.0, facial recognition"
+   ],
+   [
+    "PoE",
+    "16 RJ45 10/100 Mbps ports, IEEE 802.3af/at, 200 W or less total"
+   ],
+   [
+    "Network",
+    "1 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Storage",
+    "4 SATA bays, up to 16 TB per disk"
+   ],
+   [
+    "USB",
+    "2 front USB 2.0, 1 rear USB 3.0"
+   ],
+   [
+    "Alarm in/out",
+    "16 in, 4 out"
+   ],
+   [
+    "Serial",
+    "2 RS-485, 1 RS-232"
+   ],
+   [
+    "Power supply",
+    "100 to 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Dimensions",
+    "445 x 400 x 75 mm"
+   ],
+   [
+    "Weight",
+    "5 kg or less (without HDD)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7732nxi-k4-16p-d-/",
+  "confidence": "high"
+ },
+ "hikvision-ds-7764ni-m4-64-ch-1-5u-8k-nvr": {
+  "summary": "A high capacity 64 channel recorder for large sites such as hotels, schools, factories and campuses. It accepts IP cameras up to 32 MP, outputs 8K on its main HDMI port and holds four hard drives plus an eSATA port for extra storage. Two Gigabit network ports and alarm terminals make it ready for professional systems.",
+  "highlights": [
+   "64 IP camera inputs, up to 32 MP",
+   "400 Mbps incoming and outgoing bandwidth",
+   "8K HDMI output plus a second 4K HDMI and VGA",
+   "4 SATA bays up to 20 TB each, plus eSATA",
+   "2 Gigabit network ports",
+   "16 alarm inputs, 9 outputs"
+  ],
+  "specs": [
+   [
+    "IP video input",
+    "64 channels, up to 32 MP"
+   ],
+   [
+    "Bandwidth",
+    "400 Mbps in, 400 Mbps out"
+   ],
+   [
+    "Video output",
+    "HDMI 1 up to 8K, HDMI 2 up to 4K, 1 VGA, 1 CVBS"
+   ],
+   [
+    "Decoding",
+    "Up to 2-ch 32 MP, 10-ch 8 MP, 20-ch 4 MP or 40-ch 1080p"
+   ],
+   [
+    "Playback",
+    "16 channels at once"
+   ],
+   [
+    "Compression",
+    "H.265+, H.265, H.264+, H.264"
+   ],
+   [
+    "Network",
+    "2 RJ45 10/100/1000 Mbps"
+   ],
+   [
+    "Storage",
+    "4 SATA bays up to 20 TB per disk, 1 eSATA"
+   ],
+   [
+    "Interfaces",
+    "2 RS-485, 1 RS-232, 2 front USB 2.0, 1 rear USB 3.0"
+   ],
+   [
+    "Alarm in/out",
+    "16/9"
+   ],
+   [
+    "Power supply",
+    "100 to 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Chassis",
+    "19 inch rack mount, 1.5U"
+   ],
+   [
+    "Dimensions",
+    "445 x 400 x 75 mm"
+   ],
+   [
+    "Weight",
+    "5 kg or less (without HDD)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Ultra-Series/ds-7764ni-m4/",
+  "confidence": "high"
+ },
+ "hikvision-ds-j142i-7204hghi-m1-plus-2-plus-2cam-colorvu-4-ch-h-264-1-mp-bullet-and-turret": {
+  "summary": "A ready to install 4 camera CCTV kit built around a Hikvision DS-7204HGHI-M1 Turbo HD DVR, with 2 bullet and 2 dome ColorVu cameras that show colour at night. Each camera comes with a 20 m cable, so a typical home, shop or small office can be covered without buying extra parts. The DVR uses Motion Detection 2.0 to alert on people and vehicles, and you can watch live or recorded video on a TV or in the Hik-Connect app.",
+  "highlights": [
+   "4 cameras: 2 bullet and 2 dome",
+   "ColorVu: colour images at night",
+   "4 channel Hikvision DS-7204HGHI-M1 DVR with H.265 Pro+",
+   "Human and vehicle detection on the DVR to cut false alarms",
+   "4 cables of 20 m each",
+   "HDMI and VGA output for a TV or monitor"
+  ],
+  "specs": [
+   [
+    "Kit contents",
+    "2 bullet cameras, 2 dome cameras, 1 4 channel DVR, 4 x 20 m cables, power supply"
+   ],
+   [
+    "Night vision",
+    "ColorVu (colour at night)"
+   ],
+   [
+    "Recorder",
+    "Hikvision DS-7204HGHI-M1 Turbo HD DVR"
+   ],
+   [
+    "Recorder inputs",
+    "4 analogue (TVI, AHD, CVI, CVBS) plus 1 (up to 5) IP"
+   ],
+   [
+    "Recorder outputs",
+    "1 HDMI and 1 VGA, up to 1080p"
+   ],
+   [
+    "Recorder compression",
+    "H.265 Pro+, H.265 Pro, H.265, H.264+, H.264"
+   ],
+   [
+    "Smart motion",
+    "Motion detection 2.0 with human and vehicle classification on analogue channels"
+   ],
+   [
+    "Recorder storage",
+    "1 SATA bay, up to 4 TB"
+   ],
+   [
+    "Recorder network",
+    "1 RJ45 10/100 Mbps, 2 USB 2.0"
+   ],
+   [
+    "Recorder power",
+    "12 VDC, 1.5 A, 16 W or less without HDD"
+   ],
+   [
+    "Recorder size",
+    "260 x 222 x 45 mm, 0.8 kg or less"
+   ],
+   [
+    "Hard drive",
+    "Not stated; check whether one is included"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7204hghi-m1/",
+  "confidence": "low"
+ },
+ "hikvision-ds-j142i-7204hghi-m1-plus-2-plus-2cam-hybrid-4-ch-h-264-1-mp-bullet-and-turret-k": {
+  "summary": "A ready to install 4 camera CCTV kit built around a Hikvision DS-7204HGHI-M1 Turbo HD DVR, with 2 bullet and 2 dome cameras with infrared night vision. Each camera comes with a 20 m cable, so a typical home, shop or small office can be covered without buying extra parts. The DVR uses Motion Detection 2.0 to alert on people and vehicles, and you can watch live or recorded video on a TV or in the Hik-Connect app.",
+  "highlights": [
+   "4 cameras: 2 bullet and 2 dome",
+   "Infrared night vision",
+   "4 channel Hikvision DS-7204HGHI-M1 DVR with H.265 Pro+",
+   "Human and vehicle detection on the DVR to cut false alarms",
+   "4 cables of 20 m each",
+   "HDMI and VGA output for a TV or monitor"
+  ],
+  "specs": [
+   [
+    "Kit contents",
+    "2 bullet cameras, 2 dome cameras, 1 4 channel DVR, 4 x 20 m cables, power supply"
+   ],
+   [
+    "Night vision",
+    "Infrared (black and white at night)"
+   ],
+   [
+    "Recorder",
+    "Hikvision DS-7204HGHI-M1 Turbo HD DVR"
+   ],
+   [
+    "Recorder inputs",
+    "4 analogue (TVI, AHD, CVI, CVBS) plus 1 (up to 5) IP"
+   ],
+   [
+    "Recorder outputs",
+    "1 HDMI and 1 VGA, up to 1080p"
+   ],
+   [
+    "Recorder compression",
+    "H.265 Pro+, H.265 Pro, H.265, H.264+, H.264"
+   ],
+   [
+    "Smart motion",
+    "Motion detection 2.0 with human and vehicle classification on analogue channels"
+   ],
+   [
+    "Recorder storage",
+    "1 SATA bay, up to 4 TB"
+   ],
+   [
+    "Recorder network",
+    "1 RJ45 10/100 Mbps, 2 USB 2.0"
+   ],
+   [
+    "Recorder power",
+    "12 VDC, 1.5 A, 16 W or less without HDD"
+   ],
+   [
+    "Recorder size",
+    "260 x 222 x 45 mm, 0.8 kg or less"
+   ],
+   [
+    "Hard drive",
+    "Not stated; check whether one is included"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7204hghi-m1/",
+  "confidence": "low"
+ },
+ "hikvision-ds-j142i-7208hghi-m1-plus-4-plus-4cam-colorvu-8-ch-h-264-1-mp-bullet-and-turret": {
+  "summary": "A ready to install 8 camera CCTV kit built around a Hikvision DS-7208HGHI-M1 Turbo HD DVR, with 4 bullet and 4 dome ColorVu cameras that show colour at night. Each camera comes with a 20 m cable, so a typical home, shop or small office can be covered without buying extra parts. The DVR uses Motion Detection 2.0 to alert on people and vehicles, and you can watch live or recorded video on a TV or in the Hik-Connect app.",
+  "highlights": [
+   "8 cameras: 4 bullet and 4 dome",
+   "ColorVu: colour images at night",
+   "8 channel Hikvision DS-7208HGHI-M1 DVR with H.265 Pro+",
+   "Human and vehicle detection on the DVR to cut false alarms",
+   "8 cables of 20 m each",
+   "HDMI and VGA output for a TV or monitor"
+  ],
+  "specs": [
+   [
+    "Kit contents",
+    "4 bullet cameras, 4 dome cameras, 1 8 channel DVR, 8 x 20 m cables, power supply"
+   ],
+   [
+    "Night vision",
+    "ColorVu (colour at night)"
+   ],
+   [
+    "Recorder",
+    "Hikvision DS-7208HGHI-M1 Turbo HD DVR"
+   ],
+   [
+    "Recorder inputs",
+    "8 analogue (TVI, AHD, CVI, CVBS) plus 2 (up to 10) IP"
+   ],
+   [
+    "Recorder outputs",
+    "1 HDMI and 1 VGA, up to 1080p"
+   ],
+   [
+    "Recorder compression",
+    "H.265 Pro+, H.265 Pro, H.265, H.264+, H.264"
+   ],
+   [
+    "Smart motion",
+    "Motion detection 2.0 with human and vehicle classification on analogue channels"
+   ],
+   [
+    "Recorder storage",
+    "1 SATA bay, up to 4 TB"
+   ],
+   [
+    "Recorder network",
+    "1 RJ45 10/100 Mbps, 2 USB 2.0"
+   ],
+   [
+    "Recorder power",
+    "12 VDC, 1.5 A, 17 W or less without HDD"
+   ],
+   [
+    "Recorder size",
+    "260 x 222 x 45 mm, 1 kg or less"
+   ],
+   [
+    "Hard drive",
+    "Not stated; check whether one is included"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7208hghi-m1/",
+  "confidence": "low"
+ },
+ "hikvision-ds-j142i-7208hghi-m1-plus-4-plus-4cam-hybrid-8-ch-h-264-1-mp-bullet-and-turret-k": {
+  "summary": "A ready to install 8 camera CCTV kit built around a Hikvision DS-7208HGHI-M1 Turbo HD DVR, with 4 bullet and 4 dome cameras with infrared night vision. Each camera comes with a 20 m cable, so a typical home, shop or small office can be covered without buying extra parts. The DVR uses Motion Detection 2.0 to alert on people and vehicles, and you can watch live or recorded video on a TV or in the Hik-Connect app.",
+  "highlights": [
+   "8 cameras: 4 bullet and 4 dome",
+   "Infrared night vision",
+   "8 channel Hikvision DS-7208HGHI-M1 DVR with H.265 Pro+",
+   "Human and vehicle detection on the DVR to cut false alarms",
+   "8 cables of 20 m each",
+   "HDMI and VGA output for a TV or monitor"
+  ],
+  "specs": [
+   [
+    "Kit contents",
+    "4 bullet cameras, 4 dome cameras, 1 8 channel DVR, 8 x 20 m cables, power supply"
+   ],
+   [
+    "Night vision",
+    "Infrared (black and white at night)"
+   ],
+   [
+    "Recorder",
+    "Hikvision DS-7208HGHI-M1 Turbo HD DVR"
+   ],
+   [
+    "Recorder inputs",
+    "8 analogue (TVI, AHD, CVI, CVBS) plus 2 (up to 10) IP"
+   ],
+   [
+    "Recorder outputs",
+    "1 HDMI and 1 VGA, up to 1080p"
+   ],
+   [
+    "Recorder compression",
+    "H.265 Pro+, H.265 Pro, H.265, H.264+, H.264"
+   ],
+   [
+    "Smart motion",
+    "Motion detection 2.0 with human and vehicle classification on analogue channels"
+   ],
+   [
+    "Recorder storage",
+    "1 SATA bay, up to 4 TB"
+   ],
+   [
+    "Recorder network",
+    "1 RJ45 10/100 Mbps, 2 USB 2.0"
+   ],
+   [
+    "Recorder power",
+    "12 VDC, 1.5 A, 17 W or less without HDD"
+   ],
+   [
+    "Recorder size",
+    "260 x 222 x 45 mm, 1 kg or less"
+   ],
+   [
+    "Hard drive",
+    "Not stated; check whether one is included"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/Turbo-HD-Products/DVR/Value-Series/ds-7208hghi-m1/",
+  "confidence": "low"
+ },
+ "hikvision-nks424w03h-4mp-h-265-one-bullet-plus-one-ptdome-wifi-nvs-kit": {
+  "summary": "A wireless starter kit with one 4 MP outdoor bullet camera, one 4 MP pan and tilt dome camera and a 4 channel Wi-Fi recorder (NVS). The cameras link to the recorder over Wi-Fi in one step and video is stored on a microSD card in the NVS. It is an easy way to cover a home or small shop without running network cables to each camera.",
+  "highlights": [
+   "1 x 4 MP Wi-Fi bullet and 1 x 4 MP Wi-Fi pan and tilt dome",
+   "4 channel Wi-Fi NVS, room for 2 more cameras",
+   "Cameras pair with the NVS in one step",
+   "Records to microSD up to 512 GB",
+   "Night vision: bullet IR up to 30 m, dome IR and white light up to 25 m",
+   "Human and vehicle detection"
+  ],
+  "specs": [
+   [
+    "Kit contents",
+    "1 bullet camera, 1 PT dome camera, 1 four channel Wi-Fi NVS"
+   ],
+   [
+    "Camera resolution",
+    "4 MP"
+   ],
+   [
+    "Image sensor",
+    "1/2.7 inch progressive scan CMOS"
+   ],
+   [
+    "Lens",
+    "2.8 mm fixed, F1.6, horizontal view 94°"
+   ],
+   [
+    "Dome pan and tilt",
+    "Pan 0 to 345°, tilt 0 to 80°"
+   ],
+   [
+    "Night vision",
+    "Bullet IR up to 30 m; dome IR and white light up to 25 m"
+   ],
+   [
+    "Video compression",
+    "H.265, H.264, MJPEG"
+   ],
+   [
+    "Bullet protection",
+    "IP66"
+   ],
+   [
+    "NVS inputs",
+    "4 IP channels, up to 6 MP recording"
+   ],
+   [
+    "NVS wireless",
+    "2.4 GHz, up to 150 Mbps"
+   ],
+   [
+    "NVS storage",
+    "microSD 32 GB to 512 GB"
+   ],
+   [
+    "Power",
+    "Bullet 12 VDC max. 6 W; dome 12 VDC max. 9 W; NVS 12 VDC max. 6 W"
+   ],
+   [
+    "Operating temperature",
+    "Bullet -30 to 60 °C; dome -10 to 40 °C"
+   ]
+  ],
+  "inBox": [
+   "1 x Wi-Fi bullet camera",
+   "1 x Wi-Fi PT dome camera",
+   "1 x 4 channel Wi-Fi NVS",
+   "2 x camera power adapters",
+   "1 x NVS power adapter",
+   "1 x 1 m Cat5e network cable"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.hikvision.com/sg/products/IP-Products/KIT/Wi-Fi-KIT/nks424w03h/",
+  "confidence": "high"
+ },
+ "hikvision-ds-1lh1scam592c-mini-rg59-coaxial-cable-with-power-cable": {
+  "summary": "A Hikvision mini RG59 coaxial cable with a built-in power pair, so one run carries both video and 12 V power to an analogue (Turbo HD) camera. The video core is solid bare copper with foil and braid shielding at 75 ohm. It comes on a reel in 90 m or 180 m lengths.",
+  "highlights": [
+   "Video and power in one cable",
+   "Solid bare copper 26 AWG video conductor",
+   "75 ohm impedance, foil plus 80% braid shield",
+   "Bare copper power conductors",
+   "Black PVC jacket",
+   "90 m or 180 m reels"
+  ],
+  "specs": [
+   [
+    "Type",
+    "Mini RG59 coaxial with power cable"
+   ],
+   [
+    "Video conductor",
+    "Bare copper, 26 AWG, 0.41 mm"
+   ],
+   [
+    "Insulation",
+    "Foam PE, 2.0 mm"
+   ],
+   [
+    "Shield",
+    "Bonded aluminium foil plus copper clad aluminium magnesium braid, 80% coverage"
+   ],
+   [
+    "Impedance",
+    "75 ohm"
+   ],
+   [
+    "Power conductors",
+    "Bare copper, 11 x 0.16 mm strands, red and black PVC insulation"
+   ],
+   [
+    "Jacket",
+    "Black PVC, at least 0.45 mm"
+   ],
+   [
+    "Overall size",
+    "3.5 x 7.0 mm (90 m) or 3.5 x 7.2 mm (180 m)"
+   ],
+   [
+    "Length",
+    "90 m or 180 m"
+   ],
+   [
+    "Operating temperature",
+    "-15 to 70 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.hikvision.com/prd/normal/all/image/m000001463/2-1.png.thumb.1280.1280.png"
+  ],
+  "spin": [],
+  "source": "https://www.hikvision.com/en/products/premises-distribution-system/cable/coaxial-cables/ds-1lh1scam592c/",
+  "confidence": "high"
  }
 }
