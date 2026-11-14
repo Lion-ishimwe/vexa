@@ -9,7 +9,7 @@ module.exports = {
   // Leave empty until the VEXA mailbox exists; the site hides email links while this is blank.
   email: "",
   location: "Kigali, Rwanda",
-  hours: "Every day, 24 hours",
+  hours: "Every day, 7:30 am to 8:00 pm",
   founder: {
     name: "Lionnel Ishimwe",
     role: "Founder & CEO",
