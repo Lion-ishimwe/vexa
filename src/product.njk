@@ -17,6 +17,8 @@ scripts:
 {% set dept = catalog.categories | findBy("slug", product.category) %}
 {% set photo = product.img or ('/assets/img/cat/' + product.category + '.svg') %}
 {% set sku = catalog.products | sku(product) %}
+{% set info = productInfo[product.slug] or {} %}
+{% set gallery = [photo].concat(info.images or []) if product.img else [photo] %}
 <script type="application/ld+json">{{ product | productLd(sku, dept, site, page.url, photo) | safe }}</script>
 <div class="wrap">
   <nav class="crumbs" aria-label="Breadcrumb">
@@ -27,8 +29,24 @@ scripts:
   </nav>
 
   <div class="pdp">
-    <div class="pdp-media{% if not product.img %} is-placeholder{% endif %}">
-      <img src="{{ photo | imgsrc(900) }}" alt="{{ product.title }}" decoding="async" referrerpolicy="no-referrer" data-original="{{ photo }}" data-fallback="/assets/img/cat/{{ product.category }}.svg">
+    <div class="pdp-gallery" data-gallery>
+      <div class="pdp-media{% if not product.img %} is-placeholder{% endif %}">
+        <img src="{{ photo | imgsrc(900) }}" alt="{{ product.title }}" decoding="async" referrerpolicy="no-referrer" data-original="{{ photo }}" data-fallback="/assets/img/cat/{{ product.category }}.svg" data-gallery-main>
+        {% if info.spin and info.spin.length >= 12 %}
+        <div class="spin" data-spin='{{ info.spin | imgsrcList(900) | dump }}' hidden aria-label="360 degree view, drag to turn">
+          <img alt="{{ product.title }}, 360 degree view" referrerpolicy="no-referrer" draggable="false">
+          <span class="spin-hint">Drag to turn</span>
+        </div>
+        {% endif %}
+      </div>
+      {% if gallery.length > 1 or (info.spin and info.spin.length >= 12) %}
+      <div class="thumbs" role="list">
+        {% for g in gallery %}
+        <button type="button" class="thumb{% if loop.first %} is-on{% endif %}" data-thumb="{{ g | imgsrc(900) }}" data-original="{{ g }}" aria-label="Photo {{ loop.index }}"><img src="{{ g | imgsrc(160) }}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>
+        {% endfor %}
+        {% if info.spin and info.spin.length >= 12 %}<button type="button" class="thumb thumb-360" data-spin-open aria-label="360 degree view">360°</button>{% endif %}
+      </div>
+      {% endif %}
     </div>
 
     <div class="pdp-info">
@@ -51,7 +69,12 @@ scripts:
         {% endif %}
       </div>
 
-      <p class="pdp-desc">{{ product.desc }}</p>
+      <p class="pdp-desc">{{ info.summary or product.desc }}</p>
+      {% if info.highlights and info.highlights.length %}
+      <ul class="bullets pdp-highlights">
+        {% for h in info.highlights %}<li>{{ icon("check", "icon-sm") }}<span>{{ h }}</span></li>{% endfor %}
+      </ul>
+      {% endif %}
       <p class="avail">Available to order</p>
 
       <div class="pdp-buy" data-buy
@@ -76,7 +99,8 @@ scripts:
 
       <div class="tabs" data-tabs>
         <div class="tab-list" role="tablist">
-          <button type="button" role="tab" aria-selected="true" aria-controls="tab-details" id="t-details">Details</button>
+          <button type="button" role="tab" aria-selected="true" aria-controls="tab-details" id="t-details">Specifications</button>
+          {% if info.inBox and info.inBox.length %}<button type="button" role="tab" aria-selected="false" aria-controls="tab-box" id="t-box">In the box</button>{% endif %}
           <button type="button" role="tab" aria-selected="false" aria-controls="tab-delivery" id="t-delivery">Delivery &amp; payment</button>
         </div>
         <div class="tab-panel" role="tabpanel" id="tab-details" aria-labelledby="t-details">
@@ -86,9 +110,17 @@ scripts:
             <tr><th>Department</th><td>{{ dept.name }}</td></tr>
             <tr><th>Section</th><td>{{ product.aisle }}</td></tr>
             <tr><th>SKU</th><td>{{ sku }}</td></tr>
-            <tr><th>Description</th><td>{{ product.desc }}</td></tr>
+            {% for row in info.specs or [] %}<tr><th>{{ row[0] }}</th><td>{{ row[1] }}</td></tr>{% endfor %}
+            {% if not info.specs %}<tr><th>Description</th><td>{{ product.desc }}</td></tr>{% endif %}
           </table>
         </div>
+        {% if info.inBox and info.inBox.length %}
+        <div class="tab-panel" role="tabpanel" id="tab-box" aria-labelledby="t-box" hidden>
+          <ul class="bullets">
+            {% for b in info.inBox %}<li>{{ icon("check", "icon-sm") }}<span>{{ b }}</span></li>{% endfor %}
+          </ul>
+        </div>
+        {% endif %}
         <div class="tab-panel" role="tabpanel" id="tab-delivery" aria-labelledby="t-delivery" hidden>
           <ul class="bullets">
             <li>{{ icon("check", "icon-sm") }}<span>Order online, and we call or WhatsApp you to confirm stock, the delivery fee and a time.</span></li>

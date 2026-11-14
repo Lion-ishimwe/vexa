@@ -8,10 +8,12 @@ module.exports = function(eleventyConfig) {
   // Hikvision refuses non-browser fetches and its photos are already small, so they stay direct links.
   const onNetlify = Boolean(process.env.NETLIFY);
   const directHosts = /^https?:\/\/assets\.hikvision\.com\//;
-  eleventyConfig.addFilter("imgsrc", (url, width) => {
+  const imgsrc = (url, width) => {
     if (!url || !/^https?:\/\//.test(url) || !onNetlify || directHosts.test(url)) return url;
     return `/.netlify/images?url=${encodeURIComponent(url)}&w=${width || 600}&q=78`;
-  });
+  };
+  eleventyConfig.addFilter("imgsrc", imgsrc);
+  eleventyConfig.addFilter("imgsrcList", (urls, width) => (urls || []).map((u) => imgsrc(u, width)));
 
   // 1250000 -> "RWF 1,250,000"; missing prices read as a quote request
   eleventyConfig.addFilter("rwf", (amount) => {
