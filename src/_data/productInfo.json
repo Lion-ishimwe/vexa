@@ -5429,5 +5429,5741 @@
   "spin": [],
   "source": "https://www.kstar.com/product/detail/157.html",
   "confidence": "medium"
+ },
+ "legrand-adaptor-2p-plus-e-schuko-to-french-plug": {
+  "summary": "A Legrand travel adaptor that lets a German or European Schuko (type F) plug go into a French (type E) socket. It is rated 16 A at 250 V (up to 3,680 W at 230 V) and has safety shutters on the outlet side.",
+  "highlights": [
+   "Schuko (type F) plug to French (type E) socket",
+   "16 A, 250 V, up to 3,680 W at 230 V",
+   "Safety shutters",
+   "Compact, halogen free, white"
+  ],
+  "specs": [
+   [
+    "Input",
+    "Accepts German Schuko 2P+E plug (CEE 7/4, type F)"
+   ],
+   [
+    "Output plug",
+    "French 2P+E with earth pin (type E)"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V"
+   ],
+   [
+    "Safety",
+    "Shutters"
+   ],
+   [
+    "Dimensions",
+    "49.5 x 49.5 x 67.5 mm"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 40 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/german-to-french-standard-adapter-german-to-french-2pe-plug-adapter-16a-250v-safety-shutters-white-050382",
+  "confidence": "high"
+ },
+ "legrand-adaptor": {
+  "summary": "A Legrand plug adaptor, reference 050387. Legrand's catalogue page for this reference does not yet list its plug standards or ratings, so please check the photo or contact us to confirm it suits your plugs and sockets.",
+  "highlights": [
+   "Genuine Legrand adaptor",
+   "Single adaptor"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "050387"
+   ],
+   [
+    "Type",
+    "Plug adaptor, single"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/technical-completeness-too-low-for-content-generation-050387",
+  "confidence": "low"
+ },
+ "legrand-1-gang-bs-13a-socket-grey-surface": {
+  "summary": "A Plexo weatherproof British Standard 13 A socket in grey, for surface mounting in wet or exposed places such as garages, outdoor walls and plant rooms. It is rated IP55 and IK08, with a hinged lid and enhanced contact protection.",
+  "highlights": [
+   "BS 13 A 2P+E outlet, 250 V",
+   "IP55 weather protection, IK08 impact resistance",
+   "Hinged lid",
+   "Surface mounted, takes 16 to 25 mm conduit",
+   "Screw terminals, 2.5 to 4 mm²"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Plexo (weatherproof)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Protection",
+    "IP55, IK08"
+   ],
+   [
+    "Lid",
+    "Hinged"
+   ],
+   [
+    "Mounting",
+    "Surface mounted, screw fixing"
+   ],
+   [
+    "Dimensions",
+    "82 x 85 x 63.55 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 2.5 to 4 mm²"
+   ],
+   [
+    "Conduit",
+    "16 to 25 mm"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "Grey (similar to RAL 7046), matt"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 40 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-069732L-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/plexo-british-standard-13a-socket-outlet-grey-ip55-ik08-surface-mounted-thermoplastic-hinged-lid-with-enhanced-protection-069732l",
+  "confidence": "high"
+ },
+ "legrand-2p-plus-e-link-fb-red-surface": {
+  "summary": "A Legrand French standard 2P+E socket module (round face with earth pin) in red. Red outlets are often used to mark a dedicated or protected circuit, such as one fed by a UPS. It is a 2 module mechanism for Legrand modular frames or trunking supports.",
+  "highlights": [
+   "French standard 2P+E outlet with earth pin",
+   "Red, for dedicated circuits",
+   "2 module modular mechanism"
+  ],
+  "specs": [
+   [
+    "Reference",
+    "077118L"
+   ],
+   [
+    "Socket type",
+    "French standard 2P+E (earth pin)"
+   ],
+   [
+    "Colour",
+    "Red"
+   ],
+   [
+    "Format",
+    "2 module modular mechanism"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/07/LG-077118L-WEB-R.jpg",
+  "confidence": "low"
+ },
+ "legrand-1-gang-1-way-16ax-switch-black": {
+  "summary": "A Mallia Senses 1 gang 1 way switch in matt black, rated 16AX at 250 V. Use it to control one light from one place. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt black plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-281000MB-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-1-way-switch-16ax-matt-black-281000mb",
+  "confidence": "high"
+ },
+ "legrand-1-gang-1-way-16ax-switch-white": {
+  "summary": "A Mallia Senses 1 gang 1 way switch in matt white, rated 16AX at 250 V. Use it to control one light from one place. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-281000MW-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-1-way-switch-16ax-matt-white-281000mw",
+  "confidence": "high"
+ },
+ "legrand-1-gang-2-way-16ax-switch-black": {
+  "summary": "A Mallia Senses 1 gang 2 way switch in matt black, rated 16AX at 250 V. Use it to control one light from two places, for example at both ends of a corridor. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt black plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 2 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-2-way-switch-16ax-matt-black-281001mb",
+  "confidence": "high"
+ },
+ "legrand-1-gang-2-way-16ax-switch-white": {
+  "summary": "A Mallia Senses 1 gang 2 way switch in matt white, rated 16AX at 250 V. Use it to control one light from two places, for example at both ends of a corridor. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 2 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-2-way-switch-16ax-matt-white-281001mw",
+  "confidence": "high"
+ },
+ "legrand-2-gang-1-way-16ax-switch-black": {
+  "summary": "A Mallia Senses 2 gang 1 way switch in matt black, rated 16AX at 250 V. Use it to control two separate lights from one plate. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt black plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "2 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "2"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-2-gang-1-way-switch-16ax-matt-black-281002mb",
+  "confidence": "high"
+ },
+ "legrand-2-gang-1-way-16ax-switch-white": {
+  "summary": "A Mallia Senses 2 gang 1 way switch in matt white, rated 16AX at 250 V. Use it to control two separate lights from one plate. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "2 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "2"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-2-gang-1-way-switch-16ax-matt-white-281002mw",
+  "confidence": "high"
+ },
+ "legrand-2-gang-2-way-16ax-switch-white": {
+  "summary": "A Mallia Senses 2 gang 2 way switch in matt white, rated 16AX at 250 V. Use it to control two lights, each from two places when paired with other 2 way switches. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "2 gang, 2 way"
+   ],
+   [
+    "Number of rockers",
+    "2"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-2-gang-2-way-switch-16ax-matt-white-281003mw",
+  "confidence": "high"
+ },
+ "legrand-3-gang-1-way-16ax-switch-black": {
+  "summary": "A Mallia Senses 3 gang 1 way switch in matt black, rated 16AX at 250 V. Use it to control three separate lights from one plate. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt black plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "3 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "3"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-3-gang-1-way-switch-16ax-matt-black-281004mb",
+  "confidence": "high"
+ },
+ "legrand-3-gang-1-way-16ax-switch-white": {
+  "summary": "A Mallia Senses 3 gang 1 way switch in matt white, rated 16AX at 250 V. Use it to control three separate lights from one plate. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "3 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "3"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-3-gang-1-way-switch-16ax-matt-white-281004mw",
+  "confidence": "high"
+ },
+ "legrand-3-gang-2-way-16ax-switch-white": {
+  "summary": "A Mallia Senses 3 gang 2 way switch in matt white, rated 16AX at 250 V. Use it to control three lights, each from two places when paired with other 2 way switches. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "3 gang, 2 way"
+   ],
+   [
+    "Number of rockers",
+    "3"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-3-gang-2-way-switch-16ax-matt-white-281005mw",
+  "confidence": "high"
+ },
+ "legrand-4-gang-1-way-16ax-switch-white": {
+  "summary": "A Mallia Senses 4 gang 1 way switch in matt white, rated 16AX at 250 V. Use it to control four separate lights from one plate. The slim plate and soft, positive rocker action give a modern look, and the switch is supplied complete with plate and rocker under one reference.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "4 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "4"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.8 mm"
+   ],
+   [
+    "Built-in depth",
+    "24.9 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-4-gang-1-way-switch-16ax-matt-white-281006mw",
+  "confidence": "high"
+ },
+ "legrand-1-gang-16ax-intermediate-switch-white": {
+  "summary": "A Mallia Senses intermediate switch in matt white, rated 16AX at 250 V. It sits between two 2 way switches so the same light can be controlled from a third point, handy for long corridors and stairwells. It comes as a complete unit with plate and rocker under one reference, ready to fit in a standard 86 x 86 mm flush box.",
+  "highlights": [
+   "16AX, 250 V rating suitable for lighting circuits",
+   "Sold complete: plate, rocker and mechanism under one reference",
+   "Screw terminals with clear markings for easy wiring",
+   "Plate and rocker simply clip on during installation",
+   "Thin matt white plate for a modern finish"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Function",
+    "Intermediate switch"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "35.7 mm"
+   ],
+   [
+    "Built-in depth",
+    "23.8 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-intermediate-switch-16ax-matt-white-281008mw",
+  "confidence": "high"
+ },
+ "legrand-1-gang-bs-13a-single-pole-switched-socket-white": {
+  "summary": "A Mallia Senses single British Standard 13 A switched socket in matt white. The single pole switch lets you cut power to the appliance without unplugging, and built-in safety shutters help protect children. It is sold complete with plate and comes with a protective shell that keeps paint and dust out while the room is being finished.",
+  "highlights": [
+   "BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Single pole on/off switch",
+   "Safety shutters for child protection",
+   "Protective shell against paint and dust during building work",
+   "Marked screw terminals, 1 to 4 mm²"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E (BS 1363)"
+   ],
+   [
+    "Outlets",
+    "1, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "33.7 mm (24.2 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-281111MW-WEB-F.jpg",
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-281111-WEB-B.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-bs-switched-socket-outlet-single-pole-13a-matt-white-281111mw",
+  "confidence": "high"
+ },
+ "legrand-1-gang-multistandard-switched-socket-black": {
+  "summary": "A Mallia Senses single multistandard switched socket in matt black. It accepts plugs to Euro, US, Indian, Chinese and British patterns, which makes it a practical choice for homes, offices and guest rooms where people bring devices from different countries. Safety shutters and a built-in on/off switch add peace of mind.",
+  "highlights": [
+   "Multistandard 2P+E outlet, 16 A, 250 V",
+   "Takes Euro, US, Indian, Chinese and British plugs",
+   "Integrated on/off switch",
+   "Safety shutters for child protection",
+   "Supplied with a paint and dust protective shell"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "1, switched"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "33.4 mm (23.7 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-multistandard-switched-socket-outlet-matt-black-281120mb",
+  "confidence": "high"
+ },
+ "legrand-1-gang-multistandard-switched-socket-white": {
+  "summary": "A Mallia Senses single multistandard switched socket in matt white. It accepts plugs to Euro, US, Indian, Chinese and British patterns, which makes it a practical choice for homes, offices and guest rooms where people bring devices from different countries. Safety shutters and a built-in on/off switch add peace of mind.",
+  "highlights": [
+   "Multistandard 2P+E outlet, 16 A, 250 V",
+   "Takes Euro, US, Indian, Chinese and British plugs",
+   "Integrated on/off switch",
+   "Safety shutters for child protection",
+   "Supplied with a paint and dust protective shell"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Mallia Senses (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "1, switched"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "33.4 mm (23.7 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mallia-senses-1-gang-multistandard-switched-socket-outlet-matt-white-281120mw",
+  "confidence": "high"
+ },
+ "legrand-1-gang-1-way-16a-switch-with-sb": {
+  "summary": "A Legrand Galion 1 gang 1 way switch in glossy white, rated 16AX at 250 V, for switching one light from one place. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rocker",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-1-way-switch-16ax-white-282400",
+  "confidence": "high"
+ },
+ "legrand-matt-black-1-gang-1-way-16ax-switch": {
+  "summary": "A Legrand Galion 1 gang 1 way switch in matt black, lacquered, rated 16AX at 250 V, for switching one light from one place. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rocker",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-1-way-switch-16ax-matt-black-282400",
+  "confidence": "high"
+ },
+ "legrand-dark-silver-1-gang-1-way-16a-switch": {
+  "summary": "A Legrand Galion 1 gang 1 way switch in dark silver, matt lacquered, rated 16AX at 250 V, for switching one light from one place. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rocker",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Dark silver, matt lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/28/LG-282400-C3-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-1-way-switch-16ax-dark-silver-282400-c3",
+  "confidence": "high"
+ },
+ "legrand-1-gang-2-way-16a-switch-with-sb": {
+  "summary": "A Legrand Galion 1 gang 2 way switch in glossy white, rated 16AX at 250 V, for switching one light from two places together with another 2 way switch. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rocker",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 2 way"
+   ],
+   [
+    "Number of rockers",
+    "1"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-2-way-switch-16ax-white-282401",
+  "confidence": "high"
+ },
+ "legrand-2-gang-1-way-16a-switch-with-sb": {
+  "summary": "A Legrand Galion 2 gang 1 way switch in glossy white, rated 16AX at 250 V, for switching two separate lights from a plate the same size as a single switch. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rockers",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "2 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "2"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-1-way-switch-16ax-white-282402",
+  "confidence": "high"
+ },
+ "legrand-matt-black-2-gang-1-way-16ax-switch": {
+  "summary": "A Legrand Galion 2 gang 1 way switch in matt black, lacquered, rated 16AX at 250 V, for switching two separate lights from a plate the same size as a single switch. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rockers",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "2 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "2"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-1-way-switch-16ax-matt-black-282402",
+  "confidence": "high"
+ },
+ "legrand-dark-silver-2-gang-1-way-16a-switch": {
+  "summary": "A Legrand Galion 2 gang 1 way switch in dark silver, matt lacquered, rated 16AX at 250 V, for switching two separate lights from a plate the same size as a single switch. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rockers",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "2 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "2"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Dark silver, matt lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-1-way-switch-16ax-dark-silver-282402-c3",
+  "confidence": "high"
+ },
+ "legrand-white-3-gang-1-way-16a-switch": {
+  "summary": "A Legrand Galion 3 gang 1 way switch in glossy white, rated 16AX at 250 V, for switching three separate lights from a plate the same size as a single switch. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rockers",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "3 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "3"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-3-gangs-1-way-switch-16ax-white-282404",
+  "confidence": "high"
+ },
+ "legrand-matt-black-3-gang-1-way-16ax-switch": {
+  "summary": "A Legrand Galion 3 gang 1 way switch in matt black, lacquered, rated 16AX at 250 V, for switching three separate lights from a plate the same size as a single switch. It comes complete and ready to install, with a full plate rocker, marked screw terminals and a strip length guide that helps electricians wire it quickly and neatly.",
+  "highlights": [
+   "16AX, 250 V rating for lighting circuits",
+   "Full plate rockers",
+   "Sold complete under one reference, ready to install",
+   "Marked screw terminals with strip length indicator",
+   "Rigid honeycomb support frame"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "3 gang, 1 way"
+   ],
+   [
+    "Number of rockers",
+    "3"
+   ],
+   [
+    "Rated current",
+    "16 A (16AX)"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-3-gangs-1-way-switch-16ax-matt-black-282404",
+  "confidence": "high"
+ },
+ "legrand-white-1-gang-1-way-20a-double-pole-switch-water-heater": {
+  "summary": "A Galion double pole switch rated 20 A at 250 V, marked WATER HEATER, for switching an immersion heater or geyser. Both live and neutral are broken when it is off, and an LED shows when the circuit is on. It comes complete in glossy white with marked screw terminals, ready to install in a flush box.",
+  "highlights": [
+   "20 A, 250 V double pole switching",
+   "Printed water heater marking on the plate",
+   "LED power indicator",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide",
+   "Sold complete, ready to install"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, double pole switch with water heater marking"
+   ],
+   [
+    "Rated current",
+    "20 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Indicator",
+    "LED power indicator"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/28/LG-282414-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-1-way-double-pole-switch-20a-with-water-heater-marking-and-power-indicator-flush-mounted-ip20-white-250v-ac-282414",
+  "confidence": "high"
+ },
+ "legrand-matt-black-1-gang-1-way-20a-double-pole-switch-water-heater": {
+  "summary": "A Galion double pole switch rated 20 A at 250 V, marked WATER HEATER, for switching an immersion heater or geyser. Both live and neutral are broken when it is off, and an LED shows when the circuit is on. It comes complete in matt black with marked screw terminals, ready to install in a flush box.",
+  "highlights": [
+   "20 A, 250 V double pole switching",
+   "Printed water heater marking on the plate",
+   "LED power indicator",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide",
+   "Sold complete, ready to install"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, double pole switch with water heater marking"
+   ],
+   [
+    "Rated current",
+    "20 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Indicator",
+    "LED power indicator"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "38.4 mm (24 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "30 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-1-way-double-pole-switch-20a-with-water-heater-marking-and-power-indicator-matt-black-flush-mounted-250v-ac-282414",
+  "confidence": "high"
+ },
+ "legrand-white-45a-cooker-unit": {
+  "summary": "A Galion cooker control unit in glossy white that combines a 45 A double pole switch for a cooker or other large fixed appliance with a 13 A British Standard switched socket. Heavy duty screw terminals take cables up to 10 mm², and an LED shows when power is on. It fits a twin (146 x 88 mm) flush box.",
+  "highlights": [
+   "45 A double pole switch for cookers and large fixed appliances",
+   "Built-in 13 A BS switched socket",
+   "LED power indicator",
+   "Terminals accept 1 to 10 mm² cable",
+   "Sold complete, ready to install"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Function",
+    "Cooker control unit: 45 A DP switch with 13 A switched socket"
+   ],
+   [
+    "Switch rating",
+    "45 A, 250 V AC"
+   ],
+   [
+    "Socket rating",
+    "13 A, 250 V AC, BS 2P+E"
+   ],
+   [
+    "Indicator",
+    "LED"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, horizontal"
+   ],
+   [
+    "Plate size",
+    "146 x 88 mm"
+   ],
+   [
+    "Depth",
+    "34.6 mm (19.4 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 10 mm²"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gang-cooker-unit-control-45a-double-pole-switch-with-13a-switched-socket-outlet-screw-terminals-up-to-10mm2-white-282425",
+  "confidence": "high"
+ },
+ "legrand-1-gang-bs-13a-switched-socket": {
+  "summary": "A Galion single British Standard 13 A switched socket in glossy white. Each outlet has its own single pole switch, and safety shutters help keep little fingers away from live parts. Marked screw terminals and a strip length guide make wiring quick, and it comes complete, ready to fit.",
+  "highlights": [
+   "1 BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Single pole switch for each outlet",
+   "Safety shutters for child protection",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "1, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "29.6 mm (18 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "25 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-282432-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-british-standard-switched-single-pole-socket-outlet-13a-250v-ac-2pe-flush-mounted-white-thermoplastic-282432",
+  "confidence": "high"
+ },
+ "legrand-matt-black-1-gang-bs-13a-switched-socket": {
+  "summary": "A Galion single British Standard 13 A switched socket in black. Each outlet has its own single pole switch, and safety shutters help keep little fingers away from live parts. Marked screw terminals and a strip length guide make wiring quick, and it comes complete, ready to fit.",
+  "highlights": [
+   "1 BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Single pole switch for each outlet",
+   "Safety shutters for child protection",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "1, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "29.6 mm (18 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "25 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Black, lacquered (sold as matt black)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-british-standard-switched-single-pole-socket-outlet-13a-250v-ac-2pe-matt-black-thermoplastic-282432",
+  "confidence": "high"
+ },
+ "legrand-2-gang-bs-13a-switched-socket": {
+  "summary": "A Galion twin British Standard 13 A switched socket in glossy white. Each outlet has its own single pole switch, and safety shutters help keep little fingers away from live parts. Marked screw terminals and a strip length guide make wiring quick, and it comes complete, ready to fit.",
+  "highlights": [
+   "2 BS 1363 type 2P+E outlets, 13 A, 250 V",
+   "Single pole switch for each outlet",
+   "Safety shutters for child protection",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "146 x 88 mm"
+   ],
+   [
+    "Depth",
+    "27.2 mm (15.2 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "25 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gang-british-standard-switched-single-pole-socket-outlet-13a-250v-ac-flush-mounted-safety-shutters-white-282433",
+  "confidence": "high"
+ },
+ "legrand-matt-black-2-gang-bs-13a-switched-socket": {
+  "summary": "A Galion twin British Standard 13 A switched socket in black. Each outlet has its own single pole switch, and safety shutters help keep little fingers away from live parts. Marked screw terminals and a strip length guide make wiring quick, and it comes complete, ready to fit.",
+  "highlights": [
+   "2 BS 1363 type 2P+E outlets, 13 A, 250 V",
+   "Single pole switch for each outlet",
+   "Safety shutters for child protection",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "146 x 88 mm"
+   ],
+   [
+    "Depth",
+    "27.2 mm (15.2 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "25 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Black, lacquered (sold as matt black)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-british-standard-switched-single-pole-socket-outlet-13a-250v-ac-double-socket-matt-black-thermoplastic-282433",
+  "confidence": "high"
+ },
+ "legrand-2-gang-twin-multistandard-switched-socket": {
+  "summary": "A Galion twin multistandard switched socket in glossy white. Each of the two outlets takes Euro, US, Indian, Chinese and British style plugs and has its own switch, rated 16 A at 250 V (15 A at 127 V). Safety shutters and enhanced contact protection add safety, and it fits a twin flush box.",
+  "highlights": [
+   "2 multistandard 2P+E outlets",
+   "16 A at 250 V, 15 A at 127 V",
+   "Individual switch for each outlet",
+   "Child safety shutters",
+   "Marked screw terminals, 1 to 4 mm²"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, each switched"
+   ],
+   [
+    "Rating",
+    "16 A 250 V AC / 15 A 127 V AC"
+   ],
+   [
+    "Frequency",
+    "50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "146 x 88 mm"
+   ],
+   [
+    "Depth",
+    "41.2 mm (29.3 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-282435-WEB-F.jpg",
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-282435-WEB-B.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-multistandard-switched-socket-outlet-2x2pe-15a127v-16a250v-flush-mounted-white-with-safety-shutters-282435",
+  "confidence": "high"
+ },
+ "legrand-matt-black-2-gang-16a-multistandard-switched-socket": {
+  "summary": "A Galion twin multistandard switched socket in matt black. Each of the two outlets takes Euro, US, Indian, Chinese and British style plugs and has its own switch, rated 16 A at 250 V (15 A at 127 V). Safety shutters and enhanced contact protection add safety, and it fits a twin flush box.",
+  "highlights": [
+   "2 multistandard 2P+E outlets",
+   "16 A at 250 V, 15 A at 127 V",
+   "Individual switch for each outlet",
+   "Child safety shutters",
+   "Marked screw terminals, 1 to 4 mm²"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, each switched"
+   ],
+   [
+    "Rating",
+    "16 A 250 V AC / 15 A 127 V AC"
+   ],
+   [
+    "Frequency",
+    "50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "146 x 88 mm"
+   ],
+   [
+    "Depth",
+    "41.2 mm (29.3 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LG-282435-C-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-multistandard-switched-socket-outlet-matt-black-finish-2x2pe-15a127v16a250v-child-safety-shutters-282435",
+  "confidence": "high"
+ },
+ "legrand-white-tv-female-socket": {
+  "summary": "A Galion single TV outlet in glossy white with a 9.5 mm female coaxial connector, for connecting a television to an aerial, splitter or multiswitch. Loss through the socket is low (1 dB at 860 MHz), and the connection is made without tools.",
+  "highlights": [
+   "9.5 mm female TV connector",
+   "Low attenuation, 1 dB maximum at 860 MHz",
+   "Tool-less cable connection",
+   "Designed for star cabling: one cable per socket",
+   "Sold complete, ready to install"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Type",
+    "TV end socket, female 9.5 mm"
+   ],
+   [
+    "Outlets",
+    "1"
+   ],
+   [
+    "Through loss",
+    "1 dB at 860 MHz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "32 mm"
+   ],
+   [
+    "Minimum box depth",
+    "22.8 mm"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-tv-female-terminal-socket-outlet-white-282457",
+  "confidence": "high"
+ },
+ "legrand-matt-black-tv-female-socket": {
+  "summary": "A Galion single TV outlet in matt black with a 9.5 mm female coaxial connector, for connecting a television to an aerial, splitter or multiswitch. Loss through the socket is low (1 dB at 860 MHz), and the connection is made without tools.",
+  "highlights": [
+   "9.5 mm female TV connector",
+   "Low attenuation, 1 dB maximum at 860 MHz",
+   "Tool-less cable connection",
+   "Designed for star cabling: one cable per socket",
+   "Sold complete, ready to install"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Type",
+    "TV end socket, female 9.5 mm"
+   ],
+   [
+    "Outlets",
+    "1"
+   ],
+   [
+    "Through loss",
+    "1 dB at 860 MHz"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "32 mm"
+   ],
+   [
+    "Minimum box depth",
+    "22.8 mm"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour and finish",
+    "Matt black"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-tv-female-terminal-socket-outlet-matt-black-282457",
+  "confidence": "high"
+ },
+ "legrand-white-bs-13a-switched-socket-with-led": {
+  "summary": "A Galion single British Standard 13 A switched socket in glossy white with an LED power indicator. Each outlet has its own single pole switch, and safety shutters help keep little fingers away from live parts. Marked screw terminals and a strip length guide make wiring quick, and it comes complete, ready to fit.",
+  "highlights": [
+   "1 BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Single pole switch for each outlet",
+   "LED power indicator",
+   "Safety shutters for child protection",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "1, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Indicator",
+    "LED power indicator"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 88 mm"
+   ],
+   [
+    "Depth",
+    "29.6 mm (18 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "25 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-1-gang-british-standard-switched-single-pole-socket-outlet-with-power-indicator-13a-white-282480",
+  "confidence": "high"
+ },
+ "legrand-white-2-gang-bs-13a-switched-socket-with-led": {
+  "summary": "A Galion twin British Standard 13 A switched socket in glossy white with an LED power indicators. Each outlet has its own single pole switch, and safety shutters help keep little fingers away from live parts. Marked screw terminals and a strip length guide make wiring quick, and it comes complete, ready to fit.",
+  "highlights": [
+   "2 BS 1363 type 2P+E outlets, 13 A, 250 V",
+   "Single pole switch for each outlet",
+   "LED power indicator",
+   "Safety shutters for child protection",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Indicator",
+    "LED power indicator"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "146 x 88 mm"
+   ],
+   [
+    "Depth",
+    "27.2 mm (15.2 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "25 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-british-standard-switched-single-pole-socket-outlet-with-power-indicator-13a-white-282481",
+  "confidence": "high"
+ },
+ "legrand-matt-black-2-gang-bs-13a-switched-socket-with-led": {
+  "summary": "A Galion twin British Standard 13 A switched socket in black with an LED power indicators. Each outlet has its own single pole switch, and safety shutters help keep little fingers away from live parts. Marked screw terminals and a strip length guide make wiring quick, and it comes complete, ready to fit.",
+  "highlights": [
+   "2 BS 1363 type 2P+E outlets, 13 A, 250 V",
+   "Single pole switch for each outlet",
+   "LED power indicator",
+   "Safety shutters for child protection",
+   "Marked screw terminals, 1 to 4 mm², with strip length guide"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Galion (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, switched (single pole)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Indicator",
+    "LED power indicator"
+   ],
+   [
+    "Safety",
+    "Shutters (enhanced contact protection)"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "146 x 88 mm"
+   ],
+   [
+    "Depth",
+    "27.2 mm (15.2 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "25 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour and finish",
+    "Matt black, lacquered"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/galion-2-gangs-british-standard-switched-single-pole-socket-outlet-with-power-indicator-13a-matt-black-282481",
+  "confidence": "high"
+ },
+ "legrand-dx3-1p-c6-10000a": {
+  "summary": "A Legrand DX3 single pole miniature circuit breaker, 6 A, C curve, that protects a circuit's wiring against overloads and short circuits. It has a 10 kA breaking capacity to IEC 60898-1, takes up one 17.8 mm module on a DIN rail, and accepts DX3 auxiliaries and add-on RCD modules.",
+  "highlights": [
+   "6 A rating, C tripping curve (5 to 10 x In)",
+   "10,000 A breaking capacity (IEC 60898-1), 16 kA to IEC 60947-2",
+   "One module wide, DIN rail mounting",
+   "Feed from top or bottom; cable or busbar",
+   "Energy limitation class 3, IP20 fingerproof"
+  ],
+  "specs": [
+   [
+    "Poles",
+    "1P"
+   ],
+   [
+    "Rated current",
+    "6 A"
+   ],
+   [
+    "Curve",
+    "C"
+   ],
+   [
+    "Breaking capacity",
+    "10 kA (Icn, EN 60898 at 230 V); 16 kA (Icu, IEC 60947-2 at 230 V)"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Insulation voltage",
+    "500 V (Ui)"
+   ],
+   [
+    "Impulse withstand",
+    "4 kV (Uimp)"
+   ],
+   [
+    "Current limiting class",
+    "3"
+   ],
+   [
+    "Width",
+    "1 module (17.8 mm)"
+   ],
+   [
+    "Dimensions",
+    "17.8 x 94.8 x 77.8 mm"
+   ],
+   [
+    "Cable capacity",
+    "1.5 to 25 mm² stranded, 1.5 to 35 mm² solid"
+   ],
+   [
+    "Protection",
+    "IP20, IK02"
+   ],
+   [
+    "Mounting",
+    "DIN rail"
+   ],
+   [
+    "Operating temperature",
+    "-25 to 70 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mcb-dx3-10000a-1-pole-6a-curve-409111",
+  "confidence": "high"
+ },
+ "legrand-dx3-1p-c25-10000a": {
+  "summary": "A Legrand DX3 single pole miniature circuit breaker, 25 A, C curve, that protects a circuit's wiring against overloads and short circuits. It has a 10 kA breaking capacity to IEC 60898-1, takes up one 17.8 mm module on a DIN rail, and accepts DX3 auxiliaries and add-on RCD modules.",
+  "highlights": [
+   "25 A rating, C tripping curve (5 to 10 x In)",
+   "10,000 A breaking capacity (IEC 60898-1), 16 kA to IEC 60947-2",
+   "One module wide, DIN rail mounting",
+   "Feed from top or bottom; cable or busbar",
+   "Energy limitation class 3, IP20 fingerproof"
+  ],
+  "specs": [
+   [
+    "Poles",
+    "1P"
+   ],
+   [
+    "Rated current",
+    "25 A"
+   ],
+   [
+    "Curve",
+    "C"
+   ],
+   [
+    "Breaking capacity",
+    "10 kA (Icn, EN 60898 at 230 V); 16 kA (Icu, IEC 60947-2 at 230 V)"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Insulation voltage",
+    "500 V (Ui)"
+   ],
+   [
+    "Impulse withstand",
+    "4 kV (Uimp)"
+   ],
+   [
+    "Current limiting class",
+    "3"
+   ],
+   [
+    "Width",
+    "1 module (17.8 mm)"
+   ],
+   [
+    "Dimensions",
+    "17.8 x 94.8 x 77.8 mm"
+   ],
+   [
+    "Cable capacity",
+    "1.5 to 25 mm² stranded, 1.5 to 35 mm² solid"
+   ],
+   [
+    "Protection",
+    "IP20, IK02"
+   ],
+   [
+    "Mounting",
+    "DIN rail"
+   ],
+   [
+    "Operating temperature",
+    "-25 to 70 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mcb-dx3-10000a-1-pole-25a-curve-409116",
+  "confidence": "high"
+ },
+ "legrand-dx3-1p-c32-10000a": {
+  "summary": "A Legrand DX3 single pole miniature circuit breaker, 32 A, C curve, that protects a circuit's wiring against overloads and short circuits. It has a 10 kA breaking capacity to IEC 60898-1, takes up one 17.8 mm module on a DIN rail, and accepts DX3 auxiliaries and add-on RCD modules.",
+  "highlights": [
+   "32 A rating, C tripping curve (5 to 10 x In)",
+   "10,000 A breaking capacity (IEC 60898-1), 16 kA to IEC 60947-2",
+   "One module wide, DIN rail mounting",
+   "Feed from top or bottom; cable or busbar",
+   "Energy limitation class 3, IP20 fingerproof"
+  ],
+  "specs": [
+   [
+    "Poles",
+    "1P"
+   ],
+   [
+    "Rated current",
+    "32 A"
+   ],
+   [
+    "Curve",
+    "C"
+   ],
+   [
+    "Breaking capacity",
+    "10 kA (Icn, EN 60898 at 230 V); 16 kA (Icu, IEC 60947-2 at 230 V)"
+   ],
+   [
+    "Rated voltage",
+    "230 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Insulation voltage",
+    "500 V (Ui)"
+   ],
+   [
+    "Impulse withstand",
+    "4 kV (Uimp)"
+   ],
+   [
+    "Current limiting class",
+    "3"
+   ],
+   [
+    "Width",
+    "1 module (17.8 mm)"
+   ],
+   [
+    "Dimensions",
+    "17.8 x 94.8 x 77.8 mm"
+   ],
+   [
+    "Cable capacity",
+    "1.5 to 25 mm² stranded, 1.5 to 35 mm² solid"
+   ],
+   [
+    "Protection",
+    "IP20, IK02"
+   ],
+   [
+    "Mounting",
+    "DIN rail"
+   ],
+   [
+    "Operating temperature",
+    "-25 to 70 °C"
+   ],
+   [
+    "Standard",
+    "IEC 60898-1"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/mcb-dx3-10000a-1-pole-32a-curve-409117",
+  "confidence": "high"
+ },
+ "legrand-2p-plus-t-10-16a-shuttered-flush-white": {
+  "summary": "An Arteor French standard 2P+E socket outlet (earth pin type) rated 10/16 A at 250 V, in glossy white. It is a 2 module mechanism with child safety shutters and loop-through screw terminals. Like all Arteor mechanisms it needs an Arteor support frame and cover plate, sold separately.",
+  "highlights": [
+   "French standard 2P+E (earth pin) outlet, 10/16 A, 250 V",
+   "Child safety shutters",
+   "2 module Arteor mechanism",
+   "Screw terminals with loop-through",
+   "Halogen free glossy white thermoplastic"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Arteor (international)"
+   ],
+   [
+    "Socket type",
+    "French standard 2P+E, earth pin"
+   ],
+   [
+    "Rated current",
+    "10/16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters"
+   ],
+   [
+    "Size",
+    "2 modules, 45 x 45 x 37 mm"
+   ],
+   [
+    "Built-in depth",
+    "28 mm"
+   ],
+   [
+    "Mounting",
+    "Clips into an Arteor support frame"
+   ],
+   [
+    "Terminals",
+    "Screw, up to 4 mm², loop-through"
+   ],
+   [
+    "Protection",
+    "IP40, IK04 (installed)"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 35 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/arteor-socket-outlet-french-standard-2pe-with-child-safety-shutters-1016a-250v-ac-2-module-glossy-white-plastic-572021",
+  "confidence": "high"
+ },
+ "legrand-2p-plus-t-13a-bs-shuttered-square-white": {
+  "summary": "An Arteor British Standard 13 A socket outlet in white, built to BS 1363 Part 2 and ASTA licensed. It is a 2 module mechanism with child safety shutters. It fits Arteor support frames and plates, which are sold separately.",
+  "highlights": [
+   "BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Shuttered for child safety, ASTA licensed",
+   "2 module Arteor mechanism",
+   "Screw terminals with loop-through",
+   "Colour: white"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Arteor (international)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E (BS 1363 Part 2)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters"
+   ],
+   [
+    "Size",
+    "2 modules, 45 x 45 x 30 mm"
+   ],
+   [
+    "Built-in depth",
+    "21.5 mm"
+   ],
+   [
+    "Mounting",
+    "Clips into an Arteor support frame"
+   ],
+   [
+    "Terminals",
+    "Screw, up to 4 mm², loop-through"
+   ],
+   [
+    "Protection",
+    "IP40, IK04 (installed)"
+   ],
+   [
+    "Colour",
+    "Glossy white"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 35 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/57/LG-572111-WEB-F-CH.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/arteor-socket-outlet-bs-1363-13a-2pe-shuttered-child-safety-asta-licensed-2-module-white-glossy-plastic-572111",
+  "confidence": "high"
+ },
+ "legrand-single-tv-female-type-white": {
+  "summary": "A Belanko S single TV outlet with a female coaxial connector, in glossy white, for connecting a television to the aerial or cable network. Wiring is tool-less with marked terminals, and it comes complete with its 86 x 86 mm plate.",
+  "highlights": [
+   "Single female TV end socket",
+   "Tool-less installation",
+   "Marked terminals",
+   "Supplied with white Belanko S plate",
+   "Protective shell against paint and dust"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Type",
+    "TV end socket, female"
+   ],
+   [
+    "Outlets",
+    "1"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/61/LG-617627-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-single-tv-socket-female-type-flush-mounted-end-tv-outlet-tool-less-installation-white-glossy-thermoplastic-86x86mm-617627",
+  "confidence": "high"
+ },
+ "legrand-tv-radio-and-satellite-socket-white": {
+  "summary": "An all in one Belanko S outlet for TV, radio and satellite, in glossy white. It has a 9.5 mm male TV connector, a 9.5 mm female radio connector and an F type screw connector for satellite, with low signal loss. It is a loop-through design, so several outlets can be fed from one cable.",
+  "highlights": [
+   "TV (9.5 mm male), radio (9.5 mm female) and SAT (F type) in one",
+   "Low loss: 1.5 dB at 860 MHz, 2 dB at 2150 MHz",
+   "Loop-through, suits cable modems and remote powering",
+   "Tool-less with marked terminals"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Type",
+    "TV / radio / SAT loop-through socket"
+   ],
+   [
+    "Connectors",
+    "TV 9.5 mm male, radio 9.5 mm female, SAT F type"
+   ],
+   [
+    "Tap loss",
+    "1.5 dB at 860 MHz, 2 dB at 2150 MHz"
+   ],
+   [
+    "Through loss",
+    "1.5 dB at 860 MHz, 2 dB at 2150 MHz"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "36.5 mm"
+   ],
+   [
+    "Minimum box depth",
+    "27.5 mm"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-tv-r-sat-socket-white-617632",
+  "confidence": "high"
+ },
+ "legrand-1-gang-bs-13a-unswitched-socket": {
+  "summary": "A Belanko S single British Standard 13 A unswitched socket in glossy white, for appliances that stay plugged in. Safety shutters protect children, terminals are clearly marked, and it comes with its plate and a protective shell that keeps paint and dust out during building work.",
+  "highlights": [
+   "1 BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Unswitched",
+   "Safety shutters",
+   "Marked screw terminals, 1 to 4 mm²",
+   "Label space"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "1, unswitched"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "25.7 mm (16.7 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-1-gang-bs-unswitched-socket-outlet-2pe-13a-250v-ac-flush-mounted-white-thermoplastic-with-safety-shutters-617640",
+  "confidence": "high"
+ },
+ "legrand-2-gang-bs-13a-unswitched-socket": {
+  "summary": "A Belanko S twin British Standard 13 A unswitched socket in glossy white, for appliances that stay plugged in. Safety shutters protect children, terminals are clearly marked, and it comes with its plate and a protective shell that keeps paint and dust out during building work.",
+  "highlights": [
+   "2 BS 1363 type 2P+E outlets, 13 A, 250 V",
+   "Unswitched",
+   "Safety shutters",
+   "Marked screw terminals, 1 to 4 mm²",
+   "Label space"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, unswitched"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters"
+   ],
+   [
+    "Plate size",
+    "146 x 86 mm"
+   ],
+   [
+    "Depth",
+    "26.5 mm (17.5 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-2-gang-bs-unswitched-socket-outlet-13a-250v-2pe-british-standard-screw-terminals-white-plate-with-safety-shutters-617645",
+  "confidence": "high"
+ },
+ "legrand-2-gang-switched-multistandard-plus-usb-type-a-plus-c": {
+  "summary": "A Belanko S twin switched multistandard socket in white with a built-in USB charger offering one Type A and one Type C port (3 A, 15 W). It powers two appliances with Euro, US, Indian, Chinese or British style plugs and charges phones at the same time, all on one twin plate.",
+  "highlights": [
+   "2 switched multistandard 2P+E outlets, 16 A, 250 V",
+   "USB Type A and Type C charging, 3 A, 15 W",
+   "Individual switch for each outlet",
+   "Safety shutters",
+   "Marked screw terminals"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, each switched"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "USB",
+    "1 x Type A, 1 x Type C, 5 V 3 A, 15 W"
+   ],
+   [
+    "Plate size",
+    "146 x 86 mm"
+   ],
+   [
+    "Depth",
+    "30.5 mm (19.5 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "40 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm²"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 35 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/61/LG-617655-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-2-gang-switched-multistandard-inboard-usb-new-type-ac-white-617655",
+  "confidence": "high"
+ },
+ "legrand-2-x-1-gang-switched-socket-multistandard-white": {
+  "summary": "A Belanko S twin multistandard switched socket in glossy white. Each outlet has its own switch and accepts Euro, US, Indian, Chinese and British style plugs, rated 16 A at 250 V, with safety shutters.",
+  "highlights": [
+   "2 multistandard 2P+E outlets, 16 A, 250 V",
+   "Individual switch for each outlet",
+   "Safety shutters",
+   "Marked screw terminals",
+   "Supplied with white Belanko S plate"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, each switched"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Plate size",
+    "146 x 86 mm"
+   ],
+   [
+    "Depth",
+    "45.8 mm (34.3 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm²"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/61/LG-617669-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-2x-1-gang-multistandard-switched-socket-outlet-white-617669",
+  "confidence": "high"
+ },
+ "legrand-fan-control-5-speeds-white": {
+  "summary": "A Belanko S fan speed controller in white with five speed settings, for ceiling fans up to 100 W. It is an all in one unit with plate, marked screw terminals and a glossy finish.",
+  "highlights": [
+   "5 speed fan control",
+   "For fans up to 100 W",
+   "200 to 240 V, 50/60 Hz",
+   "All in one, with plate",
+   "Marked screw terminals"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Function",
+    "Fan speed controller, 5 speeds"
+   ],
+   [
+    "Maximum load",
+    "100 W"
+   ],
+   [
+    "Supply",
+    "200 to 240 V AC, 50/60 Hz"
+   ],
+   [
+    "Terminals",
+    "Screw, marked"
+   ],
+   [
+    "Mounting",
+    "Flush mounted"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-fan-controller-5-speeds-100w-white-617683",
+  "confidence": "medium"
+ },
+ "legrand-rj45-cat6-utp-white": {
+  "summary": "A Belanko S single RJ45 data socket for Category 6 UTP networks up to 1 Gbit/s, in white. Tool-less terminals with colour coding make termination quick, and it comes with a dust cover, label space and a protective shell for the building phase.",
+  "highlights": [
+   "1 RJ45 port, Category 6 UTP",
+   "Up to 1 Gbit/s",
+   "Tool-less marked terminals",
+   "Dust cover and label space",
+   "Protective shell against paint and dust"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Connector",
+    "1 x RJ45 8/8"
+   ],
+   [
+    "Category",
+    "6, UTP (per product title)"
+   ],
+   [
+    "Data rate",
+    "Up to 1 Gbit/s"
+   ],
+   [
+    "Connection",
+    "Tool-less"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "37.2 mm (26.4 mm built-in)"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [
+   "https://assets.legrand.com/pim/PHOTOS-WEB/LEGRAND/61/LG-617691-WEB-F.jpg"
+  ],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-rj45-utp-category-6-socket-up-to-1gbits-flush-mounted-white-plate-with-dust-cover-tool-less-terminals-617691",
+  "confidence": "high"
+ },
+ "legrand-double-rj45-cat6-utp-white": {
+  "summary": "A Belanko S double RJ45 data socket for Category 6 UTP networks up to 1 Gbit/s, in white. Tool-less terminals with colour coding make termination quick, and it comes with a dust cover, label space and a protective shell for the building phase.",
+  "highlights": [
+   "2 RJ45 ports, Category 6 UTP",
+   "Up to 1 Gbit/s",
+   "Tool-less marked terminals",
+   "Dust cover and label space",
+   "Protective shell against paint and dust"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Connector",
+    "2 x RJ45 8/8"
+   ],
+   [
+    "Category",
+    "6, UTP (per product title)"
+   ],
+   [
+    "Data rate",
+    "Up to 1 Gbit/s"
+   ],
+   [
+    "Connection",
+    "Tool-less"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "37.2 mm (26.4 mm built-in)"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Glossy white (similar to RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-double-rj-45-utp-category-6-socket-white-plate-tool-less-marked-terminals-protective-shell-against-paint-and-dust-617692",
+  "confidence": "high"
+ },
+ "legrand-1-gang-1-way-16ax-big-rocker-anthracite": {
+  "summary": "A Belanko S 1 gang 1 way switch with a large rocker, rated 16 A at 250 V, in anthracite. The big rocker is easy to find and press, the terminals are clearly marked, and the plate clips on quickly.",
+  "highlights": [
+   "16 A, 250 V",
+   "Large rocker for easy operation",
+   "Marked screw terminals, 1 to 4 mm²",
+   "Quick plate clipping system",
+   "Label space"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Function",
+    "1 gang, 1 way"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "33.6 mm (20.5 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm²"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Anthracite, glossy"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-1-gang-1-way-big-rocker-switch-16a-250v-ac-flush-mounted-screw-terminals-anthracite-glossy-plastic-617700",
+  "confidence": "high"
+ },
+ "legrand-1-gang-bs-13a-unswitched-socket-anthracite": {
+  "summary": "A Belanko S single British Standard 13 A unswitched socket in anthracite with a white Belanko S plate, for appliances that stay plugged in. Safety shutters protect children, terminals are clearly marked, and it comes with its plate and a protective shell that keeps paint and dust out during building work.",
+  "highlights": [
+   "1 BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Unswitched",
+   "Safety shutters",
+   "Marked screw terminals, 1 to 4 mm²",
+   "Label space"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E"
+   ],
+   [
+    "Outlets",
+    "1, unswitched"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "25.7 mm (16.7 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "35 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm² flexible or rigid"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "Anthracite socket, white plate"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-1-gang-bs-unswitched-socket-outlet-13a-250v-ac-2pe-flush-mounted-thermoplastic-with-safety-shutters-anthracite-617740",
+  "confidence": "high"
+ },
+ "legrand-2-gang-switched-multistandard-plus-usb-type-a-plus-c-anthracite": {
+  "summary": "A Belanko S twin switched multistandard socket in anthracite with a built-in USB charger offering one Type A and one Type C port (3 A, 15 W). It powers two appliances with Euro, US, Indian, Chinese or British style plugs and charges phones at the same time, all on one twin plate.",
+  "highlights": [
+   "2 switched multistandard 2P+E outlets, 16 A, 250 V",
+   "USB Type A and Type C charging, 3 A, 15 W",
+   "Individual switch for each outlet",
+   "Safety shutters",
+   "Marked screw terminals"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, each switched"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "USB",
+    "1 x Type A, 1 x Type C, 5 V 3 A, 15 W"
+   ],
+   [
+    "Plate size",
+    "146 x 86 mm"
+   ],
+   [
+    "Depth",
+    "30.5 mm (19.5 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "40 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm²"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Anthracite, glossy"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 35 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-2-gang-switched-multistandard-inboard-usb-new-type-ac-anthracite-617755",
+  "confidence": "high"
+ },
+ "legrand-fan-control-5-speeds-anthracite": {
+  "summary": "A Belanko S fan speed controller in anthracite with five speed settings, for ceiling fans up to 100 W. It is an all in one unit with plate, marked screw terminals and a glossy finish.",
+  "highlights": [
+   "5 speed fan control",
+   "For fans up to 100 W",
+   "200 to 240 V, 50/60 Hz",
+   "All in one, with plate",
+   "Marked screw terminals"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Function",
+    "Fan speed controller, 5 speeds"
+   ],
+   [
+    "Maximum load",
+    "100 W"
+   ],
+   [
+    "Supply",
+    "200 to 240 V AC, 50/60 Hz"
+   ],
+   [
+    "Terminals",
+    "Screw, marked"
+   ],
+   [
+    "Mounting",
+    "Flush mounted"
+   ],
+   [
+    "Colour",
+    "Anthracite, glossy"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-fan-controller-5-speeds-100w-anthracite-617783",
+  "confidence": "medium"
+ },
+ "legrand-rj45-cat6-utp-anthracite": {
+  "summary": "A Belanko S single RJ45 data socket for Category 6 UTP networks up to 1 Gbit/s, in anthracite with a white Belanko S plate. Tool-less terminals with colour coding make termination quick, and it comes with a dust cover, label space and a protective shell for the building phase.",
+  "highlights": [
+   "1 RJ45 port, Category 6 UTP",
+   "Up to 1 Gbit/s",
+   "Tool-less marked terminals",
+   "Dust cover and label space",
+   "Protective shell against paint and dust"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Connector",
+    "1 x RJ45 8/8"
+   ],
+   [
+    "Category",
+    "6, UTP (per product title)"
+   ],
+   [
+    "Data rate",
+    "Up to 1 Gbit/s"
+   ],
+   [
+    "Connection",
+    "Tool-less"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "37.2 mm (26.4 mm built-in)"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Anthracite socket, white plate"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-rj-45-utp-category-6-anthracite-flush-mounted-socket-1gbits-data-rate-utp-marked-terminals-with-dust-cover-617791",
+  "confidence": "high"
+ },
+ "legrand-double-rj45-cat6-utp-anthracite": {
+  "summary": "A Belanko S double RJ45 data socket for Category 6 UTP networks up to 1 Gbit/s, in anthracite with a white Belanko S plate. Tool-less terminals with colour coding make termination quick, and it comes with a dust cover, label space and a protective shell for the building phase.",
+  "highlights": [
+   "2 RJ45 ports, Category 6 UTP",
+   "Up to 1 Gbit/s",
+   "Tool-less marked terminals",
+   "Dust cover and label space",
+   "Protective shell against paint and dust"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Connector",
+    "2 x RJ45 8/8"
+   ],
+   [
+    "Category",
+    "6, UTP (per product title)"
+   ],
+   [
+    "Data rate",
+    "Up to 1 Gbit/s"
+   ],
+   [
+    "Connection",
+    "Tool-less"
+   ],
+   [
+    "Mounting",
+    "Flush mounted, screw fixing"
+   ],
+   [
+    "Plate size",
+    "86 x 86 mm"
+   ],
+   [
+    "Depth",
+    "37.2 mm (26.4 mm built-in)"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Anthracite socket, white plate"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 50 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-double-rj45-utp-category-6-dual-rj45-88-connectors-1gbits-flush-mounted-ip20-anthracite-plate-tool-less-connection-617792",
+  "confidence": "high"
+ },
+ "legrand-2-gang-switched-multistandard-plus-usb-type-a-plus-c-ivory": {
+  "summary": "A Belanko S twin switched multistandard socket in ivory with a built-in USB charger offering one Type A and one Type C port (3 A, 15 W). It powers two appliances with Euro, US, Indian, Chinese or British style plugs and charges phones at the same time, all on one twin plate.",
+  "highlights": [
+   "2 switched multistandard 2P+E outlets, 16 A, 250 V",
+   "USB Type A and Type C charging, 3 A, 15 W",
+   "Individual switch for each outlet",
+   "Safety shutters",
+   "Marked screw terminals"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Socket type",
+    "Multistandard 2P+E"
+   ],
+   [
+    "Outlets",
+    "2, each switched"
+   ],
+   [
+    "Rated current",
+    "16 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "USB",
+    "1 x Type A, 1 x Type C, 5 V 3 A, 15 W"
+   ],
+   [
+    "Plate size",
+    "146 x 86 mm"
+   ],
+   [
+    "Depth",
+    "30.5 mm (19.5 mm built-in)"
+   ],
+   [
+    "Minimum box depth",
+    "40 mm"
+   ],
+   [
+    "Terminals",
+    "Screw, 1 to 4 mm²"
+   ],
+   [
+    "Protection",
+    "IP20, IK04"
+   ],
+   [
+    "Colour",
+    "Ivory, glossy"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 35 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-2-gang-switched-multistandard-inboard-usb-type-ac-ivory-617855",
+  "confidence": "high"
+ },
+ "legrand-fan-control-5-speeds-ivory": {
+  "summary": "A Belanko S fan speed controller in ivory with five speed settings, for ceiling fans up to 100 W. It is an all in one unit with plate, marked screw terminals and a glossy finish.",
+  "highlights": [
+   "5 speed fan control",
+   "For fans up to 100 W",
+   "200 to 240 V, 50/60 Hz",
+   "All in one, with plate",
+   "Marked screw terminals"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Belanko S (British Standard)"
+   ],
+   [
+    "Function",
+    "Fan speed controller, 5 speeds"
+   ],
+   [
+    "Maximum load",
+    "100 W"
+   ],
+   [
+    "Supply",
+    "200 to 240 V AC, 50/60 Hz"
+   ],
+   [
+    "Terminals",
+    "Screw, marked"
+   ],
+   [
+    "Mounting",
+    "Flush mounted"
+   ],
+   [
+    "Colour",
+    "Ivory, glossy"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/belanko-s-fan-controller-5-speeds-100w-ivory-617883",
+  "confidence": "medium"
+ },
+ "legrand-plug-13a-bs": {
+  "summary": "A Legrand British Standard 13 A 3 pin plug, rated 250 V, with a built-in fuse to protect against overloads. Use it to fit or replace the plug on an appliance cable.",
+  "highlights": [
+   "BS 2P+E plug, 13 A, 250 V",
+   "Integrated fuse",
+   "Screw terminals",
+   "White and grey"
+  ],
+  "specs": [
+   [
+    "Type",
+    "British Standard plug 2P+E"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC"
+   ],
+   [
+    "Protection",
+    "Integrated fuse; IP20"
+   ],
+   [
+    "Connection",
+    "Screw terminals"
+   ],
+   [
+    "Cable entry",
+    "Angled"
+   ],
+   [
+    "Material",
+    "Thermoplastic"
+   ],
+   [
+    "Colour",
+    "White/grey"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/british-standard-plug-2pe-13-250-v-without-marking-650013",
+  "confidence": "high"
+ },
+ "legrand-plexo-66-mosaic-adaptor": {
+  "summary": "A Plexo 66 surface mounted adaptor that lets you fit 2 Mosaic modules (for example an RJ45 or a socket) in a weatherproof grey box. A semi-transparent hinged lid protects the devices while still showing what is inside. It is rated IP66 and IK08.",
+  "highlights": [
+   "Takes 2 Mosaic modules",
+   "IP66, IK08 weatherproof surface box",
+   "Semi-transparent hinged lid",
+   "ISO 20 membrane glands for rear entry",
+   "Works from -25 to 60 °C"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Plexo 66 / Mosaic"
+   ],
+   [
+    "Capacity",
+    "2 Mosaic modules"
+   ],
+   [
+    "Protection",
+    "IP66, IK08"
+   ],
+   [
+    "Lid",
+    "Semi-transparent, hinged"
+   ],
+   [
+    "Mounting",
+    "Surface mounted"
+   ],
+   [
+    "Dimensions",
+    "97 x 97 x 118 mm"
+   ],
+   [
+    "Cable entry",
+    "ISO 20 membrane glands for rear entry"
+   ],
+   [
+    "Colour",
+    "Grey (RAL 7016)"
+   ],
+   [
+    "Operating temperature",
+    "-25 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/plexo-mosaic-adaptor-66-surface-mounted-transition-adapter-2-modules-semi-transparent-hinged-lid-grey-ik08-25-to-60degc-684636",
+  "confidence": "high"
+ },
+ "legrand-moesbs-4-x-2p-plus-e-1-double-pole-switch-bs3m": {
+  "summary": "A Legrand extension block with 4 British Standard 13 A sockets on a 3 m cable with a fused BS plug. It has an illuminated double pole switch, a resettable overload breaker in the body, and red safety shutters. The slim 30 mm body suits desks, floors or wall mounting.",
+  "highlights": [
+   "4 BS 13 A outlets",
+   "Illuminated double pole on/off switch",
+   "Resettable overload breaker plus fused plug",
+   "Safety shutters",
+   "3 m cable"
+  ],
+  "specs": [
+   [
+    "Outlets",
+    "4 x British Standard 2P+E"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "220 to 250 V AC"
+   ],
+   [
+    "Switch",
+    "Double pole, illuminated"
+   ],
+   [
+    "Protection",
+    "Resettable circuit breaker and plug fuse; IP20, IK04"
+   ],
+   [
+    "Cable",
+    "3 m, 1.5 mm²"
+   ],
+   [
+    "Plug",
+    "British Standard 13 A, fused"
+   ],
+   [
+    "Dimensions",
+    "274 x 75 x 30 mm"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "White and grey"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 30 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/multi-outlet-extension-sockets-british-standard-4x2pe-1-dp-switch-illuminated-british-standard-plug-3m-cable-length-698524",
+  "confidence": "high"
+ },
+ "legrand-moesbs-6-x-2p-plus-e-1-double-pole-switch-bs3m": {
+  "summary": "A Legrand extension block with 6 British Standard 13 A sockets on a 3 m cable with a fused BS plug. It has an illuminated double pole switch, a resettable overload breaker in the body, and red safety shutters. The slim 30 mm body suits desks, floors or wall mounting.",
+  "highlights": [
+   "6 BS 13 A outlets",
+   "Illuminated double pole on/off switch",
+   "Resettable overload breaker plus fused plug",
+   "Safety shutters",
+   "3 m cable"
+  ],
+  "specs": [
+   [
+    "Outlets",
+    "6 x British Standard 2P+E"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "220 to 250 V AC"
+   ],
+   [
+    "Switch",
+    "Double pole, illuminated"
+   ],
+   [
+    "Protection",
+    "Resettable circuit breaker and plug fuse; IP20, IK04"
+   ],
+   [
+    "Cable",
+    "3 m, 1.5 mm²"
+   ],
+   [
+    "Plug",
+    "British Standard 13 A, fused"
+   ],
+   [
+    "Dimensions",
+    "388 x 76 x 30 mm"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "White and grey"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 30 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/multi-outlet-extension-sockets-british-standard-6x2pe-1-dp-switch-illuminated-british-standard-plug-3m-cable-length-698526",
+  "confidence": "high"
+ },
+ "legrand-dlp-trunking-plus-cover-50-x-105-2-m": {
+  "summary": "Legrand DLP one piece trunking, 50 x 105 mm, in 2 m lengths with a 65 mm flexible cover, in white PVC. It carries power and data cabling along walls and accepts Mosaic and Arteor devices on clip-on supports.",
+  "highlights": [
+   "50 x 105 mm, 1 compartment",
+   "65 mm flexible cover included",
+   "Usable section 4,380 mm²",
+   "Takes Mosaic and Arteor devices",
+   "IP40, IK07, EN 50085-2-1"
+  ],
+  "specs": [
+   [
+    "System",
+    "Legrand DLP monobloc trunking"
+   ],
+   [
+    "Size",
+    "50 x 105 mm"
+   ],
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Compartments",
+    "1 (partition optional)"
+   ],
+   [
+    "Cover",
+    "1 flexible cover, 65 mm wide, included"
+   ],
+   [
+    "Usable section",
+    "4,380 mm²"
+   ],
+   [
+    "Material",
+    "PVC"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Standard",
+    "EN 50085-2-1"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/full-assembled-dlp-trunking-1-compartment-cover-65mm-50x105mm-white-010424",
+  "confidence": "high"
+ },
+ "legrand-dlp-gland-105-x-50-cv65-w": {
+  "summary": "A left or right end cap for Legrand DLP 50 x 105 mm trunking with 65 mm cover. It neatly closes the end of a run while keeping the IP40 protection, and its finishing cover is attached so it cannot get lost.",
+  "highlights": [
+   "Fits DLP 50 x 105 mm trunking (010422, 010424)",
+   "Left or right hand",
+   "Keeps IP40, IK07",
+   "Captive finishing cover"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP 50 x 105 mm, 65 mm cover"
+   ],
+   [
+    "Use",
+    "Left or right end"
+   ],
+   [
+    "Fixing",
+    "Screw-on"
+   ],
+   [
+    "Dimensions",
+    "54 x 110 x 50 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/left-or-right-end-cap-for-dlp-universal-trunking-50x105mm-with-65mm-cover-010700",
+  "confidence": "high"
+ },
+ "legrand-fixed-external-angle-dlp-s-100-x-50": {
+  "summary": "A external angle for Legrand DLP-S 100 x 50 mm trunking, 80 to 120 degrees, variable. It joins two lengths at a corner, clips on with the supplied adaptor, covers the cut ends and keeps the protection index.",
+  "highlights": [
+   "External angle, 80 to 120 degrees, variable",
+   "For DLP-S 100 x 50 mm trunking",
+   "Adaptor for fixing included",
+   "Covers cut ends for a neat finish"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP-S universal 100 x 50 mm"
+   ],
+   [
+    "Type",
+    "External angle"
+   ],
+   [
+    "Angle",
+    "80 to 120 degrees, variable"
+   ],
+   [
+    "Dimensions",
+    "76.8 x 106.2 x 50 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [
+   "Angle",
+   "Fixing adaptor"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/external-angle-for-universal-dlp-s-trunking-100x50mm-638012",
+  "confidence": "high"
+ },
+ "legrand-4-modules-frame": {
+  "summary": "A snap-on support for mounting 4 Mosaic (45 x 45 mm) modules on Legrand DLP-S trunking, supplied with a white finishing plate. It can be fitted horizontally or vertically and placed side by side.",
+  "highlights": [
+   "Takes 4 Mosaic modules",
+   "For DLP-S trunking",
+   "Snap-on, side by side",
+   "White finishing plate included"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "4 Mosaic modules"
+   ],
+   [
+    "For trunking",
+    "DLP-S, 80 mm cover"
+   ],
+   [
+    "Support size",
+    "123 x 73 mm"
+   ],
+   [
+    "Finishing plate",
+    "130 x 78 mm"
+   ],
+   [
+    "Depth",
+    "15 mm"
+   ],
+   [
+    "Mounting",
+    "Horizontal or vertical"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "Glossy white"
+   ]
+  ],
+  "inBox": [
+   "Support",
+   "White finishing plate"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/4-modules-support-for-dlp-s-trunking-638072",
+  "confidence": "high"
+ },
+ "legrand-2p-plus-e-bs-13a-1-gang-red-mould": {
+  "summary": "An Arteor British Standard 13 A socket outlet in red, built to BS 1363 Part 2 and ASTA licensed. It is a 2 module mechanism with child safety shutters; red outlets are commonly used to mark a dedicated circuit, such as one fed by a UPS. It fits Arteor support frames and plates, which are sold separately.",
+  "highlights": [
+   "BS 1363 type 2P+E outlet, 13 A, 250 V",
+   "Shuttered for child safety, ASTA licensed",
+   "2 module Arteor mechanism",
+   "Screw terminals with loop-through",
+   "Colour: red"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Arteor (international)"
+   ],
+   [
+    "Socket type",
+    "British Standard 2P+E (BS 1363 Part 2)"
+   ],
+   [
+    "Rated current",
+    "13 A"
+   ],
+   [
+    "Rated voltage",
+    "250 V AC, 50 to 60 Hz"
+   ],
+   [
+    "Safety",
+    "Shutters"
+   ],
+   [
+    "Size",
+    "2 modules, 45 x 45 x 30 mm"
+   ],
+   [
+    "Built-in depth",
+    "21.5 mm"
+   ],
+   [
+    "Mounting",
+    "Clips into an Arteor support frame"
+   ],
+   [
+    "Terminals",
+    "Screw, up to 4 mm², loop-through"
+   ],
+   [
+    "Protection",
+    "IP40, IK04 (installed)"
+   ],
+   [
+    "Colour",
+    "Red"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 35 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/arteor-british-standard-2pe-switched-socket-outlet-13-2-modules-red-572641",
+  "confidence": "high"
+ },
+ "legrand-trunking-45-mm-100-x-50-mm-2-m": {
+  "summary": "Legrand DLP-S trunking, 100 x 50 mm, one compartment, in 2 m lengths with a rigid 45 mm cover, in white PVC. It is compatible with the Mosaic programme and accepts removable separating partitions.",
+  "highlights": [
+   "100 x 50 mm, 1 compartment",
+   "Rigid 45 mm cover",
+   "Usable section 3,400 mm²",
+   "Compatible with Mosaic devices",
+   "IP40, IK07, EN 50085-2-1"
+  ],
+  "specs": [
+   [
+    "System",
+    "Legrand DLP-S trunking"
+   ],
+   [
+    "Size",
+    "100 x 50 mm"
+   ],
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Cover",
+    "Rigid, 45 mm wide, included"
+   ],
+   [
+    "Usable section",
+    "3,400 mm²"
+   ],
+   [
+    "Rear wall",
+    "Perforated"
+   ],
+   [
+    "Material",
+    "PVC"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Standard",
+    "EN 50085-2-1"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/snap-on-dlp-s-trunking-100x50mm-1-compartment-with-rigid-cover-of-width-45mm-638030",
+  "confidence": "high"
+ },
+ "legrand-dlp-partition-h35-50-2-m": {
+  "summary": "A 2 m snap-on separating partition for Legrand DLP trunking 50 mm deep. It keeps power cables apart from telephone and data cables inside the same trunking.",
+  "highlights": [
+   "Separates power and data circuits",
+   "2 m length",
+   "Snap-on, tool-free fitting",
+   "For DLP trunking 50 mm deep"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP universal, 50 mm deep (e.g. 010412, 010421, 010422, 010424, 010427, 010428)"
+   ],
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Height",
+    "45.15 mm"
+   ],
+   [
+    "Width",
+    "15 mm"
+   ],
+   [
+    "Fixing",
+    "Snap-on"
+   ],
+   [
+    "Material",
+    "PVC"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Impact resistance",
+    "IK07"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/dlp-separation-partition-for-dlp-universal-trunking-height50mm-2m-length-pvc-snap-on-assembly-separates-power-and-data-circuits-010582",
+  "confidence": "high"
+ },
+ "legrand-interior-angle-cheek-h50-cv65": {
+  "summary": "A variable internal corner for Legrand DLP 50 x 105 mm trunking, adjustable from 80 to 100 degrees. It clips onto the trunking body, keeps the flexible cover continuous round the corner, and comes with partition junctions.",
+  "highlights": [
+   "Internal corner, 80 to 100 degrees",
+   "For DLP 50 x 105 mm trunking",
+   "Clips on, with or without partition",
+   "Keeps IP40, IK07"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP universal 50 x 105 mm"
+   ],
+   [
+    "Angle",
+    "80 to 100 degrees, internal"
+   ],
+   [
+    "Dimensions",
+    "121 x 86 x 50 mm"
+   ],
+   [
+    "Fixing",
+    "Clips onto trunking body"
+   ],
+   [
+    "Included",
+    "Partition junctions"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/variable-internal-angle-for-dlp-universal-trunking-50x105mm-010605",
+  "confidence": "high"
+ },
+ "legrand-external-angle-cheek-h50-cv65": {
+  "summary": "A variable external corner for Legrand DLP 50 x 105 mm trunking, adjustable from 60 to 120 degrees. It clips onto the trunking body and keeps the flexible cover running neatly round outside corners.",
+  "highlights": [
+   "External corner, 60 to 120 degrees",
+   "For DLP 50 x 105 mm trunking",
+   "Clips on, with or without partition",
+   "Partition junctions included"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP universal 50 x 105 mm"
+   ],
+   [
+    "Angle",
+    "60 to 120 degrees, external"
+   ],
+   [
+    "Dimensions",
+    "75 x 66 x 50 mm"
+   ],
+   [
+    "Fixing",
+    "Clips onto trunking body"
+   ],
+   [
+    "Included",
+    "Partition junctions"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/variable-external-angle-for-dlp-universal-trunking-50x105mm-010619",
+  "confidence": "high"
+ },
+ "legrand-dlp-flat-angle-105-x-50-cv65": {
+  "summary": "A 90 degree flat angle for Legrand DLP 50 x 105 mm trunking with 65 mm cover, for turning a run up, down or sideways along a flat wall. It covers the cut ends neatly and keeps IP40.",
+  "highlights": [
+   "90 degree flat angle",
+   "For DLP 50 x 105 mm, 65 mm cover",
+   "Base plus cover, clips on",
+   "Keeps IP40, IK07"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP universal 50 x 105 mm, 65 mm cover"
+   ],
+   [
+    "Angle",
+    "90 degrees, flat"
+   ],
+   [
+    "Parts",
+    "Connector base and cover"
+   ],
+   [
+    "Dimensions",
+    "160 x 54 x 50 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/flat-angle-for-dlp-universal-trunking-50x105mm-cover-65mm-010786",
+  "confidence": "high"
+ },
+ "legrand-mosaic-programme-support-2-module-cv65": {
+  "summary": "A clip-on support for mounting 2 Mosaic modules horizontally on Legrand DLP trunking with a 65 mm cover. It has a grey support and a white finishing plate, and supports can be placed side by side.",
+  "highlights": [
+   "Takes 2 Mosaic modules",
+   "For DLP trunking with 65 mm cover",
+   "Clips on, can be placed side by side",
+   "White finishing plate included"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "2 Mosaic modules, horizontal"
+   ],
+   [
+    "For trunking",
+    "DLP with 65 mm cover"
+   ],
+   [
+    "Support size",
+    "64.5 x 120 mm"
+   ],
+   [
+    "Finishing plate",
+    "67.5 x 104 mm"
+   ],
+   [
+    "Depth",
+    "9.9 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "Grey support, glossy white plate"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [
+   "Support",
+   "White finishing plate"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/dlp-mosaic-support-2-modules-for-65mm-cover-for-dlp-trunking-cover-depth-65mm-enclippable-support-greywhite-010952",
+  "confidence": "high"
+ },
+ "legrand-mosaic-programme-support-4-module-cv65": {
+  "summary": "A clip-on support for mounting 4 Mosaic modules horizontally on Legrand DLP trunking with a 65 mm cover. It has a grey support and a white finishing plate, and supports can be placed side by side.",
+  "highlights": [
+   "Takes 4 Mosaic modules",
+   "For DLP trunking with 65 mm cover",
+   "Clips on, can be placed side by side",
+   "White finishing plate included"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "4 Mosaic modules, horizontal"
+   ],
+   [
+    "For trunking",
+    "DLP with 65 mm cover"
+   ],
+   [
+    "Support size",
+    "64.5 x 165.2 mm"
+   ],
+   [
+    "Finishing plate",
+    "67.5 x 149.2 mm"
+   ],
+   [
+    "Depth",
+    "9.9 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "Grey support, glossy white plate"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [
+   "Support",
+   "White finishing plate"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/dlp-mosaic-support-4-modules-couvercle-65mm-goulotte-dlp-profondeur-65mm-enclippable-gris-avec-plaque-blanche-010954",
+  "confidence": "high"
+ },
+ "legrand-mosaic-programme-support-6-module-cv65": {
+  "summary": "A clip-on support for mounting 6 Mosaic modules horizontally on Legrand DLP trunking with a 65 mm cover. It has a grey support and a white finishing plate, and supports can be placed side by side.",
+  "highlights": [
+   "Takes 6 Mosaic modules",
+   "For DLP trunking with 65 mm cover",
+   "Clips on, can be placed side by side",
+   "White finishing plate included"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "6 Mosaic modules, horizontal"
+   ],
+   [
+    "For trunking",
+    "DLP with 65 mm cover"
+   ],
+   [
+    "Support size",
+    "64.5 x 210.4 mm"
+   ],
+   [
+    "Finishing plate",
+    "67.5 x 194.4 mm"
+   ],
+   [
+    "Depth",
+    "9.9 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "Grey support, glossy white plate"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [
+   "Support",
+   "White finishing plate"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/dlp-mosaic-support-6-modules-65mm-cover-goulotte-murale-dlp-clip-on-juxtaposable-support-gris-plaque-blanche-010956",
+  "confidence": "high"
+ },
+ "legrand-rj45-c6a-utp-1-m-white-arteor": {
+  "summary": "An Arteor RJ45 data socket, Category 6A UTP, in a compact 1 module white format. It uses quick tool-less connectors with T568A and T568B colour coding and suits office and home networks. It needs an Arteor support frame and plate, sold separately.",
+  "highlights": [
+   "Category 6A UTP RJ45 connector",
+   "Tool-less quick connection",
+   "T568A and T568B colour coded",
+   "Dust cover and label space",
+   "1 module Arteor mechanism"
+  ],
+  "specs": [
+   [
+    "Range",
+    "Legrand Arteor, LCS³ cabling system"
+   ],
+   [
+    "Connector",
+    "RJ45 8/8"
+   ],
+   [
+    "Category",
+    "6A, UTP"
+   ],
+   [
+    "Cable",
+    "Solid AWG 22 to 26, stranded AWG 26"
+   ],
+   [
+    "Standards",
+    "ISO/IEC 11801, EN 50173, ANSI/TIA 568"
+   ],
+   [
+    "Connection",
+    "Tool-less IDC, colour coded"
+   ],
+   [
+    "Size",
+    "1 module, 22.5 x 45 x 35 mm"
+   ],
+   [
+    "Built-in depth",
+    "25.2 mm"
+   ],
+   [
+    "Protection",
+    "IP20, IK03"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Operating temperature",
+    "-10 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/arteor-rj45-socket-category-6a-utp-1-module-white-572349",
+  "confidence": "high"
+ },
+ "legrand-brackets-cv80mm": {
+  "summary": "A universal support for fitting British Standard wiring devices, such as Belanko, Mallia or Synergy switches and sockets, onto Legrand DLP-S trunking with a 75 mm cover.",
+  "highlights": [
+   "For British Standard wiring devices",
+   "Fits DLP-S trunking with 75 mm cover",
+   "White, glossy, halogen free"
+  ],
+  "specs": [
+   [
+    "Use",
+    "Mounting BS wiring devices (Belanko, Mallia, Synergy)"
+   ],
+   [
+    "For trunking",
+    "DLP-S universal with 75 mm cover"
+   ],
+   [
+    "Material",
+    "Halogen free thermoplastic"
+   ],
+   [
+    "Colour",
+    "White, glossy"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/universal-support-for-dlp-s-universal-trunking-with-75-mm-cover-for-british-standard-wiring-devices-638005",
+  "confidence": "medium"
+ },
+ "legrand-fixed-internal-angle-dlp-s-100-x-50": {
+  "summary": "A internal angle for Legrand DLP-S 100 x 50 mm trunking, 80 to 120 degrees, variable. It joins two lengths at a corner, clips on with the supplied adaptor, covers the cut ends and keeps the protection index.",
+  "highlights": [
+   "Internal angle, 80 to 120 degrees, variable",
+   "For DLP-S 100 x 50 mm trunking",
+   "Adaptor for fixing included",
+   "Covers cut ends for a neat finish"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP-S universal 100 x 50 mm"
+   ],
+   [
+    "Type",
+    "Internal angle"
+   ],
+   [
+    "Angle",
+    "80 to 120 degrees, variable"
+   ],
+   [
+    "Dimensions",
+    "77 x 105 x 50 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [
+   "Angle",
+   "Fixing adaptor"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/internal-angle-for-universal-dlp-s-trunking-100x50mm-638011",
+  "confidence": "high"
+ },
+ "legrand-fixed-flat-angle-dlp-s-100-x-50": {
+  "summary": "A flat angle for Legrand DLP-S 100 x 50 mm trunking, 90 degrees. It joins two lengths at a corner, clips on with the supplied adaptor, covers the cut ends and keeps the protection index.",
+  "highlights": [
+   "Flat angle, 90 degrees",
+   "For DLP-S 100 x 50 mm trunking",
+   "Adaptor for fixing included",
+   "Covers cut ends for a neat finish"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP-S universal 100 x 50 mm"
+   ],
+   [
+    "Type",
+    "Flat angle"
+   ],
+   [
+    "Angle",
+    "90 degrees"
+   ],
+   [
+    "Dimensions",
+    "130.7 x 130.7 x 50 mm"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "White"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [
+   "Angle",
+   "Fixing adaptor"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/flat-angle-for-universal-dlp-s-trunking-100x50mm-638013",
+  "confidence": "high"
+ },
+ "legrand-end-tap-100-x-50-mm": {
+  "summary": "A white end cap for Legrand DLP-S 100 x 50 mm trunking, usable at the left or right end, that closes the run and covers the cut.",
+  "highlights": [
+   "Left or right end cap",
+   "For DLP-S 100 x 50 mm trunking",
+   "Screw-on, white ABS"
+  ],
+  "specs": [
+   [
+    "For trunking",
+    "DLP-S 100 x 50 mm"
+   ],
+   [
+    "Use",
+    "Left or right end"
+   ],
+   [
+    "Fixing",
+    "Screw-on"
+   ],
+   [
+    "Dimensions",
+    "52 x 103.2 x 50 mm"
+   ],
+   [
+    "Material",
+    "Halogen free ABS"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Impact resistance",
+    "IK07"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/end-cap-for-snap-on-dlp-s-trunking-100x50mm-638035",
+  "confidence": "high"
+ },
+ "legrand-trunking-universal-100-x-50-mm": {
+  "summary": "Legrand DLP-S trunking, 100 x 50 mm, one compartment, in 2 m lengths with a rigid 75 mm cover, in white PVC. It is compatible with the Mosaic programme and accepts removable separating partitions.",
+  "highlights": [
+   "100 x 50 mm, 1 compartment",
+   "Rigid 75 mm cover",
+   "Usable section 4,224 mm²",
+   "Compatible with Mosaic devices",
+   "IP40, IK07, EN 50085-2-1"
+  ],
+  "specs": [
+   [
+    "System",
+    "Legrand DLP-S trunking"
+   ],
+   [
+    "Size",
+    "100 x 50 mm"
+   ],
+   [
+    "Length",
+    "2 m"
+   ],
+   [
+    "Cover",
+    "Rigid, 75 mm wide, included"
+   ],
+   [
+    "Usable section",
+    "4,224 mm²"
+   ],
+   [
+    "Rear wall",
+    "Perforated"
+   ],
+   [
+    "Material",
+    "PVC"
+   ],
+   [
+    "Colour",
+    "White (RAL 9003)"
+   ],
+   [
+    "Protection",
+    "IP40, IK07"
+   ],
+   [
+    "Standard",
+    "EN 50085-2-1"
+   ],
+   [
+    "Operating temperature",
+    "-5 to 60 °C"
+   ]
+  ],
+  "inBox": [],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/universal-dlp-s-trunking-100x50mm-1-compartment-with-rigid-cover-of-width-75mm-638038",
+  "confidence": "high"
+ },
+ "legrand-2-modules-frame": {
+  "summary": "A snap-on support for mounting 2 Mosaic (45 x 45 mm) modules on Legrand DLP-S trunking, supplied with a white finishing plate. It can be fitted horizontally or vertically and placed side by side.",
+  "highlights": [
+   "Takes 2 Mosaic modules",
+   "For DLP-S trunking",
+   "Snap-on, side by side",
+   "White finishing plate included"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "2 Mosaic modules"
+   ],
+   [
+    "For trunking",
+    "DLP-S, 80 mm cover"
+   ],
+   [
+    "Support size",
+    "58 x 73 mm"
+   ],
+   [
+    "Finishing plate",
+    "65 x 78 mm"
+   ],
+   [
+    "Depth",
+    "15 mm"
+   ],
+   [
+    "Mounting",
+    "Horizontal or vertical"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "Glossy white"
+   ]
+  ],
+  "inBox": [
+   "Support",
+   "White finishing plate"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/2-modules-support-for-dlp-s-trunking-638071",
+  "confidence": "high"
+ },
+ "legrand-6-module-frame": {
+  "summary": "A snap-on support for mounting 6 Mosaic (45 x 45 mm) modules on Legrand DLP-S trunking, supplied with a white finishing plate. It can be fitted horizontally or vertically and placed side by side.",
+  "highlights": [
+   "Takes 6 Mosaic modules",
+   "For DLP-S trunking",
+   "Snap-on, side by side",
+   "White finishing plate included"
+  ],
+  "specs": [
+   [
+    "Capacity",
+    "6 Mosaic modules"
+   ],
+   [
+    "For trunking",
+    "DLP-S, 80 mm cover"
+   ],
+   [
+    "Support size",
+    "168 x 73 mm"
+   ],
+   [
+    "Finishing plate",
+    "175 x 78 mm"
+   ],
+   [
+    "Depth",
+    "15 mm"
+   ],
+   [
+    "Mounting",
+    "Horizontal or vertical"
+   ],
+   [
+    "Material",
+    "Halogen free plastic"
+   ],
+   [
+    "Colour",
+    "Glossy white"
+   ]
+  ],
+  "inBox": [
+   "Support",
+   "White finishing plate"
+  ],
+  "images": [],
+  "spin": [],
+  "source": "https://www.legrand.com/ecatalogue/en/catalog/products/6-modules-support-for-dlp-s-trunking-638073",
+  "confidence": "high"
  }
 }
